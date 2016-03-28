@@ -8,10 +8,20 @@
  * Controller of the geekydicApp
  */
 angular.module('geekydicApp')
-  .service('sSkyrimData', function($http) {
-    // TODO
+  .service('sDataCache', function($http) {
+    var data = {};
+    this.get = function(url, callback) {
+      if (data[url]) {
+        callback(data[url]);
+      } else {
+        $http.get(url).then(function(response) {
+          data[url] = response.data;
+          callback(response.data)
+        });
+      }
+    };
   })
-  .controller('SkyrimCtrl', function ($scope, $http, $routeParams) {
+  .controller('SkyrimCtrl', function ($scope, $routeParams, sDataCache) {
     $scope.words = [];
     $scope.stars = {
       0: '',
@@ -34,10 +44,9 @@ angular.module('geekydicApp')
       return Array.apply(null, Array(size)).map(function (_, i) {return i;});
     }
     $scope.pages = [];
-    $http.get('data/skyrimvoc.json').then(function(response) {
+    var PAGESIZE = 100;
+    sDataCache.get('data/skyrimvoc.json', function(allWords) {
       //console.debug(words);
-      var PAGESIZE = 100;
-      var allWords = response.data;
       var numWords = allWords.length;
       var onLast = numWords % PAGESIZE;
       var numPages = (numWords - onLast) / PAGESIZE;
@@ -45,7 +54,7 @@ angular.module('geekydicApp')
         numPages += 1;
       }
       $scope.pages = range(numPages);
-      $scope.words = response.data.slice(
+      $scope.words = allWords.slice(
         PAGESIZE * $scope.page,
         PAGESIZE * ($scope.page + 1));
     });
