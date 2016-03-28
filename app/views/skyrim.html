@@ -8,7 +8,7 @@ Words:
     <th>Word</th>
     <th>Count</th>
     <th>JLPT</th>
-    <th>Example</th>
+    <th>Examples</th>
   </tr>
   <tr ng-repeat="word in words">
     <td>
@@ -21,7 +21,7 @@ Words:
       {{word.count}}
     </td>
     <td>
-      {{word.jlpt}}
+      {{stars[word.jlpt]}}<span style="color: grey;">{{nostars[word.jlpt]}}</span>
     </td>
     <td>
       <div title="{{word.example1en}}">
