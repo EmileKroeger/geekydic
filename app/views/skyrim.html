@@ -1,1 +1,36 @@
 <p>This is the skyrim view.</p>
+
+Words:
+
+<table class="table">
+  <tr>
+    <th>#</th>
+    <th>Word</th>
+    <th>Count</th>
+    <th>JLPT</th>
+    <th>Example</th>
+  </tr>
+  <tr ng-repeat="word in words">
+    <td>
+      {{$index + 1}}
+    </td>
+    <td>
+      {{word.word}}
+    </td>
+    <td>
+      {{word.count}}
+    </td>
+    <td>
+      {{word.jlpt}}
+    </td>
+    <td>
+      <div title="{{word.example1en}}">
+      {{word.example1jp}}
+      </div>
+      <div title="{{word.example2en}}">
+      {{word.example2jp}}
+      </div>
+    </td>
+  </tr>
+</table>
+
