@@ -1,6 +1,8 @@
+<h1>SKYRIM JAPANESE VOCABULARY</h1>
+
 <div>
   <span ng-repeat="pagelink in pages">
-    <span ng-if="pagelink == page">
+    <span class="currentlink" ng-if="pagelink == page">
       [{{pagelink+1}}]
     </span>
     <a ng-if="pagelink != page" href="#/skyrim/{{pagelink+1}}">[{{pagelink+1}}]</a>
