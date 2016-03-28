@@ -24,20 +24,22 @@ angular.module('geekydicApp')
   .controller('SkyrimCtrl', function ($scope, $routeParams, sDataCache) {
     $scope.words = [];
     $scope.stars = {
-      0: '',
-      1: '★',
-      2: '★★',
-      3: '★★★',
-      4: '★★★★',
-      5: '★★★★★',
+      0: '➄➃➂➁➀✪',
+      1: '➄➃➂➁❶',
+      2: '➄➃➂❷',
+      3: '➄➃❸',
+      4: '➄❹',
+      5: '❺',
+      //❶❷❸❹❺
+      //➀➁➂➃➄
     };
     $scope.nostars = {
-      0: '☆☆☆☆☆',
-      1: '☆☆☆☆',
-      2: '☆☆☆',
-      3: '☆☆',
-      4: '☆',
-      5: '',
+      0: '',
+      1: '',
+      2: '➀',
+      3: '➁➀',
+      4: '➂➁➀',
+      5: '➃➂➁➀',
     };
     $scope.page = parseInt($routeParams.page) - 1;
     function range(size) {

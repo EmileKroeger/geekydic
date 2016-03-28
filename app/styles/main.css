@@ -77,3 +77,9 @@ body {
     border-bottom: 0;
   }
 }
+
+
+.count {
+  color: grey;
+  font-size: 10px;
+}

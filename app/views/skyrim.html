@@ -9,24 +9,21 @@
 
 <table class="table">
   <tr>
-    <th>#</th>
+    <th>#<span class="count">(count)</span></th>
     <th>Word</th>
-    <th>Count</th>
-    <th>JLPT</th>
     <th>Examples</th>
   </tr>
   <tr ng-repeat="word in words">
     <td>
-      {{(100 * page) + $index + 1}}
+      {{(100 * page) + $index + 1}}<span class="count">&nbsp;({{word.count}})</span>
     </td>
     <td>
-      <a href="http://jisho.org/search/{{word.word}}">{{word.word}}</a>
-    </td>
-    <td>
-      {{word.count}}
-    </td>
-    <td>
-      {{stars[word.jlpt]}}<span style="color: grey;">{{nostars[word.jlpt]}}</span>
+      <div class="word">
+        <a href="http://jisho.org/search/{{word.word}}">{{word.word}}</a>
+      </div>
+      <div>
+        {{stars[word.jlpt]}}<span style="color: grey;">{{nostars[word.jlpt]}}</span>
+      </div>
     </td>
     <td>
       <div title="{{word.example1en}}">
