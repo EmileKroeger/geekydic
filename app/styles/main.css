@@ -83,3 +83,22 @@ body {
   color: grey;
   font-size: 10px;
 }
+
+.word {
+  white-space:nowrap;
+  font-size: 25px;
+}
+
+.jlpt {
+  color: grey;
+  font-size: 15px;
+}
+
+.examples {
+  font-size: 20px;
+  line-height: 22px;
+}
+
+.padtop {
+  margin-top: 10px;
+}

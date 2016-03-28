@@ -1,9 +1,9 @@
 <div>
   <span ng-repeat="pagelink in pages">
     <span ng-if="pagelink == page">
-      {{pagelink+1}}
+      [{{pagelink+1}}]
     </span>
-    <a ng-if="pagelink != page" href="#/skyrim/{{pagelink+1}}">{{pagelink+1}}</a>
+    <a ng-if="pagelink != page" href="#/skyrim/{{pagelink+1}}">[{{pagelink+1}}]</a>
   </span> 
 </div>
 
@@ -14,22 +14,22 @@
     <th>Examples</th>
   </tr>
   <tr ng-repeat="word in words">
-    <td>
+    <td title="Found {{word.count}} times">
       {{(100 * page) + $index + 1}}<span class="count">&nbsp;({{word.count}})</span>
     </td>
     <td>
       <div class="word">
         <a href="http://jisho.org/search/{{word.word}}">{{word.word}}</a>
       </div>
-      <div>
-        {{stars[word.jlpt]}}<span style="color: grey;">{{nostars[word.jlpt]}}</span>
+      <div class="jlpt" title="{{getJlptTitle(word.jlpt)}}">
+        {{jlptSymbols[word.jlpt]}}
       </div>
     </td>
     <td>
-      <div title="{{word.example1en}}">
+      <div class="examples" title="{{word.example1en}}">
       {{word.example1jp}}
       </div>
-      <div title="{{word.example2en}}">
+      <div class="examples padtop" title="{{word.example2en}}">
       {{word.example2jp}}
       </div>
     </td>

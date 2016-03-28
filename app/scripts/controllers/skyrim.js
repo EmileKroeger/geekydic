@@ -23,24 +23,22 @@ angular.module('geekydicApp')
   })
   .controller('SkyrimCtrl', function ($scope, $routeParams, sDataCache) {
     $scope.words = [];
-    $scope.stars = {
-      0: '➄➃➂➁➀✪',
+    // JLPT stuff
+    $scope.jlptSymbols = {
+      0: '➄➃➂➁➀⓿',
       1: '➄➃➂➁❶',
       2: '➄➃➂❷',
       3: '➄➃❸',
       4: '➄❹',
       5: '❺',
-      //❶❷❸❹❺
-      //➀➁➂➃➄
     };
-    $scope.nostars = {
-      0: '',
-      1: '',
-      2: '➀',
-      3: '➁➀',
-      4: '➂➁➀',
-      5: '➃➂➁➀',
-    };
+    $scope.getJlptTitle = function(jlpt) {
+      if (jlpt >= 1) {
+        return 'JLPT Level ' + jlpt;
+      } else {
+        return 'Not in JLPT';
+      }
+    }
     $scope.page = parseInt($routeParams.page) - 1;
     function range(size) {
       return Array.apply(null, Array(size)).map(function (_, i) {return i;});
