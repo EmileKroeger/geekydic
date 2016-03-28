@@ -27,6 +27,10 @@ angular
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl'
       })
+      .when('/skyrim', {
+        templateUrl: 'views/skyrim.html',
+        controller: 'SkyrimCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
