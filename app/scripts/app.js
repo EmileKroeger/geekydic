@@ -27,7 +27,7 @@ angular
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl'
       })
-      .when('/skyrim', {
+      .when('/skyrim/:page', {
         templateUrl: 'views/skyrim.html',
         controller: 'SkyrimCtrl'
       })

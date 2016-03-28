@@ -1,6 +1,11 @@
-<p>This is the skyrim view.</p>
-
-Words:
+<div>
+  <span ng-repeat="pagelink in pages">
+    <span ng-if="pagelink == page">
+      {{pagelink+1}}
+    </span>
+    <a ng-if="pagelink != page" href="#/skyrim/{{pagelink+1}}">{{pagelink+1}}</a>
+  </span> 
+</div>
 
 <table class="table">
   <tr>
@@ -12,7 +17,7 @@ Words:
   </tr>
   <tr ng-repeat="word in words">
     <td>
-      {{$index + 1}}
+      {{(100 * page) + $index + 1}}
     </td>
     <td>
       {{word.word}}
