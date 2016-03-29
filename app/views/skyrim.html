@@ -1,4 +1,6 @@
-<h1>SKYRIM JAPANESE VOCABULARY</h1>
+<h1>JAPANESE WORDS FROM SKYRIM</h1>
+
+<p>Ordered by frequency. Hover over sentences for an English translation.</p>
 
 <div>
   <span ng-repeat="pagelink in pages">
@@ -16,7 +18,7 @@
     <th>Examples</th>
   </tr>
   <tr ng-repeat="word in words">
-    <td title="Found {{word.count}} times">
+    <td title="This word appears {{word.count}} times in Skyrim dialogues.">
       {{(100 * page) + $index + 1}}<span class="count">&nbsp;({{word.count}})</span>
     </td>
     <td>
@@ -29,12 +31,24 @@
     </td>
     <td>
       <div class="examples" title="{{word.example1en}}">
-      {{word.example1jp}}
+        <img class="dialogarrow" src="images/nordicarrow.png">
+        {{word.example1jp}}
       </div>
       <div class="examples padtop" title="{{word.example2en}}">
-      {{word.example2jp}}
+        <img class="dialogarrow" src="images/nordicarrow.png">
+        {{word.example2jp}}
       </div>
     </td>
   </tr>
 </table>
 
+<div>
+  <span ng-repeat="pagelink in pages">
+    <span class="currentlink" ng-if="pagelink == page">
+      [{{pagelink+1}}]
+    </span>
+    <a ng-if="pagelink != page" href="#/skyrim/{{pagelink+1}}">[{{pagelink+1}}]</a>
+  </span> 
+</div>
+
+<div class="signature">Built by Emile Kroeger (<a href="http://themadmapmaker.wordpess.com">blog</a>, <a href="https://twitter.com/TheMadMapmaker">twitter</a>, <a href="https://github.com/EmileKroeger/">GitHub</a>)</div>

@@ -19,19 +19,19 @@ angular
   ])
   .config(function ($routeProvider) {
     $routeProvider
-      .when('/', {
-        templateUrl: 'views/main.html',
-        controller: 'MainCtrl'
-      })
-      .when('/about', {
-        templateUrl: 'views/about.html',
-        controller: 'AboutCtrl'
-      })
+      //.when('/', {
+      //  templateUrl: 'views/main.html',
+      //  controller: 'MainCtrl'
+      //})
+      //.when('/about', {
+      //  templateUrl: 'views/about.html',
+      //  controller: 'AboutCtrl'
+      //})
       .when('/skyrim/:page', {
         templateUrl: 'views/skyrim.html',
         controller: 'SkyrimCtrl'
       })
       .otherwise({
-        redirectTo: '/'
+        redirectTo: 'skyrim/1'
       });
   });

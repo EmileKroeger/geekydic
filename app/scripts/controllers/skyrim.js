@@ -16,7 +16,7 @@ angular.module('geekydicApp')
       } else {
         $http.get(url).then(function(response) {
           data[url] = response.data;
-          callback(response.data)
+          callback(response.data);
         });
       }
     };
@@ -38,10 +38,10 @@ angular.module('geekydicApp')
       } else {
         return 'Not in JLPT';
       }
-    }
+    };
     $scope.page = parseInt($routeParams.page) - 1;
     function range(size) {
-      return Array.apply(null, Array(size)).map(function (_, i) {return i;});
+      return Array.apply(null, new Array(size)).map(function (_, i) {return i;});
     }
     $scope.pages = [];
     var PAGESIZE = 100;
