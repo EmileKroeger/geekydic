@@ -1,6 +1,6 @@
 GeekyDic - A Japanese dictionary of words use in Skyrim.
 
-See live: http://emilekroeger.github.io/geekydic/
+See live: http://emilekroeger.github.io/geekydic/app/
 
 To build this, I parsed the Skyrim dialogue files with Python, extracted sequences of two or more kanji (because they are probably words), and then for each word, picked two example sentences (prefering sentences with simpler vocabulary). I also matched each sentence to the corresponding English sentence.
 
