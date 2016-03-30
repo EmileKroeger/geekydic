@@ -5,9 +5,9 @@
 <div>
   <span ng-repeat="pagelink in pages">
     <span class="currentlink" ng-if="pagelink == page">
-      [{{pagelink+1}}]
+      [{{maybePlusOne(pagelink)}}]
     </span>
-    <a ng-if="pagelink != page" href="#/skyrim/{{pagelink+1}}">[{{pagelink+1}}]</a>
+    <a ng-if="pagelink != page" href="#/skyrim/{{pagelink+1}}">[{{maybePlusOne(pagelink)}}]</a>
   </span> 
 </div>
 
@@ -45,9 +45,9 @@
 <div>
   <span ng-repeat="pagelink in pages">
     <span class="currentlink" ng-if="pagelink == page">
-      [{{pagelink+1}}]
+      [{{maybePlusOne(pagelink)}}]
     </span>
-    <a ng-if="pagelink != page" href="#/skyrim/{{pagelink+1}}">[{{pagelink+1}}]</a>
+    <a ng-if="pagelink != page" href="#/skyrim/{{pagelink+1}}">[{{maybePlusOne(pagelink)}}]</a>
   </span> 
 </div>
 

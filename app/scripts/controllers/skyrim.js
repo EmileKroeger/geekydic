@@ -32,6 +32,13 @@ angular.module('geekydicApp')
       4: '➄❹',
       5: '❺',
     };
+    $scope.maybePlusOne = function(page) {
+      if (page === 'all') {
+        return 'all';
+      } else {
+        return page + 1;
+      };
+    }
     $scope.getJlptTitle = function(jlpt) {
       if (jlpt >= 1) {
         return 'JLPT Level ' + jlpt;
@@ -39,7 +46,11 @@ angular.module('geekydicApp')
         return 'Not in JLPT';
       }
     };
-    $scope.page = parseInt($routeParams.page) - 1;
+    if ($routeParams.page === 'all') {
+      $scope.page = 'all';
+    } else {
+      $scope.page = parseInt($routeParams.page) - 1;
+    }
     function range(size) {
       return Array.apply(null, new Array(size)).map(function (_, i) {return i;});
     }
@@ -54,8 +65,13 @@ angular.module('geekydicApp')
         numPages += 1;
       }
       $scope.pages = range(numPages);
-      $scope.words = allWords.slice(
-        PAGESIZE * $scope.page,
-        PAGESIZE * ($scope.page + 1));
+      $scope.pages.push('all');
+      if ($scope.page === 'all') {
+        $scope.words = allWords;
+      } else {
+        $scope.words = allWords.slice(
+          PAGESIZE * $scope.page,
+          PAGESIZE * ($scope.page + 1));
+      }
     });
   });

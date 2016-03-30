@@ -6,5 +6,10 @@ To build this, I parsed the Skyrim dialogue files with Python, extracted sequenc
 
 I also include the JLPT level of the kanji appearing in the word (I didn't check whether the word itself is in JLPT, or even whether it's an actual word that exists), and a link to a search for that word on http://jisho.org.
 
+Other sites for using Skyrim to learn Japanese:
+
+* Evan's Easy Skyrim: http://www.evanseasyjapanese.com/skyrim.html (videos, some vocabulary lists)
+* Living Japanese on Skyrim: http://livingjapanese.com/pages/skyrim.html (review of it's value for learning; instructions on getting it on Steam)
+
 My blog: https://themadmapmaker.wordpress.com/.
  
