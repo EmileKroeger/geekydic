@@ -1,0 +1,2039 @@
+[
+  {
+    "count": 114,
+    "example1jp": "\u4eba\u9593\u306b!? (Ponyo)",
+    "example2jp": "\u30dd\u30cb\u30e7\u3000\u4eba\u9593\u306b\u306a\u308b\uff5e\uff01 (Ponyo)",
+    "jlpt": 5,
+    "word": "\u4eba\u9593"
+  },
+  {
+    "count": 81,
+    "example1jp": "\u5b97\u4ecb\u3000\u3042\u305d\u3053\u3002 (Ponyo)",
+    "example2jp": "\u5b97\u4ecb\u3000\u5927\u597d\u304d\u3002 (Ponyo)",
+    "jlpt": 3,
+    "word": "\u5b97\u4ecb"
+  },
+  {
+    "count": 69,
+    "example1jp": "\u5927\u4e08\u592b\u2026\u3002 (Porco Rosso)",
+    "example2jp": "\u5927\u4e08\u592b\u3001 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u4e08\u592b"
+  },
+  {
+    "count": 62,
+    "example1jp": "\u5712\u306f\u5927\u4e08\u592b\u3060\u3063\u305f\uff1f\n\u3046\u3093\u3002 (Ponyo)",
+    "example2jp": "\u5927\u4e08\u592b\u3088\u3002 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u5927\u4e08\u592b"
+  },
+  {
+    "count": 54,
+    "example1jp": "\u30cf\u30af\u306e\u672c\u5f53\u306e\u540d\u524d\uff1f (Spirited Away)",
+    "example2jp": "\u3048\u3063\uff1f\n\u672c\u5f53\uff1f\u3000\u30dd\u30eb\u30b3\u3002 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u672c\u5f53"
+  },
+  {
+    "count": 50,
+    "example1jp": "\u5f37\u3044\u306d\uff5e\u3000\u8d64\u3044\u98db\u884c\u6a5f\u3002 (Porco Rosso)",
+    "example2jp": "\u3044\u3088\u3044\u3088\u30c6\u30b9\u30c8\u98db\u884c\u3060\u308f\u3002 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u98db\u884c"
+  },
+  {
+    "count": 48,
+    "example1jp": "\u7686\u3055\u3093\u3000\u4e16\u754c\u306e\u307b\u3053\u308d\u3073\u306f\n\u9589\u3058\u3089\u308c\u307e\u3057\u305f\uff01 (Ponyo)",
+    "example2jp": "\u304d\u308c\u3044\u2026\n\u4e16\u754c\u3063\u3066\u672c\u5f53\u306b\u3000\u304d\u308c\u3044\u2026\u3002 (Porco Rosso)",
+    "jlpt": 4,
+    "word": "\u4e16\u754c"
+  },
+  {
+    "count": 43,
+    "example1jp": "\u60aa\u3044\u9b54\u6cd5\u4f7f\u3044\uff1f (Ponyo)",
+    "example2jp": "\u3048\u3063!?\n\u53e4\u3044\u9b54\u6cd5\u3002 (Ponyo)",
+    "jlpt": 3,
+    "word": "\u9b54\u6cd5"
+  },
+  {
+    "count": 42,
+    "example1jp": "\u59eb\u69d8\u2026\u3000\u308f\u3063\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u59eb\u69d8\u2026\u3046\u308f\u3063\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 0,
+    "word": "\u59eb\u69d8"
+  },
+  {
+    "count": 40,
+    "example1jp": "\u30ab\u30a6\u30dc\u30fc\u30a4\u91ce\u90ce\u304c\uff01 (Porco Rosso)",
+    "example2jp": "\u30ab\u30fc\u30c1\u30b9\u306e\u91ce\u90ce\u3060\uff01 (Porco Rosso)",
+    "jlpt": 0,
+    "word": "\u91ce\u90ce"
+  },
+  {
+    "count": 38,
+    "example1jp": "\u8150\u6d77\u304c\u751f\u307e\u308c\u3066\u3088\u308a\u5343\u5e74\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u8150\u6d77\u306b\u624b\u3092\u51fa\u3057\u3066\u306f\u306a\u3089\u306c\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 3,
+    "word": "\u8150\u6d77"
+  },
+  {
+    "count": 37,
+    "example1jp": "\u305d\u308c\u3067\u3082\u9b54\u5973\u306a\u306e\uff01 (Howl's Moving Castle)",
+    "example2jp": "\u307e\u3055\u304b\u9b54\u5973\u3058\u3083\u306a\u3044\u3067\u3057\u3087\u3046\u306d\u3002 (Howl's Moving Castle)",
+    "jlpt": 3,
+    "word": "\u9b54\u5973"
+  },
+  {
+    "count": 36,
+    "example1jp": "\uff1c\u4eca\u65e5\u306f\u2026\uff1e (Ponyo)",
+    "example2jp": "\u4eca\u65e5\u306e\u6620\u753b\u30e1\u30e2\u306f\u2026\u3002 (Ponyo)",
+    "jlpt": 5,
+    "word": "\u4eca\u65e5"
+  },
+  {
+    "count": 35,
+    "example1jp": "\u738b\u87f2\u306e\u9053\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u738b\u87f2\u307e\u3067\u2026\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 0,
+    "word": "\u738b\u87f2"
+  },
+  {
+    "count": 34,
+    "example1jp": "\u4ed5\u4e8b\u3057\u308d\u4ed5\u4e8b\uff01 (Spirited Away)",
+    "example2jp": "\u304d\u3064\u30fc\u30fc\u3044\u4ed5\u4e8b\u3092 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u4ed5\u4e8b"
+  },
+  {
+    "count": 32,
+    "example1jp": "[TEL]\u3000\u3046\u3093\u3000\u5143\u6c17\u3060\u3088\u3002 (Ponyo)",
+    "example2jp": "\u3046\u308f\u3063\uff01\n\u3088\u3057\uff01\u3000\u5143\u6c17\u51fa\u3059\u305e\uff5e\uff01 (Ponyo)",
+    "jlpt": 5,
+    "word": "\u5143\u6c17"
+  },
+  {
+    "count": 31,
+    "example1jp": "\u5f8c\u306f\u81ea\u5206\u3067\u3084\u308b\u3060\u308d\u3002 (Spirited Away)",
+    "example2jp": "\u81ea\u5206\u3067\u3084\u308b\u3057\u304b\u306a\u3044\u3002 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u81ea\u5206"
+  },
+  {
+    "count": 28,
+    "example1jp": "\u5343\u5c0b\u30fc\u3002 (Spirited Away)",
+    "example2jp": "\u305d\u3046\u304b\u3001\u5343\u5c0b\u304b\u3002 (Spirited Away)",
+    "jlpt": 4,
+    "word": "\u5343\u5c0b"
+  },
+  {
+    "count": 28,
+    "example1jp": "\u5c71\u72ac\u3060\uff01\n\u51fa\u305f\uff01 (Princess Mononoke)",
+    "example2jp": "\u5c71\u72ac\u3060\uff01\u3000\u706b\u3000\u706b\u3000\u706b\u2026\u3002 (Princess Mononoke)",
+    "jlpt": 5,
+    "word": "\u5c71\u72ac"
+  },
+  {
+    "count": 26,
+    "example1jp": "\u3044\u3044\u306e\u3088\u3000\u79c1\u9054\u3000\u6b69\u304f\u304b\u3089\u3002 (Ponyo)",
+    "example2jp": "\u79c1\u9054\u306e\u8db3\u3082\n\u306a\u3081\u3066\u304f\u308c\u306a\u3044\u304b\u3057\u3089\u306d\u3047\u3002 (Ponyo)",
+    "jlpt": 5,
+    "word": "\u79c1\u9054"
+  },
+  {
+    "count": 26,
+    "example1jp": "\u6e6f\u5a46\u5a46\u2026\u3063\u3066\uff1f (Spirited Away)",
+    "example2jp": "\u6e6f\u5a46\u5a46\u306f\u3069\u3046\u3059\u3093\u3060\u3088\uff1f (Spirited Away)",
+    "jlpt": 0,
+    "word": "\u6e6f\u5a46\u5a46"
+  },
+  {
+    "count": 25,
+    "example1jp": "\u3060\u304b\u3089\u3000\u3082\u3046\u6642\u9593\u304c\u306a\u3044\u3093\u3067\u3059\uff01 (Ponyo)",
+    "example2jp": "\u6642\u9593\u304c\u306a\u3044\u3001\u8d70\u308d\u3046\uff01 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u6642\u9593"
+  },
+  {
+    "count": 25,
+    "example1jp": "\u30ea\u30b5\u3055\u3093\uff01\n\u5fc3\u914d\u3067\u3057\u3087\uff1f (Ponyo)",
+    "example2jp": "\u4eca\u306f\u300e\u3072\u307e\u308f\u308a\u300f\u306e\u4eba\u9054\u304c\u5fc3\u914d\u306a\u306e\u3002 (Ponyo)",
+    "jlpt": 3,
+    "word": "\u5fc3\u914d"
+  },
+  {
+    "count": 24,
+    "example1jp": "\u4eca\u65e5\u306e\u6620\u753b\u30e1\u30e2\u306f\u2026\u3002 (Ponyo)",
+    "example2jp": "\u4eca\u65e5\u306e\u6620\u753b\u306f\u3000\u3053\u3061\u3089\uff01 (Ponyo)",
+    "jlpt": 5,
+    "word": "\u6620\u753b"
+  },
+  {
+    "count": 23,
+    "example1jp": "\u3000\u4eca\u5ea6\u307e\u305f\u4f1a\u304a\u3046\u305c\u3063\u3066\u3088\u3002 (Porco Rosso)",
+    "example2jp": "\u4eca\u5ea6\u3000\uff12\u4eba\u304d\u308a\u306e\u6642\u306b\u306a\u3002\n\u30a6\u30d5\u30d5\u2026\u3002 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u4eca\u5ea6"
+  },
+  {
+    "count": 23,
+    "example1jp": "\u305d\u3046\u3000\u5bb6\u65cf\u3088\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u5bb6\u65cf\u304c\u3044\u308b\u3093\u3060\u2026 (The Borrower Arrietty)",
+    "jlpt": 5,
+    "word": "\u5bb6\u65cf"
+  },
+  {
+    "count": 22,
+    "example1jp": "\u8352\u5730\u3058\u3083\u3000\u306a\u3044\u2026\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u8352\u5730\u3067\u3000\u3053\u306e\u65e5\u304c\u6765\u308b\u306e\u3092\n\u305a\uff5e\u3063\u3068\u5f85\u3063\u3066\u305f\u3093\u3060\u2026\u3002 (Howl's Moving Castle)",
+    "jlpt": 2,
+    "word": "\u8352\u5730"
+  },
+  {
+    "count": 21,
+    "example1jp": "\uff08\u30b0\u30e9\u30f3\u30de\u30f3\u30de\u30fc\u30ec\uff09\n\u4eca\u306f\u9759\u304b\u306b\u304a\u3084\u3059\u307f\u3000\u5b50\u4f9b\u9054\u3002 (Ponyo)",
+    "example2jp": "\u266a\u266a\uff5e\u3000\u5b50\u4f9b\u306e\u3068\u304d\u306b\u3060\u3051 (My Neighbour Totoro)",
+    "jlpt": 5,
+    "word": "\u5b50\u4f9b"
+  },
+  {
+    "count": 21,
+    "example1jp": "\u5e73\u6c17\u3060\u3088\u3002 (Spirited Away)",
+    "example2jp": "\u304a\u3044\u3067\u3001\u5e73\u6c17\u3060\u3088\u3002 (Spirited Away)",
+    "jlpt": 3,
+    "word": "\u5e73\u6c17"
+  },
+  {
+    "count": 20,
+    "example1jp": "\u98db\u884c\u8247\u4e57\u308a\u3000\u4e07\u6b73\uff01\n\u30d2\u30e5\uff5e\uff01 (Porco Rosso)",
+    "example2jp": "\u3044\u3044\u98db\u884c\u8247\u5c4b\u306b\u306a\u308a\u306a\uff01\u3000\u3042\u3070\u3088\uff01 (Porco Rosso)",
+    "jlpt": 0,
+    "word": "\u98db\u884c\u8247"
+  },
+  {
+    "count": 20,
+    "example1jp": "\u3055\u3089\u308f\u308c\u308b\uff5e\uff01\n\u6d77\u8cca\u3060\uff5e\uff01 (Porco Rosso)",
+    "example2jp": "\u6d77\u8cca\u3060\uff5e\uff01 (Laputa: Castle in the Sky)",
+    "jlpt": 0,
+    "word": "\u6d77\u8cca"
+  },
+  {
+    "count": 20,
+    "example1jp": "\uff11\u4eba\u306f\u6226\u4e89\u3067\u3000\uff11\u4eba\u306f\u5927\u897f\u6d0b\u3067\u2192 (Porco Rosso)",
+    "example2jp": "\u3072\u3069\u3044\u6226\u4e89\u3060\u3002 (Howl's Moving Castle)",
+    "jlpt": 4,
+    "word": "\u6226\u4e89"
+  },
+  {
+    "count": 20,
+    "example1jp": "\u266a\u266a\uff5e\n\u3042\u3063\uff01\u3000\u304a\u524d\u9054\uff01 (Ponyo)",
+    "example2jp": "\u304a\u524d\u9054\uff01\u3000\u3042\u3042\u3063\u3000\u5371\u306a\u3044\u2026\u3002 (Ponyo)",
+    "jlpt": 5,
+    "word": "\u524d\u9054"
+  },
+  {
+    "count": 20,
+    "example1jp": "\u304a\u306e\u308c\u3000\u4eca\u591c\u3053\u305d\uff01 (Princess Mononoke)",
+    "example2jp": "\uff1c\u305d\u3057\u3066\u3000\u4eca\u591c\u306e\u300e\u91d1\u66dc\u30ed\u30fc\u30c9\u30b7\u30e7\u30fc\u300f\u306f\u2192 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u4eca\u591c"
+  },
+  {
+    "count": 20,
+    "example1jp": "\u30b7\u30b7\u795e\u69d8\u2026\u3002 (Princess Mononoke)",
+    "example2jp": "\u3059\u3054\u3044\u540d\u524d\u3002\u795e\u69d8\u307f\u305f\u3044\u3002 (Spirited Away)",
+    "jlpt": 3,
+    "word": "\u795e\u69d8"
+  },
+  {
+    "count": 19,
+    "example1jp": "\u5148\u751f\uff01\u3000\u304a\u306f\u3088\u3046\uff01 (Ponyo)",
+    "example2jp": "\u5148\u751f\u3000\u30c0\u30e1\u3063\u3066\u8a00\u308f\u306a\u3044\uff1f (Ponyo)",
+    "jlpt": 5,
+    "word": "\u5148\u751f"
+  },
+  {
+    "count": 19,
+    "example1jp": "\u4e59\u4e8b\u4e3b\u3068\u3066\u30d0\u30ab\u3067\u306f\u306a\u3044\u3002 (Princess Mononoke)",
+    "example2jp": "\u4e59\u4e8b\u4e3b\u306f\u3000\u307e\u3060\u52d5\u3044\u3066\u3044\u306a\u3044\u306e\u304b\uff1f (Princess Mononoke)",
+    "jlpt": 1,
+    "word": "\u4e59\u4e8b\u4e3b"
+  },
+  {
+    "count": 19,
+    "example1jp": "\u266a\u266a\uff5e\n\u9811\u5f35\u308c\uff5e\uff01 (Ponyo)",
+    "example2jp": "\u3057\u3063\u304b\u308a\u306a\uff01\n\u9811\u5f35\u308c\uff01 (Ponyo)",
+    "jlpt": 1,
+    "word": "\u9811\u5f35"
+  },
+  {
+    "count": 19,
+    "example1jp": "\u7121\u7406\u3060\u3002\n\u30b7\uff5e\u3002 (Ponyo)",
+    "example2jp": "\u7121\u7406\u3088\uff5e (The Borrower Arrietty)",
+    "jlpt": 5,
+    "word": "\u7121\u7406"
+  },
+  {
+    "count": 19,
+    "example1jp": "\u3042\u3093\u305f\u3000\u305d\u308c\u7d04\u675f\u3067\u304d\u308b\u306e\uff1f (Howl's Moving Castle)",
+    "example2jp": "\u305d\u3046\u3060\n\u307f\u3063\u3061\u3083\u3093\u5bb6\u306b\u884c\u304f\u7d04\u675f\u306a\u3093\u3060\u3002 (My Neighbour Totoro)",
+    "jlpt": 4,
+    "word": "\u7d04\u675f"
+  },
+  {
+    "count": 18,
+    "example1jp": "\u30cf\u30af\u306e\u672c\u5f53\u306e\u540d\u524d\uff1f (Spirited Away)",
+    "example2jp": "\u305d\u3053\u306b\u540d\u524d\u3092\u66f8\u304d\u306a. (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u540d\u524d"
+  },
+  {
+    "count": 18,
+    "example1jp": "\u3053\u306e\u8efd\u8584\u306a\u8d64\u3000\u9593\u9055\u3044\u306d\u3048\u3002 (Porco Rosso)",
+    "example2jp": "\u3084\u3063\u3071\u308a\u9593\u9055\u3044\u306a\u3044\u306a\u3002 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u9593\u9055"
+  },
+  {
+    "count": 18,
+    "example1jp": "\u4e0d\u601d\u8b70\u306a\u3053\u3068\u304c\n\u3044\u3063\u3071\u3044\u8d77\u3053\u3063\u3066\u308b\u3051\u3069\u2192 (Ponyo)",
+    "example2jp": "\u266a\u266a\uff5e\u3000\u4e0d\u601d\u8b70\u306a\u51fa\u4f1a\u3044 (My Neighbour Totoro)",
+    "jlpt": 4,
+    "word": "\u4e0d\u601d\u8b70"
+  },
+  {
+    "count": 17,
+    "example1jp": "\u79c1\u305f\u3061\u306e\u4ef2\u9593\u3088 (The Borrower Arrietty)",
+    "example2jp": "\u4ef2\u9593\u306f\u305a\u308c\u3092\u3064\u304f\u3063\u3061\u3083\n\u304b\u308f\u3044\u305d\u3046\u3058\u3083\u306d\u3048\u304b\u3002 (Porco Rosso)",
+    "jlpt": 3,
+    "word": "\u4ef2\u9593"
+  },
+  {
+    "count": 17,
+    "example1jp": "\u8a00\u8449\u307e\u3067\u3000\u306a\u304f\u3057\u305f\u304b\u3002 (Princess Mononoke)",
+    "example2jp": "\u3042\u306e\u8a00\u8449\u2026\u3002 (Laputa: Castle in the Sky)",
+    "jlpt": 5,
+    "word": "\u8a00\u8449"
+  },
+  {
+    "count": 16,
+    "example1jp": "\u79c1\u9054\u3060\u3051\u306e\u79d8\u5bc6\u2026\uff1e (Porco Rosso)",
+    "example2jp": "\u266a\u266a\uff5e\u3000\u79d8\u5bc6\u306e\u6697\u53f7 (My Neighbour Totoro)",
+    "jlpt": 3,
+    "word": "\u79d8\u5bc6"
+  },
+  {
+    "count": 16,
+    "example1jp": "\u3053\u308c\u304c\u6700\u5f8c\u3060 (The Borrower Arrietty)",
+    "example2jp": "\u6700\u5f8c\u306e\uff11\u4eba\u306f\n\u30a2\u30b8\u30a2\u3067\u6b7b\u3093\u3060\u3063\u3066\u2026\u3002 (Porco Rosso)",
+    "jlpt": 4,
+    "word": "\u6700\u5f8c"
+  },
+  {
+    "count": 16,
+    "example1jp": "\u6b62\u3081\u308d\uff01\u3000\u5927\u4e8b\u306a\u4eba\u8cea\u3060\u305e\uff01 (Porco Rosso)",
+    "example2jp": "\u81ea\u5206\u306e\u540d\u524d\u3092\u5927\u4e8b\u306b\u306d\u3002 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u5927\u4e8b"
+  },
+  {
+    "count": 16,
+    "example1jp": "\u3053\u3053\u304c\u304a\u308c\u305f\u3061\u306e\u90e8\u5c4b\u3060\u3088\u3002 (Spirited Away)",
+    "example2jp": "\u305d\u308c\u304c\n\u304a\u90e8\u5c4b\u306b\u5165\u3063\u305f\u304d\u308a\u306a\u3093\u3060\u3088\u3002 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u90e8\u5c4b"
+  },
+  {
+    "count": 16,
+    "example1jp": "\uff08\u7532\u516d\u306e\u30a4\u30d3\u30ad\uff09 (Princess Mononoke)",
+    "example2jp": "\u7532\u516d\u3000\u3042\u308a\u304c\u3068\u3046\uff01 (Princess Mononoke)",
+    "jlpt": 1,
+    "word": "\u7532\u516d"
+  },
+  {
+    "count": 16,
+    "example1jp": "\u3042\uff5e\u3000\u5927\u5909\uff01 (My Neighbour Totoro)",
+    "example2jp": "\u307e\u3042\uff01\u5927\u5909\uff01 (The Borrower Arrietty)",
+    "jlpt": 4,
+    "word": "\u5927\u5909"
+  },
+  {
+    "count": 15,
+    "example1jp": "\u307e\u305f\u3000\u304a\u6383\u9664\u3057\u306a\u304d\u3083\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u30f3\u3067\u3082\u6642\u3005\u3000\u6383\u9664\u306f\u3000\u3057\u3068\u3044\u305f\u3093\u3060\u3002 (My Neighbour Totoro)",
+    "jlpt": 5,
+    "word": "\u6383\u9664"
+  },
+  {
+    "count": 15,
+    "example1jp": "\u7d76\u5bfe\u3060\u3088\u3002 (Ponyo)",
+    "example2jp": "\u7d76\u5bfe\u306b\u898b\u3089\u308c\u3066\u3044\u306a\u3044\u308f (The Borrower Arrietty)",
+    "jlpt": 3,
+    "word": "\u7d76\u5bfe"
+  },
+  {
+    "count": 15,
+    "example1jp": "\u98db\u884c\u77f3\u3060\uff01 (Laputa: Castle in the Sky)",
+    "example2jp": "\u98db\u884c\u77f3\u3060\u3088\uff01 (Laputa: Castle in the Sky)",
+    "jlpt": 4,
+    "word": "\u98db\u884c\u77f3"
+  },
+  {
+    "count": 15,
+    "example1jp": "\u30fb\uff5e\u3000\u898b\u3048\u306a\u3044\u660e\u65e5\u3092 (Porco Rosso)",
+    "example2jp": "\u3082\u3046\u5c11\u3057\u3063\u3066\u3000\u660e\u65e5\uff1f (My Neighbour Totoro)",
+    "jlpt": 5,
+    "word": "\u660e\u65e5"
+  },
+  {
+    "count": 14,
+    "example1jp": "\u3088\u304b\u3063\u305f\u308f\u3000\u307f\u3093\u306a\u7121\u4e8b\u304b\u3057\u3089\uff1f (Ponyo)",
+    "example2jp": "\uff08\u30b5\u30a4\u30c8\u30a6\uff09\n\u7686\u3055\uff5e\u3093\uff01\u3000\u3054\u7121\u4e8b\u3067\u3057\u305f\u304b\uff01 (Ponyo)",
+    "jlpt": 5,
+    "word": "\u7121\u4e8b"
+  },
+  {
+    "count": 14,
+    "example1jp": "\u304a\u307e\u3048\u305f\u3061\u624b\u4f1d\u3063\u3066\u304f\u308c\u308b\u304b\u3044\uff1f (Spirited Away)",
+    "example2jp": "\u304a\uff5e\u3044\uff01\u3000\u4f55\u304b\u304a\u624b\u4f1d\u3044\u3059\u308b\u3053\u3068\u306f\n\u3042\u308a\u307e\u3059\u304b\uff5e\uff01 (Ponyo)",
+    "jlpt": 4,
+    "word": "\u624b\u4f1d"
+  },
+  {
+    "count": 14,
+    "example1jp": "\u5c0f\u4eba\u306f\u672c\u5f53\u306b\u3044\u308b\u306e\u3088\u30fc\uff01 (The Borrower Arrietty)",
+    "example2jp": "\u672c\u5f53\u306f\u306d\u3047\u3000\u5c0f\u4eba\u304c\u3044\u308b\u306e\u3088 (The Borrower Arrietty)",
+    "jlpt": 5,
+    "word": "\u5c0f\u4eba"
+  },
+  {
+    "count": 14,
+    "example1jp": "\u3059\u3050\u51fa\u767a\u3060\uff01\n\u307e\u3054\u307e\u3054\u3057\u3066\u308b\u3068\u2192 (Porco Rosso)",
+    "example2jp": "\u3053\u308c\u304b\u3089\u51fa\u767a\u306a\u306e (The Borrower Arrietty)",
+    "jlpt": 4,
+    "word": "\u51fa\u767a"
+  },
+  {
+    "count": 14,
+    "example1jp": "\u3042\u306e\u3001\u304a\u98a8\u5442\u307e\u3060\u306a\u3093\u3067\u3059\u3002 (Spirited Away)",
+    "example2jp": "\u4f55\u3088\uff01\u3000\u304a\u98a8\u5442\u306b\u3082\u5165\u3089\u306a\u3044\u3067\u3002 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u98a8\u5442"
+  },
+  {
+    "count": 14,
+    "example1jp": "\u5de8\u795e\u5175\u3060\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u5de8\u795e\u5175\u3000\u6b7b\u3093\u3058\u3083\u3063\u305f\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 2,
+    "word": "\u5de8\u795e\u5175"
+  },
+  {
+    "count": 13,
+    "example1jp": "\u305b\u3063\u304b\u304f\n\u77f3\u706b\u77e2\u3092\u899a\u3048\u305f\u3093\u3060\u304b\u3089\u2026\u3002 (Princess Mononoke)",
+    "example2jp": "\u77f3\u706b\u77e2\u304c\u52b9\u304b\u306c\u3002 (Princess Mononoke)",
+    "jlpt": 2,
+    "word": "\u77f3\u706b\u77e2"
+  },
+  {
+    "count": 13,
+    "example1jp": "\u3054\u82e6\u52b4\u3055\u307e\u3002 (My Neighbour Totoro)",
+    "example2jp": "\u3054\u82e6\u52b4\u3055\u307e\u3067\u3054\u3056\u308b\u3002 (Howl's Moving Castle)",
+    "jlpt": 3,
+    "word": "\u82e6\u52b4"
+  },
+  {
+    "count": 13,
+    "example1jp": "\u4ffa\u9054\u306f\u3000\u3044\u3064\u3082\u306e\u30d1\u30c8\u30ed\u30fc\u30eb\u306b\u2192 (Porco Rosso)",
+    "example2jp": "\u30a2\u30e1\u30ea\u30ab\u306b\u884c\u304b\u306a\u304d\u3083\n\u306a\u3089\u306d\u3048\u306e\u306f\u3000\u4ffa\u9054\u306e\u307b\u3046\u3060\u3088\u3002 (Porco Rosso)",
+    "jlpt": 1,
+    "word": "\u4ffa\u9054"
+  },
+  {
+    "count": 13,
+    "example1jp": "\u3053\u306e\u4eba\u9054\u3000\u307f\u3093\u306a\u3000\u7a7a\u8cca\u306a\u306e\uff1f (Porco Rosso)",
+    "example2jp": "\u7a7a\u8cca\u3063\u3066\u3044\u3046\u306e\u3088\u306d\uff1f\n\u3088\u304f\u77e5\u3063\u3066\u308b\u306d\u3002 (Porco Rosso)",
+    "jlpt": 0,
+    "word": "\u7a7a\u8cca"
+  },
+  {
+    "count": 13,
+    "example1jp": "\u98db\u884c\u8247\u4e57\u308a\u3000\u4e07\u6b73\uff01\n\u30d2\u30e5\uff5e\uff01 (Porco Rosso)",
+    "example2jp": "\u3042\u306a\u305f\u9054\n\u305d\u308c\u3067\u3082\u98db\u884c\u8247\u4e57\u308a\u306a\u306e!? (Porco Rosso)",
+    "jlpt": 0,
+    "word": "\u98db\u884c\u8247\u4e57"
+  },
+  {
+    "count": 13,
+    "example1jp": "\u3042\u306a\u305f\u75c5\u6c17\u306a\u306e\uff1f (Spirited Away)",
+    "example2jp": "\u75c5\u6c17\u304b\u306a\u3001\u30b1\u30ac\u3057\u3066\u308b\uff1f (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u75c5\u6c17"
+  },
+  {
+    "count": 12,
+    "example1jp": "\u3088\uff5e\u3057\u3000\u51fa\u6765\u305f\u3002 (Howl's Moving Castle)",
+    "example2jp": "\uff08\u304a\u304b\u307f\uff09\u3000\u51fa\u6765\u305f\u3088\u3002\n\u3059\u307e\u306d\u3048\u3002 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u51fa\u6765"
+  },
+  {
+    "count": 12,
+    "example1jp": "\u4e03\u56fd\u5c71\u306e\u75c5\u9662\u304b\uff1f (My Neighbour Totoro)",
+    "example2jp": "\u75c5\u9662\u3078\u884c\u3063\u3066\u304f\u308c\u308b\u306e!? (My Neighbour Totoro)",
+    "jlpt": 5,
+    "word": "\u75c5\u9662"
+  },
+  {
+    "count": 12,
+    "example1jp": "\u5951\u7d04\u66f8\u3060\u3088\u3002 (Spirited Away)",
+    "example2jp": "\u3053\u308c\u306f\u304a\u307e\u3048\u306e\u5951\u7d04\u66f8\u3060\u3088\u3001\u3053\u3063\u3061\u3078\u304a\u3044\u3067\u3002 (Spirited Away)",
+    "jlpt": 3,
+    "word": "\u5951\u7d04"
+  },
+  {
+    "count": 12,
+    "example1jp": "\u3044\u3088\u3044\u3088\u6765\u9031\u2026\u3002 (My Neighbour Totoro)",
+    "example2jp": "\uff1c\u3055\u3089\u306b\u3000\u6765\u9031\u306e\u571f\u66dc\u65e5\u2192 (My Neighbour Totoro)",
+    "jlpt": 5,
+    "word": "\u6765\u9031"
+  },
+  {
+    "count": 12,
+    "example1jp": "\u89aa\u65b9\u3000\u7a7a\u304b\u3089\u5973\u306e\u5b50\u2026\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "\uff08\u89aa\u65b9\uff09\u3000\u5f85\u3061\u3084\u304c\u308c\uff5e\uff01 (Laputa: Castle in the Sky)",
+    "jlpt": 5,
+    "word": "\u89aa\u65b9"
+  },
+  {
+    "count": 12,
+    "example1jp": "\u30cf\u30a6\u30eb\u306e\u5fc3\u81d3\u3060\u3088\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u5fc3\u81d3\uff01\u3000\u5fc3\u81d3\u304c\u3042\u308b\u306e\u304b\u3044\uff1f (Howl's Moving Castle)",
+    "jlpt": 3,
+    "word": "\u5fc3\u81d3"
+  },
+  {
+    "count": 12,
+    "example1jp": "\u30d5\u30ed\u30f3\u30c8\u306e\u96fb\u8a71\u3067\n\u304a\u8a71\u3057\u304f\u3060\u3055\u3044\u3002 (Porco Rosso)",
+    "example2jp": "\u304a\u7236\u3055\u3093\u304c\u96fb\u8a71\u3057\u3066\u6765\u308b\u306e\u3002 (My Neighbour Totoro)",
+    "jlpt": 5,
+    "word": "\u96fb\u8a71"
+  },
+  {
+    "count": 12,
+    "example1jp": "\u7a93\u3092\u304a\u958b\u3051\uff01\u5168\u90e8\u3060\u3088\uff01 (Spirited Away)",
+    "example2jp": "\u6709\u308a\u91d1\u3000\u5168\u90e8\u3000\u6301\u3063\u3066\u304f\u6c17\u304b\u3088\u3002 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u5168\u90e8"
+  },
+  {
+    "count": 12,
+    "example1jp": "\u60aa\u3044\u9b54\u6cd5\u4f7f\u3044\uff1f (Ponyo)",
+    "example2jp": "\u9b54\u6cd5\u4f7f\u3044\u306b\u306a\u308a\u305f\u3044\u3068\u8a00\u3044\u304a\u3063\u305f\u3002 (Spirited Away)",
+    "jlpt": 3,
+    "word": "\u9b54\u6cd5\u4f7f"
+  },
+  {
+    "count": 12,
+    "example1jp": "\u4ed5\u65b9\u304c\u306a\u3044\u3000\u6765\u306a\u3055\u3044\u3002 (Princess Mononoke)",
+    "example2jp": "\u4ed5\u65b9\u306a\u3044\u306d\u3000\u5927\u4e8b\u306b\u3059\u308b\u3093\u3060\u3088\u3002 (Howl's Moving Castle)",
+    "jlpt": 5,
+    "word": "\u4ed5\u65b9"
+  },
+  {
+    "count": 11,
+    "example1jp": "\u306f\u3044\u3000\u5965\u69d8 (The Borrower Arrietty)",
+    "example2jp": "\u5965\u69d8\u306f\u3000\u3053\u3061\u3089\u3078\u3002 (Howl's Moving Castle)",
+    "jlpt": 3,
+    "word": "\u5965\u69d8"
+  },
+  {
+    "count": 11,
+    "example1jp": "\u60aa\u9b54\u3068\u53d6\u5f15\u3092\u3057\u3066\u2192 (Howl's Moving Castle)",
+    "example2jp": "\u60aa\u9b54\u3068\u53d6\u5f15\u3092\u3059\u308b\u3063\u3066\u308f\u3051\u306d\u3002 (Howl's Moving Castle)",
+    "jlpt": 3,
+    "word": "\u60aa\u9b54"
+  },
+  {
+    "count": 11,
+    "example1jp": "\u3060\u3063\u3066\u738b\u69d8\u3067\u3057\u3087\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u79c1\u306f\u738b\u69d8\u306b\u547c\u3070\u308c\u3066\u3044\u308b\u306e\u3002 (Howl's Moving Castle)",
+    "jlpt": 3,
+    "word": "\u738b\u69d8"
+  },
+  {
+    "count": 11,
+    "example1jp": "\u300e\u91d1\u66dc\u30ed\u30fc\u30c9\uff33\uff28\uff2f\uff37\uff01\u300f\u3068\n\u697d\u3057\u3044\u590f\u306e\u591c\u3092\u3002 (Ponyo)",
+    "example2jp": "\uff1c\uff17\u6708\u306e\u300e\u91d1\u66dc\u30ed\u30fc\u30c9\u30b7\u30e7\u30fc\u300f\u306f\u2026\uff1e (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u91d1\u66dc"
+  },
+  {
+    "count": 11,
+    "example1jp": "\u304a\u4e16\u8a71\u306b\u306a\u308a\u307e\u3057\u305f\uff01 (Spirited Away)",
+    "example2jp": "\u4e16\u8a71\u306b\u306a\u3063\u305f\u3093\u3060\u308d\uff1f (Spirited Away)",
+    "jlpt": 4,
+    "word": "\u4e16\u8a71"
+  },
+  {
+    "count": 11,
+    "example1jp": "\u30df\u30ab\u30c9\u3060\u3002\n\uff08\u5973\u9054\uff09\u3000\u30df\u30ab\u30c9\u2026\u3002 (Princess Mononoke)",
+    "example2jp": "\uff08\u5973\u9054\uff09\u3000\u266a\uff5e\u3000\u3072\u3068\u3064\u3000\u3075\u305f\u3064\u306f (Princess Mononoke)",
+    "jlpt": 5,
+    "word": "\u5973\u9054"
+  },
+  {
+    "count": 11,
+    "example1jp": "\u3044\u3088\u3044\u3088\n\u904b\u547d\u306e\u6642\u306f\u8fd1\u3065\u304d\u307e\u3057\u305f\u2192 (Ponyo)",
+    "example2jp": "\u904b\u547d\u3067\u3059\u3063\u3066\uff1f (The Borrower Arrietty)",
+    "jlpt": 4,
+    "word": "\u904b\u547d"
+  },
+  {
+    "count": 10,
+    "example1jp": "\u3053\u308c\u4ee5\u4e0a\u3000\u6708\u304c\u8fd1\u3065\u3044\u305f\u3089\n\u53d6\u308a\u8fd4\u3057\u304c\u3064\u304b\u306a\u3044\u3093\u3067\u3059\uff01 (Ponyo)",
+    "example2jp": "\u6771\u3068\u5317\u306e\u9593\u3088\u308a\u2026\n\u305d\u308c\u4ee5\u4e0a\u306f\u8a00\u3048\u306a\u3044\u3002 (Princess Mononoke)",
+    "jlpt": 4,
+    "word": "\u4ee5\u4e0a"
+  },
+  {
+    "count": 10,
+    "example1jp": "\uff1c\u653e\u9001\u3092\u304a\u697d\u3057\u307f\u306b\uff1e (Porco Rosso)",
+    "example2jp": "\uff1c\u305d\u3057\u3066\u653e\u9001\u4e2d\u306f\n\u30b9\u30de\u30fc\u30c8\u30d5\u30a9\u30f3\u3084\u30d1\u30bd\u30b3\u30f3\u304b\u3089\u2192 (Princess Mononoke)",
+    "jlpt": 3,
+    "word": "\u653e\u9001"
+  },
+  {
+    "count": 10,
+    "example1jp": "\u7acb\u6d3e\u3060\u306d\u3047\u3002\n\u3046\u3093\u3002 (Ponyo)",
+    "example2jp": "\u4e57\u308c\u308b\u3088\uff01\n\u3046\u3093\u3000\u7acb\u6d3e\u3060\u306d\u3002 (Ponyo)",
+    "jlpt": 3,
+    "word": "\u7acb\u6d3e"
+  },
+  {
+    "count": 10,
+    "example1jp": "\u308f\u3057\u3083\u3042\u3001\u91dc\u723a\u3060\u3002 (Spirited Away)",
+    "example2jp": "\u3042\u305f\u3057\u91dc\u723a\u306e\u3068\u3053\u884c\u304b\u306a\u304d\u3083\u3002 (Spirited Away)",
+    "jlpt": 0,
+    "word": "\u91dc\u723a"
+  },
+  {
+    "count": 10,
+    "example1jp": "\u3042\u306e\u5c0f\u50e7\u3060\uff01 (Laputa: Castle in the Sky)",
+    "example2jp": "\u3069\u3051\uff01\u3000\u5c0f\u50e7\u3000\u4f55\u3092\u3057\u3066\u3044\u308b!? (Princess Mononoke)",
+    "jlpt": 1,
+    "word": "\u5c0f\u50e7"
+  },
+  {
+    "count": 10,
+    "example1jp": "\u3042\u306e\u30b3\u306f\u3000\u3068\u3066\u3082\u5371\u967a\u3067\u3059\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u304a\u524d\u306f\u5bb6\u65cf\u3092\u5371\u967a\u306b\u3055\u3089\u3057\u3066\u3044\u308b\u3093\u3060\u305e (The Borrower Arrietty)",
+    "jlpt": 4,
+    "word": "\u5371\u967a"
+  },
+  {
+    "count": 9,
+    "example1jp": "\u226a\u7537\u9054\u3060\uff01\u226b (Princess Mononoke)",
+    "example2jp": "\uff08\u7537\u9054\uff09\u3000\u304a\uff5e\u3044\uff01 (Princess Mononoke)",
+    "jlpt": 5,
+    "word": "\u7537\u9054"
+  },
+  {
+    "count": 9,
+    "example1jp": "\u3042\u306a\u305f\u3092\u3054\u6848\u5185\u3057\u307e\u3059\uff1e (Howl's Moving Castle)",
+    "example2jp": "\u30ca\u30cb\u3000\u3057\u3066\u308b\u3093\u3060\u3044\u2026\uff01\u30cf\u30e4\u30af\u3000\u3054\u6848\u5185\u3057\u306a\uff01 (Spirited Away)",
+    "jlpt": 3,
+    "word": "\u6848\u5185"
+  },
+  {
+    "count": 9,
+    "example1jp": "\u304c\u308b\u306a\u3002\u79c1\u306f\u305d\u306a\u305f\u306e\u5473\u65b9\u3060\u3002 (Spirited Away)",
+    "example2jp": "\u5acc\u3060\uff01\u3000\u304a\u524d\u3082\u4eba\u9593\u306e\u5473\u65b9\u3060\uff01 (Princess Mononoke)",
+    "jlpt": 5,
+    "word": "\u5473\u65b9"
+  },
+  {
+    "count": 9,
+    "example1jp": "\u3060\u3044\u3076\u5e74\u5bc4\u308a\u3060\u304b\u3089\u306a\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "\u5e74\u5bc4\u308a\u306e\u697d\u3057\u307f\u3092\n\u53d6\u308b\u3082\u3093\u3058\u3083\u306a\u3044\u3088\u3002 (Howl's Moving Castle)",
+    "jlpt": 4,
+    "word": "\u5e74\u5bc4"
+  },
+  {
+    "count": 9,
+    "example1jp": "\u30de\u30f3\u30de\u30e6\u30fc\u30c8\u306e\u9023\u4e2d\n\u4eca\u65e5\u306f\u6765\u308c\u306d\u3048\u3068\u3055\u3002 (Porco Rosso)",
+    "example2jp": "\u4e0b\u306e\u9023\u4e2d\u3092\u5f85\u305f\u3059\u3093\u3058\u3083\u306d\u3048\u3002\n\u306f\u3044\uff01 (Laputa: Castle in the Sky)",
+    "jlpt": 4,
+    "word": "\u9023\u4e2d"
+  },
+  {
+    "count": 9,
+    "example1jp": "\u76f8\u624b\u304c\u30e8\u30ec\u3066\n\u304a\u3068\u306a\u3057\u304f\u306a\u3063\u3066\u304b\u3089\u2192 (Porco Rosso)",
+    "example2jp": "\u76f8\u624b\u306f\u3000\u30ab\u30fc\u30c1\u30b9\u3060\n\u3042\u3068\uff11\uff15\u30ce\u30c3\u30c8\u307b\u3069\u3000\u6b32\u3057\u3044\u3093\u3060\u3002 (Porco Rosso)",
+    "jlpt": 3,
+    "word": "\u76f8\u624b"
+  },
+  {
+    "count": 9,
+    "example1jp": "\u91d1\u9b5a\u3060\u3002 (Ponyo)",
+    "example2jp": "\u3042\u3063\u3000\u91d1\u9b5a\uff01 (Ponyo)",
+    "jlpt": 5,
+    "word": "\u91d1\u9b5a"
+  },
+  {
+    "count": 9,
+    "example1jp": "\u3046\u3093\u3000\u898b\u5f35\u308b\u3088\uff01 (Ponyo)",
+    "example2jp": "\u30dd\u30cb\u30e7\u306f\u524d\u3092\u898b\u5f35\u3063\u3066\u3066\u3002 (Ponyo)",
+    "jlpt": 3,
+    "word": "\u898b\u5f35"
+  },
+  {
+    "count": 8,
+    "example1jp": "\u305d\u306e\u5e3d\u5b50\u304b\u3076\u308b\u306e\uff1f (Howl's Moving Castle)",
+    "example2jp": "\u304a\u7236\u3055\uff5e\u3093\uff01\n\u30e1\u30a4\u306e\u5e3d\u5b50\u304c\u3042\u3063\u305f\uff01 (My Neighbour Totoro)",
+    "jlpt": 5,
+    "word": "\u5e3d\u5b50"
+  },
+  {
+    "count": 8,
+    "example1jp": "\uff1c\u30b1\u30fc\u30bf\u30a4\u30b5\u30a4\u30c8\u304b\u3089\u3000\u3054\u5fdc\u52df\u304f\u3060\u3055\u3044\uff1e (Porco Rosso)",
+    "example2jp": "\uff1c\u305f\u304f\u3055\u3093\u306e\u3054\u5fdc\u52df\n\u304a\u5f85\u3061\u3057\u3066\u3044\u307e\u3059\uff01\uff1e (My Neighbour Totoro)",
+    "jlpt": 2,
+    "word": "\u5fdc\u52df"
+  },
+  {
+    "count": 8,
+    "example1jp": "\u30e0\u30b7\u30b4\u30e4\u30b7\u304c\n\u5348\u5f8c\u306e\u80de\u5b50\u3092\u98db\u3070\u3057\u3066\u3044\u308b\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u80de\u5b50\u304c\u6b8b\u3063\u3066\u3044\u305f\u3093\u3060\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 1,
+    "word": "\u80de\u5b50"
+  },
+  {
+    "count": 8,
+    "example1jp": "\u6d77\u3082\u5730\u4e0a\u3082\u898b\u304b\u3051\u306f\u3044\u3044\u304c\u306a\n\u3053\u306e\u8fba\u308a\u306f\u30b9\u30c3\u30ab\u30e9\u30ab\u30f3\u306a\u306e\u3055\u3002 (Porco Rosso)",
+    "example2jp": "\u5730\u4e0a\u306b\u964d\u308a\u305f\u6642\n\uff12\u3064\u306b\u5206\u304b\u308c\u305f\u304c\u306d\u3002 (Laputa: Castle in the Sky)",
+    "jlpt": 5,
+    "word": "\u5730\u4e0a"
+  },
+  {
+    "count": 8,
+    "example1jp": "\uff08\u7206\u767a\u97f3\uff09 (Porco Rosso)",
+    "example2jp": "\uff08\u7206\u767a\u97f3\uff09 (Princess Mononoke)",
+    "jlpt": 3,
+    "word": "\u7206\u767a"
+  },
+  {
+    "count": 8,
+    "example1jp": "\u7802\u7cd6\u306f\u3000\u3042\u305d\u3053\u3060 (The Borrower Arrietty)",
+    "example2jp": "\u89d2\u7802\u7cd6\u306f\u3000\u3060\u3081\u3060\u3063\u305f (The Borrower Arrietty)",
+    "jlpt": 5,
+    "word": "\u7802\u7cd6"
+  },
+  {
+    "count": 8,
+    "example1jp": "\u5927\u5207\u306a\u3093\u3060\u304b\u3089 (The Borrower Arrietty)",
+    "example2jp": "\u2026\u3042\u306e\u306d\u3001\u79c1\u306e\u3068\u3066\u3082\u5927\u5207\u306a\u4eba\u304c\u5927\u3051\u304c\u3057\u3066\u308b\u306e\u3002 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u5927\u5207"
+  },
+  {
+    "count": 8,
+    "example1jp": "\u4f55\u3063!?\n\uff08\u30e0\u30b9\u30ab\uff09\u3000\u3053\u308c\u306f\u79c1\u306e\u6a5f\u95a2\u306e\u4ed5\u4e8b\u3067\u3059\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "\u53f3\u5074\u306e\u6a5f\u95a2\u9283\u3092\u5916\u3057\u306a\u3002\n\u3048\u3063\uff1f (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u6a5f\u95a2"
+  },
+  {
+    "count": 8,
+    "example1jp": "\u90aa\u9b54\u3059\u308b\u3088\u3002 (Princess Mononoke)",
+    "example2jp": "\u5f53\u305f\u3089\u306a\u3044\u306d\u3002\n\u90aa\u9b54\u3060\u306a\u3041\u2026\u3002 (Porco Rosso)",
+    "jlpt": 3,
+    "word": "\u90aa\u9b54"
+  },
+  {
+    "count": 8,
+    "example1jp": "\u2026\u3068\u3000\u307e\u3041\u3000\u5e2b\u5320\u9023\u306f\u8a00\u3046\u3060\u308d\u3046\u306a\u3002 (Princess Mononoke)",
+    "example2jp": "\u3044\u3084\u3000\u3053\u308c\u306f\n\u5e2b\u5320\u306e\u53d7\u3051\u58f2\u308a\u3060\u304c\u306a\u3002 (Princess Mononoke)",
+    "jlpt": 0,
+    "word": "\u5e2b\u5320"
+  },
+  {
+    "count": 8,
+    "example1jp": "\u5065\u4e8c\u3068\u5bb6\u65cf\u304c\u7acb\u3061\u5411\u304b\u3046\uff1e (Porco Rosso)",
+    "example2jp": "\u300e\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba\u300f\u306e\u5065\u4e8c\u3068\u306f\n\u3061\u3087\u3063\u3068\u9055\u3063\u305f\u2192 (My Neighbour Totoro)",
+    "jlpt": 3,
+    "word": "\u5065\u4e8c"
+  },
+  {
+    "count": 8,
+    "example1jp": "\uff08\u65b0\u4e95\uff09\u3000\u306f\u3044\uff01 (Ponyo)",
+    "example2jp": "\uff08\u65b0\u4e95\uff09\u3000\u898b\u305f\u3053\u3068\u306e\u306a\u3044\u753a\u3067\u3059\u306d\u3002 (Ponyo)",
+    "jlpt": 2,
+    "word": "\u65b0\u4e95"
+  },
+  {
+    "count": 8,
+    "example1jp": "\u3042\u306e\u4eba\u9054\u304c\u4e0a\u306e\u5ead\u3078\u884c\u3063\u305f\u3089\u2026\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "\u30cf\u30a1\uff5e\u3000\u30bd\u30d5\u30a3\u30fc\u306f\n\u3042\u306e\u4eba\u9054\u3092\u77e5\u3089\u306a\u3044\u3093\u3060\u3002 (Howl's Moving Castle)",
+    "jlpt": 5,
+    "word": "\u4eba\u9054"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u7c21\u5358\u3055\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u30d5\u30f3\uff01\u305d\u3046\u7c21\u5358\u306b\u306f\u3044\u304b\u306a\u3044\u3088\u3001 (Spirited Away)",
+    "jlpt": 4,
+    "word": "\u7c21\u5358"
+  },
+  {
+    "count": 7,
+    "example1jp": "\uff08\u5c06\u8ecd\uff09\u3000\u30a6\u30e0\uff1f (Laputa: Castle in the Sky)",
+    "example2jp": "\uff08\u5c06\u8ecd\uff09\u3000\u624b\u306c\u308b\u3044\uff01 (Laputa: Castle in the Sky)",
+    "jlpt": 3,
+    "word": "\u5c06\u8ecd"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u79c1\u3000\u4e59\u4e8b\u4e3b\u69d8\u306e\n\u76ee\u306b\u306a\u308a\u306b\u884c\u304d\u307e\u3059\u3002 (Princess Mononoke)",
+    "example2jp": "\u5f85\u3063\u3066\u3000\u4e59\u4e8b\u4e3b\u69d8\n\u3053\u306e\u4eba\u3092\u98df\u3079\u3066\u306f\u30c0\u30e1\u3002 (Princess Mononoke)",
+    "jlpt": 1,
+    "word": "\u4e59\u4e8b\u4e3b\u69d8"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u30af\u30b7\u30e3\u30ca\u6bbf\u4e0b\uff01\u3000\u4e07\u6b73\uff01\n\u4e07\u6b73\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u6bbf\u4e0b\u306f\u4e2d\u3078\u3002\n\u266a\u266a\uff5e\n\u3053\u3053\u3067\u3044\u3044\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 1,
+    "word": "\u6bbf\u4e0b"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u3042\u306e\u5199\u771f\u3092\u306f\u305a\u3055\u306d\u3048\u3053\u3068\u3060\u3002 (Porco Rosso)",
+    "example2jp": "\u7a93\u306e\u5199\u771f\u30003\u5e74\u3082\u540c\u3058\u3088 (The Borrower Arrietty)",
+    "jlpt": 5,
+    "word": "\u5199\u771f"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u5730\u4e0b\uff15\uff10\uff10\u30e1\u30eb\u30c6\u304b\u3089\n\u4e0a\u3052\u3066\u3044\u308b\u6c34\u3067\u3059\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u5730\u4e0b\u3078\u9003\u3052\u308d\uff01 (Laputa: Castle in the Sky)",
+    "jlpt": 5,
+    "word": "\u5730\u4e0b"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u52d5\u304f\u306a\uff01\u3000\u547d\u4ee4\u306f\u79c1\u304c\u4e0b\u3059\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u3055\u3063\u304d\u753a\u306e\u8005\u306b\n\u907f\u96e3\u547d\u4ee4\u304c\u51fa\u305f\u3093\u305e\uff01 (Ponyo)",
+    "jlpt": 3,
+    "word": "\u547d\u4ee4"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u5b89\u5fc3\u3057\u3066\u5bdd\u308d\u3088\u3000\u660e\u65e5\u306f\u65e9\u3044\u305e\u3002 (Porco Rosso)",
+    "example2jp": "\u3044\u3084\u3000\u5206\u304b\u308c\u3070\u5b89\u5fc3\u3059\u308b\u3055\u3002 (My Neighbour Totoro)",
+    "jlpt": 4,
+    "word": "\u5b89\u5fc3"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u7d20\u6575\u306a\u30a2\u30b8\u30c8\u306d\u3002 (Porco Rosso)",
+    "example2jp": "\u7d20\u6575\u306d\u2026\u3002 (Howl's Moving Castle)",
+    "jlpt": 3,
+    "word": "\u7d20\u6575"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u3048\u3063\u3000\u304a\u5316\u3051\u5c4b\u6577!?\n\u3046\u3093\u3002 (My Neighbour Totoro)",
+    "example2jp": "\u304a\u5316\u3051\u5c4b\u6577\u307f\u305f\u3044\uff01\n\u304a\u5316\u3051\uff1f (My Neighbour Totoro)",
+    "jlpt": 2,
+    "word": "\u5c4b\u6577"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u96fb\u6c17\u3084\u30ac\u30b9\u3082 (The Borrower Arrietty)",
+    "example2jp": "\u30cf\u30eb\u3055\u3093\u3000\u96fb\u6c17\u3092\u6d88\u3057\u3066\u3082\u3089\u3048\u308b\u304b\u3057\u3089 (The Borrower Arrietty)",
+    "jlpt": 5,
+    "word": "\u96fb\u6c17"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u5c11\u3057\u305a\u3064\u5fc5\u8981\u306a\u3082\u306e\u3092\u501f\u308a\u3066\u304f\u308b\u306e (The Borrower Arrietty)",
+    "example2jp": "\u5fc5\u8981\u306a\u3082\u306e\u3060\u3051\u3000\u3059\u3050\u306b\u307e\u3068\u3081\u308b\u3093\u3060 (The Borrower Arrietty)",
+    "jlpt": 4,
+    "word": "\u5fc5\u8981"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u2026\u96fb\u8eca\u306e\u97f3\uff01 (Spirited Away)",
+    "example2jp": "\u96fb\u8eca\u3060\uff01\u2026\uff1f (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u96fb\u8eca"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u3069\u3046\u3042\u3063\u3066\u3082\u5fa9\u6d3b\u3059\u308b\u524d\u306b\u2192 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u4f55\u3068\u3057\u3066\u3082\u3000\u3042\u306e\u5316\u3051\u7269\u306e\u5fa9\u6d3b\u3092\n\u3084\u3081\u3055\u305b\u306d\u3070\u306a\u3089\u3093\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 4,
+    "word": "\u5fa9\u6d3b"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u305d\u308c\u306f\u3000\u305d\u308c\u306f\u3002\n\u3053\u306e\u8005\u9054\u306f\uff1f (Howl's Moving Castle)",
+    "example2jp": "\u5fc3\u306b\u6c7a\u3081\u305f\u8005\u9054\u304c\u3044\u308b\u3002 (Princess Mononoke)",
+    "jlpt": 5,
+    "word": "\u8005\u9054"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u4f55\u8005\u304b!? (Princess Mononoke)",
+    "example2jp": "\u226a\u4f55\u8005\u304b!?\u226b (Princess Mononoke)",
+    "jlpt": 5,
+    "word": "\u4f55\u8005"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u52dd\u8ca0\u306f\u3000\u4e94\u5206\u4e94\u5206\u3060\u305e\u3002 (Porco Rosso)",
+    "example2jp": "\uff13\u5206\u3067\u52dd\u8ca0\u304c\u3064\u3051\u3070\u9ed2\u6709\u5229\uff01 (Porco Rosso)",
+    "jlpt": 4,
+    "word": "\u52dd\u8ca0"
+  },
+  {
+    "count": 7,
+    "example1jp": "\uff08\u7121\u7dda\u306e\u30ce\u30a4\u30ba\uff09 (Ponyo)",
+    "example2jp": "[\u7121\u7dda]\u3000\u307f\u3093\u306a\u5143\u6c17\u3067\u3059\u3088\uff5e\uff01 (Ponyo)",
+    "jlpt": 4,
+    "word": "\u7121\u7dda"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u30a4\u30bf\u30ea\u30a2\u7a7a\u8ecd\u306e\u304a\u51fa\u307e\u3057\u3060\u3002 (Porco Rosso)",
+    "example2jp": "\u30a4\u30bf\u30ea\u30a2\u7a7a\u8ecd\u304c\n\u3053\u3053\u3078\u5411\u304b\u3063\u3066\u308b\u308f\u3002 (Porco Rosso)",
+    "jlpt": 3,
+    "word": "\u7a7a\u8ecd"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u6383\u9664\u5a66\u3055\u3093\u306b\u3000\u3044\u3063\u3068\u3044\u3066\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u305d\u3046\u306d\u3000\u6383\u9664\u5a66\u306b\u306f\n\u30d4\u30c3\u30bf\u30ea\u306e\u90e8\u5c4b\u306d\u3002 (Howl's Moving Castle)",
+    "jlpt": 3,
+    "word": "\u6383\u9664\u5a66"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u304b\u307e\u308f\u3093\uff01\u3000\u7a7a\u4e2d\u3067\n\u305f\u3063\u3077\u308a\u3000\u3057\u3081\u3042\u3052\u3066\u3084\u308c\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "\u305d\u3093\u306a\u3082\u306e\u304c\u3000\u307e\u3060\u7a7a\u4e2d\u3092\n\u3055\u307e\u3088\u3063\u3066\u3044\u308b\u3068\u3057\u305f\u3089\u2192 (Laputa: Castle in the Sky)",
+    "jlpt": 5,
+    "word": "\u7a7a\u4e2d"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u5931\u793c\u3057\u307e\u3059\u3002 (Ponyo)",
+    "example2jp": "\u5931\u793c\u3057\u307e\u3059\u3002 (Spirited Away)",
+    "jlpt": 4,
+    "word": "\u5931\u793c"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u266a\u266a\uff5e\u3000\u3042\u306e\u5b50\u304c\u5927\u597d\u304d (Ponyo)",
+    "example2jp": "\u30dd\u30eb\u30b3\u5927\u597d\u304d\uff01 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u5927\u597d"
+  },
+  {
+    "count": 7,
+    "example1jp": "\uff08\u30e0\u30b9\u30ab\uff09\u3000\u226a\u95a3\u4e0b\u3000\u305d\u3093\u306a\u3053\u3068\u3092\n\u305b\u305a\u3068\u3082\u5165\u308c\u307e\u3059\u3088\u226b (Laputa: Castle in the Sky)",
+    "example2jp": "\u3048\u3044\u3063\uff01\u3000\u6765\u3044\uff01\n\u95a3\u4e0b\u306b\u7d9a\u3051\uff01 (Laputa: Castle in the Sky)",
+    "jlpt": 1,
+    "word": "\u95a3\u4e0b"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u6c17\u6301\u3061\u3044\u3044\u3068\u3053\u306d\u30fc (Spirited Away)",
+    "example2jp": "\uff08\u30aa\u30e4\u30b8\uff09\u3000\u307e\u3041\u3000\u6c17\u6301\u306f\u5206\u304b\u308b\u3088\u3002 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u6c17\u6301"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u5168\u6ec5\u3063\u3066\u4f55\u3092\u3059\u308b\u306e!? (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u300c\u5168\u6ec5\u3055\u305b\u305f\u300d\uff1f\n\u3069\u3046\u3044\u3046\u3053\u3068\uff1f\u3000\u30a2\u30b9\u30d9\u30eb\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 3,
+    "word": "\u5168\u6ec5"
+  },
+  {
+    "count": 7,
+    "example1jp": "\u30d4\u30bf\u30ea\u3068\u5f53\u3066\u3089\u308c\u305f\u3089\u304a\u307e\u3048\u305f\u3061\u3083\u81ea\u7531\u3060\u3088\u3002 (Spirited Away)",
+    "example2jp": "\u81ea\u7531\u306b\u751f\u304d\u308b\u306e\u306b\u3000\u3044\u308b\u3060\u3051\u3002\n\u30d5\uff5e\u30f3\u2026\u3002 (Howl's Moving Castle)",
+    "jlpt": 4,
+    "word": "\u81ea\u7531"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u7559\u5b88\u304b\u306a\u2026\uff1f (My Neighbour Totoro)",
+    "example2jp": "\u96fb\u5831\u3000\u7559\u5b88\u3060\u304b\u3089\u3063\u3066\u9810\u304b\u3063\u305f\u3002 (My Neighbour Totoro)",
+    "jlpt": 4,
+    "word": "\u7559\u5b88"
+  },
+  {
+    "count": 6,
+    "example1jp": "\uff08\u968e\u6bb5\u3092\u4e0a\u308b\u97f3\uff09 (Howl's Moving Castle)",
+    "example2jp": "\u5916\u306e\u968e\u6bb5\u3092\u4e00\u756a\u4e0b\u307e\u3067\u4e0b\u308a\u308b\u3093\u3060\u3002 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u968e\u6bb5"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u3042\u306e\u30b3\u306f\u79c1\u306e\u6700\u5f8c\u306e\u5f1f\u5b50\u306a\u306e\u306b\u2026\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u9b54\u6cd5\u306e\u529b\u3092\u624b\u306b\u5165\u308c\u3088\u3046\u3068\u3057\u3066\u59b9\u306e\u5f1f\u5b50\u306b\u306a\u308b\u306a\u3093\u3066\u306d\u3002 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u5f1f\u5b50"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u77f3\u706b\u77e2\u8846\u304c\n\u6575\u3068\u306a\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3093\u3060\u3002 (Princess Mononoke)",
+    "example2jp": "\u305d\u3053\u3078\u30a8\u30dc\u30b7\u69d8\u304c\u77f3\u706b\u77e2\u8846\u3092\n\u9023\u308c\u3066\u73fe\u308c\u305f\u3063\u3066\u308f\u3051\u3060\u3002 (Princess Mononoke)",
+    "jlpt": 2,
+    "word": "\u77f3\u706b\u77e2\u8846"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u5e74\u306f\u82e5\u3044\u304c\u306a\u3000\u30d5\u30a3\u30aa\u306b\u306f\n\u606f\u5b50\u3069\u3082\u306b\u306a\u3044\u3082\u306e\u304c\u3042\u308b\u3088\u3002 (Porco Rosso)",
+    "example2jp": "\u3053\u306e\u30d0\u30ab\u606f\u5b50\u3069\u3082\n\u3055\u3063\u3055\u3068\u304a\u4e57\u308a\uff01 (Laputa: Castle in the Sky)",
+    "jlpt": 4,
+    "word": "\u606f\u5b50"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u6b62\u3081\u308d\uff01\u3000\u5927\u4e8b\u306a\u4eba\u8cea\u3060\u305e\uff01 (Porco Rosso)",
+    "example2jp": "\u3042\u305f\u3057\u9054\u3000\u4eba\u8cea\u306d\u3002\n\u305d\u3046\u3060\u3088\u3002 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u4eba\u8cea"
+  },
+  {
+    "count": 6,
+    "example1jp": "\uff08\u30e2\u30fc\u30eb\u30b9\u4fe1\u53f7\uff09 (Porco Rosso)",
+    "example2jp": "\uff08\u30e2\u30fc\u30eb\u30b9\u4fe1\u53f7\u306e\u97f3\uff09 (Laputa: Castle in the Sky)",
+    "jlpt": 3,
+    "word": "\u4fe1\u53f7"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u5c11\u5e74\u304c\uff11\u4eba\u3000\u8a2a\u306d\u3066\u6765\u306a\u304b\u3063\u305f\u304b\uff1f (Princess Mononoke)",
+    "example2jp": "\u30a2\u30ab\u30b7\u30b7\u306b\u4e57\u3063\u305f\n\u4e0d\u601d\u8b70\u306a\u5c11\u5e74\u3060\u304c\u2026\u3002 (Princess Mononoke)",
+    "jlpt": 5,
+    "word": "\u5c11\u5e74"
+  },
+  {
+    "count": 6,
+    "example1jp": "\uff1c\u300e\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea\u300f\u4f5c\u54c1\n\u300e\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed\u300f\uff1e (My Neighbour Totoro)",
+    "example2jp": "\u307f\u3093\u306a\u3067\u898b\u3066\u307b\u3057\u3044\u3068\n\u601d\u3048\u308b\u4f5c\u54c1\u3067\u3059\u3002 (My Neighbour Totoro)",
+    "jlpt": 4,
+    "word": "\u4f5c\u54c1"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u3088\uff5e\u3057\u3000\u6d17\u6fef\u3000\u7d42\u308f\u308a\u3002 (My Neighbour Totoro)",
+    "example2jp": "\u305d\u308d\u305d\u308d\u6d17\u6fef\u7269\u3057\u307e\u308f\u306d\u3048\u3068\u2026\u3002 (My Neighbour Totoro)",
+    "jlpt": 5,
+    "word": "\u6d17\u6fef"
+  },
+  {
+    "count": 6,
+    "example1jp": "\uff01\u2026\u3042\u3041\u3089\u6cb9\u65ad\u3057\u305f\u306d\u3047\uff5e\u2026 (Spirited Away)",
+    "example2jp": "\u6cb9\u65ad\u3059\u308b\u306a\u3088\u3001\u308f\u304b\u3093\u306a\u3044\u3053\u3068\u306f\u304a\u308c\u306b\u805e\u3051\u3002\u306a\uff1f (Spirited Away)",
+    "jlpt": 3,
+    "word": "\u6cb9\u65ad"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u5927\u597d\u304d\u3067\u4f55\u5ea6\u3082\u805e\u3044\u305f\u308f\u3002 (Porco Rosso)",
+    "example2jp": "\u30e9\u30d4\u30e5\u30bf\u306f\u4ea1\u3073\u306c\n\u4f55\u5ea6\u3067\u3082\u3000\u3088\u307f\u304c\u3048\u308b\u3055\u3002 (Laputa: Castle in the Sky)",
+    "jlpt": 5,
+    "word": "\u4f55\u5ea6"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u624b\u4e0b\u3092\u307b\u3057\u304c\u3063\u3066\u3044\u305f\u306a\u3002 (Spirited Away)",
+    "example2jp": "\u3042\u3063\u2026\u3000\u6e2f\u3067\u624b\u4e0b\u3092\u898b\u304b\u3051\u305f\u308f\u3002 (Howl's Moving Castle)",
+    "jlpt": 5,
+    "word": "\u624b\u4e0b"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u307e\u305f\u30c8\u30ad\u3055\u3093\u304c\u3000\u6d25\u6ce2\u3060\u306a\u3093\u3066\u3002 (Ponyo)",
+    "example2jp": "\u3042\uff5e\uff5e\uff01\n\u6d25\u6ce2\u3060\uff01\u3000\u6d25\u6ce2\u304c\u6765\u305f\uff5e\uff01 (Ponyo)",
+    "jlpt": 1,
+    "word": "\u6d25\u6ce2"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u305c\u3072\u5287\u5834\u306b\n\u89aa\u5b50\u3067\u898b\u306b\u6765\u3066\u304f\u3060\u3055\u3044\u3002 (My Neighbour Totoro)",
+    "example2jp": "\u305c\u3072\u3000\u5287\u5834\u306b\n\u78ba\u304b\u3081\u306b\u884c\u3063\u3066\u307f\u3066\u304f\u3060\u3055\u3044\u3002 (My Neighbour Totoro)",
+    "jlpt": 3,
+    "word": "\u5287\u5834"
+  },
+  {
+    "count": 6,
+    "example1jp": "\uff08\u9283\u58f0\uff09\n\u3046\u308f\uff5e\u3063\uff01 (Porco Rosso)",
+    "example2jp": "\uff08\u9283\u58f0\uff09\n\u3042\u3063\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 3,
+    "word": "\u9283\u58f0"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u5927\u4e08\u592b\u3000\u7634\u6c17\u306f\u51fa\u3057\u3066\u3044\u307e\u305b\u3093\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u3059\u3054\u3044\u7634\u6c17\u3092\u51fa\u3057\u3066\n\u8c37\u3058\u3085\u3046\u3000\u5927\u9a12\u304e\u306b\u306a\u3063\u3066\u308b\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 0,
+    "word": "\u7634\u6c17"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u4f7f\u8005\u3060\u3000\u4e01\u91cd\u306b\u3000\u3082\u3066\u306a\u3057\u306a\u3055\u3044\u3002\n\uff08\u5973\u9054\uff09\u3000\u306f\uff5e\u3044\uff01 (Princess Mononoke)",
+    "example2jp": "\u5973\u3069\u3082\u3000\u4f7f\u8005\u3078\u306e\u7121\u793c\u3000\u8a31\u3055\u3093\u305e\uff01 (Princess Mononoke)",
+    "jlpt": 5,
+    "word": "\u4f7f\u8005"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u307e\u3042\u3000\u3082\u3046\u5c11\u3057\u69d8\u5b50\u3092\u898b\u3066\u307f\u3088\u3046 (The Borrower Arrietty)",
+    "example2jp": "\u4f55\u3060\u304b\u69d8\u5b50\u304c\u5909\u3060\u305e\u3002\n\u3042\u3063\u3000\u4e0b\u308a\u3066\u6765\u308b\uff01 (Porco Rosso)",
+    "jlpt": 3,
+    "word": "\u69d8\u5b50"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u7121\u793c\u3060\u3063\u3066\u3055\uff01 (Princess Mononoke)",
+    "example2jp": "\u3053\u3063\u3061\u306f\u751f\u307e\u308c\u305f\u6642\u304b\u3089\n\u305a\uff5e\u3063\u3068\u7121\u793c\u3060\u3044\uff01 (Princess Mononoke)",
+    "jlpt": 4,
+    "word": "\u7121\u793c"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u304b\u3064\u3066\u3000\u4eba\u9593\u3092\u3057\u3066\n\u3053\u306e\u5927\u5730\u306e\u4e3b\u3068\u306a\u3057\u305f\u2192 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u5927\u5730\u306e\u6bd2\u3092\u4f53\u306b\u53d6\u308a\u8fbc\u3093\u3067\u2192 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 5,
+    "word": "\u5927\u5730"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u30a2\u30b7\u30bf\u30ab\n\u4eba\u9593\u306b\u8a71\u3057\u305f\u3063\u3066\u7121\u99c4\u3060\uff01 (Princess Mononoke)",
+    "example2jp": "\u69d8 \u7121\u99c4\u53e3\u3092\u304d\u304f\u306a\u3002 (Spirited Away)",
+    "jlpt": 3,
+    "word": "\u7121\u99c4"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u79c1\u306b\u5354\u529b\u3057\u3066\u307b\u3057\u3044\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "\u7686\u3000\u56fd\u5bb6\u306b\u5354\u529b\u305b\u3088\u3068\u306e\n\u304a\u307c\u3057\u3081\u3057\u3067\u3059\u2192 (Howl's Moving Castle)",
+    "jlpt": 3,
+    "word": "\u5354\u529b"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u30cf\u30cf\u30cf\u3000\u3053\u308c\u3067\u5341\u5206\u3067\u3059\u3088\u3002 (My Neighbour Totoro)",
+    "example2jp": "\u30b5\u30f3\u3000\u79c1\u306f\u3000\u3059\u3067\u306b\u5341\u5206\u306b\u751f\u304d\u305f\u3002 (Princess Mononoke)",
+    "jlpt": 5,
+    "word": "\u5341\u5206"
+  },
+  {
+    "count": 6,
+    "example1jp": "\uff1c\u6765\u9031\u516c\u958b\u306e\n\u300e\u304a\u304a\u304b\u307f\u3053\u3069\u3082\u306e\u96e8\u3068\u96ea\u300f\u306e\u2192 (My Neighbour Totoro)",
+    "example2jp": "\uff1c\u305d\u3057\u3066\u300e\u601d\u3044\u51fa\u306e\u30de\u30fc\u30cb\u30fc\u300f\n\u516c\u958b\u524d\u65e5\u306e\uff17\u6708\uff11\uff18\u65e5\u306f\u2026\uff1e (Princess Mononoke)",
+    "jlpt": 5,
+    "word": "\u516c\u958b"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u3078\u3047\u3000\u30b7\u30b7\u795e\u6bba\u3057\u306b\u68ee\u3078\u3002 (Princess Mononoke)",
+    "example2jp": "\u7686\u3000\u3088\u304f\u898b\u5c4a\u3051\u3088\n\u795e\u6bba\u3057\u304c\u3000\u3044\u304b\u306a\u308b\u3082\u306e\u304b\u3002 (Princess Mononoke)",
+    "jlpt": 3,
+    "word": "\u795e\u6bba"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u982d\u306e\u60aa\u3044\u5c0f\u5a18\u306b\u3001 (Spirited Away)",
+    "example2jp": "\u5c0f\u5a18\u304c\u3001\u4f55\u3092\u98df\u308f\u3057\u2026\u30aa\u30b0\u30a5\u2026 (Spirited Away)",
+    "jlpt": 4,
+    "word": "\u5c0f\u5a18"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u300e\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300f\u3068\n\u300e\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba\u300f\u3092\u624b\u639b\u3051\u305f\u2192 (My Neighbour Totoro)",
+    "example2jp": "\u3042\u306e\u5c11\u5973\u3068\u5c71\u72ac\u306e\u8db3\u8de1\u3060\u3002 (Princess Mononoke)",
+    "jlpt": 5,
+    "word": "\u5c11\u5973"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u3044\u3044\u304b\u3052\u3093\u306b\u3057\u306d\u3048\u3068\n\u5c0f\u5c4b\u304c\u98db\u3093\u3058\u307e\u3046\u305e\uff01 (Porco Rosso)",
+    "example2jp": "\u6016\u3044\u2026\u3000\u5c0f\u5c4b\u3078\u884c\u3063\u305f\u3089\u2192 (Howl's Moving Castle)",
+    "jlpt": 5,
+    "word": "\u5c0f\u5c4b"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u266a\u266a\uff5e\u3000\u3059\u3066\u304d\u306a\u5192\u967a\u306f\u3058\u307e\u308b (My Neighbour Totoro)",
+    "example2jp": "\u5927\u5192\u967a\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u3088\u306d\uff1e (Laputa: Castle in the Sky)",
+    "jlpt": 3,
+    "word": "\u5192\u967a"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u591c\u660e\u3051\u3068\u3068\u3082\u306b\u3000\u3053\u3053\u3092\u7acb\u3061\u53bb\u308c\u3002 (Princess Mononoke)",
+    "example2jp": "\u3084\u3051\u306b\u9759\u304b\u3060\u306d\u3002\n\u591c\u660e\u3051\u3092\u5f85\u3064\u3064\u3082\u308a\u3055\u3002 (Princess Mononoke)",
+    "jlpt": 5,
+    "word": "\u591c\u660e"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u5bae\u5d0e\u3000\u99ff\u76e3\u7763\u304c\u3000\u30ab\u30c3\u30b3\u3088\u3055\u3068\n\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u306e\u697d\u3057\u307f\u3092\u2192 (Porco Rosso)",
+    "example2jp": "\u5bae\u5d0e\u3000\u99ff\u76e3\u7763\u306e\n\u5927\u5091\u4f5c\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u3067\u3059\uff1e (My Neighbour Totoro)",
+    "jlpt": 0,
+    "word": "\u5bae\u5d0e"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u305d\u308c\u306a\u306e\u306b\u52dd\u624b\u306b\u9003\u3052\u51fa\u3057\u305f\u3093\u3060\u3088\u3002 (Spirited Away)",
+    "example2jp": "\u3044\u304b\u306b\u3082\u4eba\u9593\u3089\u3057\u3044\n\u624b\u524d\u52dd\u624b\u306a\u8003\u3048\u3060\u306a\u3002 (Princess Mononoke)",
+    "jlpt": 4,
+    "word": "\u52dd\u624b"
+  },
+  {
+    "count": 6,
+    "example1jp": "\u9053\u304c\u6c88\u6ca1\u3057\u3061\u3083\u3063\u305f\u304b\u3089\u3060\u3088\u3002 (Ponyo)",
+    "example2jp": "\u308f\u3042\uff5e\uff01\u3000\u6c88\u6ca1\u3059\u308b\uff5e\uff01 (Porco Rosso)",
+    "jlpt": 1,
+    "word": "\u6c88\u6ca1"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u5343\u5c0b\u3068\u4e21\u89aa\u3092\u4eba\u9593\u306e\u4e16\u754c\u306b\u623b\u3057\u3066\u304f\u3060\u3055\u3044\uff01 (Spirited Away)",
+    "example2jp": "\u305d\u306e\u4ee3\u308f\u308a\u3001\u5343\u3068\u4e21\u89aa\u3092\u4eba\u9593\u306e\u4e16\u754c\u3078\u623b\u3057\u3066\u3084\u3063\u3066\u304f\u3060\u3055\u3044\u3002 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u4e21\u89aa"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u3084\u3063\u3071\u308a\u7530\u820e\u306d\u30fc\u3002 (Spirited Away)",
+    "example2jp": "\u305d\u3053\u3067\u3000\u7530\u820e\u306e\u5927\u5bb6\u65cf\u3068\u51fa\u4f1a\u3046\uff1e (Porco Rosso)",
+    "jlpt": 4,
+    "word": "\u7530\u820e"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u4eca\u65e5\u3000\u9023\u7d61\u304c\u3042\u3063\u305f\u306e\u3002 (Porco Rosso)",
+    "example2jp": "\u304a\u3070\u3042\u3061\u3083\u3093\u3000\u3069\u3046\u3057\u3088\u3046\n\u9023\u7d61\u3057\u308d\u3063\u3066\u3002 (My Neighbour Totoro)",
+    "jlpt": 4,
+    "word": "\u9023\u7d61"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u306a\u3042\u306b\uff1f\u3053\u306e\u5efa\u7269\u3002 (Spirited Away)",
+    "example2jp": "\u7d50\u69cb\u65b0\u3057\u3044\u5efa\u7269\u3060\u3088\u3002 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u5efa\u7269"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u92ad\u5a46\u306e\u6240\u3078\u304b\uff1f (Spirited Away)",
+    "example2jp": "\u92ad\u5a46\u2026\uff1f\u2026\u3042\u3041\u2026 (Spirited Away)",
+    "jlpt": 0,
+    "word": "\u92ad\u5a46"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u304a\u7236\u3055\u3093\u3000\u304a\u5f01\u5f53\u307e\u3060\u3041\uff1f\n\u3048\u3063\u3000\u3082\u3046\uff1f (My Neighbour Totoro)",
+    "example2jp": "\u304a\u5f01\u5f53\u307e\u3060\u306a\u3093\u3060\n\u30e1\u30a4\u3000\u5ead\u3067\u904a\u3093\u3067\u306a\u3044\u304b\u3044\uff1f (My Neighbour Totoro)",
+    "jlpt": 5,
+    "word": "\u5f01\u5f53"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u65b0\u3057\u3044\u53cb\u9054\u306a\u306e\u3002\u306d\u3063\u3002 (Spirited Away)",
+    "example2jp": "\u30fb\uff5e\u3000\u53cb\u9054\u3082\u3044\u304f\u4eba\u304b\u3044\u308b\u3051\u3069 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u53cb\u9054"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u3053\u306e\u6642\u306b\n\u4e00\u65cf\u306e\u9577\u3068\u306a\u308b\u3079\u304d\u82e5\u8005\u304c\u2192 (Princess Mononoke)",
+    "example2jp": "\u304a\u524d\u306b\u306f\u3000\u3042\u306e\u82e5\u8005\u3068\n\u751f\u304d\u308b\u9053\u3082\u3042\u308b\u306e\u3060\u304c\u2026\u3002 (Princess Mononoke)",
+    "jlpt": 5,
+    "word": "\u82e5\u8005"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u2026\u3068\u3044\u3063\u3066\u307e\u3059\u304c\uff01\n\u91d1\u8ca8\u534a\u5206\uff1f (Porco Rosso)",
+    "example2jp": "\u4f55\u3063\uff01\n\u3053\u3044\u3064\u3000\u91d1\u8ca8\u306a\u3093\u304b\u6301\u3063\u3066\u3089\u3002 (Laputa: Castle in the Sky)",
+    "jlpt": 3,
+    "word": "\u91d1\u8ca8"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u2026\u7802\u91d1\u3060\uff01 (Spirited Away)",
+    "example2jp": "\u7802\u91d1\u3060\uff01\u7802\u91d1\u3060\uff01\u308f\u3042\u30fc\u3063\uff01 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u7802\u91d1"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u305d\u3046\u304b\u3044\u3000\u3044\u3088\u3044\u3088\u9000\u9662\u304b\u3002 (My Neighbour Totoro)",
+    "example2jp": "\u3046\u3046\u3093\n\u307e\u3060\u672c\u5f53\u306e\u9000\u9662\u3058\u3083\u306a\u304f\u3066\u2192 (My Neighbour Totoro)",
+    "jlpt": 4,
+    "word": "\u9000\u9662"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u89d2\u7802\u7cd6\u306f\u3000\u3060\u3081\u3060\u3063\u305f (The Borrower Arrietty)",
+    "example2jp": "\u4f55\u3067\u3059\u3063\u3066\uff01\u89d2\u7802\u7cd6\u304c\uff01\uff1f (The Borrower Arrietty)",
+    "jlpt": 5,
+    "word": "\u89d2\u7802\u7cd6"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u8349\u58c1\u3055\uff5e\u3093\uff01 (My Neighbour Totoro)",
+    "example2jp": "\u79c1\u3000\u8349\u58c1\u30b5\u30c4\u30ad\u3067\u3059\u2026\u3000\u306f\u3044\u3002 (My Neighbour Totoro)",
+    "jlpt": 4,
+    "word": "\u8349\u58c1"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u3044\u3044\u305e\uff01\u3000\u8ced\u3051\u3060\u3000\u8ced\u3051\u304c\u3067\u304d\u308b\uff01\n\u9023\u5408\u304c\u80f4\u5143\u306b\u306a\u308b\u305e\uff01 (Porco Rosso)",
+    "example2jp": "\u9023\u5408\u306e\u8247\u3060\uff5e\uff01 (Porco Rosso)",
+    "jlpt": 4,
+    "word": "\u9023\u5408"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u30fb\uff5e\u3000\u3086\u308c\u3066\u3044\u305f\u6642\u4ee3\u306e (Porco Rosso)",
+    "example2jp": "\u79c1\u3000\u4eca\u3000\u30cf\u30a6\u30eb\u306e\u5b50\u4f9b\u6642\u4ee3\u306b\n\u30fb\uff5e\n\u3044\u308b\u3093\u3060\u3002 (Howl's Moving Castle)",
+    "jlpt": 4,
+    "word": "\u6642\u4ee3"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u5bae\u5d0e\u3000\u99ff\u76e3\u7763\u304c\u3000\u30ab\u30c3\u30b3\u3088\u3055\u3068\n\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u306e\u697d\u3057\u307f\u3092\u2192 (Porco Rosso)",
+    "example2jp": "\u5bae\u5d0e\u3000\u99ff\u76e3\u7763\u306e\n\u5927\u5091\u4f5c\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u3067\u3059\uff1e (My Neighbour Totoro)",
+    "jlpt": 0,
+    "word": "\u99ff\u76e3\u7763"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u3053\u3093\u306a\u3000\u304b\u308f\u3044\u3044\u5b50\u9054\u3092\u7f6e\u3044\u3066\n\u3069\u3053\u306e\u8ab0\u304c\u6b7b\u306d\u3063\u304b\u3044\u3002 (My Neighbour Totoro)",
+    "example2jp": "\u3042\u306e\u5b50\u9054\u3000\u898b\u304b\u3051\u3088\u308a\n\u305a\u3063\u3068\u7121\u7406\u3057\u3066\u6765\u305f\u3068\u601d\u3046\u306e\u3002 (My Neighbour Totoro)",
+    "jlpt": 5,
+    "word": "\u5b50\u9054"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u91dd\u8def\uff19\uff18\u3000\u901f\u529b\uff14\uff10\uff01 (Laputa: Castle in the Sky)",
+    "example2jp": "\u898b\u3048\u306a\u304f\u306a\u308b\u307e\u3067\u98db\u3093\u3067\n\u3059\u3050\u91dd\u8def\u3092\u5909\u3048\u308b\u306b\u9055\u3047\u306d\u3048\u3002 (Porco Rosso)",
+    "jlpt": 3,
+    "word": "\u91dd\u8def"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u7834\u58ca\u3057\u307e\u3057\u305f\n\u5a18\u306f\u3000\u3042\u305d\u3053\u3067\u3059\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "\u9055\u3046\uff01\u3000\u5f7c\u3089\u306f\u7834\u58ca\u306b\u4f7f\u3046\u3060\u3051\u3060\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 3,
+    "word": "\u7834\u58ca"
+  },
+  {
+    "count": 5,
+    "example1jp": "\uff1c\u512a\u3057\u304f\u3066\u5fc3\u6e29\u307e\u308b\n\u6700\u9ad8\u306e\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\uff1e (Ponyo)",
+    "example2jp": "\uff1c\u4e16\u754c\u6700\u9ad8\u306e\u5e2b\u5f1f\u30b3\u30f3\u30d3\u8a95\u751f\u3092\n\u898b\u9003\u3059\u306a\uff01\uff1e (Ponyo)",
+    "jlpt": 4,
+    "word": "\u6700\u9ad8"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u30dd\u30cb\u30e7\u306e\u6b63\u4f53\u304c\n\u534a\u9b5a\u4eba\u3067\u3082\u3044\u3044\u3067\u3059\u304b\uff1f (Ponyo)",
+    "example2jp": "\u305d\u3044\u3064\u306e\u6b63\u4f53\u306f\u30ab\u30aa\u30ca\u30b7\u3060\u3088\u3002 (Spirited Away)",
+    "jlpt": 4,
+    "word": "\u6b63\u4f53"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u8239\u9577\u3068\u8a00\u3044\u306a\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "\u884c\u3053\u3046\u3000\u304a\u3070\u3055\u3093\uff01\n\u8239\u9577\u3068\u304a\u547c\u3073\uff01 (Laputa: Castle in the Sky)",
+    "jlpt": 3,
+    "word": "\u8239\u9577"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u3055\u3063\u304d\u306e\u6226\u95d8\u3067\u2192 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u304a\u524d\u306e\u6226\u95d8\u8247\u3082\n\u6ca1\u53ce\u3059\u308b\u3068\u3044\u3063\u3066\u308b\u305e\u3002 (Porco Rosso)",
+    "jlpt": 1,
+    "word": "\u6226\u95d8"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u8ecd\u968a\u3060\uff01\u3000\u8d70\u308c\u3000\u30b7\u30fc\u30bf\uff01 (Laputa: Castle in the Sky)",
+    "example2jp": "\u4f55\u8005\u3060\u308d\u3046\uff1f\n\u8ecd\u968a\u3068\u4e00\u7dd2\u306b\u3044\u308b\u306a\u3093\u3066\u3002 (Laputa: Castle in the Sky)",
+    "jlpt": 3,
+    "word": "\u8ecd\u968a"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u4eca\u5ea6\u306f\u5f53\u5c40\u3082\u898b\u9003\u3055\u306a\u3044\u305e\u3002 (Porco Rosso)",
+    "example2jp": "\uff1c\u6765\u9031\u306e\u300e\u8033\u3092\u3059\u307e\u305b\u3070\u300f\u3082\n\u304a\u898b\u9003\u3057\u306a\u304f\uff1e (Porco Rosso)",
+    "jlpt": 4,
+    "word": "\u898b\u9003"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u3067\u3082\u3001\u3042\u306e\u3001\u85ac\u6e6f\u3058\u3083\u306a\u3044\u3068\u30c0\u30e1\u3060\u305d\u3046\u3067\u3059\u3002 (Spirited Away)",
+    "example2jp": "\u6700\u9ad8\u306e\u85ac\u6e6f\u304a\u3054\u3063\u3066\u304f\u308c\u308b\u3063\u3066\uff01 (Spirited Away)",
+    "jlpt": 4,
+    "word": "\u85ac\u6e6f"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u3055\u3063\u304d\u306e\u8acb\u6c42\u66f8\n\u6c34\u5897\u3057\u3057\u3068\u3051\u3070\u3000\u3088\u304b\u3063\u305f\uff01 (Porco Rosso)",
+    "example2jp": "\u3061\u3083\u3093\u3068\u3000\u30ac\u30b9\u4ee3\u3082\n\u8acb\u6c42\u66f8\u306b\u5165\u308c\u3068\u304d\u307e\u3059\u304b\u3089\u306d\u3002 (Porco Rosso)",
+    "jlpt": 3,
+    "word": "\u8acb\u6c42\u66f8"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u304d\u2026\u3000\u8cb4\u69d8\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u8cb4\u69d8\u2026\u3000\u3046\u3049\uff5e\u3063!! (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 3,
+    "word": "\u8cb4\u69d8"
+  },
+  {
+    "count": 5,
+    "example1jp": "\uff08\u30b0\u30e9\u30f3\u30de\u30f3\u30de\u30fc\u30ec\uff09\n\u4eca\u306f\u9759\u304b\u306b\u304a\u3084\u3059\u307f\u3000\u5b50\u4f9b\u9054\u3002 (Ponyo)",
+    "example2jp": "\uff08\u5b50\u4f9b\u9054\u306e\u9a12\u3050\u58f0\uff09 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u5b50\u4f9b\u9054"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u89aa\u65b9\u3000\u6226\u4e89\u3068\u8cde\u91d1\u7a3c\u304e\u3068\n\u3069\u3046\u9055\u3046\u306e\uff1f (Porco Rosso)",
+    "example2jp": "\u8cde\u91d1\u7a3c\u304e\u3067\u7a3c\u3052\u306d\u3048\u30e4\u30c4\u306f\n\u80fd\u306a\u3057\u3060\u3002 (Porco Rosso)",
+    "jlpt": 3,
+    "word": "\u8cde\u91d1\u7a3c"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u79c1\u306e\u9854\u3092\u898b\u308b\u306a\u308a\n\u300c\u7d50\u5a5a\u3057\u3066\u304f\u308c\u300d\u3060\u3063\u3066\u3002 (Porco Rosso)",
+    "example2jp": "\u53e4\u3044\u4ef2\u9593\u3067\u306a\u3000\u30e4\u30c3\u30b3\u3055\u3093\n\uff12\u65e5\u524d\u306b\u7d50\u5a5a\u3057\u305f\u3070\u304b\u308a\u3060\u3063\u305f\u3088\u3002 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u7d50\u5a5a"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u307b\u3089\u3001\u3042\u308c\u304c\u5c0f\u5b66\u6821\u3060\u3088\u3002 (Spirited Away)",
+    "example2jp": "\u7d50\u69cb\u304d\u308c\u3044\u306a\u5b66\u6821\u3058\u3083\u306a\u3044\u3002 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u5b66\u6821"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u4e03\u56fd\u5c71\u306e\u75c5\u9662\u304b\uff1f (My Neighbour Totoro)",
+    "example2jp": "\u79c1\u9054\u306d\u3000\u4e03\u56fd\u5c71\u304b\u3089\u6765\u305f\u306e\u3002 (My Neighbour Totoro)",
+    "jlpt": 5,
+    "word": "\u4e03\u56fd\u5c71"
+  },
+  {
+    "count": 5,
+    "example1jp": "\uff08\u5510\u5098\uff09\u3000\u226a\u3042\u3044\u3064\u3092\u3057\u305a\u3081\u308d\uff01\u226b (Princess Mononoke)",
+    "example2jp": "\uff08\u5510\u5098\uff09\u3000\u68ee\u306f\u5e83\u304f\u3066\u6df1\u3044\n\u4f7f\u3044\u306e\u51fa\u3057\u3088\u3046\u304c\u306a\u3044\u306e\u3060\u3002 (Princess Mononoke)",
+    "jlpt": 0,
+    "word": "\u5510\u5098"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u56fd\u5bb6\u3068\u304b\u6c11\u65cf\u3068\u304b\u3000\u304f\u3060\u3089\u306a\u3044\n\u30b9\u30dd\u30f3\u30b5\u30fc\u3092\u80cc\u8ca0\u3063\u3066\u2192 (Porco Rosso)",
+    "example2jp": "\u7686\u3000\u56fd\u5bb6\u306b\u5354\u529b\u305b\u3088\u3068\u306e\n\u304a\u307c\u3057\u3081\u3057\u3067\u3059\u2192 (Howl's Moving Castle)",
+    "jlpt": 5,
+    "word": "\u56fd\u5bb6"
+  },
+  {
+    "count": 5,
+    "example1jp": "\uff08\u87f2\u7b1b\u306e\u97f3\uff09 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\uff08\u87f2\u7b1b\u306e\u97f3\uff09\n\uff08\u30e6\u30d1\uff09\u3000\u87f2\u7b1b\u2026\uff1f (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 0,
+    "word": "\u87f2\u7b1b"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u4f55\u4eba\u3082\u3044\u308b\u3093\u3067\u3059\u304b\u3089 (The Borrower Arrietty)",
+    "example2jp": "\u3082\u3046\u4f55\u4eba\u304b\u3057\u304b\u306a\u3044\u3093\u3060\u3088\u306d (The Borrower Arrietty)",
+    "jlpt": 5,
+    "word": "\u4f55\u4eba"
+  },
+  {
+    "count": 5,
+    "example1jp": "\u590f\u4f11\u307f\u306e\u5bbf\u984c\u3092\n\u3042\u304d\u3089\u3081\u306a\u3044\u3002 (Ponyo)",
+    "example2jp": "\uff08\u30b5\u30c4\u30ad\u306e\u58f0\uff09\u3000\u300c\u3082\u3046\u3059\u3050\u590f\u4f11\u307f\u3067\u3059\n\u65e9\u304f\u5143\u6c17\u306b\u306a\u3063\u3066\u304f\u3060\u3055\u3044\u3002 (My Neighbour Totoro)",
+    "jlpt": 5,
+    "word": "\u590f\u4f11"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u98db\u884c\u8239\u306e\u53f0\u6240\u3063\u3066\u3000\u521d\u3081\u3066\u3067\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "\u305d\u308c\u3000\u7236\u3055\u3093\u304c\u98db\u884c\u8239\u304b\u3089\n\u64ae\u3063\u305f\u5199\u771f\u306a\u3093\u3060\u3002 (Laputa: Castle in the Sky)",
+    "jlpt": 3,
+    "word": "\u98db\u884c\u8239"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u3042\u306a\u305f\u9054\u3060\u3063\u3066\n\u4e95\u6238\u306e\u6c34\u3092\u98f2\u3080\u3067\u3057\u3087\uff1f (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u3053\u306e\u4e95\u6238\u304c\u3000\u3044\u3063\u3071\u3044\u306b\u306a\u3063\u305f\u6642\n\u518d\u3073\u6d77\u306e\u6642\u4ee3\u304c\u59cb\u307e\u308b\u306e\u3060\u3002 (Ponyo)",
+    "jlpt": 2,
+    "word": "\u4e95\u6238"
+  },
+  {
+    "count": 4,
+    "example1jp": "\uff08\u30d2\u30a4\uff09\u3000\u7686\u306b\u3000\u53f3\u8155\u3092\u898b\u305b\u306a\u3055\u3044\u3002 (Princess Mononoke)",
+    "example2jp": "\u3060\u304c\u3000\u3053\u306e\u53f3\u8155\n\u305d\u308c\u3060\u3051\u3067\u306f\u6b62\u307e\u3089\u306c\u3002 (Princess Mononoke)",
+    "jlpt": 4,
+    "word": "\u53f3\u8155"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u3069\u3046\u304b\n\u30ab\u30eb\u30b7\u30d5\u30a1\u30fc\u304c\u5343\u5e74\u3082\u751f\u304d\u2192 (Howl's Moving Castle)",
+    "example2jp": "\u4f55\u5343\u5e74\u304b\u304b\u308b\u304b\u5206\u304b\u3089\u306a\u3044\u306e\u306b\u2192 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 5,
+    "word": "\u5343\u5e74"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u305d\u3046\u3084\u3063\u3066\u79c1\u305f\u3061\u306e\u7a2e\u65cf\u304c\u3000\u3069\u3053\u304b\u3067\u5de5\u592b\u3057\u3066\u66ae\u3089\u3057\u3066\u3044\u308b\u306e\u3092 (The Borrower Arrietty)",
+    "example2jp": "\u541b\u305f\u3061\u306f\u6ec5\u3073\u3086\u304f\u7a2e\u65cf\u306a\u3093\u3060\u3088 (The Borrower Arrietty)",
+    "jlpt": 3,
+    "word": "\u7a2e\u65cf"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u672c\u7269\u306e\u91d1\u3060\u3001\u3082\u3089\u3063\u305f\u3093\u3060\u3002 (Spirited Away)",
+    "example2jp": "\u4eca\u3000\u672c\u7269\u3092\u4f5c\u3063\u3066\u308b\u3093\u3060\u3002 (Laputa: Castle in the Sky)",
+    "jlpt": 5,
+    "word": "\u672c\u7269"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u30d6\u30bf\u3068\u3060\u3063\u3066\u4ef2\u826f\u304f\u3084\u3063\u3066\u308b\u305e\n\u306a\u3042\uff01 (Porco Rosso)",
+    "example2jp": "\u30cb\u30fc\u30e4\u3000\u3060\u3081\u3060\u3088\u3000\u4ef2\u826f\u304f\u306d (The Borrower Arrietty)",
+    "jlpt": 2,
+    "word": "\u4ef2\u826f"
+  },
+  {
+    "count": 4,
+    "example1jp": "\uff11\uff10\u30c8\u30f3\u7206\u5f3e\u3067\u3082\n\u6295\u3052\u308a\u3083\u3042\u3000\u3044\u3044\u3093\u3060\u3002 (Porco Rosso)",
+    "example2jp": "\u3054\u89a7\n\u3042\u3093\u306a\u306b\u7206\u5f3e\u3092\u304f\u3063\u3064\u3051\u3066\u308b\u3002 (Howl's Moving Castle)",
+    "jlpt": 3,
+    "word": "\u7206\u5f3e"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u6b7b\u306c\u306e\u306f\u725b\u98fc\u3044\u3070\u304b\u308a\u3055\u3002 (Princess Mononoke)",
+    "example2jp": "\u3084\u306a\u3053\u3063\u305f\uff01\u3000\u725b\u98fc\u3044\u306a\u3093\u3066\u3002 (Princess Mononoke)",
+    "jlpt": 3,
+    "word": "\u725b\u98fc"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u3058\u3058\u3044\u3000\u4f59\u8a08\u306a\u3053\u3068\u3092\u2026\u3002 (Porco Rosso)",
+    "example2jp": "\u3042\u306a\u305f\u304c\u4f59\u8a08\u306a\u3053\u3068\u3092\u3057\u305f\u304b\u3089 (The Borrower Arrietty)",
+    "jlpt": 3,
+    "word": "\u4f59\u8a08"
+  },
+  {
+    "count": 4,
+    "example1jp": "\uff08\u9752\u5e74\uff09\u3000\u304a\uff5e\u3044\uff01 (Ponyo)",
+    "example2jp": "\uff08\u9752\u5e74\uff09\u3000\u306f\uff5e\u3044\u3000\u5206\u304b\u308a\u307e\u3057\u305f\uff5e\uff01 (Ponyo)",
+    "jlpt": 5,
+    "word": "\u9752\u5e74"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u304a\u306f\u3088\u3046\u3000\u30ab\u30d6\n\u52c7\u6c17\u3092\u51fa\u3055\u306a\u304f\u3061\u3083\u306d\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u30ca\u30a6\u30b7\u30ab\u306e\u52c7\u6c17\u3063\u3066\u3000\u3059\u3054\u3044\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 3,
+    "word": "\u52c7\u6c17"
+  },
+  {
+    "count": 4,
+    "example1jp": "\uff08\u8b66\u5831\u97f3\uff09 (Laputa: Castle in the Sky)",
+    "example2jp": "\uff08\u8b66\u5831\u97f3\uff09 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 4,
+    "word": "\u8b66\u5831"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u5206\u304b\u3063\u305f\u308f\u2026\u3000\u53d6\u5f15\u306d\u2026\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u305d\u308c\u3068\u3082\u53d6\u5f15\u306e\u3053\u3068\u3092\n\u30cf\u30a6\u30eb\u306b\u30d0\u30e9\u305d\u3046\u304b\uff1f (Howl's Moving Castle)",
+    "jlpt": 5,
+    "word": "\u53d6\u5f15"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u304d\u308c\u3044\u306a\u7d50\u6676\u306b\u3057\u3066\u304b\u3089\n\u6b7b\u3093\u3067\u7802\u306b\u306a\u3063\u3066\u884c\u304f\u3093\u3060\u308f\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u3042\u3093\u305f\u3000\u305d\u308a\u3083\u98db\u884c\u77f3\u306e\u7d50\u6676\u3058\u3083\uff01 (Laputa: Castle in the Sky)",
+    "jlpt": 1,
+    "word": "\u7d50\u6676"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u611f\u52d5\u3057\u3061\u3083\u3063\u305f\u3002 (Porco Rosso)",
+    "example2jp": "\u4ffa\u3000\u611f\u52d5\u3057\u3061\u3083\u3063\u305f\u2026\uff01 (Porco Rosso)",
+    "jlpt": 3,
+    "word": "\u611f\u52d5"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u30b8\u30b3\u574a\u69d8\uff01 (Princess Mononoke)",
+    "example2jp": "\u30b8\u30b3\u574a\u69d8\u3002\n\uff08\u30b8\u30b3\u574a\uff09\u3000\u3093\uff5e\u3000\u5206\u304b\u3063\u3066\u304a\u308b\u3002 (Princess Mononoke)",
+    "jlpt": 3,
+    "word": "\u574a\u69d8"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u3042\u3041\u3000\u5927\u5c4b\u6839\u304c\u2026\u3002 (Princess Mononoke)",
+    "example2jp": "\u3053\u306e\u5c4b\u6839\u306e\u4e0a\u306b\u3000\u3044\u308b\u3089\u3057\u3044\u3088\u3002\n\u3048\uff5e!? (Princess Mononoke)",
+    "jlpt": 3,
+    "word": "\u5c4b\u6839"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u30dd\u30a8\u30e0\u7d75\u672c\u3068\n\u30a2\u30cb\u30e1\u7d75\u672c\u306e\u30bb\u30c3\u30c8\u2192 (My Neighbour Totoro)",
+    "example2jp": "\u771f\u3063\u9ed2\u30af\u30ed\u30b9\u30b1!?\n\u7d75\u672c\u306b\u51fa\u3066\u305f\uff1f (My Neighbour Totoro)",
+    "jlpt": 5,
+    "word": "\u7d75\u672c"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u5927\u304d\u306a\u8ecd\u8266\u2026\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u8ecd\u8266\uff1f\n\u753a\u3084\u4eba\u3092\u713c\u304d\u306b\u884c\u304f\u306e\u3055\u3002 (Howl's Moving Castle)",
+    "jlpt": 1,
+    "word": "\u8ecd\u8266"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u4eca\u65e5\u306e\u965b\u4e0b\u306f\u80fd\u5f01\u3067\u3059\u3053\u3068\u3002 (Howl's Moving Castle)",
+    "example2jp": "\uff08\u30b5\u30ea\u30de\u30f3\uff09\u3000\u738b\u965b\u4e0b\u3002\n\u3044\u3084\u3000\u305d\u306e\u307e\u307e\u3002 (Howl's Moving Castle)",
+    "jlpt": 0,
+    "word": "\u965b\u4e0b"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u3053\u3053\u306f\n\u3057\u304c\u306a\u3044\u4e0b\u753a\u306e\u5e3d\u5b50\u5c4b\u3067\u3059\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u5f53\u305f\u308a\u524d\u3067\u3057\u3087\n\u79c1\u306e\u3044\u305f\u5e3d\u5b50\u5c4b\u306e\u540d\u3060\u3082\u3093\u3002 (Howl's Moving Castle)",
+    "jlpt": 5,
+    "word": "\u5e3d\u5b50\u5c4b"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u305d\u308c\u3067\u534a\u9b5a\u4eba\u306b\u306a\u3063\u305f\u3093\u3060\u3002 (Ponyo)",
+    "example2jp": "\u30dd\u30cb\u30e7\u306e\u6b63\u4f53\u304c\n\u534a\u9b5a\u4eba\u3067\u3082\u3044\u3044\u3067\u3059\u304b\uff1f (Ponyo)",
+    "jlpt": 5,
+    "word": "\u534a\u9b5a\u4eba"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u4f55\u3060\u308d\u3046\uff1f\u3000\u6c17\u5473\u304c\u60aa\u3044\u306d\u3002 (Princess Mononoke)",
+    "example2jp": "\u4f55\u3088\u3000\u3042\u306e\u4e0d\u6c17\u5473\u7537\uff01 (Ponyo)",
+    "jlpt": 5,
+    "word": "\u6c17\u5473"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u6226\u8eca\u3092\u53d6\u308a\u3084\u304c\u3063\u305f\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u6765\u305f\uff01\u3000\u6226\u8eca\u304c\u6765\u305f\u305e\uff5e\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 4,
+    "word": "\u6226\u8eca"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u5f37\u3044\u306d\uff5e\u3000\u8d64\u3044\u98db\u884c\u6a5f\u3002 (Porco Rosso)",
+    "example2jp": "\u304d\u308c\u3044\u306d\uff5e\u3000\u3042\u3063\u3000\u898b\u3066\uff01\n\u8d64\u3044\u98db\u884c\u6a5f\uff01 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u98db\u884c\u6a5f"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u266a\u266a\uff5e\u3000\u3044\u3064\u304b\u3000\u304d\u3063\u3068\u51fa\u4f1a\u3046 (Laputa: Castle in the Sky)",
+    "example2jp": "\u305d\u3053\u3067\u3000\u7530\u820e\u306e\u5927\u5bb6\u65cf\u3068\u51fa\u4f1a\u3046\uff1e (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u51fa\u4f1a"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u3084\u3041\u3000\u7d20\u6674\u3089\u3057\u3044\u30dc\u30fc\u30c8\u3060\u306a\u3002 (Ponyo)",
+    "example2jp": "\u7d20\u6674\u3089\u3057\u3044\u4eba\u3060\u2026\u3002 (Porco Rosso)",
+    "jlpt": 3,
+    "word": "\u7d20\u6674"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u9244\u3092\u534a\u5206\u3088\u3053\u305b\u3068\u8a00\u3063\u3066\u6765\u305f\u3002\n\u305d\u308a\u3083\u3042\u3000\u3054\u3046\u3064\u304f\u3060\u3002 (Princess Mononoke)",
+    "example2jp": "\u3046\u308b\u305b\u3047\uff01\u3000\u5973\u304c\u3069\u3046\u3057\u305f\uff01\n\u4e16\u754c\u306e\u534a\u5206\u306f\u5973\u3060\u3002 (Porco Rosso)",
+    "jlpt": 5,
+    "word": "\u534a\u5206"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u79c1\u3000\u30cf\u30a6\u30eb\u304c\u602a\u7269\u3060\u3063\u3066\u5e73\u6c17\u3088\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u3044\u3084\u3000\u4e09\u4e0b\u3060\u304c\n\u602a\u7269\u306b\u5909\u8eab\u3057\u3066\u3044\u305f\u3002 (Howl's Moving Castle)",
+    "jlpt": 3,
+    "word": "\u602a\u7269"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u7d50\u69cb\u65b0\u3057\u3044\u5efa\u7269\u3060\u3088\u3002 (Spirited Away)",
+    "example2jp": "\u7d50\u69cb\u304d\u308c\u3044\u306a\u5b66\u6821\u3058\u3083\u306a\u3044\u3002 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u7d50\u69cb"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u3069\u3093\u306a\u306b\u6050\u308d\u3057\u3044\n\u6b66\u5668\u3092\u6301\u3063\u3066\u3082\u2192 (Laputa: Castle in the Sky)",
+    "example2jp": "\u76f8\u624b\u306f\u6b66\u5668\u3092\u6301\u3063\u3066\u3093\u3060\u3088\u3002\n\u3067\u3082\uff01 (Laputa: Castle in the Sky)",
+    "jlpt": 3,
+    "word": "\u6b66\u5668"
+  },
+  {
+    "count": 4,
+    "example1jp": "\uff1c\u305d\u3057\u3066\uff18\u6708\u3082\u8d85\u8c6a\u83ef\uff01\uff1e (Porco Rosso)",
+    "example2jp": "\uff1c\u58f0\u512a\u30ad\u30e3\u30b9\u30c8\u3082\u8d85\u8c6a\u83ef\uff1e (Princess Mononoke)",
+    "jlpt": 3,
+    "word": "\u8c6a\u83ef"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u79d1\u5b66\u3082\u3000\u305a\uff5e\u3063\u3068\u9032\u3093\u3067\u3044\u305f\u306e\u306b\n\u3069\u3046\u3057\u3066\u2026\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "\u305d\u308c\u3059\u3089\u6211\u3005\u306e\u79d1\u5b66\u529b\u3067\u306f\n\u5206\u304b\u3089\u306a\u3044\u3093\u3060\u3002 (Laputa: Castle in the Sky)",
+    "jlpt": 4,
+    "word": "\u79d1\u5b66"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u91d1\u8272\u306e\u91ce\u306b\u964d\u308a\u7acb\u3064\u3079\u3057\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u91d1\u8272\u306e\u91ce\u306b\u964d\u308a\u7acb\u3064\u3079\u3057\u300d\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 5,
+    "word": "\u91d1\u8272"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u53f0\u6240\u3000\u6c17\u306b\u5165\u3063\u3066\u304f\u308c\u305f\uff1f (The Borrower Arrietty)",
+    "example2jp": "\u672c\u5f53\u306b\u3053\u308c\u3000\u3044\u3044\u53f0\u6240\u306d\u3048\u2026 (The Borrower Arrietty)",
+    "jlpt": 5,
+    "word": "\u53f0\u6240"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u53c2\u8b00\uff01\n\u6700\u5f8c\u306e\uff11\u4eba\u304c\u3000\u3084\u3089\u308c\u307e\u3057\u305f\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u7dcf\u7406\u5927\u81e3\u3068\u53c2\u8b00\u9577\u3092\u547c\u3073\u306a\u3055\u3044\u3002 (Howl's Moving Castle)",
+    "jlpt": 0,
+    "word": "\u53c2\u8b00"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u5927\u4f50\uff01\u3000\u4f55\u4e8b\u3067\u3059\u304b\uff01 (Laputa: Castle in the Sky)",
+    "example2jp": "\u5927\u4f50\u3000\u3053\u3053\u306f\u3000\u4e00\u4f53\u2026\u3002 (Laputa: Castle in the Sky)",
+    "jlpt": 1,
+    "word": "\u5927\u4f50"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u5927\u4e08\u592b\u3000\u9271\u5c71\u306e\u7537\u306f\n\u305d\u3093\u306a\u306b\u30e4\u30ef\u3058\u3083\u306a\u3044\u3088\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "\u3000\u9271\u5c71\u4f1a\u793e\u306e\u7d66\u6599\u3092\n\u7a4d\u3093\u3067\u308b\u3093\u3060\u3002 (Porco Rosso)",
+    "jlpt": 2,
+    "word": "\u9271\u5c71"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u5f85\u3066\u5f85\u3066\u3000\u62d9\u50e7\u304c\u898b\u3066\u3084\u308d\u3046\u3002 (Princess Mononoke)",
+    "example2jp": "\u793c\u3092\u8a00\u3044\u305f\u3044\u306e\u306f\n\u62d9\u50e7\u306e\u307b\u3046\u3067\u306a\u3002 (Princess Mononoke)",
+    "jlpt": 0,
+    "word": "\u62d9\u50e7"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u77f3\u306f\u6301\u3061\u4e3b\u3092\u5b88\u308a\u3000\u3044\u3064\u306e\u65e5\u306b\u304b\n\u5929\u7a7a\u306e\u30e9\u30d4\u30e5\u30bf\u3078\u5e30\u308b\u6642\u306e\u2192 (Laputa: Castle in the Sky)",
+    "example2jp": "\u30e9\u30d4\u30e5\u30bf\u306f\u3000\u304b\u3064\u3066\n\u6050\u308b\u3079\u304d\u79d1\u5b66\u529b\u3067\u5929\u7a7a\u306b\u3042\u308a\u2192 (Laputa: Castle in the Sky)",
+    "jlpt": 5,
+    "word": "\u5929\u7a7a"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u305d\u3053\u3089\u4e2d\u3067\u3000\u30b5\u30ea\u30de\u30f3\u306e\u624b\u5148\u304c\n\u3053\u306e\u5bb6\u3092\u63a2\u3057\u56de\u3063\u3066\u3044\u308b\u3088\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u305d\u306a\u305f\u3092\u3000\u4f8d\u3069\u3082\u304b\u3000\u3082\u306e\u306e\u3051\u306e\n\u624b\u5148\u3068\u7591\u3046\u8005\u304c\u3044\u308b\u306e\u3060\u3002 (Princess Mononoke)",
+    "jlpt": 5,
+    "word": "\u624b\u5148"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u3088\u307b\u3069\u306e\u4ed5\u639b\u3051\u304c\u3042\u308b\u306e\u3060\u308d\u3046\u3002 (Princess Mononoke)",
+    "example2jp": "\uff08\u30e6\u30d1\uff09\u3000\u6226\u3092\u4ed5\u639b\u3051\u308b\u306a\u3089\u3070\n\u305d\u308c\u306a\u308a\u306e\u7406\u7531\u304c\u3042\u308b\u306f\u305a\u2192 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 4,
+    "word": "\u4ed5\u639b"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u3053\u3044\u3064\u3092\u30d9\u30eb\u30c8\u306b\u3064\u306a\u304e\u306a\n\u304a\u524d\u9054\u306f\u672c\u8239\u3067\u304a\u5f85\u3061\uff01 (Laputa: Castle in the Sky)",
+    "example2jp": "\u226a\u672c\u8239\u306f\n\u3053\u308c\u3088\u308a\u8ffd\u8de1\u3092\u958b\u59cb\u3059\u308b\u226b (Laputa: Castle in the Sky)",
+    "jlpt": 3,
+    "word": "\u672c\u8239"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u5e30\u308a\u3092\u5f85\u3063\u3066\u305f\u308a\u3057\u305f\u3089\n\u624b\u9045\u308c\u306b\u306a\u3063\u3061\u307e\u3046\uff01 (Princess Mononoke)",
+    "example2jp": "\u305d\u308c\u306b\u3000\u3053\u306e\u30b1\u30ac\u4eba\u306f\n\u65e9\u304f\u3057\u306a\u3044\u3068\u624b\u9045\u308c\u306b\u306a\u308b\u305e\u3002 (Princess Mononoke)",
+    "jlpt": 5,
+    "word": "\u624b\u9045"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u30fb\uff5e\u3000\u4f53\u4e2d\u3067\u77ac\u9593\u3092\u611f\u3058\u305f (Porco Rosso)",
+    "example2jp": "\u59ff\u3092\u73fe\u3057\u305f\u77ac\u9593\u3092\u3057\u3068\u3081\u308d\u3002 (Laputa: Castle in the Sky)",
+    "jlpt": 3,
+    "word": "\u77ac\u9593"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u6a5f\u95a2\u9283\u306e\u3059\u304d\u9593\u306b\u3057\u307e\u3063\u3066\u304f\u308c\u3002 (Porco Rosso)",
+    "example2jp": "\u53f3\u5074\u306e\u6a5f\u95a2\u9283\u3092\u5916\u3057\u306a\u3002\n\u3048\u3063\uff1f (Porco Rosso)",
+    "jlpt": 3,
+    "word": "\u6a5f\u95a2\u9283"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u4eca\u9803\u3000\u304d\u3063\u3068\u3000\u3069\u3053\u304b\u3067\u6ce3\u3044\u3066\u308b\u308f\u3002 (My Neighbour Totoro)",
+    "example2jp": "\u4f55\u3067\u3059\uff1f\u3000\u4eca\u9803\u3000\u9023\u7d61\u3057\u3066\u6765\u3066\u2026\n\u3042\u306a\u305f\u3000\u4f55\u3092\u3084\u3063\u3066\u305f\u306e\uff1f (Howl's Moving Castle)",
+    "jlpt": 3,
+    "word": "\u4eca\u9803"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u305b\u3044\u305c\u3044\u96e3\u3057\u3044\u6697\u53f7\u3092\u7d44\u3080\u3093\u3060\u306a\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "\u30d2\u30d2\u30d2\u2026\n\u6697\u53f7\u3092\u5909\u3048\u305f\u3063\u3066\u30e0\u30c0\u3060\u3088\u3002 (Laputa: Castle in the Sky)",
+    "jlpt": 5,
+    "word": "\u6697\u53f7"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u4e8c\u5ea6\u3068\u3000\u3053\u3053\u3078\u306f\u5e30\u308c\u306a\u304f\u306a\u308b\u3088\u3002\n\u5206\u304b\u3063\u3066\u308b\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "\u4e8c\u5ea6\u3068\u95a2\u308f\u308a\u5408\u3046\u306a\u3000\u3044\u3044\u306a (The Borrower Arrietty)",
+    "jlpt": 5,
+    "word": "\u4e8c\u5ea6"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u306a\u305c\u3000\u3053\u306e\u3088\u3046\u306a\u8fba\u5883\u306b\u8239\u304c\u2026\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u308f\u308c\u3089\u306f\u3000\u8fba\u5883\u306e\u56fd\u3005\u3092\u7d71\u5408\u3057\u2192 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 3,
+    "word": "\u8fba\u5883"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u30e4\u30c4\u3089\u306f\u30b1\u30c1\u3067\u8ca7\u4e4f\u3060\u3002 (Porco Rosso)",
+    "example2jp": "\u30e4\u30c4\u3089\u306f\u8ca7\u4e4f\u3067\u30b1\u30c1\u3060\u304b\u3089\u2192 (Porco Rosso)",
+    "jlpt": 1,
+    "word": "\u8ca7\u4e4f"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u9664\u8349\u5264\u3058\u3083\u306a\u3044\u306a\u3089\u7d50\u69cb\u3067\u3059\u3002 (Ponyo)",
+    "example2jp": "\u3044\u3084\n\u3053\u308c\u306f\u9664\u8349\u5264\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002 (Ponyo)",
+    "jlpt": 2,
+    "word": "\u9664\u8349\u5264"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u5929\u671d\u69d8\uff1f\n\u5929\u671d\u69d8\u3063\u3066\uff1f (Princess Mononoke)",
+    "example2jp": "\u305d\u306a\u305f\u9054\u3000\u3053\u306e\u66f8\u304d\u4ed8\u3051\u304c\n\u5206\u304b\u308b\u304b\uff1f\u3000\u5929\u671d\u69d8\u306e\u3060\u3002 (Princess Mononoke)",
+    "jlpt": 3,
+    "word": "\u5929\u671d\u69d8"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u30d2\u30e5\uff5e\uff01\n\u6226\u95d8\u8247\u306b\u5973\u306e\u30b3\u304c\u4e57\u3063\u3066\u3089\u3041\u3002 (Porco Rosso)",
+    "example2jp": "\u672c\u8239\u306b\u306f\u512a\u79c0\u306a\u6226\u95d8\u8247\u304c\n\u5099\u3048\u3066\u3042\u308a\u307e\u3059\u3002 (Porco Rosso)",
+    "jlpt": 0,
+    "word": "\u6226\u95d8\u8247"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u30cf\u30a6\u30eb\u306e\u5c45\u5834\u6240\u3092\u6559\u3048\u3066\uff01 (Howl's Moving Castle)",
+    "example2jp": "\u30b9\u30d4\u30e9\u30fc\u3068\u306e\u5f85\u3061\u5408\u308f\u305b\u5834\u6240\u306f\u307e\u3060\u306a\u306e\uff1f (The Borrower Arrietty)",
+    "jlpt": 4,
+    "word": "\u5834\u6240"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u9055\u3046\uff01\u3000\u68ee\u3068\u30bf\u30bf\u30e9\u5834\n\u53cc\u65b9\u751f\u304d\u308b\u9053\u306f\u306a\u3044\u306e\u304b\uff1f (Princess Mononoke)",
+    "example2jp": "\u53cc\u65b9\u3000\u6587\u53e5\u306f\u306d\u3048\u306a\uff1f\n\u3067\u306f\u3000\u59cb\u3081\u308b\u524d\u306b\u63e1\u624b\u3067\u3082\u3057\u306a\uff01 (Porco Rosso)",
+    "jlpt": 3,
+    "word": "\u53cc\u65b9"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u696d\u8005\u3055\u3093\u306b\u306f\u5e30\u3063\u3066\u3082\u3089\u3046\u308f\u3088 (The Borrower Arrietty)",
+    "example2jp": "\u4f55\u3082\u30cd\u30ba\u30df\u6355\u308a\u306e\u696d\u8005\u3092\u547c\u3070\u306a\u304f\u305f\u3063\u3066 (The Borrower Arrietty)",
+    "jlpt": 5,
+    "word": "\u696d\u8005"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u98df\u4e8b\u306f\u4e00\u65e5\u306b\uff15\u56de\u3060\n\u6c34\u306f\u7bc0\u7d04\u3059\u308b\u3093\u3060\u3088\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "\u98df\u4e8b\u306e\u652f\u5ea6\u304c\u3067\u304d\u3066\u3044\u308b\u3093\u3060\u3051\u3069\u3000\u98df\u3079\u3066\u3044\u304b\u306a\u3044\uff1f (The Borrower Arrietty)",
+    "jlpt": 5,
+    "word": "\u98df\u4e8b"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u898b\u305f\u307e\u3048\u3000\u3053\u306e\u5de8\u5927\u306a\u98db\u884c\u77f3\u3092\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "\u5de8\u5927\u306a\u529b\u3092\u4ed6\u56fd\u304c\u6301\u3064\u6050\u6016\u3086\u3048\u306b\n\u79c1\u306f\u30da\u30b8\u30c6\u653b\u7565\u3092\u547d\u4ee4\u3055\u308c\u305f\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 3,
+    "word": "\u5de8\u5927"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u3053\u306e\u901a\u308a\u3000\u7a7a\u6c17\u306b\u3075\u308c\u308b\u3068\u2192 (Laputa: Castle in the Sky)",
+    "example2jp": "\u7a7a\u6c17\u304c\u30d4\uff5e\u30f3\u3068\u5f35\u308a\u3064\u3081\u3066\u3044\u308b\u3000 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 5,
+    "word": "\u7a7a\u6c17"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u226a\u305d\u3046\u3088\uff01\u226b\n\u226a\u5f53\u7136\u3088\uff01\u226b (Ponyo)",
+    "example2jp": "\u305d\u3046\u306d\u3000\u5f53\u7136\u3060\u308f\u3000\u3046\uff5e\u3093\u2026\u3002 (Porco Rosso)",
+    "jlpt": 3,
+    "word": "\u5f53\u7136"
+  },
+  {
+    "count": 4,
+    "example1jp": "\uff08\u30ab\u30e4\uff09\u3000\u5144\u69d8\uff01 (Princess Mononoke)",
+    "example2jp": "\uff08\u30ab\u30e4\uff09\u3000\u5144\u69d8\uff01\u3000\u3042\u3063\uff01 (Princess Mononoke)",
+    "jlpt": 3,
+    "word": "\u5144\u69d8"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u98a8\u90aa\u307f\u305f\u3044\u306a\u3082\u306e\u3060\u3063\u3066\u2026\u3002 (My Neighbour Totoro)",
+    "example2jp": "\u304a\u304b\u3042\u3055\u3093\n\u98a8\u90aa\u3060\u3063\u3066\u3044\u3046\u3093\u3060\u304b\u3089\u2192 (My Neighbour Totoro)",
+    "jlpt": 5,
+    "word": "\u98a8\u90aa"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u96fb\u5831\u3067\u3059\u3088\uff5e\uff01 (My Neighbour Totoro)",
+    "example2jp": "\u8349\u58c1\u3055\uff5e\u3093\u3000\u96fb\u5831\u3067\uff5e\u3059\uff01 (My Neighbour Totoro)",
+    "jlpt": 4,
+    "word": "\u96fb\u5831"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u53ce\u5bb9\u3057\u307e\u3057\u305f\u3002\n\u3066\u3053\u305a\u3089\u305b\u305f\u306a\u3002 (Laputa: Castle in the Sky)",
+    "example2jp": "[TEL]\u3000\u3075\u3093\u3070\u308a\u306a\uff01\n\u53ce\u5bb9\u306f\u3067\u304d\u306a\u3044\uff01 (Laputa: Castle in the Sky)",
+    "jlpt": 3,
+    "word": "\u53ce\u5bb9"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u3053\u306e\u30e9\u30a4\u30c8\u304c\u300c\u501f\u308a\u300d\u306e\u9014\u4e2d\u3067\u3000\u3064\u304b\u306a\u304f\u306a\u3063\u3066\u3057\u307e\u3063\u305f (The Borrower Arrietty)",
+    "example2jp": "\u30e1\u30a4\u306f\u75c5\u9662\u3078\u884c\u3053\u3046\u3068\u3057\u3066\n\u9014\u4e2d\u3067\u9053\u3092\u9593\u9055\u3048\u305f\u306e\u3088\u3000\u304d\u3063\u3068\u3002 (My Neighbour Totoro)",
+    "jlpt": 4,
+    "word": "\u9014\u4e2d"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u8ffd\u3063\u624b\u304b\u3057\u3089\uff1f\n\u653b\u6483\u306b\u3057\u3061\u3083\u69d8\u5b50\u304c\u9055\u3046\u3002 (Porco Rosso)",
+    "example2jp": "\u5175\u306b\u98df\u4e8b\u3092\u3068\u3089\u305b\u308d\n\uff11\u6642\u9593\u5f8c\u306b\u653b\u6483\u3092\u958b\u59cb\u3059\u308b\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 3,
+    "word": "\u653b\u6483"
+  },
+  {
+    "count": 4,
+    "example1jp": "\uff08\u6280\u5e2b\uff09\u3000\u3069\u3046\u304b\u306d\uff1f (Laputa: Castle in the Sky)",
+    "example2jp": "\uff08\u8001\u6280\u5e2b\uff09\u3000\u226a\u30c9\u30fc\u30e9\uff01\u226b (Laputa: Castle in the Sky)",
+    "jlpt": 4,
+    "word": "\u6280\u5e2b"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u3057\u304b\u305f\u306a\u3044\u3000\u8131\u51fa\uff01\u3000\u6025\u304e\u306a\uff01 (Laputa: Castle in the Sky)",
+    "example2jp": "\u3059\u3050\u8131\u51fa\u3059\u308b\uff01\n\u4e88\u5099\u306e\u30ed\u30fc\u30d7\u3092\u65e9\u304f\uff01 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 5,
+    "word": "\u8131\u51fa"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u2026\u3068\u3000\u307e\u3041\u3000\u5e2b\u5320\u9023\u306f\u8a00\u3046\u3060\u308d\u3046\u306a\u3002 (Princess Mononoke)",
+    "example2jp": "\u3084\u3093\u3054\u3068\u306a\u304d\u65b9\u3005\u3084\n\u5e2b\u5320\u9023\u306e\u8003\u3048\u306f\u2192 (Princess Mononoke)",
+    "jlpt": 0,
+    "word": "\u5e2b\u5320\u9023"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u672c\u56fd\u306e\u30d0\u30ab\u3069\u3082\u306e\n\u30aa\u30e2\u30c1\u30e3\u306b\u3057\u308d\u3068\u3044\u3046\u306e\u304b\uff1f (Nausica\u00e4 of the Valley of the Wind)",
+    "example2jp": "\u672c\u56fd\u306b\u30e9\u30d4\u30e5\u30bf\u767a\u898b\u306e\n\u5831\u544a\u3092\u3057\u305f\u304b\uff1f (Laputa: Castle in the Sky)",
+    "jlpt": 5,
+    "word": "\u672c\u56fd"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u30ac\u30a4\u30b3\u30c4\uff01\n\u4e0a\u624b\u3060\u306d\u3047\u3002 (Porco Rosso)",
+    "example2jp": "\u30fb\uff5e\n\u4e0a\u624b\u3060\u3002 (Howl's Moving Castle)",
+    "jlpt": 5,
+    "word": "\u4e0a\u624b"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u6e6f\u5a46\u5a46\u69d8\u3001\u5343\u3067\u3059\u3002 (Spirited Away)",
+    "example2jp": "-\u30ea\u30f3\u3068\u5343\u3001\u6e6f\u5a46\u5a46\u69d8\u304c\u304a\u547c\u3073\u3060\u3002 \n-\u3042\u3001\u306f\u3044\u3063\uff01 (Spirited Away)",
+    "jlpt": 0,
+    "word": "\u6e6f\u5a46\u5a46\u69d8"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u3057\u304b\u3057\u3000\u3042\u306e\u65b9\u6cd5\u306f\u3000\u3057\u304f\u3058\u308b\u3068\n\u30dd\u30cb\u30e7\u306f\u6ce1\u306b\u306a\u3063\u3066\u3057\u307e\u3046\u3002 (Ponyo)",
+    "example2jp": "\u60aa\u9b54\u3068\u624b\u3092\u5207\u308b\u65b9\u6cd5\u3092\u6559\u3048\u307e\u3059\u3002 (Howl's Moving Castle)",
+    "jlpt": 4,
+    "word": "\u65b9\u6cd5"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u907f\u96e3\u3063\u3066\u3000\u300e\u3072\u307e\u308f\u308a\u306e\u5bb6\u300f\u306b\u306f\u2192 (Ponyo)",
+    "example2jp": "\uff08\u8b66\u5b98\uff09\u3000\u300e\u3072\u307e\u308f\u308a\u300f\u306e\u4eba\u306f\n\u524d\u5c71\u516c\u5712\u306b\u907f\u96e3\u3057\u3066\u308b\uff01 (Ponyo)",
+    "jlpt": 3,
+    "word": "\u907f\u96e3"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u6ce5\u68d2\u306e\u5c0f\u4eba\u306a\u3093\u3067\u3059 (The Borrower Arrietty)",
+    "example2jp": "\u6ce5\u68d2\u306a\u3093\u304b\u3058\u3083\u3042\u308a\u307e\u305b\u3093 (The Borrower Arrietty)",
+    "jlpt": 4,
+    "word": "\u6ce5\u68d2"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u6226\u58eb\u9054\u304c\u2026\u3002 (Princess Mononoke)",
+    "example2jp": "\u7d9a\u3051\u3000\u6226\u58eb\u9054\uff01\n\u30b7\u30b7\u795e\u306e\u5143\u3078\u884c\u3053\u3046\uff01 (Princess Mononoke)",
+    "jlpt": 3,
+    "word": "\u6226\u58eb"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u4e8c\u4eba\u3043\uff1f (Spirited Away)",
+    "example2jp": "\u3042\u3093\u306a\u306e\u4e8c\u4eba\u3082\u3044\u305f\u3089\u305f\u307e\u3093\u306a\u3044\u3088\u3002 (Spirited Away)",
+    "jlpt": 5,
+    "word": "\u4e8c\u4eba"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u30fb\uff5e\n\u6d3e\u624b\u306d\u3047\u3002 (Howl's Moving Castle)",
+    "example2jp": "\u307e\u305f\u6d3e\u624b\u306b\u3084\u3063\u305f\u306d\u3002 (Howl's Moving Castle)",
+    "jlpt": 3,
+    "word": "\u6d3e\u624b"
+  },
+  {
+    "count": 4,
+    "example1jp": "\u30e1\u30a4\u306e\u30d0\u30ab\u2026\n\u3059\u3050\u8ff7\u5b50\u306b\u306a\u308b\u304f\u305b\u306b\u3002 (My Neighbour Totoro)",
+    "example2jp": "\u3042\u306a\u305f\u306f\u4f55\u3092\u304a\u3073\u3048\u3066\u3044\u308b\u306e\uff1f\n\u307e\u308b\u3067\u8ff7\u5b50\u306e\u30ad\u30c4\u30cd\u30ea\u30b9\u306e\u3088\u3046\u306b\u3002 (Nausica\u00e4 of the Valley of the Wind)",
+    "jlpt": 3,
+    "word": "\u8ff7\u5b50"
+  }
+]

@@ -37,8 +37,8 @@ angular.module('geekydicApp')
         return 'all';
       } else {
         return page + 1;
-      };
-    }
+      }
+    };
     $scope.getJlptTitle = function(jlpt) {
       if (jlpt >= 1) {
         return 'JLPT Level ' + jlpt;
@@ -46,6 +46,23 @@ angular.module('geekydicApp')
         return 'Not in JLPT';
       }
     };
+    var SOURCES = {
+      skyrim: {
+        titleName: 'SKYRIM',
+        name: 'skyrim',
+        class: 'skyrim',
+        blurb: 'Ordered by frequency. Hover over sentences for an English translation.'
+      },
+      miyazaki: {
+        titleName: 'MIYAZAKI MOVIES',
+        name: 'miyazaki',
+        class: 'miyazaki',
+        blurb: 'Ordered by frequency.'
+      },
+    }
+    // Source description
+    $scope.source = SOURCES[$routeParams.source];
+    // Page handling
     if ($routeParams.page === 'all') {
       $scope.page = 'all';
     } else {
@@ -56,7 +73,9 @@ angular.module('geekydicApp')
     }
     $scope.pages = [];
     var PAGESIZE = 100;
-    sDataCache.get('data/skyrimvoc.json', function(allWords) {
+    var vocFile = 'data/' + $routeParams.source + 'voc.json';
+    //sDataCache.get('data/skyrimvoc.json', function(allWords) {
+    sDataCache.get(vocFile, function(allWords) {
       //console.debug(words);
       var numWords = allWords.length;
       var onLast = numWords % PAGESIZE;

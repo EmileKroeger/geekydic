@@ -1,54 +1,64 @@
-<h1>JAPANESE WORDS FROM SKYRIM</h1>
-
-<p>Ordered by frequency. Hover over sentences for an English translation.</p>
-
-<div>
-  <span ng-repeat="pagelink in pages">
-    <span class="currentlink" ng-if="pagelink == page">
-      [{{maybePlusOne(pagelink)}}]
-    </span>
-    <a ng-if="pagelink != page" href="#/skyrim/{{maybePlusOne(pagelink)}}">[{{maybePlusOne(pagelink)}}]</a>
-  </span> 
+<div class="navlinks">
+  Geekydic: 
+  <a href="#/">home</a>,
+  <a href="#/miyazaki/1">miyazaki</a>,
+  <a href="#/skyrim/1">skyrim</a>
 </div>
+<div ng-class="source.class" class="vocpage">
+  <h1>JAPANESE WORDS FROM {{source.titleName}}</h1>
 
-<table class="table">
-  <tr>
-    <th>#<span class="count">(count)</span></th>
-    <th>Word</th>
-    <th>Examples</th>
-  </tr>
-  <tr ng-repeat="word in words">
-    <td title="This word appears {{word.count}} times in Skyrim dialogues.">
-      {{(100 * page) + $index + 1}}<span class="count">&nbsp;({{word.count}})</span>
-    </td>
-    <td>
-      <div class="word">
-        <a href="http://jisho.org/search/{{word.word}}">{{word.word}}</a>
-      </div>
-      <div class="jlpt" title="{{getJlptTitle(word.jlpt)}}">
-        {{jlptSymbols[word.jlpt]}}
-      </div>
-    </td>
-    <td>
-      <div class="examples" title="{{word.example1en}}">
-        <img class="dialogarrow" src="images/nordicarrow.png">
-        {{word.example1jp}}
-      </div>
-      <div class="examples padtop" title="{{word.example2en}}">
-        <img class="dialogarrow" src="images/nordicarrow.png">
-        {{word.example2jp}}
-      </div>
-    </td>
-  </tr>
-</table>
+  <p>{{source.blurb}} 
+  </p>
 
-<div>
-  <span ng-repeat="pagelink in pages">
-    <span class="currentlink" ng-if="pagelink == page">
-      [{{maybePlusOne(pagelink)}}]
-    </span>
-    <a ng-if="pagelink != page" href="#/skyrim/{{maybePlusOne(pagelink)}}">[{{maybePlusOne(pagelink)}}]</a>
-  </span> 
+  <div>
+    <span ng-repeat="pagelink in pages">
+      <span class="currentlink" ng-if="pagelink == page">
+        [{{maybePlusOne(pagelink)}}]
+      </span>
+      <a ng-if="pagelink != page" href="#/{{source.name}}/{{maybePlusOne(pagelink)}}">[{{maybePlusOne(pagelink)}}]</a>
+    </span> 
+  </div>
+
+  <table class="table">
+    <tr>
+      <th>#<span class="count lowkey">(count)</span></th>
+      <th>Word</th>
+      <th>Examples</th>
+    </tr>
+    <tr ng-repeat="word in words">
+      <td title="This word appears {{word.count}} times in Skyrim dialogues.">
+        {{(100 * page) + $index + 1}}<span class="count lowkey">&nbsp;({{word.count}})</span>
+      </td>
+      <td>
+        <div class="word">
+          <a href="http://jisho.org/search/{{word.word}}">{{word.word}}</a>
+        </div>
+        <div class="jlpt lowkey" title="{{getJlptTitle(word.jlpt)}}">
+          {{jlptSymbols[word.jlpt]}}
+        </div>
+      </td>
+      <td>
+        <div class="examples" title="{{word.example1en}}">
+          <img class="dialogarrow" src="images/nordicarrow.png">
+          {{word.example1jp}}
+        </div>
+        <div class="examples padtop" title="{{word.example2en}}">
+          <img class="dialogarrow" src="images/nordicarrow.png">
+          {{word.example2jp}}
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <div>
+    <span ng-repeat="pagelink in pages">
+      <span class="currentlink" ng-if="pagelink == page">
+        [{{maybePlusOne(pagelink)}}]
+      </span>
+      <a ng-if="pagelink != page" href="#/{{source.name}}/{{maybePlusOne(pagelink)}}">[{{maybePlusOne(pagelink)}}]</a>
+    </span> 
+  </div>
+
+  <div class="signature">Built by Emile Kroeger (<a href="http://themadmapmaker.wordpess.com">blog</a>, <a href="https://twitter.com/TheMadMapmaker">twitter</a>, <a href="https://github.com/EmileKroeger/">GitHub</a>)</div>
+  
 </div>
-
-<div class="signature">Built by Emile Kroeger (<a href="http://themadmapmaker.wordpess.com">blog</a>, <a href="https://twitter.com/TheMadMapmaker">twitter</a>, <a href="https://github.com/EmileKroeger/">GitHub</a>)</div>

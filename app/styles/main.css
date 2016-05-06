@@ -1,38 +1,62 @@
 /* Space out content a bit */
-body {
+
+body, .container {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+.vocpage {
+  position: absolute;
+  padding: 0px;
   padding-top: 20px;
   padding-bottom: 20px;
+  margin: 0px;
+  width: 100%;
+}
+
+.skyrim {
   background-color: black;
   color: #ccc;
 }
 
-a:link    { color: #ddd }  /* unvisited links */
-a:visited { color: #ccc }  /* visited links   */
-a:hover   { color: #fff }  /* user hovers     */
-a:active  { color: #fff }  /* active links    */
+.skyrim a:link    { color: #ddd }  /* unvisited links */
+.skyrim a:visited { color: #ccc }  /* visited links   */
+.skyrim a:hover   { color: #fff }  /* user hovers     */
+.skyrim a:active  { color: #fff }  /* active links    */
 
-.currentlink {
+.skyrim .currentlink {
   color: #aaa;
 }
 
-/* Everything but the jumbotron gets side spacing for mobile first views */
+.skyrim .lowkey {
+  color: grey;
+}
+
+.miyazaki {
+  background-color: #12639B;
+  color: white;
+}
+
+.miyazaki a:link    { color: #B0CBDE }  /* unvisited links */
+.miyazaki a:visited { color: #6197BC }  /* visited links   */
+.miyazaki a:hover   { color: #fff }  /* user hovers     */
+.miyazaki a:active  { color: #fff }  /* active links    */
+
+.miyazaki .currentlink {
+  color: #D8E5EE;
+}
+
+.miyazaki .lowkey {
+  color: #09324E;
+}
+
+
+/* Everything gets side spacing for mobile first views */
 .header,
-.marketing,
 .footer {
   padding-left: 15px;
   padding-right: 15px;
-}
-
-/* Custom page header */
-.header {
-  border-bottom: 1px solid #e5e5e5;
-}
-/* Make the masthead heading the same height as the navigation */
-.header h3 {
-  margin-top: 0;
-  margin-bottom: 0;
-  line-height: 40px;
-  padding-bottom: 19px;
 }
 
 body, table, td, th {
@@ -40,7 +64,6 @@ body, table, td, th {
 }
 
 .count {
-  color: grey;
   font-size: 10px;
 }
 
@@ -49,8 +72,8 @@ body, table, td, th {
   font-size: 25px;
 }
 
+
 .jlpt {
-  color: grey;
   font-size: 15px;
 }
 
@@ -77,4 +100,13 @@ body, table, td, th {
 
 .signature {
   text-align: right;
+}
+
+
+.navlinks {
+  position: absolute;
+  right: 0;
+  z-index: 10;
+  background-color: white;
+  padding: 3px;
 }
