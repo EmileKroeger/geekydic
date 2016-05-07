@@ -28,8 +28,8 @@ angular
       //  controller: 'AboutCtrl'
       //})
       .when('/:source/:page', {
-        templateUrl: 'views/skyrim.html',
-        controller: 'SkyrimCtrl'
+        templateUrl: 'views/wordlist.html',
+        controller: 'WordlistCtrl'
       })
       .otherwise({
         redirectTo: '/'

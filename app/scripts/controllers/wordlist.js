@@ -21,7 +21,7 @@ angular.module('geekydicApp')
       }
     };
   })
-  .controller('SkyrimCtrl', function ($scope, $routeParams, sDataCache) {
+  .controller('WordlistCtrl', function ($scope, $routeParams, sDataCache) {
     $scope.words = [];
     // JLPT stuff
     $scope.jlptSymbols = {
