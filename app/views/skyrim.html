@@ -1,8 +1,10 @@
 <div class="navlinks">
   Geekydic: 
   <a href="#/">home</a>,
-  <a href="#/miyazaki/1">miyazaki</a>,
-  <a href="#/skyrim/1">skyrim</a>
+  <a href="#/miyazaki/1">Miyazaki</a>,
+  <a href="#/naruto/1">Naruto</a>,
+  <a href="#/conan/1">Detective Conan</a>,
+  <a href="#/skyrim/1">Skyrim</a>
 </div>
 <div ng-class="source.class" class="vocpage">
   <h1>JAPANESE WORDS FROM {{source.titleName}}</h1>
@@ -26,7 +28,7 @@
       <th>Examples</th>
     </tr>
     <tr ng-repeat="word in words">
-      <td title="This word appears {{word.count}} times in Skyrim dialogues.">
+      <td title="This word appears {{word.count}} times in {{source.tooltip}}.">
         {{(100 * page) + $index + 1}}<span class="count lowkey">&nbsp;({{word.count}})</span>
       </td>
       <td>

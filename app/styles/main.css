@@ -51,6 +51,42 @@ body, .container {
   color: #09324E;
 }
 
+.naruto {
+  background-color: #AFDEFC;
+  color: black;
+}
+
+.naruto a:link    { color: #BF2F0C }  /* unvisited links */
+.naruto a:visited { color: #D54610 }  /* visited links   */
+.naruto a:hover   { color: #EB5D13 }  /* user hovers     */
+.naruto a:active  { color: #EB5D13 }  /* active links    */
+
+.naruto .currentlink {
+  color: #EB5D13;
+}
+
+.naruto .lowkey {
+  color: #EBF7FE;
+}
+
+.conan {
+  background-color: #002;
+  color: white;
+}
+
+.conan a:link    { color: yellow }  /* unvisited links */
+.conan a:visited { color: yellow }  /* visited links   */
+.conan a:hover   { color: red }  /* user hovers     */
+.conan a:active  { color: red }  /* active links    */
+
+.conan .currentlink {
+  color: red;
+}
+
+.conan .lowkey {
+  color: #335;
+}
+
 
 /* Everything gets side spacing for mobile first views */
 .header,

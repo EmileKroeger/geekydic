@@ -51,13 +51,29 @@ angular.module('geekydicApp')
         titleName: 'SKYRIM',
         name: 'skyrim',
         class: 'skyrim',
-        blurb: 'Ordered by frequency. Hover over sentences for an English translation.'
+        blurb: 'Ordered by frequency. Hover over sentences for an English translation.',
+        tooltip: 'Skyrim dialogues.',
       },
       miyazaki: {
         titleName: 'MIYAZAKI MOVIES',
         name: 'miyazaki',
         class: 'miyazaki',
-        blurb: 'Ordered by frequency.'
+        blurb: 'Ordered by frequency.',
+        tooltip: 'Miyazaki movies.',
+      },
+      naruto: {
+        titleName: 'NARUTO',
+        name: 'naruto',
+        class: 'naruto',
+        blurb: 'Ordered by frequency.',
+        tooltip: 'Naruto subtitles.',
+      },
+      conan: {
+        titleName: 'DETECTIVE CONAN',
+        name: 'conan',
+        class: 'conan',
+        blurb: 'Ordered by frequency. Also include people\'s names.',
+        tooltip: 'Detective Conan subtitles.',
       },
     }
     // Source description
