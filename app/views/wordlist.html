@@ -1,13 +1,10 @@
 <div class="navlinks">
   Geekydic: 
-  <a href="#/">home</a>,
-  <a href="#/miyazaki/1">Miyazaki</a>,
-  <a href="#/naruto/1">Naruto</a>,
-  <a href="#/conan/1">Detective Conan</a>,
-  <a href="#/skyrim/1">Skyrim</a>
+  <a href="#/">home</a><span ng-repeat="othersource in sources">, 
+    <a href="#/{{othersource.name}}/1">{{othersource.titleName}}</a></span>
 </div>
 <div ng-class="source.class" class="vocpage">
-  <h1>JAPANESE WORDS FROM {{source.titleName}}</h1>
+  <h1>JAPANESE WORDS FROM {{source.titleName.toUpperCase()}}</h1>
 
   <p>{{source.blurb}} 
   </p>

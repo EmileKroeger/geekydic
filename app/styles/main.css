@@ -87,6 +87,24 @@ body, .container {
   color: #335;
 }
 
+.onepiece {
+  background-color: white;
+  color: black;
+}
+
+.onepiece a:link    { color: #03f }  /* unvisited links */
+.onepiece a:visited { color: #36f }  /* visited links   */
+.onepiece a:hover   { color: #69f }  /* user hovers     */
+.onepiece a:active  { color: #acf }  /* active links    */
+
+.onepiece .currentlink {
+  color: red;
+}
+
+.onepiece .lowkey {
+  color: #8bf;
+}
+
 
 /* Everything gets side spacing for mobile first views */
 .header,

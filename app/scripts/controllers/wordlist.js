@@ -47,35 +47,43 @@ angular.module('geekydicApp')
       }
     };
     var SOURCES = {
-      skyrim: {
-        titleName: 'SKYRIM',
-        name: 'skyrim',
-        class: 'skyrim',
-        blurb: 'Ordered by frequency. Hover over sentences for an English translation.',
-        tooltip: 'Skyrim dialogues.',
+      conan: {
+        titleName: 'Detective Conan',
+        name: 'conan',
+        class: 'conan',
+        blurb: 'Ordered by frequency. Also include people\'s names.',
+        tooltip: 'Detective Conan subtitles.',
       },
       miyazaki: {
-        titleName: 'MIYAZAKI MOVIES',
+        titleName: 'Miyazaki Movies',
         name: 'miyazaki',
         class: 'miyazaki',
         blurb: 'Ordered by frequency.',
         tooltip: 'Miyazaki movies.',
       },
       naruto: {
-        titleName: 'NARUTO',
+        titleName: 'Naruto',
         name: 'naruto',
         class: 'naruto',
         blurb: 'Ordered by frequency.',
         tooltip: 'Naruto subtitles.',
       },
-      conan: {
-        titleName: 'DETECTIVE CONAN',
-        name: 'conan',
-        class: 'conan',
-        blurb: 'Ordered by frequency. Also include people\'s names.',
-        tooltip: 'Detective Conan subtitles.',
+      onepiece: {
+        titleName: 'One Piece',
+        name: 'onepiece',
+        class: 'onepiece',
+        blurb: 'Ordered by frequency.',
+        tooltip: 'One Piece subtitles.',
+      },
+      skyrim: {
+        titleName: 'Skyrim',
+        name: 'skyrim',
+        class: 'skyrim',
+        blurb: 'Ordered by frequency. Hover over sentences for an English translation.',
+        tooltip: 'Skyrim dialogues.',
       },
     }
+    $scope.sources = SOURCES;
     // Source description
     $scope.source = SOURCES[$routeParams.source];
     // Page handling
