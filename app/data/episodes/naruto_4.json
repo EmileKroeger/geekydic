@@ -1,0 +1,1118 @@
+{
+  "already_known": [
+    {
+      "count": 17,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u541b"
+    },
+    {
+      "count": 14,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u5fcd\u8005"
+    },
+    {
+      "count": 13,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u4eba"
+    },
+    {
+      "count": 8,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u4eca"
+    },
+    {
+      "count": 8,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u88cf"
+    },
+    {
+      "count": 7,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u79c1"
+    },
+    {
+      "count": 7,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u5148\u751f"
+    },
+    {
+      "count": 6,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u4f55"
+    },
+    {
+      "count": 5,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u8853"
+    },
+    {
+      "count": 5,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u304a\u524d"
+    },
+    {
+      "count": 5,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u5408\u683c"
+    },
+    {
+      "count": 5,
+      "jlpt": 2,
+      "pronunciation": "?",
+      "word": "\u9234"
+    },
+    {
+      "count": 5,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u8aad\u3080"
+    },
+    {
+      "count": 4,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u4efb\u52d9"
+    },
+    {
+      "count": 4,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u9cf4\u308b"
+    },
+    {
+      "count": 3,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u97f3"
+    },
+    {
+      "count": 3,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u6c17"
+    },
+    {
+      "count": 3,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u6f14\u7fd2"
+    },
+    {
+      "count": 3,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u663c"
+    },
+    {
+      "count": 3,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u304a\u8179"
+    },
+    {
+      "count": 2,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u8005"
+    },
+    {
+      "count": 2,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u524d"
+    },
+    {
+      "count": 2,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u898b"
+    },
+    {
+      "count": 2,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u540d"
+    },
+    {
+      "count": 2,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u4ee5\u4e0a"
+    },
+    {
+      "count": 2,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u6642\u9593"
+    },
+    {
+      "count": 2,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u8a00\u3046"
+    },
+    {
+      "count": 2,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u7537"
+    },
+    {
+      "count": 2,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u9055\u3046"
+    },
+    {
+      "count": 2,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u65e9\u304f"
+    },
+    {
+      "count": 2,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u601d\u3046"
+    },
+    {
+      "count": 2,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u73ed"
+    },
+    {
+      "count": 2,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u6b7b\u306c"
+    },
+    {
+      "count": 2,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u898b\u308b"
+    },
+    {
+      "count": 2,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u6bba\u3059"
+    },
+    {
+      "count": 2,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u5f8c\u308d"
+    },
+    {
+      "count": 2,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u4e0b"
+    },
+    {
+      "count": 2,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u547c\u3076"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u91cc"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u76ee"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u5fcd"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u653b\u6483"
+    },
+    {
+      "count": 1,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u7b2c"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u81ea\u5206"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u6b21"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u5927\u5207"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u8a8d\u3081"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u884c\u304f"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u5927\u4e08\u592b"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u5c11\u3057"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u5fcd\u8853"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u610f\u5473"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u6765\u308b"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u540d\u524d"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u7c21\u5358"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u5168\u54e1"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u4e0a"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u91ce\u90ce"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u660e\u65e5"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u5225"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u58f0"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u4e8c"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u521d\u3081\u3066"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u899a\u609f"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u9045\u3044"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u5e30\u308b"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u51fa\u308b"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u805e\u304f"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u4ed5\u4e8b"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u639f"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u53d6\u308b"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u56f0\u308b"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u5c11\u306a\u3044"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u98df\u3079\u308b"
+    },
+    {
+      "count": 1,
+      "jlpt": 5,
+      "pronunciation": "?",
+      "word": "\u5f85\u3064"
+    }
+  ],
+  "important": [
+    {
+      "count": 6,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u82f1\u96c4"
+    },
+    {
+      "count": 4,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u4ef2\u9593"
+    },
+    {
+      "count": 3,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u8a66\u9a13"
+    },
+    {
+      "count": 3,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u7b54\u3048"
+    },
+    {
+      "count": 3,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u6bba\u308b"
+    },
+    {
+      "count": 3,
+      "jlpt": 2,
+      "pronunciation": "?",
+      "word": "\u523b\u3080"
+    },
+    {
+      "count": 2,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u6b7b"
+    },
+    {
+      "count": 2,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u5fc5\u8981"
+    },
+    {
+      "count": 2,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u78ba\u304b"
+    },
+    {
+      "count": 2,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u4eca\u56de"
+    },
+    {
+      "count": 2,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u904e\u304e"
+    },
+    {
+      "count": 2,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u52d5\u304f"
+    },
+    {
+      "count": 2,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u5fc3\u5f97"
+    },
+    {
+      "count": 2,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u5224\u65ad"
+    },
+    {
+      "count": 2,
+      "jlpt": 2,
+      "pronunciation": "?",
+      "word": "\u5e73\u6c17"
+    },
+    {
+      "count": 2,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u8db3\u624b"
+    },
+    {
+      "count": 2,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u7834\u308b"
+    },
+    {
+      "count": 2,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u623b\u308b"
+    },
+    {
+      "count": 2,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u500b\u4eba"
+    },
+    {
+      "count": 2,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u6b63\u76f4"
+    }
+  ],
+  "other": [
+    {
+      "count": 2,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u6ce3\u304f"
+    },
+    {
+      "count": 2,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u5f01\u5f53"
+    },
+    {
+      "count": 2,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u5272\u308c"
+    },
+    {
+      "count": 2,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u77f3"
+    },
+    {
+      "count": 2,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u53d6\u308c\u308b"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u547d"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u4eca\u5ea6"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u6700\u5f8c"
+    },
+    {
+      "count": 1,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u52a9\u3051"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u8003\u3048"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u96a0\u308c"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u72b6\u6cc1"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u7d42\u308f\u308a"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u9078\u629c"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u76ee\u7684"
+    },
+    {
+      "count": 1,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u5931\u683c"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u51fa\u3057"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u5834\u6240"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u4f55\u304b"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u4e8c\u5ea6"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u5fa9\u8b90"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u5fc5\u305a"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u5909\u308f\u308a"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u96e2\u308c"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u95a2\u4fc2"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u7406\u89e3"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u5229\u7528"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u5168\u7136"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u866b"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u6cd5"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u6c7a\u3081"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u6b8b\u5ff5"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u7121\u4e8b"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u6642\u70b9"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u958b\u59cb"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u9006"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u8179"
+    },
+    {
+      "count": 1,
+      "jlpt": 2,
+      "pronunciation": "?",
+      "word": "\u72d9\u3046"
+    },
+    {
+      "count": 1,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u8cc7\u683c"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u805e\u304d"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u6b8b\u308a"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u4e16\u754c"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u7d50\u679c"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u7269\u97f3"
+    },
+    {
+      "count": 1,
+      "jlpt": 2,
+      "pronunciation": "?",
+      "word": "\u6c17\u914d"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u5354\u529b"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u52dd\u3064"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u96f7\u9cf4"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u6c17\u7d76"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u5fc5\u6b7b"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u5197\u8ac7"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u50ac\u7720"
+    },
+    {
+      "count": 1,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u4f8b\u3048"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u4eca\u3059\u3050"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u91cd\u8981"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u9042\u884c"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u89e6\u308c"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u884c\u3046"
+    },
+    {
+      "count": 1,
+      "jlpt": 2,
+      "pronunciation": "?",
+      "word": "\u7d20\u76f4"
+    },
+    {
+      "count": 1,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u5f53\u305f\u308a"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u5dee"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u4f7f\u3048\u308b"
+    },
+    {
+      "count": 1,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u4eba\u8cea"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u8e0f\u3080"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u89aa\u53cb"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u78ba\u304b\u3081\u308b"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u6570\u591a\u304f"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u6253"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u6211\u6162"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u611b"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u53d6\u308a"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u53d6\u3063"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u8996"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u864e"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u72ac\u6b7b"
+    },
+    {
+      "count": 1,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u624b\u9045\u308c"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u6025\u3050"
+    },
+    {
+      "count": 1,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u5371\u6a5f"
+    },
+    {
+      "count": 1,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u512a\u5148"
+    },
+    {
+      "count": 1,
+      "jlpt": 3,
+      "pronunciation": "?",
+      "word": "\u99ac"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u904e\u9177"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u6b21\u56de"
+    },
+    {
+      "count": 1,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u6311\u6226"
+    },
+    {
+      "count": 1,
+      "jlpt": 2,
+      "pronunciation": "?",
+      "word": "\u6068\u3080"
+    },
+    {
+      "count": 1,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u5fc3\u4e2d"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u5e7b\u899a"
+    },
+    {
+      "count": 1,
+      "jlpt": "?",
+      "pronunciation": "?",
+      "word": "\u5408\u6226"
+    },
+    {
+      "count": 1,
+      "jlpt": 2,
+      "pronunciation": "?",
+      "word": "\u5229\u5bb3"
+    },
+    {
+      "count": 1,
+      "jlpt": 1,
+      "pronunciation": "?",
+      "word": "\u4e71\u3059"
+    },
+    {
+      "count": 1,
+      "jlpt": 4,
+      "pronunciation": "?",
+      "word": "\u304a\u793c"
+    }
+  ]
+}
