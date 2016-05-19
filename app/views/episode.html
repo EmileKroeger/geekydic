@@ -1,0 +1,25 @@
+<h1>{{source}}, Episode {{episode}}..</h1>
+
+<div ng-if="vocabularyLists"
+  ng-repeat = "vocDomain in vocDomains"
+  >
+  <h2>{{vocDomain.title}}</h2>
+  <table>
+    <tr>
+      <th>Word</th>
+      <th>Count</th>
+      <th>JLPT Level</th>
+    </tr>
+    <tr ng-repeat="entry in vocabularyLists[vocDomain.key]">
+      <td>
+        {{entry.word}}
+      </td>
+      <td>
+        {{entry.count}}
+      </td>
+      <td>
+        {{entry.jlpt}}
+      </td>
+    </tr>
+  </table>
+</div>

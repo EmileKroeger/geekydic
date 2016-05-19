@@ -82,7 +82,7 @@ angular.module('geekydicApp')
         blurb: 'Ordered by frequency. Hover over sentences for an English translation.',
         tooltip: 'Skyrim dialogues.',
       },
-    }
+    };
     $scope.sources = SOURCES;
     // Source description
     $scope.source = SOURCES[$routeParams.source];

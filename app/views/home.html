@@ -9,6 +9,16 @@
   <li><a href="#/skyrim/1">Skyrim</a></li>
 </ul>  
 
+<div>Cheat sheets per episode:</div>
+<ul>
+  <li ng-repeat="serie in series">
+    {{serie.name}}:
+    <span ng-repeat="episode in serie.episodes">
+     <a href="#/{{serie.name}}/episode/{{episode}}">[{{episode}}]</a>, 
+   </span>
+  </li>
+</ul>
+
 <p>These were built from various dialogue & subtitle files. This version only contains Kanji words (actually, any sequence of several Kanji in a row, some of which are not words). When possible, the sentences are matched to the corresponsing English, which is usually a decent translation. Words are sorted by frequency.</p>
 
 <p>The JLPT level of the kanji appearing in the word is also shown, and a link to a search for that word on <a href="http://jisho.org">Jisho</a>.</p>
