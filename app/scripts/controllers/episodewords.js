@@ -15,7 +15,7 @@ angular.module('geekydicApp')
       $scope.episodes = sSeriesIndex.episodes[$scope.source];
       $scope.listname = $routeParams.list;
       sEpisodeData.vocDomains.forEach(function(vocDomain) {
-        if (vocDomain.key == $scope.listname) {
+        if (vocDomain.key === $scope.listname) {
           $scope.vocDomain = vocDomain;
         }
       });

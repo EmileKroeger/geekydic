@@ -1,4 +1,12 @@
 <div class="episode">
+<episode-nav></episode-nav>
+
+<h1>
+  <a href="#/{{source}}/episode/{{episode}}/">
+    Episode {{episode}}
+  </a>
+</h1>  
+  
 <div ng-if="vocabularyLists">
   <h2>{{vocDomain.title}} ({{vocabularyLists[listname].length}}) </h2>
   <table>

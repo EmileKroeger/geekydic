@@ -1,28 +1,8 @@
-<div class="navlinks">
-  <a href="#/">home</a>
-</div>
-
 <div class="episode">
-
-<div class="episodename">{{source}}, Season 1
-</div>
-<div>
-  <span ng-repeat="other in episodes">
-    <span ng-if="other!=episode">
-      <a href="#/{{source}}/episode/{{other}}">
-      [{{other}}]
-      </a>
-    </span>
-    <span ng-if="other==episode">
-      [{{other}}]
-    </span>
-  </span>
-<div>
-
-<h1>Season 1, Episode {{episode}}</h1>
+<episode-nav></episode-nav>
 
 <div>
-<span ng-repeat = "vocDomain in vocDomains"
+<span ng-repeat="vocDomain in vocDomains"
   >
   <a href="#/{{source}}/episode/{{episode}}/{{vocDomain.key}}">
     {{vocDomain.title}}
