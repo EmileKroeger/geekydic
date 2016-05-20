@@ -164,3 +164,44 @@ body, table, td, th {
   background-color: white;
   padding: 3px;
 }
+
+.episode table {
+  border: 2px solid blue;
+  margin: 10px;
+}
+
+.episode td {
+  margin: 3px;
+  padding: 3px;
+}
+
+.episode th {
+  background-color: blue;
+  color: white;
+  margin: 3px;
+  padding: 3px;
+}
+
+.defrow_1 {
+  background-color: #eef;
+}
+
+.episode ul {
+  padding-left: 15px;
+}
+
+
+.reading {
+  color: darkblue;
+  font-weight: bold;
+}
+
+.episode .example {
+  white-space: pre-wrap;
+  min-width: 200px;
+}
+
+.example-highlight {
+  color: blue;
+}
+

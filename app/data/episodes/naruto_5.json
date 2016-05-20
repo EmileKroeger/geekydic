@@ -1,1315 +1,4556 @@
 {
-  "already_known": [
-    {
-      "count": 17,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u91cc"
-    },
-    {
-      "count": 16,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u4efb\u52d9"
-    },
-    {
-      "count": 15,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u56fd"
-    },
-    {
-      "count": 13,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u5fcd\u8005"
-    },
-    {
-      "count": 7,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u79c1"
-    },
-    {
-      "count": 7,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u5fcd"
-    },
-    {
-      "count": 5,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u304a\u524d"
-    },
-    {
-      "count": 5,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u8ab0"
-    },
-    {
-      "count": 5,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u5927\u4e08\u592b"
-    },
-    {
-      "count": 5,
-      "jlpt": 4,
-      "pronunciation": "?",
-      "word": "\u601d\u3046"
-    },
-    {
-      "count": 4,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u4f55"
-    },
-    {
-      "count": 4,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u5148\u751f"
-    },
-    {
-      "count": 4,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u69d8"
-    },
-    {
-      "count": 4,
-      "jlpt": 4,
-      "pronunciation": "?",
-      "word": "\u5fc5\u8981"
-    },
-    {
-      "count": 3,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u4eba"
-    },
-    {
-      "count": 3,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u540d"
-    },
-    {
-      "count": 3,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u6c34"
-    },
-    {
-      "count": 2,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u4eca"
-    },
-    {
-      "count": 2,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u524d"
-    },
-    {
-      "count": 2,
-      "jlpt": 4,
-      "pronunciation": "?",
-      "word": "\u529b"
-    },
-    {
-      "count": 2,
-      "jlpt": 4,
-      "pronunciation": "?",
-      "word": "\u4ee5\u4e0a"
-    },
-    {
-      "count": 2,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u8a8d\u3081"
-    },
-    {
-      "count": 2,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u4eca\u65e5"
-    },
-    {
-      "count": 2,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u65e9\u304f"
-    },
-    {
-      "count": 2,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u73ed"
-    },
-    {
-      "count": 2,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u6b7b\u306c"
-    },
-    {
-      "count": 2,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u98a8"
-    },
-    {
-      "count": 2,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u77e5\u308b"
-    },
-    {
-      "count": 2,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u6a4b"
-    },
-    {
-      "count": 2,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u5e30\u308b"
-    },
-    {
-      "count": 2,
-      "jlpt": 4,
-      "pronunciation": "?",
-      "word": "\u52d5\u304f"
-    },
-    {
-      "count": 2,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u958b\u304f"
-    },
-    {
-      "count": 2,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u5165\u308b"
-    },
-    {
-      "count": 2,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u6bce\u65e5"
-    },
-    {
-      "count": 2,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u547c\u3076"
-    },
-    {
-      "count": 2,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u898b\u305b\u308b"
-    },
-    {
-      "count": 1,
-      "jlpt": 4,
-      "pronunciation": "?",
-      "word": "\u541b"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u8853"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u8005"
-    },
-    {
-      "count": 1,
-      "jlpt": 4,
-      "pronunciation": "?",
-      "word": "\u6c17"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u7b2c"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u81ea\u5206"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u6b21"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u672c\u5f53"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u624b"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u8a00\u3046"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u8eab"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u51fa"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u9055\u3046"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u8a71"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u6765\u308b"
-    },
-    {
-      "count": 1,
-      "jlpt": 4,
-      "pronunciation": "?",
-      "word": "\u7c21\u5358"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u91ce\u90ce"
-    },
-    {
-      "count": 1,
-      "jlpt": 4,
-      "pronunciation": "?",
-      "word": "\u8aac\u660e"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u5b58\u5728"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u521d\u3081\u3066"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u899a\u609f"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u52aa\u529b"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u4e0b"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u9045\u3044"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u753a"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u5916"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u805e\u304f"
-    },
-    {
-      "count": 1,
-      "jlpt": 2,
-      "pronunciation": "?",
-      "word": "\u5e73\u6c17"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u96e8"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u663c"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u91cd\u3044"
-    },
-    {
-      "count": 1,
-      "jlpt": 4,
-      "pronunciation": "?",
-      "word": "\u623b\u308b"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u6674\u308c"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u56f0\u308b"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u4e07"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u670d"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u5f1f"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u964d\u308b"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u5916\u56fd"
-    },
-    {
-      "count": 1,
-      "jlpt": 5,
-      "pronunciation": "?",
-      "word": "\u533b\u8005"
-    }
-  ],
   "important": [
     {
       "count": 9,
+      "definitions": [
+        [
+          "\u3044\u3089\u3044",
+          "request; commission; dispatch; despatch; dependence; trust"
+        ]
+      ],
+      "example": {
+        "index": 50,
+        "parts": [
+          "\u91cc\u306b\u306f\u6bce\u65e5\n\u591a\u304f\u306e",
+          "\u4f9d\u983c",
+          "\u304c\u821e\u3044\u8fbc\u3093\u3067\u304f\u308b\u3002"
+        ]
+      },
       "jlpt": 3,
-      "pronunciation": "?",
       "word": "\u4f9d\u983c"
     },
     {
       "count": 4,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u65ac"
-    },
-    {
-      "count": 4,
+      "definitions": [
+        [
+          "\u305f\u3059\u3051",
+          "assistance; help; aid; support; reinforcement"
+        ]
+      ],
+      "example": {
+        "index": 188,
+        "parts": [
+          "\u30ca\u30eb\u30c8\u2026\u3000\u3059\u3050\u306b",
+          "\u52a9\u3051",
+          "\u3066\u3084\u3089\u306a\u304f\u3066\n\u60aa\u304b\u3063\u305f\u306a\u3002"
+        ]
+      },
       "jlpt": 1,
-      "pronunciation": "?",
       "word": "\u52a9\u3051"
     },
     {
       "count": 4,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u6211"
-    },
-    {
-      "count": 4,
+      "definitions": [
+        [
+          "\u3054\u3048\u3044",
+          "guard; convoy; escort"
+        ]
+      ],
+      "example": {
+        "index": 84,
+        "parts": [
+          "\u3042\u308b\u4eba\u7269\u306e",
+          "\u8b77\u885b",
+          "\u3060\u3002\n\u30db\u30f3\u30c8\uff01\uff1f\u3000\u30a2\u30cf\uff01"
+        ]
+      },
       "jlpt": 1,
-      "pronunciation": "?",
       "word": "\u8b77\u885b"
     },
     {
+      "count": 4,
+      "definitions": [
+        [
+          "\u3056\u3093",
+          "beheading; decapitation"
+        ]
+      ],
+      "example": {
+        "index": 284,
+        "parts": [
+          "\uff08\u518d\u4e0d",
+          "\u65ac",
+          "\uff09\u30b0\u30c1\u30b0\u30c1\u3046\u308b\u305b\u3048\u3088\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u65ac"
+    },
+    {
+      "count": 4,
+      "definitions": [
+        [
+          "\u308f\u308c",
+          "I; me; oneself; you; prefix indicating familiarity or contempt"
+        ],
+        [
+          "\u308f\u304c",
+          "my; our; one's own"
+        ],
+        [
+          "\u304c",
+          "obstinacy; atman; the self; the ego"
+        ]
+      ],
+      "example": {
+        "index": 215,
+        "parts": [
+          "\uff08\u51a5\u982d\uff09\n\u306a\u305c\u3000",
+          "\u6211",
+          "\u3005\u306e\u52d5\u304d\u3092\u898b\u304d\u308c\u305f\uff1f"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u6211"
+    },
+    {
       "count": 3,
+      "definitions": [
+        [
+          "\u3057\u3093\u3071\u3044",
+          "worry; concern; anxiety; care; help; aid; assistance"
+        ]
+      ],
+      "example": {
+        "index": 19,
+        "parts": [
+          "\u6b7b\u306c\u307b\u3069",
+          "\u5fc3\u914d",
+          "\u3057\u305f\u306e\u3088\uff5e\uff01"
+        ]
+      },
       "jlpt": 3,
-      "pronunciation": "?",
       "word": "\u5fc3\u914d"
     },
     {
       "count": 3,
+      "definitions": [
+        [
+          "\u306a\u307f",
+          "wave"
+        ],
+        [
+          "\u307d",
+          "Poland"
+        ]
+      ],
+      "example": {
+        "index": 123,
+        "parts": [
+          "\uff08\u30b5\u30af\u30e9\uff09\u30bf\u30ba\u30ca\u3055\u3093\u306e\u56fd\u3063\u3066\n",
+          "\u6ce2",
+          "\u306e\u56fd\u3067\u3057\u3087\uff1f"
+        ]
+      },
       "jlpt": 3,
-      "pronunciation": "?",
       "word": "\u6ce2"
     },
     {
       "count": 3,
+      "definitions": [
+        [
+          "\u3068\u3046\u3061\u3083\u304f",
+          "arrival"
+        ]
+      ],
+      "example": {
+        "index": 1,
+        "parts": [
+          "[TEL]\uff08\u30b5\u30b9\u30b1\uff09\u30b5\u30b9\u30b1\u3000\uff22\u5730\u70b9",
+          "\u5230\u7740",
+          "\uff01"
+        ]
+      },
       "jlpt": 3,
-      "pronunciation": "?",
       "word": "\u5230\u7740"
     },
     {
       "count": 3,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u5206\u3051"
-    },
-    {
-      "count": 3,
+      "definitions": [
+        [
+          "\u3061\u3066\u3093",
+          "site; point on a map; spot"
+        ]
+      ],
+      "example": {
+        "index": 0,
+        "parts": [
+          "[TEL]\uff08\u30b5\u30b9\u30b1\uff09\u30b5\u30b9\u30b1\u3000\uff22",
+          "\u5730\u70b9",
+          "\u5230\u7740\uff01"
+        ]
+      },
       "jlpt": 2,
-      "pronunciation": "?",
       "word": "\u5730\u70b9"
     },
     {
       "count": 3,
-      "jlpt": "?",
-      "pronunciation": "?",
+      "definitions": [
+        [
+          "\u308f\u3051",
+          "sharing; division; draw; tie"
+        ]
+      ],
+      "example": {
+        "index": 57,
+        "parts": [
+          "\u96e3\u6613\u5ea6\u306e\u9ad8\u3044\u9806\u306b\n\uff21\u3000\uff22\u3000\uff23\u3000\uff24\u3068\u30e9\u30f3\u30af",
+          "\u5206\u3051",
+          "\u3055\u308c\u3066\u304a\u308b\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u5206\u3051"
+    },
+    {
+      "count": 3,
+      "definitions": [
+        [
+          "\u304d\u305a\u3050\u3061",
+          "(opening of) a wound; (mouth of a) wound; cut"
+        ]
+      ],
+      "example": {
+        "index": 206,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09",
+          "\u50b7\u53e3",
+          "\u3092\u958b\u3044\u3066\n\u6bd2\u8840\u3092\u306c\u304b\u306a\u304f\u3061\u3083\u306a\u3089\u306a\u3044\u3002"
+        ]
+      },
+      "jlpt": 0,
       "word": "\u50b7\u53e3"
     },
     {
       "count": 2,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u6575"
-    },
-    {
-      "count": 2,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u80fd\u529b"
-    },
-    {
-      "count": 2,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u6bba\u3057"
-    },
-    {
-      "count": 2,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u7684"
-    },
-    {
-      "count": 2,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u4ed6"
-    },
-    {
-      "count": 2,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u9593\u9055\u3044"
-    },
-    {
-      "count": 2,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u6697\u6bba"
-    },
-    {
-      "count": 2,
+      "definitions": [
+        [
+          "\u3057\u3063\u3071\u3044",
+          "failure; mistake; blunder"
+        ]
+      ],
+      "example": {
+        "index": 278,
+        "parts": [
+          "\uff08\u30ac\u30c8\u30fc\uff09",
+          "\u5931\u6557",
+          "\u3057\u305f\u3058\u3083\u3068\u3049\uff01"
+        ]
+      },
       "jlpt": 4,
-      "pronunciation": "?",
       "word": "\u5931\u6557"
     },
     {
       "count": 2,
+      "definitions": [
+        [
+          "\u3072",
+          "fire; flame; blaze"
+        ],
+        [
+          "\u304b",
+          "Tuesday; fire (second of the five elements)"
+        ]
+      ],
+      "example": {
+        "index": 147,
+        "parts": [
+          "\u7279\u306b\u3000\u300c",
+          "\u706b",
+          "\u300d\u3000\u300c\u6c34\u300d\u3000\u300c\u96f7\u300d\u2192"
+        ]
+      },
       "jlpt": 4,
-      "pronunciation": "?",
       "word": "\u706b"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u304b\u305f\u304d",
+          "rival; opponent; adversary; competitor; enemy (esp. one with which there is longstanding enmity); foe; revenge; spouse"
+        ],
+        [
+          "\u3066\u304d",
+          "opponent; rival; adversary; menace; danger; threat; enemy"
+        ]
+      ],
+      "example": {
+        "index": 226,
+        "parts": [
+          "\u3053\u306e",
+          "\u6575",
+          "\u306e\u30bf\u30fc\u30b2\u30c3\u30c8\u304c\u3000\u8ab0\u3067\u3042\u308b\u306e\u304b\u3092\u3002"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u6575"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u306e\u3046\u308a\u3087\u304f",
+          "ability; faculty"
+        ],
+        [
+          "\u306e\u3046\u308a\u304d",
+          "low-ranking priest who does manual labour at a temple; male temple employee"
+        ]
+      ],
+      "example": {
+        "index": 63,
+        "parts": [
+          "",
+          "\u80fd\u529b",
+          "\u7684\u306b\n\u5206\u3051\u3066\u3042\u3063\u3066\u2192"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u80fd\u529b"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u307b\u304b",
+          "other (place, thing, person); the rest; outside; beyond; nothing except; nothing but; nothing apart from; nothing aside from; no choice (but to); besides...; in addition to..."
+        ],
+        [
+          "\u305f",
+          "other (esp. people and abstract matters)"
+        ]
+      ],
+      "example": {
+        "index": 30,
+        "parts": [
+          "\u3059\u3093\u3052\u3048\u4efb\u52d9\u304c\u3084\u308a\u3066\u3048\u306e\uff01\n",
+          "\u4ed6",
+          "\u306e\u306b\u3057\u3066\uff5e\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u4ed6"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u307e\u3061\u304c\u3044",
+          "mistake; error; blunder; accident; mishap; trouble; improper conduct (e.g. between man and woman); indiscretion"
+        ]
+      ],
+      "example": {
+        "index": 11,
+        "parts": [
+          "[TEL]\uff08\u30ab\u30ab\u30b7\uff09\u53f3\u8033\u306b\u30ea\u30dc\u30f3\u2026\n\u76ee\u6a19\u306e\u3000\u30c8\u30e9\u306b",
+          "\u9593\u9055\u3044",
+          "\u306a\u3044\u304b\uff1f"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u9593\u9055\u3044"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u3064\u3061",
+          "earth; soil; dirt; clay; mud; the earth (historically, esp. as opposed to the heavens); the ground; the land; low-quality torinoko-gami (containing mud); (period of) refraining from construction in the direction of the god of the earth (in Onmy\u014dd\u014d)"
+        ],
+        [
+          "\u3069",
+          "Saturday; earth (third of the five elements); Turkey"
+        ],
+        [
+          "\u306b",
+          "soil (esp. reddish soil)"
+        ]
+      ],
+      "example": {
+        "index": 151,
+        "parts": [
+          "\u300c\u98a8\u300d\u3000\u300c",
+          "\u571f",
+          "\u300d\u306e\uff15\u304b\u56fd\u306f\u2192"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u571f"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u3081\u3058\u308b\u3057",
+          "mark; sign; landmark; benchmark"
+        ],
+        [
+          "\u3082\u304f\u3072\u3087\u3046",
+          "mark; objective; target"
+        ]
+      ],
+      "example": {
+        "index": 7,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09",
+          "\u76ee\u6a19",
+          "\u3068\u306e\u8ddd\u96e2\u306f\uff1f"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u76ee\u6a19"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u304b\u307f\u306a\u308a",
+          "lightning; thunder; thunderbolt; god of thunder; god of lightning; anger; fit of anger"
+        ],
+        [
+          "\u306a\u308b\u304b\u307f",
+          "thunder"
+        ]
+      ],
+      "example": {
+        "index": 149,
+        "parts": [
+          "\u7279\u306b\u3000\u300c\u706b\u300d\u3000\u300c\u6c34\u300d\u3000\u300c",
+          "\u96f7",
+          "\u300d\u2192"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u96f7"
+    }
+  ],
+  "known": [
+    {
+      "count": 17,
+      "definitions": [
+        [
+          "\u3055\u3068",
+          "village; hamlet; countryside; country; home (of one's parents, etc.); hometown; one's origins; one's upbringing; one's past"
+        ],
+        [
+          "\u308a",
+          "Japanese league; ri; old Japanese unit of distance, approx. 3.927km or 2.44 miles; neighbourhood (under the ritsuryo system; orig. of 50 homes); unit of area (approx. 654m by 654m)"
+        ]
+      ],
+      "example": {
+        "index": 47,
+        "parts": [
+          "",
+          "\u91cc",
+          "\u306b\u306f\u6bce\u65e5\n\u591a\u304f\u306e\u4f9d\u983c\u304c\u821e\u3044\u8fbc\u3093\u3067\u304f\u308b\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u91cc"
+    },
+    {
+      "count": 16,
+      "definitions": [
+        [
+          "\u306b\u3093\u3080",
+          "duty; function; office; mission; task"
+        ]
+      ],
+      "example": {
+        "index": 14,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\u3088\u3057\u3000\u8ff7\u5b50\u30da\u30c3\u30c8\u3000\u30c8\u30e9\n\u6355\u7372",
+          "\u4efb\u52d9",
+          "\u7d42\u4e86\uff01"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u4efb\u52d9"
+    },
+    {
+      "count": 15,
+      "definitions": [
+        [
+          "\u304f\u306b",
+          "country; state; region; national government; central government; home (i.e. hometown, home country); province (of Japan); land; earth"
+        ]
+      ],
+      "example": {
+        "index": 96,
+        "parts": [
+          "\u30ef\u30b7\u304c",
+          "\u56fd",
+          "\u306b\u5e30\u3063\u3066\n\u6a4b\u3092\u5b8c\u6210\u3055\u305b\u308b\u307e\u3067\u306e\u9593\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u56fd"
+    },
+    {
+      "count": 13,
+      "definitions": [
+        [
+          "\u306b\u3093\u3058\u3083",
+          "ninja (persons in feudal Japan who used ninjutsu for the purposes of espionage, assassination, sabotage, etc.)"
+        ]
+      ],
+      "example": {
+        "index": 67,
+        "parts": [
+          "\u305d\u306e\u80fd\u529b\u306b\u3042\u3063\u305f",
+          "\u5fcd\u8005",
+          "\u306b\u2192"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u5fcd\u8005"
+    },
+    {
+      "count": 7,
+      "definitions": [
+        [
+          "\u308f\u305f\u3057",
+          "I; me; private affairs; personal matter; secrecy; selfishness"
+        ],
+        [
+          "\u3042\u305f\u3057",
+          "I; me"
+        ],
+        [
+          "\u308f\u3089\u308f",
+          "I; me"
+        ],
+        [
+          "\u308f\u3057",
+          "I; me (used by elderly males)"
+        ],
+        [
+          "\u3042\u3063\u3057",
+          "I (mainly used by working men); myself"
+        ],
+        [
+          "\u308f\u3044",
+          "I; me; you (used toward people of equal or lower status)"
+        ],
+        [
+          "\u308f\u305f\u3044",
+          "I; me"
+        ],
+        [
+          "\u3057",
+          "private affairs; personal matter"
+        ]
+      ],
+      "example": {
+        "index": 9,
+        "parts": [
+          "\u30aa\u30ec\u3082\u3044\u3044\u305c\uff01\n\uff08\u30b5\u30af\u30e9\uff09",
+          "\u79c1",
+          "\u3082\u2026\uff01"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u79c1"
+    },
+    {
+      "count": 7,
+      "definitions": [
+        [
+          "\u306b\u3093",
+          "endurance; forbearance; patience; self-restraint"
+        ],
+        [
+          "\u3057\u306e\u3076",
+          "squirrel's foot fern (Davallia mariesii); Lepisorus thunbergianus (species of fern); color of clothing layers under one's overcoat (light green on blue); ancient women's hairstyle; clothing patterned using squirrel's foot fern"
+        ]
+      ],
+      "example": {
+        "index": 130,
+        "parts": [
+          "",
+          "\u5fcd",
+          "\u306e\u91cc\u306e\u5b58\u5728\u3063\u3066\u306e\u306f\n\u56fd\u306e\u8ecd\u4e8b\u529b\u306b\u3042\u305f\u308b\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u5fcd"
+    },
+    {
+      "count": 5,
+      "definitions": [
+        [
+          "\u3060\u308c",
+          "who"
+        ]
+      ],
+      "example": {
+        "index": 36,
+        "parts": [
+          "",
+          "\u8ab0",
+          "\u3067\u3082\u521d\u3081\u306f\n\u7c21\u5358\u306a\u4efb\u52d9\u304b\u3089\u5834\u6570\u3092\u8e0f\u3093\u3067\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u8ab0"
+    },
+    {
+      "count": 5,
+      "definitions": [
+        [
+          "\u3060\u3044\u3058\u3087\u3046\u3076",
+          "safe; all right; alright; OK; okay; sure; certainly; surely; undoubtedly; great man; fine figure of a man"
+        ],
+        [
+          "\u3060\u3044\u3058\u3087\u3046\u3075",
+          "great man; fine figure of a man"
+        ]
+      ],
+      "example": {
+        "index": 107,
+        "parts": [
+          "\u304a\u3044\uff01\u3000\u30db\u30f3\u30c8\u306b\u3000\u3053\u3093\u306a\u30ac\u30ad\u3067\n",
+          "\u5927\u4e08\u592b",
+          "\u306a\u306e\u304b\u3088\uff01"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u5927\u4e08\u592b"
+    },
+    {
+      "count": 5,
+      "definitions": [
+        [
+          "\u304a\u3082\u3046",
+          "to think; to consider; to believe; to think (of doing); to plan (to do); to judge; to assess; to regard; to imagine; to suppose; to dream; to expect; to look forward to; to feel; to desire; to want; to recall; to remember"
+        ]
+      ],
+      "example": {
+        "index": 32,
+        "parts": [
+          "\u300a\u306f\u3041\u2026\u3000\u305d\u308d\u305d\u308d\n\u30c0\u30c0\u3053\u306d\u308b\u9803\u3060\u3068",
+          "\u601d\u3063",
+          "\u305f\u2026\u300b"
+        ]
+      },
+      "jlpt": 4,
+      "word": "\u601d\u3046"
+    },
+    {
+      "count": 5,
+      "definitions": [
+        [
+          "\u304a\u307e\u3048",
+          "you (formerly honorific, now sometimes derog. term referring to an equal or inferior); presence (of a god, nobleman, etc.)"
+        ]
+      ],
+      "example": {
+        "index": 34,
+        "parts": [
+          "\uff08\u30a4\u30eb\u30ab\uff09\u30d0\u30ab\u91ce\u90ce\uff01\u3000",
+          "\u304a\u524d",
+          "\u306f\u307e\u3060\n\u30da\u30fc\u30da\u30fc\u306e\u65b0\u7c73\u3060\u308d\u3046\u304c\uff01"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u304a\u524d"
+    },
+    {
+      "count": 4,
+      "definitions": [
+        [
+          "\u306a\u306b",
+          "what; how many; you-know-what; that; whatsit; what's the expression; what do you call them; what?; hey!"
+        ]
+      ],
+      "example": {
+        "index": 170,
+        "parts": [
+          "\u5168\u4e16\u754c\u5404\u56fd\u3000",
+          "\u4f55",
+          "\u4e07\u306e\u5fcd\u8005\u306e\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u4f55"
+    },
+    {
+      "count": 4,
+      "definitions": [
+        [
+          "\u305b\u3093\u305b\u3044",
+          "teacher; master; doctor; with names of teachers, etc. as an honorific; previous existence"
+        ],
+        [
+          "\u30b7\u30fc\u30b5\u30f3",
+          "boy"
+        ]
+      ],
+      "example": {
+        "index": 124,
+        "parts": [
+          "\u306d\u3047\u3000\u30ab\u30ab\u30b7",
+          "\u5148\u751f",
+          "\u2026\n\u305d\u306e\u56fd\u306b\u3082\u5fcd\u8005\u3063\u3066\u3044\u308b\u306e\uff1f"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u5148\u751f"
+    },
+    {
+      "count": 4,
+      "definitions": [
+        [
+          "\u3072\u3064\u3088\u3046",
+          "necessary; needed; essential; indispensable; necessity; need; requirement"
+        ]
+      ],
+      "example": {
+        "index": 46,
+        "parts": [
+          "\u8aac\u660e\u3057\u3066\u304a\u304f",
+          "\u5fc5\u8981",
+          "\u304c\u3042\u308b\u306a\u2026\u3002"
+        ]
+      },
+      "jlpt": 4,
+      "word": "\u5fc5\u8981"
+    },
+    {
+      "count": 4,
+      "definitions": [
+        [
+          "\u3056\u307e",
+          "mess; sorry state; plight; sad sight; -ways; -wards; in the act of ...; just as one is ...; manner of ...; way of ..."
+        ],
+        [
+          "\u3055\u307e",
+          "Mr.; Mrs.; Miss; Ms.; makes words more polite (usu. in fixed expressions); state; situation; appearance"
+        ],
+        [
+          "\u3088\u3046",
+          "appearing ...; looking ...; way to ...; method of ...ing; form; style; design; like; similar to; thing (thought or spoken)"
+        ],
+        [
+          "\u3061\u3083\u307e",
+          "Mr.; Mrs.; Ms."
+        ],
+        [
+          "\u305f\u3081\u3057",
+          "precedent; example"
+        ]
+      ],
+      "example": {
+        "index": 26,
+        "parts": [
+          "\u3093\u2026\uff01\uff1f\n\u8001\u4e2d",
+          "\u69d8",
+          "\u306e\u307c\u3063\u3061\u3083\u3093\u306e\u5b50\u5b88\u308a\u306b\u2192"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u69d8"
+    },
+    {
+      "count": 3,
+      "definitions": [
+        [
+          "\u3058\u3093",
+          "-ian (e.g. Italian); -ite (e.g. Tokyoite); indicates nationality, race, origin, etc.; -er (e.g. performer, etc.); person working with ...; indicates expertise (in a certain field); (usu. in compound words) man; person; people"
+        ],
+        [
+          "\u3068",
+          "person"
+        ],
+        [
+          "\u3072\u3068",
+          "man; person; human being; mankind; people; human (Homo sapiens); humans as a species; character; personality; man of talent; true man; another person; other people; others; adult"
+        ],
+        [
+          "\u306b\u3093",
+          "counter for people; person"
+        ]
+      ],
+      "example": {
+        "index": 95,
+        "parts": [
+          "\u30ef\u30b7\u306f\u3000\u6a4b\u9020\u308a\u306e\u8d85\u540d",
+          "\u4eba",
+          "\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u4eba"
+    },
+    {
+      "count": 3,
+      "definitions": [
+        [
+          "\u307f\u305a",
+          "water (esp. cool, fresh water, e.g. drinking water); fluid (esp. in an animal tissue); liquid; flood; floodwaters; water offered to wrestlers just prior to a bout; break granted to wrestlers engaged in a prolonged bout"
+        ],
+        [
+          "\u3059\u3044",
+          "Wednesday; shaved ice (served with flavored syrup); water (fifth of the five elements)"
+        ]
+      ],
+      "example": {
+        "index": 148,
+        "parts": [
+          "\u7279\u306b\u3000\u300c\u706b\u300d\u3000\u300c",
+          "\u6c34",
+          "\u300d\u3000\u300c\u96f7\u300d\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u6c34"
+    },
+    {
+      "count": 3,
+      "definitions": [
+        [
+          "\u306a",
+          "name; given name; title; fame; renown; reputation; pretext; pretense; justification; appearance"
+        ],
+        [
+          "\u3081\u3044",
+          "counter for people (usu. seating, reservations and such); first name; famous; great; name; noun"
+        ]
+      ],
+      "example": {
+        "index": 111,
+        "parts": [
+          "\u3044\u305a\u308c\u3000\u706b\u5f71\u306e",
+          "\u540d",
+          "\u3092\u8a9e\u308b\n\u8d85\u30a8\u30ea\u30fc\u30c8\u5fcd\u8005\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u540d"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u3044\u307e",
+          "now; the present time; just now; soon; immediately; (one) more"
+        ],
+        [
+          "\u3053\u3093",
+          "the current ...; this; today's ..."
+        ]
+      ],
+      "example": {
+        "index": 88,
+        "parts": [
+          "\u305d\u3046\u614c\u3066\u308b\u306a\u3002\u3000",
+          "\u4eca",
+          "\u3000\u7d39\u4ecb\u3059\u308b\u3002"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u4eca"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u3055\u304d",
+          "previous; prior; former; some time ago; preceding; point (e.g. pencil); tip; end; nozzle; head (of a line); front; ahead; the other side; the future; hereafter; destination; the other party"
+        ],
+        [
+          "\u305c\u3093",
+          "the last (i.e. immediately preceding) (e.g. \"the last mayor\"); previous; one-time; former; pre- (e.g. \"premodern\"); before; earlier"
+        ],
+        [
+          "\u307e\u3048",
+          "ago; before (some event); previously; (minutes) to (the hour); in front (of); before (e.g. the house); head (of a line); front (e.g. of a bus); fore part; in the presence of; helping; portion; privates; private parts"
+        ]
+      ],
+      "example": {
+        "index": 42,
+        "parts": [
+          "\u3053\u306e",
+          "\u524d",
+          "\u304b\u3089\n\u305a\u3063\u3068\u3000\u30b7\u30e7\u30dc\u30a4\u4efb\u52d9\u3070\u3063\u304b\u3058\u3083\u3093\uff01"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u524d"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u304d\u3087\u3046",
+          "today; this day; these days; recently; nowadays"
+        ]
+      ],
+      "example": {
+        "index": 76,
+        "parts": [
+          "\u304d\u306e\u3046\u306e\u663c\u306f\u3000\u30c8\u30f3\u30b3\u30c4\u3060\u3063\u305f\u304b\u3089\n",
+          "\u4eca\u65e5",
+          "\u306f\u3000\u30df\u30bd\u3060\u306a\u2026\u3002"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u4eca\u65e5"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u3057\u306c",
+          "to die; to pass away; to lose spirit; to lose vigor; to look dead; to cease; to stop"
+        ]
+      ],
+      "example": {
+        "index": 18,
+        "parts": [
+          "",
+          "\u6b7b\u306c",
+          "\u307b\u3069\u5fc3\u914d\u3057\u305f\u306e\u3088\uff5e\uff01"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u6b7b\u306c"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u3075\u308a",
+          "swing; shake; wave; swinging; appearance; behaviour; pretence (pretense); show; pretending (to); going to restaurant, hotel etc. without a reservation or introduction; move (dance); postures; lead in (e.g. to a running joke, asking a question); lead up; unsewn part of a hanging sleeve on a traditional Japanese woman's garment; counter for swords, blades, etc."
+        ],
+        [
+          "\u304b\u305c",
+          "wind; breeze; draught; draft; manner; behaviour; behavior; cold; influenza"
+        ],
+        [
+          "\u3075\u3046",
+          "method; manner; way; style; appearance; air; tendency; folk song (genre of the Shi Jing); wind (one of the five elements)"
+        ]
+      ],
+      "example": {
+        "index": 150,
+        "parts": [
+          "\u300c",
+          "\u98a8",
+          "\u300d\u3000\u300c\u571f\u300d\u306e\uff15\u304b\u56fd\u306f\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u98a8"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u3057\u308b",
+          "to be aware of; to know; to be conscious of; to cognize; to cognise; to notice; to feel; to understand; to comprehend; to grasp; to remember; to be acquainted with (a procedure); to experience; to go through; to learn; to be acquainted with (a person); to get to know; to concern"
+        ]
+      ],
+      "example": {
+        "index": 223,
+        "parts": [
+          "\u30a2\u30f3\u30bf\u3000\u305d\u308c",
+          "\u77e5\u3063",
+          "\u3066\u3066\n\u306a\u3093\u3067\u30ac\u30ad\u306b\u3084\u3089\u305b\u305f\uff1f"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u77e5\u308b"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u306f\u3057",
+          "bridge"
+        ],
+        [
+          "\u304d\u3087\u3046",
+          "pons (pontes); pons Varolii; pontine; part of the brain stem (links the medulla oblongata and cerebellum with the midbrain)"
+        ]
+      ],
+      "example": {
+        "index": 98,
+        "parts": [
+          "\u30ef\u30b7\u304c\u56fd\u306b\u5e30\u3063\u3066\n",
+          "\u6a4b",
+          "\u3092\u5b8c\u6210\u3055\u305b\u308b\u307e\u3067\u306e\u9593\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u6a4b"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u304b\u3048\u308b",
+          "to return; to come home; to go home; to go back; to leave; to get home; to get to home plate"
+        ]
+      ],
+      "example": {
+        "index": 97,
+        "parts": [
+          "\u30ef\u30b7\u304c\u56fd\u306b",
+          "\u5e30\u3063",
+          "\u3066\n\u6a4b\u3092\u5b8c\u6210\u3055\u305b\u308b\u307e\u3067\u306e\u9593\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u5e30\u308b"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u3072\u3089\u304f",
+          "to open; to undo; to unseal; to unpack; to bloom; to unfold; to spread out; to open (for business, e.g. in the morning); to be wide (gap, etc.); to widen; to hold (meeting, etc.); to give; to open; to found (nation, dynasty, sect, etc.); to open (a new business); to set up; to establish; to start; to open (ports, borders, etc.); to open (an account); to open up (new land, path, etc.); to clear; to develop; to open (a file, etc.); to extract (root); to reduce (equation); to cut open (fish); to change (kanji into hiragana); to flare (e.g. skirt); to slacken (into a poor posture)"
+        ],
+        [
+          "\u3042\u304f",
+          "to open (e.g. doors); to open (e.g. business, etc.); to be empty; to be vacant; to be available; to be free; to be open (e.g. neckline, etc.); to have been opened (of one's eyes, mouth, etc.); to come to an end; to open (one's eyes, mouth, etc.); to have a hole; to form a gap; to have an interval (between events)"
+        ]
+      ],
+      "example": {
+        "index": 207,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\u50b7\u53e3\u3092",
+          "\u958b\u3044",
+          "\u3066\n\u6bd2\u8840\u3092\u306c\u304b\u306a\u304f\u3061\u3083\u306a\u3089\u306a\u3044\u3002"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u958b\u304f"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u3044\u308b",
+          "to get in; to go in; to come in; to flow into; to set; to set in"
+        ],
+        [
+          "\u306f\u3044\u308b",
+          "to enter; to go into; to break into; to join; to enroll; to contain; to hold; to accommodate; to have (an income of); to get; to receive; to score"
+        ]
+      ],
+      "example": {
+        "index": 74,
+        "parts": [
+          "\u4f9d\u983c\u4e3b\u304b\u3089\u5831\u916c\u91d1\u304c",
+          "\u5165\u3063",
+          "\u3066\u304f\u308b\n\u3068\u3044\u3046\u308f\u3051\u3058\u3083\u3002"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u5165\u308b"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u307e\u3044\u306b\u3061",
+          "every day"
+        ]
+      ],
+      "example": {
+        "index": 48,
+        "parts": [
+          "\u91cc\u306b\u306f",
+          "\u6bce\u65e5",
+          "\n\u591a\u304f\u306e\u4f9d\u983c\u304c\u821e\u3044\u8fbc\u3093\u3067\u304f\u308b\u3002"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u6bce\u65e5"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u3088\u3076",
+          "to call out (to); to call; to invoke; to summon (a doctor, etc.); to invite; to designate; to name; to brand; to garner (support, etc.); to gather; to take as one's wife"
+        ]
+      ],
+      "example": {
+        "index": 157,
+        "parts": [
+          "\u300c\u5fcd\u3073\u4e94\u5927\u56fd\u300d\u3068",
+          "\u547c\u3070",
+          "\u308c\u3066\u3044\u308b\u3002"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u547c\u3076"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u307f\u305b\u308b",
+          "to show; to display"
+        ]
+      ],
+      "example": {
+        "index": 248,
+        "parts": [
+          "\u91cc\u306b\u5e30\u3063\u3066\u533b\u8005\u306b",
+          "\u898b\u305b",
+          "\u306a\u3044\u3068\u2026\u3002\n\u3093\uff5e\u2026\u3002"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u898b\u305b\u308b"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u3061\u304b\u3089",
+          "force; strength; might; vigour (vigor); energy; capability; ability; proficiency; capacity; faculty; efficacy; effect; effort; endeavours (endeavors); exertions; power; authority; influence; good offices; agency; support; help; aid; assistance; stress; emphasis; means; resources"
+        ],
+        [
+          "\u308a\u304d",
+          "strength; power; proficiency; ability; the strength of ... people; the strength of ... men"
+        ],
+        [
+          "\u308a\u3087\u304f",
+          "strength; power; proficiency; ability"
+        ]
+      ],
+      "example": {
+        "index": 132,
+        "parts": [
+          "\u5fcd\u306e\u91cc\u306e\u5b58\u5728\u3063\u3066\u306e\u306f\n\u56fd\u306e\u8ecd\u4e8b",
+          "\u529b",
+          "\u306b\u3042\u305f\u308b\u3002"
+        ]
+      },
+      "jlpt": 4,
+      "word": "\u529b"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u3044\u3058\u3087\u3046",
+          "not less than; ... and more; ... and upwards; beyond ... (e.g. one's means); further (e.g. nothing further to say); more than ... (e.g. cannot pay more than that); above-mentioned; foregoing; since ...; seeing that ...; this is all; that is the end; the end"
+        ]
+      ],
+      "example": {
+        "index": 235,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\n\u3053\u308c\u3060\u3068\u3000\uff22\u30e9\u30f3\u30af",
+          "\u4ee5\u4e0a",
+          "\u306e\u4efb\u52d9\u3060\u3002"
+        ]
+      },
+      "jlpt": 4,
+      "word": "\u4ee5\u4e0a"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u3046\u3054\u304f",
+          "to move; to stir; to shift; to shake; to swing; to operate; to run; to go; to work; to be touched; to be influenced; to change; to vary; to fluctuate; to waver; certain; factual; to be transferred"
+        ]
+      ],
+      "example": {
+        "index": 190,
+        "parts": [
+          "\u304a\u524d\u304c\u3000\u3053\u3053\u307e\u3067",
+          "\u52d5\u3051",
+          "\u306a\u3044\u3068\u306f\n\u601d\u3063\u3066\u306a\u304b\u3063\u305f\u304b\u3089\u306a\u2026\u3002"
+        ]
+      },
+      "jlpt": 4,
+      "word": "\u52d5\u304f"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u304b\u305f\u308b",
+          "to talk about; to speak of; to tell; to narrate; to recite; to chant; to indicate; to show"
+        ]
+      ],
+      "example": {
+        "index": 112,
+        "parts": [
+          "\u3044\u305a\u308c\u3000\u706b\u5f71\u306e\u540d\u3092",
+          "\u8a9e\u308b",
+          "\n\u8d85\u30a8\u30ea\u30fc\u30c8\u5fcd\u8005\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u8a9e\u308b"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u306f\u3093",
+          "group; party; team; squad; section"
+        ]
+      ],
+      "example": {
+        "index": 4,
+        "parts": [
+          "[TEL]\uff08\u30ab\u30ab\u30b7\uff09\u9045\u3044\u305e\u3000\u30ca\u30eb\u30c8\uff01\n\u3088\u3057\u3000\u7b2c\uff17",
+          "\u73ed",
+          "\u2026\u3000\u3093\uff01\uff1f"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u73ed"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u307f\u3068\u3081",
+          "approval; final seal (of approval); acceptance"
+        ]
+      ],
+      "example": {
+        "index": 121,
+        "parts": [
+          "\u30aa\u30ec\u306e\u3053\u3068\n",
+          "\u8a8d\u3081",
+          "\u3056\u308b\u3092\u3048\u306d\u3048\u3093\u3060\u305e\uff01\uff01"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u8a8d\u3081"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3058\u3076\u3093",
+          "myself; yourself; oneself; himself; herself; I; me; you"
+        ]
+      ],
+      "example": {
+        "index": 80,
+        "parts": [
+          "\u300a\u30d5\u30d5\u30d5\u2026\u3000\u30a4\u30bf\u30ba\u30e9\u3067\u3057\u304b\n",
+          "\u81ea\u5206",
+          "\u3092\u8868\u73fe\u3067\u304d\u306a\u304b\u3063\u305f\u3000\u30b3\u30a4\u30c4\u304c\u300b"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u81ea\u5206"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3064\u304e",
+          "next; following; subsequent; stage; station"
+        ],
+        [
+          "\u3058",
+          "next; hypo- (i.e. containing an element with low valence); order; sequence; time; times"
+        ]
+      ],
+      "example": {
+        "index": 24,
+        "parts": [
+          "\uff08\u4e09\u4ee3\u76ee\u706b\u5f71\uff09\u3055\u3066\uff01\n\u30ab\u30ab\u30b7\u968a\u7b2c\uff17\u73ed\u306e\u3000",
+          "\u6b21",
+          "\u306e\u4efb\u52d9\u306f\u3068\u2026\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u6b21"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3066",
+          "hand; arm; forepaw; foreleg; handle; hand; worker; help; trouble; care; effort; means; way; trick; move; technique; workmanship; hand; handwriting; kind; type; sort; one's hands; one's possession; ability to cope; hand (of cards); direction; move (in go, shogi, etc.)"
+        ]
+      ],
+      "example": {
+        "index": 271,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\u3061\u3087\u3063\u3068",
+          "\u624b",
+          "\u3000\u898b\u305b\u3066\u307f\u308d\u3002"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u624b"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3044\u3046",
+          "to say; to utter; to declare; to name; to call; to go (e.g. \"the alarm went ping\"); to make a noise"
+        ]
+      ],
+      "example": {
+        "index": 82,
+        "parts": [
+          "\uff08\u4e09\u4ee3\u76ee\uff09\u304a\u524d\u304c\u3000\u305d\u3053\u307e\u3067",
+          "\u8a00\u3046",
+          "\u306a\u3089\n\uff23\u30e9\u30f3\u30af\u306e\u4efb\u52d9\u3092\u3084\u3063\u3066\u3082\u3089\u3046\u3002"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u8a00\u3046"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3061\u304c\u3046",
+          "to differ (from); to vary; to not be in the usual condition; to not match the correct (answer, etc.); to be different from promised; isn't it?; wasn't it?"
+        ],
+        [
+          "\u305f\u304c\u3046",
+          "to differ; to be different; to run counter to; to change (into something out of the ordinary)"
+        ]
+      ],
+      "example": {
+        "index": 253,
+        "parts": [
+          "\u300a\u3069\u3046\u3057\u3066\u3000\u3053\u3093\u306a\u306b",
+          "\u9055\u3046",
+          "\uff01"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u9055\u3046"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u306f\u306a\u3057",
+          "talk; speech; chat; story; conversation; discussions; negotiation; argument"
+        ],
+        [
+          "\u308f",
+          "counter for stories, episodes of TV series, etc."
+        ]
+      ],
+      "example": {
+        "index": 229,
+        "parts": [
+          "\u6211\u3005\u306f\u3000\u30a2\u30ca\u30bf\u304c\n\u5fcd\u306b\u72d9\u308f\u308c\u3066\u3044\u308b\u306a\u3093\u3066",
+          "\u8a71",
+          "\u306f\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u8a71"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304f\u308b",
+          "to come (spatially or temporally); to approach; to arrive; to come back; to do ... and come back; to come to be; to become; to get; to grow; to continue; to come from; to be caused by; to derive from; to come to (i.e. \"when it comes to spinach ...\")"
+        ],
+        [
+          "\u304d\u305f\u308b",
+          "next (e.g. \"next April\"); forthcoming; coming; to come; to arrive; to be due to"
+        ]
+      ],
+      "example": {
+        "index": 183,
+        "parts": [
+          "\u300a\u304f\u2026\u3000",
+          "\u6765\u308b",
+          "\uff01\n\u79c1\u304c\u3084\u3089\u306a\u304d\u3083\u2026\u3000\u3084\u3089\u306a\u304d\u3083\uff01\u300b"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u6765\u308b"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u306f\u3058\u3081\u3066",
+          "for the first time; only after ... is it ...; only when ... do you ..."
+        ]
+      ],
+      "example": {
+        "index": 192,
+        "parts": [
+          "\u306a\u306e\u306b\u3000\u30b5\u30b9\u30b1\u306f\u2026\n",
+          "\u521d\u3081\u3066",
+          "\u306e\u5b9f\u6226\u306a\u306e\u306b\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u521d\u3081\u3066"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3057\u305f",
+          "below; down; under; younger (e.g. daughter); bottom; beneath; underneath; just after; right after; inferiority; one's inferior (i.e. one's junior); trade-in; preliminary; preparatory"
+        ],
+        [
+          "\u3082\u3068",
+          "under (esp. influence or guidance)"
+        ],
+        [
+          "\u3052",
+          "lowness (of degree, value, etc.); inferiority; second volume (of two); third volume (of three)"
+        ],
+        [
+          "\u3057\u3082",
+          "lower reaches (of a river); bottom; lower part; lower half (of the body, esp. the privates); feces (faeces); urine; menses; end; far from the imperial palace (i.e. far from Kyoto, esp. of western Japan); dirty (e.g. dirty jokes, etc.)"
+        ],
+        [
+          "\u304b",
+          "under (being in said condition or environment)"
+        ]
+      ],
+      "example": {
+        "index": 138,
+        "parts": [
+          "\u2026\u307e\u3000\u304b\u3068\u3044\u3063\u3066\u3000\u91cc\u306f\u56fd\u306e\n\u652f\u914d",
+          "\u4e0b",
+          "\u306b\u3042\u308b\u3082\u3093\u3058\u3083\u306a\u304f\u3066\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u4e0b"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304a\u305d\u3044",
+          "slow; late (e.g. \"late at night\"); too late; dull; stupid"
+        ]
+      ],
+      "example": {
+        "index": 2,
+        "parts": [
+          "[TEL]\uff08\u30ab\u30ab\u30b7\uff09",
+          "\u9045\u3044",
+          "\u305e\u3000\u30ca\u30eb\u30c8\uff01\n\u3088\u3057\u3000\u7b2c\uff17\u73ed\u2026\u3000\u3093\uff01\uff1f"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u9045\u3044"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u307e\u3061",
+          "town; block; neighbourhood; neighborhood; street; road; 109.09 m; 0.99 hectares"
+        ]
+      ],
+      "example": {
+        "index": 28,
+        "parts": [
+          "\u3068\u306a\u308a",
+          "\u753a",
+          "\u307e\u3067\u306e\u304a\u3064\u304b\u3044\u2026\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u753a"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305d\u3068",
+          "outside; exterior; open air; other place"
+        ],
+        [
+          "\u307b\u304b",
+          "other (place, thing, person); the rest; outside; beyond; nothing except; nothing but; nothing apart from; nothing aside from; no choice (but to); besides...; in addition to..."
+        ],
+        [
+          "\u3088\u305d",
+          "another place; somewhere else; strange parts; outside (one's family or group); those people; unrelated matter"
+        ],
+        [
+          "\u304c\u3044",
+          "outside of; not covered by"
+        ]
+      ],
+      "example": {
+        "index": 105,
+        "parts": [
+          "\u4e00\u5ea6\u3082\u3000\u91cc\u306e",
+          "\u5916",
+          "\u306b\n\u51fa\u305f\u3053\u3068\u306d\u3048\u304b\u3089\u3088\uff01"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u5916"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304d\u304f",
+          "to hear; to listen (e.g. to music); to ask; to enquire; to query; to learn of; to hear about; to follow (advice); to comply with; to smell (esp. incense); to sample fragrance"
+        ]
+      ],
+      "example": {
+        "index": 230,
+        "parts": [
+          "",
+          "\u805e\u3044",
+          "\u3066\u3044\u306a\u3044\u3002\n\u4f9d\u983c\u5185\u5bb9\u306f\u3000\u30ae\u30e3\u30f3\u30b0\u3084\u76d7\u8cca\u306a\u3069\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u805e\u304f"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3042\u3081",
+          "rain"
+        ]
+      ],
+      "example": {
+        "index": 219,
+        "parts": [
+          "\u6570\u65e5\u3000",
+          "\u96e8",
+          "\u3082\u964d\u3063\u3066\u306a\u3044\u3002"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u96e8"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3072\u308b",
+          "noon; midday; daytime; lunch"
+        ]
+      ],
+      "example": {
+        "index": 75,
+        "parts": [
+          "\u304d\u306e\u3046\u306e",
+          "\u663c",
+          "\u306f\u3000\u30c8\u30f3\u30b3\u30c4\u3060\u3063\u305f\u304b\u3089\n\u4eca\u65e5\u306f\u3000\u30df\u30bd\u3060\u306a\u2026\u3002"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u663c"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304a\u3082\u3044",
+          "heavy; weighty; massive; heavy (feeling); depressed; gloomy; blue; uneasy; slow; sluggish; lumbering; ponderous; clumsy; important; serious; grave; serious; severe; critical; solid; established; dignified; sensible"
+        ]
+      ],
+      "example": {
+        "index": 250,
+        "parts": [
+          "\u3053\u308a\u3083\u3000\u8377\u304c",
+          "\u91cd\u3044",
+          "\u306a\uff01"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u91cd\u3044"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u306f\u308c",
+          "clear weather; fine weather; formal; ceremonial; public; cleared of suspicion"
+        ]
+      ],
+      "example": {
+        "index": 221,
+        "parts": [
+          "\u4eca\u65e5\u307f\u305f\u3044\u306a",
+          "\u6674\u308c",
+          "\u306e\u65e5\u306b\n\u6c34\u305f\u307e\u308a\u306a\u3093\u3066\u306a\u3044\u3067\u3057\u3087\u3002"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u6674\u308c"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3053\u307e\u308b",
+          "to be troubled; to be worried; to be bothered; to be embarrassed; to be stumped"
+        ]
+      ],
+      "example": {
+        "index": 243,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\u4f55\u304b\u3000\u8a33\u3042\u308a\u307f\u305f\u3044\u3067\u3059\u304c\n\u4f9d\u983c\u3067\u30a6\u30bd\u3092\u3064\u304b\u308c\u308b\u3068",
+          "\u56f0\u308a",
+          "\u307e\u3059\u3002"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u56f0\u308b"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3070\u3093",
+          "many; all"
+        ],
+        [
+          "\u307e\u3093",
+          "10,000; ten thousand; myriad; everything; all; various"
+        ]
+      ],
+      "example": {
+        "index": 171,
+        "parts": [
+          "\u5168\u4e16\u754c\u5404\u56fd\u3000\u4f55",
+          "\u4e07",
+          "\u306e\u5fcd\u8005\u306e\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u4e07"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3075\u304f",
+          "clothes (esp. Western clothes); counter for doses of medicine, gulps of tea, drags of a cigarette, etc."
+        ],
+        [
+          "\u3076\u304f",
+          "mourning clothes; mourning; period of mourning"
+        ]
+      ],
+      "example": {
+        "index": 197,
+        "parts": [
+          "\u5e73\u6c17\u306a\u9854\u3057\u3066\n",
+          "\u670d",
+          "\u306b\u6c5a\u308c\u3072\u3068\u3064\u4ed8\u3051\u305a\u306b\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u670d"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304a\u3068\u3046\u3068",
+          "younger brother; little brother; kid brother; pupil; apprentice"
+        ]
+      ],
+      "example": {
+        "index": 291,
+        "parts": [
+          "\u305d\u306e\u3046\u3048\u3000\u9b3c\u5144",
+          "\u5f1f",
+          "\u306e\u6697\u6bba\u5931\u6557\u3067\u2192"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u5f1f"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304f\u3060\u308b",
+          "to descend; to go down; to come down; to be handed down (of an order, judgment, etc.); to pass (of time); to surrender; to capitulate; (often in neg. form) to be less than; to be inferior to; to have the runs; to have diarrhea"
+        ],
+        [
+          "\u3075\u308b",
+          "to precipitate; to fall (e.g. rain)"
+        ]
+      ],
+      "example": {
+        "index": 220,
+        "parts": [
+          "\u6570\u65e5\u3000\u96e8\u3082",
+          "\u964d\u3063",
+          "\u3066\u306a\u3044\u3002"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u964d\u308b"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304c\u3044\u3053\u304f",
+          "foreign country"
+        ]
+      ],
+      "example": {
+        "index": 178,
+        "parts": [
+          "\u3058\u3083\u3042\u3000",
+          "\u5916\u56fd",
+          "\u306e\u5fcd\u8005\u3068\n\u63a5\u89e6\u3059\u308b\u5fc3\u914d\u306f\u3000\u306a\u3044\u3093\u3060\u3041\uff01"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u5916\u56fd"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3044\u3057\u3083",
+          "(medical) doctor; physician"
+        ]
+      ],
+      "example": {
+        "index": 247,
+        "parts": [
+          "\u91cc\u306b\u5e30\u3063\u3066",
+          "\u533b\u8005",
+          "\u306b\u898b\u305b\u306a\u3044\u3068\u2026\u3002\n\u3093\uff5e\u2026\u3002"
+        ]
+      },
+      "jlpt": 5,
+      "word": "\u533b\u8005"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304d\u307f",
+          "you; buddy; pal; monarch; ruler; sovereign; (one's) master"
+        ],
+        [
+          "\u304f\u3093",
+          "Mr (junior); master; boy"
+        ],
+        [
+          "\u304e\u307f",
+          "suffix appended to somebody else's family members"
+        ],
+        [
+          "\u304d\u3093\u3058",
+          "you"
+        ]
+      ],
+      "example": {
+        "index": 200,
+        "parts": [
+          "\u30b1\u30ac\u306f\u306d\u3048\u304b\u3088\u2026\u3000\u30d3\u30d3\u30ea",
+          "\u541b",
+          "\u3002"
+        ]
+      },
+      "jlpt": 4,
+      "word": "\u541b"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304d",
+          "spirit; mind; heart; nature; disposition; motivation; intention; mood; feelings; ambience; atmosphere; mood"
+        ],
+        [
+          "\u3052",
+          "seeming; giving the appearance of; giving one the feeling of"
+        ],
+        [
+          "\u304e",
+          "-like nature; -like disposition; -ish temperament"
+        ],
+        [
+          "\u3051",
+          "sign; indication; trace; touch; feeling; somehow; for some reason; seeming to be"
+        ]
+      ],
+      "example": {
+        "index": 224,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\u79c1\u304c\u305d\u306e",
+          "\u6c17",
+          "\u306b\u306a\u308c\u3070\n\u30b3\u30a4\u30c4\u3089\u304f\u3089\u3044\u77ac\u6bba\u3067\u304d\u307e\u3059\u3002"
+        ]
+      },
+      "jlpt": 4,
+      "word": "\u6c17"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304b\u3093\u305f\u3093",
+          "simple; easy; uncomplicated; brief; quick; light"
+        ]
+      ],
+      "example": {
+        "index": 38,
+        "parts": [
+          "\u8ab0\u3067\u3082\u521d\u3081\u306f\n",
+          "\u7c21\u5358",
+          "\u306a\u4efb\u52d9\u304b\u3089\u5834\u6570\u3092\u8e0f\u3093\u3067\u2192"
+        ]
+      },
+      "jlpt": 4,
+      "word": "\u7c21\u5358"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305b\u3064\u3081\u3044",
+          "explanation; exposition"
+        ]
+      ],
+      "example": {
+        "index": 45,
+        "parts": [
+          "",
+          "\u8aac\u660e",
+          "\u3057\u3066\u304a\u304f\u5fc5\u8981\u304c\u3042\u308b\u306a\u2026\u3002"
+        ]
+      },
+      "jlpt": 4,
+      "word": "\u8aac\u660e"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3057\u3087\u3046\u304b\u3044",
+          "introduction; presentation; referral; listing"
+        ]
+      ],
+      "example": {
+        "index": 89,
+        "parts": [
+          "\u305d\u3046\u614c\u3066\u308b\u306a\u3002\u3000\u4eca\u3000",
+          "\u7d39\u4ecb",
+          "\u3059\u308b\u3002"
+        ]
+      },
+      "jlpt": 4,
+      "word": "\u7d39\u4ecb"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3082\u3069\u308b",
+          "to turn back (e.g. half-way); to return; to go back; to recover (e.g. something lost); to be returned; to rebound; to spring back"
+        ]
+      ],
+      "example": {
+        "index": 252,
+        "parts": [
+          "\u30ca\u30eb\u30c8\u306e\u6cbb\u7642\u3064\u3044\u3067\u306b\u3000\u91cc\u3078",
+          "\u623b\u308b",
+          "\u304b\u3002"
+        ]
+      },
+      "jlpt": 4,
+      "word": "\u623b\u308b"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3082\u306e",
+          "person"
+        ],
+        [
+          "\u3057\u3083",
+          "someone of that nature; someone doing that work"
+        ]
+      ],
+      "example": {
+        "index": 117,
+        "parts": [
+          "\u706b\u5f71\u3063\u3066\u3044\u3084\u3041\n\u91cc\u4e00\u756a\u306e\u8d85\u5fcd",
+          "\u8005",
+          "\u3060\u308d\uff1f"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u8005"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u307b\u3093\u3068\u3046",
+          "truth; reality; actuality; fact; proper; right; correct; official; genuine; authentic; natural; veritable"
+        ]
+      ],
+      "example": {
+        "index": 288,
+        "parts": [
+          "\uff08\u30ac\u30c8\u30fc\uff09\n\u2026\u307b\u3000",
+          "\u672c\u5f53",
+          "\u306b\u5927\u4e08\u592b\u3060\u308d\u3046\u306a\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u672c\u5f53"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u307f",
+          "body; oneself; one's place; one's position; main part; meat (as opposed to bone, skin, etc.); wood (as opposed to bark); blade (as opposed to its handle); container (as opposed to its lid)"
+        ],
+        [
+          "\u3080\u304f\u308d",
+          "(dead) body; corpse"
+        ]
+      ],
+      "example": {
+        "index": 186,
+        "parts": [
+          "\u300a\u30ab\u30ab\u30b7\u5148\u751f\n\u5909\u308f\u308a",
+          "\u8eab",
+          "\u3000\u4f7f\u3063\u3066\u305f\u306e\u304b\u2026\u300b"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u8eab"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305d\u3093\u3056\u3044",
+          "existence; being"
+        ]
+      ],
+      "example": {
+        "index": 128,
+        "parts": [
+          "\u6587\u5316\u3084\u98a8\u7fd2\u3053\u305d\u9055\u3046\u304c\n\u96a0\u308c\u91cc\u304c",
+          "\u5b58\u5728",
+          "\u3057\u3000\u5fcd\u8005\u304c\u3044\u308b\u3002"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u5b58\u5728"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304b\u304f\u3054",
+          "resolution; resignation; readiness; preparedness"
+        ]
+      ],
+      "example": {
+        "index": 120,
+        "parts": [
+          "\u3069\u3093\u306a\u52aa\u529b\u3082\n\u3059\u308b",
+          "\u899a\u609f",
+          "\u3060\u3063\u3066\u3048\u306e\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u899a\u609f"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3069\u308a\u3087\u304f",
+          "great effort; exertion; endeavour; endeavor; effort"
+        ]
+      ],
+      "example": {
+        "index": 119,
+        "parts": [
+          "\u3069\u3093\u306a",
+          "\u52aa\u529b",
+          "\u3082\n\u3059\u308b\u899a\u609f\u3060\u3063\u3066\u3048\u306e\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u52aa\u529b"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3078\u3044\u304d",
+          "coolness; calmness; composure; unconcern; all right; OK; okay"
+        ]
+      ],
+      "example": {
+        "index": 195,
+        "parts": [
+          "",
+          "\u5e73\u6c17",
+          "\u306a\u9854\u3057\u3066\n\u670d\u306b\u6c5a\u308c\u3072\u3068\u3064\u4ed8\u3051\u305a\u306b\u2192"
+        ]
+      },
+      "jlpt": 2,
+      "word": "\u5e73\u6c17"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3058\u3085\u3064",
+          "art; technique; means; way; trick; trap; plot; stratagem; magic"
+        ],
+        [
+          "\u3059\u3079",
+          "way; method; means"
+        ]
+      ],
+      "example": {
+        "index": 255,
+        "parts": [
+          "\u3069\u3093\u3069\u3093\u4efb\u52d9\u3053\u306a\u3057\u3066\u3000\uff11\u4eba\u3067\u6bce\u65e5\n",
+          "\u8853",
+          "\u306e\u7279\u8a13\u3082\u3057\u3066\u3093\u306e\u306b\u2026\u300b"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u8853"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3067",
+          "coming out; going out; outflow; efflux; rising (of the sun or moon); attending (work); appearing (on stage); one's turn to go on; start; beginning; origins; background; person (or item) originating from ...; graduate of ...; native of ...; member of ... (lineage); architectural member that projects outward; highest point of the stern of a ship; amount (comprising something); amount of time or effort required to do something"
+        ],
+        [
+          "\u3057\u3085\u3064",
+          "coming out; emerging; being born into (a certain family); being a native of (a particular place)"
+        ]
+      ],
+      "example": {
+        "index": 106,
+        "parts": [
+          "\u4e00\u5ea6\u3082\u3000\u91cc\u306e\u5916\u306b\n",
+          "\u51fa",
+          "\u305f\u3053\u3068\u306d\u3048\u304b\u3089\u3088\uff01"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u51fa"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3084\u308d\u3046",
+          "guy; fellow; chap; buddy; bastard; asshole; arsehole; son of a bitch"
+        ]
+      ],
+      "example": {
+        "index": 33,
+        "parts": [
+          "\uff08\u30a4\u30eb\u30ab\uff09\u30d0\u30ab",
+          "\u91ce\u90ce",
+          "\uff01\u3000\u304a\u524d\u306f\u307e\u3060\n\u30da\u30fc\u30da\u30fc\u306e\u65b0\u7c73\u3060\u308d\u3046\u304c\uff01"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u91ce\u90ce"
     }
   ],
   "other": [
     {
       "count": 2,
+      "definitions": [
+        [
+          "\u3069\u304f",
+          "poison; toxicant; harm; evil influence; ill will; spite; malice; abusive language"
+        ]
+      ],
+      "example": {
+        "index": 202,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\u30b3\u30a4\u30c4\u3089\u306e\u722a\u306b\u306f\n",
+          "\u6bd2",
+          "\u304c\u5857\u3063\u3066\u3042\u308b\u3002"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u6bd2"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u306d\u3089\u3046",
+          "to aim at"
+        ]
+      ],
+      "example": {
+        "index": 227,
+        "parts": [
+          "\u3064\u307e\u308a\u2026\u3000",
+          "\u72d9\u308f",
+          "\u308c\u3066\u3044\u308b\u306e\u306f\n\u30a2\u30ca\u30bf\u306a\u306e\u304b\u2192"
+        ]
+      },
       "jlpt": 2,
-      "pronunciation": "?",
       "word": "\u72d9\u3046"
     },
     {
       "count": 2,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u571f"
+      "definitions": [
+        [
+          "\u3066\u304d",
+          "-like; typical"
+        ],
+        [
+          "\u307e\u3068",
+          "mark; target"
+        ]
+      ],
+      "example": {
+        "index": 64,
+        "parts": [
+          "\u80fd\u529b",
+          "\u7684",
+          "\u306b\n\u5206\u3051\u3066\u3042\u3063\u3066\u2192"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u7684"
     },
     {
       "count": 2,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u76ee\u6a19"
+      "definitions": [
+        [
+          "\u3042\u3093\u3055\u3064",
+          "assassination"
+        ]
+      ],
+      "example": {
+        "index": 52,
+        "parts": [
+          "\u5b50\u5b88\u308a\u304b\u3089\u3000",
+          "\u6697\u6bba",
+          "\u307e\u3067\u306a\u2026\u3002"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u6697\u6bba"
     },
     {
       "count": 2,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u8a9e\u308b"
+      "definitions": [
+        [
+          "\u3053\u308d\u3057",
+          "murder; killing; murderer"
+        ]
+      ],
+      "example": {
+        "index": 93,
+        "parts": [
+          "",
+          "\u6bba\u3057",
+          "\u3066\u3000\u3069\u3046\u3059\u308b\u3000\u30a2\u30db\uff01"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u6bba\u3057"
     },
     {
       "count": 2,
-      "jlpt": "?",
-      "pronunciation": "?",
+      "definitions": [
+        [
+          "\u306f\u3084\u304f",
+          "early; soon; quickly; swiftly; rapidly; fast"
+        ]
+      ],
+      "example": {
+        "index": 204,
+        "parts": [
+          "\u304a\u524d\u306f\u3000",
+          "\u65e9\u304f",
+          "\n\u3048\u3063\uff01\n\u6bd2\u306c\u304d\u3059\u308b\u5fc5\u8981\u304c\u3042\u308b\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u65e9\u304f"
+    },
+    {
+      "count": 2,
+      "definitions": [
+        [
+          "\u305f\u3053\u304f",
+          "foreign country; other country; another province; strange land; alien land"
+        ]
+      ],
+      "example": {
+        "index": 134,
+        "parts": [
+          "\u3064\u307e\u308a\u3000\u305d\u308c\u3067\u3000\u96a3\u63a5\u3059\u308b",
+          "\u4ed6\u56fd",
+          "\u3068\u306e\n\u95a2\u4fc2\u3092\u4fdd\u3063\u3066\u308b\u3063\u3066\u308f\u3051\uff01"
+        ]
+      },
+      "jlpt": 0,
       "word": "\u4ed6\u56fd"
     },
     {
       "count": 2,
-      "jlpt": "?",
-      "pronunciation": "?",
+      "definitions": [
+        [
+          "\u3076\u3063\u3053\u308d\u3059",
+          "to beat to death; to kill"
+        ]
+      ],
+      "example": {
+        "index": 92,
+        "parts": [
+          "",
+          "\u3076\u3063\u6bba\u3059",
+          "\uff01\uff01\n\u3053\u308c\u304b\u3089\u8b77\u885b\u3059\u308b\u3000\u3058\u3044\u3055\u3093\u2192"
+        ]
+      },
+      "jlpt": 0,
       "word": "\u3076\u3063\u6bba\u3059"
     },
     {
-      "count": 2,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u96f7"
-    },
-    {
-      "count": 2,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u6bd2"
-    },
-    {
       "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u547d"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u6226\u3044"
-    },
-    {
-      "count": 1,
+      "definitions": [
+        [
+          "\u3053\u3093\u3069",
+          "now; this time; next time; another time"
+        ]
+      ],
+      "example": {
+        "index": 285,
+        "parts": [
+          "\uff08\u518d\u4e0d\u65ac\uff09",
+          "\u4eca\u5ea6",
+          "\u306f\u30aa\u30ec\u69d8\u304c\u3000\u3053\u306e\n\u9996\u5207\u308a\u5305\u4e01\u3067\u30bd\u30a4\u30c4\u3092\u6bba\u3057\u3066\u3084\u308b\u3088\uff01"
+        ]
+      },
       "jlpt": 4,
-      "pronunciation": "?",
       "word": "\u4eca\u5ea6"
     },
     {
       "count": 1,
+      "definitions": [
+        [
+          "\u3042\u3044\u3060",
+          "space (between); gap; interval; distance; time (between); pause; break; span (temporal or spatial); stretch; period (while); relationship (between, among); members (within, among); due to; because of"
+        ],
+        [
+          "\u307e",
+          "space; room; time; pause"
+        ],
+        [
+          "\u304b\u3093",
+          "interval; period of time; among; between; inter-"
+        ],
+        [
+          "\u3051\u3093",
+          "1.818 m (6 shaku); counter used to number the gaps between pillars"
+        ]
+      ],
+      "example": {
+        "index": 100,
+        "parts": [
+          "\u30ef\u30b7\u304c\u56fd\u306b\u5e30\u3063\u3066\n\u6a4b\u3092\u5b8c\u6210\u3055\u305b\u308b\u307e\u3067\u306e",
+          "\u9593",
+          "\u2192"
+        ]
+      },
       "jlpt": 4,
-      "pronunciation": "?",
       "word": "\u9593"
     },
     {
       "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u52d5\u304d"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u751f\u304d"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u53d7\u3051"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u8ca0\u3051"
-    },
-    {
-      "count": 1,
+      "definitions": [
+        [
+          "\u3072",
+          "day; days; sun; sunshine; sunlight; case (esp. unfortunate); event"
+        ],
+        [
+          "\u306b\u3061",
+          "Sunday; day (of the month); counter for days; Japan"
+        ],
+        [
+          "\u304b",
+          "day of month; counter for days"
+        ]
+      ],
+      "example": {
+        "index": 222,
+        "parts": [
+          "\u4eca",
+          "\u65e5",
+          "\u307f\u305f\u3044\u306a\u6674\u308c\u306e\u65e5\u306b\n\u6c34\u305f\u307e\u308a\u306a\u3093\u3066\u306a\u3044\u3067\u3057\u3087\u3002"
+        ]
+      },
       "jlpt": 4,
-      "pronunciation": "?",
       "word": "\u65e5"
     },
     {
       "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u96a0\u308c"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u8d85"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u899a\u3048"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u5b88\u308b"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u51fa\u3057"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u4e8c\u5ea6"
-    },
-    {
-      "count": 1,
+      "definitions": [
+        [
+          "\u3070\u3042\u3044",
+          "case; situation"
+        ]
+      ],
+      "example": {
+        "index": 145,
+        "parts": [
+          "\u5c0f\u3055\u306a\u5cf6\u56fd\u306a\u3093\u304b\u3067\u306f\u2026\u3000\u5fcd\u306e\u91cc\u304c\n\u5fc5\u8981\u3067\u306a\u3044",
+          "\u5834\u5408",
+          "\u3082\u3042\u308b\u3057\u3002"
+        ]
+      },
       "jlpt": 4,
-      "pronunciation": "?",
       "word": "\u5834\u5408"
     },
     {
       "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u8ab0\u304b"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u8ddd\u96e2"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u6210\u529f"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u5f71"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u767a"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u5c0f\u50e7"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u5909\u308f\u308a"
-    },
-    {
-      "count": 1,
+      "definitions": [
+        [
+          "\u304b\u3093\u3051\u3044",
+          "relation; relationship; connection; participation; involvement; concern; influence; effect; sexual relations; sexual relationship; related to ...; connected to ..."
+        ]
+      ],
+      "example": {
+        "index": 135,
+        "parts": [
+          "\u3064\u307e\u308a\u3000\u305d\u308c\u3067\u3000\u96a3\u63a5\u3059\u308b\u4ed6\u56fd\u3068\u306e\n",
+          "\u95a2\u4fc2",
+          "\u3092\u4fdd\u3063\u3066\u308b\u3063\u3066\u308f\u3051\uff01"
+        ]
+      },
       "jlpt": 4,
-      "pronunciation": "?",
       "word": "\u95a2\u4fc2"
     },
     {
       "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u8ffd\u3046"
-    },
-    {
-      "count": 1,
-      "jlpt": 2,
-      "pronunciation": "?",
-      "word": "\u7d42\u4e86"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u6b62\u3081"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u591a\u304f"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u79fb\u52d5"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u75db\u307f"
-    },
-    {
-      "count": 1,
+      "definitions": [
+        [
+          "\u306b\u3052\u308b",
+          "to escape; to run away"
+        ]
+      ],
+      "example": {
+        "index": 20,
+        "parts": [
+          "\u300a\u30b5\u30af\u30e9\uff1a",
+          "\u9003\u3052\u3093",
+          "\u306e\u3082\u30e0\u30ea\u306a\u3044\u308f\u306d\n\u3042\u308c\u3058\u3083\u2026\u300b"
+        ]
+      },
       "jlpt": 4,
-      "pronunciation": "?",
-      "word": "\u7d39\u4ecb"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u72a0\u7272"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u5de6\u624b"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u521d\u3081"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u90e8"
-    },
-    {
-      "count": 1,
-      "jlpt": 4,
-      "pronunciation": "?",
       "word": "\u9003\u3052\u308b"
     },
     {
       "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u8aac\u6559"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u6700\u60aa"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u5185\u5bb9"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u91d1"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u5fcd\u3073"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u52a0\u6e1b"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u5143"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u9577"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u8b66\u6212"
-    },
-    {
-      "count": 1,
+      "definitions": [
+        [
+          "\u3064\u3065\u3051\u308b",
+          "to continue; to keep up; to keep on"
+        ]
+      ],
+      "example": {
+        "index": 213,
+        "parts": [
+          "\u30b3\u30a4\u30c4\u3089\u306f\u3000\u3044\u304b\u306a\u308b\u72a0\u7272\u3092\u6255\u3063\u3066\u3082\n\u6226\u3044",
+          "\u7d9a\u3051\u308b",
+          "\u3053\u3068\u3067\u77e5\u3089\u308c\u308b\u5fcd\u3060\u3002"
+        ]
+      },
       "jlpt": 4,
-      "pronunciation": "?",
       "word": "\u7d9a\u3051\u308b"
     },
     {
       "count": 1,
+      "definitions": [
+        [
+          "\u3068\u304f\u306b",
+          "particularly; especially"
+        ]
+      ],
+      "example": {
+        "index": 146,
+        "parts": [
+          "",
+          "\u7279\u306b",
+          "\u3000\u300c\u706b\u300d\u3000\u300c\u6c34\u300d\u3000\u300c\u96f7\u300d\u2192"
+        ]
+      },
       "jlpt": 4,
-      "pronunciation": "?",
       "word": "\u7279\u306b"
     },
     {
       "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u6cbb\u7642"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u652f\u914d"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u611f"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u5bfe\u7b49"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u5b8c\u6210"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u9762"
-    },
-    {
-      "count": 1,
+      "definitions": [
+        [
+          "\u308f\u3051",
+          "conclusion from reasoning, judgement or calculation based on something read or heard; reason; cause; meaning; circumstances; situation"
+        ],
+        [
+          "\u3084\u304f",
+          "translation; version (e.g. \"English version\")"
+        ]
+      ],
+      "example": {
+        "index": 242,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\u4f55\u304b\u3000",
+          "\u8a33",
+          "\u3042\u308a\u307f\u305f\u3044\u3067\u3059\u304c\n\u4f9d\u983c\u3067\u30a6\u30bd\u3092\u3064\u304b\u308c\u308b\u3068\u56f0\u308a\u307e\u3059\u3002"
+        ]
+      },
       "jlpt": 4,
-      "pronunciation": "?",
       "word": "\u8a33"
     },
     {
       "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u7dca\u5f35"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u7acb\u5834"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u65b0\u7c73"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u63a5\u89e6"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u6027\u683c"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u5927\u304d\u304f"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u5404\u56fd"
-    },
-    {
-      "count": 1,
+      "definitions": [
+        [
+          "\u3075\u3080",
+          "to step on; to tread on; to experience; to undergo; to estimate; to value; to appraise; to rhyme; to inherit (the throne, etc.); to follow (rules, morals, principles, etc.)"
+        ]
+      ],
+      "example": {
+        "index": 40,
+        "parts": [
+          "\u8ab0\u3067\u3082\u521d\u3081\u306f\n\u7c21\u5358\u306a\u4efb\u52d9\u304b\u3089\u5834\u6570\u3092",
+          "\u8e0f\u3093",
+          "\u3067\u2192"
+        ]
+      },
       "jlpt": 4,
-      "pronunciation": "?",
       "word": "\u8e0f\u3080"
     },
     {
       "count": 1,
-      "jlpt": 2,
-      "pronunciation": "?",
-      "word": "\u722a"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u629c\u304f"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u5c0f\u3055"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u5b9f\u6226"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u4ed8\u3051"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u9ad8\u984d"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u9806"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u96c6\u56e3"
-    },
-    {
-      "count": 1,
-      "jlpt": 2,
-      "pronunciation": "?",
-      "word": "\u8a93\u3046"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u8377"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u7d9a\u884c"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u7279\u8a13"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u6c5a\u308c"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u6355\u7372"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u632f\u308a"
-    },
-    {
-      "count": 1,
+      "definitions": [
+        [
+          "\u306f\u3089\u3046",
+          "to pay (e.g. money, bill); to brush off; to wipe away; to clear away; to dust off; to cut off (e.g. branches); to drive away (e.g. one's competitors); to sell off (something unneeded); to dispose of; to pay (e.g. attention); to show (e.g. respect, concern); to make (e.g. effort, sacrifice); to expend; to exert; to move out (of one's own place); to vacate; to sweep (e.g. one's legs); to knock aside; to make a sweeping stroke (in Japanese calligraphy); to reset (an abacus)"
+        ]
+      ],
+      "example": {
+        "index": 211,
+        "parts": [
+          "\u30b3\u30a4\u30c4\u3089\u306f\u3000\u3044\u304b\u306a\u308b\u72a0\u7272\u3092",
+          "\u6255\u3063",
+          "\u3066\u3082\n\u6226\u3044\u7d9a\u3051\u308b\u3053\u3068\u3067\u77e5\u3089\u308c\u308b\u5fcd\u3060\u3002"
+        ]
+      },
       "jlpt": 4,
-      "pronunciation": "?",
       "word": "\u6255\u3046"
     },
     {
       "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u624b\u4f1d"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u5bb9\u6613"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u51fa\u8840"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u51fa\u767a"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u4fdd\u3064"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u4eba\u7269"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u304a\u8a71"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u9ebb\u9154"
-    },
-    {
-      "count": 1,
-      "jlpt": 2,
-      "pronunciation": "?",
-      "word": "\u9802\u70b9"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u9020\u308b"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u8ff7\u5b50"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u8ecd\u4e8b"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u8a2d\u5b9a"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u8868\u73fe"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u7d76\u5927"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u77ac\u6bba"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u76d7\u8cca"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u6cbb\u308a"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u6b66\u88c5"
-    },
-    {
-      "count": 1,
-      "jlpt": 3,
-      "pronunciation": "?",
-      "word": "\u666f\u6c17"
-    },
-    {
-      "count": 1,
+      "definitions": [
+        [
+          "\u3076\u3093\u304b",
+          "culture; civilization; civilisation; Bunka era (1804.2.11-1818.4.22)"
+        ]
+      ],
+      "example": {
+        "index": 125,
+        "parts": [
+          "",
+          "\u6587\u5316",
+          "\u3084\u98a8\u7fd2\u3053\u305d\u9055\u3046\u304c\n\u96a0\u308c\u91cc\u304c\u5b58\u5728\u3057\u3000\u5fcd\u8005\u304c\u3044\u308b\u3002"
+        ]
+      },
       "jlpt": 4,
-      "pronunciation": "?",
       "word": "\u6587\u5316"
     },
     {
       "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u6570\u65e5"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u652f\u63f4"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u601d\u3048\u308b"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u5e72\u6e09"
-    },
-    {
-      "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u5bfe\u6c7a"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u59eb\u69d8"
-    },
-    {
-      "count": 1,
+      "definitions": [
+        [
+          "\u3044\u306e\u3061",
+          "life; life force; lifetime; lifespan; most important thing; foundation; core; paired tattoos of the \"life\" kanji on the upper arms of a man and woman (indicating unwavering love); fate; destiny; karma"
+        ],
+        [
+          "\u3081\u3044",
+          "command; decree; life; destiny"
+        ],
+        [
+          "\u307f\u3053\u3068",
+          "Lord; Highness; you"
+        ],
+        [
+          "\u307f\u3053\u3068",
+          "the spoken words of the emperor or a noble"
+        ]
+      ],
+      "example": {
+        "index": 101,
+        "parts": [
+          "",
+          "\u547d",
+          "\u3092\u304b\u3051\u3066\u3000\u8d85\u8b77\u885b\u3057\u3066\u3082\u3089\u3046\uff01"
+        ]
+      },
       "jlpt": 3,
-      "pronunciation": "?",
+      "word": "\u547d"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305f\u305f\u304b\u3044",
+          "battle; fight; struggle; conflict"
+        ]
+      ],
+      "example": {
+        "index": 212,
+        "parts": [
+          "\u30b3\u30a4\u30c4\u3089\u306f\u3000\u3044\u304b\u306a\u308b\u72a0\u7272\u3092\u6255\u3063\u3066\u3082\n",
+          "\u6226\u3044",
+          "\u7d9a\u3051\u308b\u3053\u3068\u3067\u77e5\u3089\u308c\u308b\u5fcd\u3060\u3002"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u6226\u3044"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u307e\u3051",
+          "defeat; loss; losing (a game)"
+        ]
+      ],
+      "example": {
+        "index": 259,
+        "parts": [
+          "\u30aa\u30ec\u306f\u3000\u30b5\u30b9\u30b1\u306b\u306f",
+          "\u8ca0\u3051",
+          "\u306d\u3048\u2026\u3002"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u8ca0\u3051"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u307e\u3082\u308b",
+          "to protect; to guard; to defend; to keep (i.e. a promise); to abide (by the rules); to observe; to obey; to follow"
+        ]
+      ],
+      "example": {
+        "index": 263,
+        "parts": [
+          "\u30aa\u30ec\u304c\u3000\u3053\u306e\u30af\u30ca\u30a4\u3067\u2026\u3000\u30aa\u30c3\u30b5\u30f3\u306f",
+          "\u5b88\u308b",
+          "\uff01\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u5b88\u308b"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3060\u308c\u304b",
+          "someone; somebody"
+        ]
+      ],
+      "example": {
+        "index": 228,
+        "parts": [
+          "\u305d\u308c\u3068\u3082\u3000\u6211\u3005\u3000\u5fcd\u306e\u3046\u3061\u306e\n",
+          "\u8ab0\u304b",
+          "\u306a\u306e\u304b\u2026\u3000\u3068\u3044\u3046\u3053\u3068\u3067\u3059\u3002"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u8ab0\u304b"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305b\u3044\u3053\u3046",
+          "success; hit"
+        ]
+      ],
+      "example": {
+        "index": 70,
+        "parts": [
+          "\u3067\u3000\u4efb\u52d9\u3092",
+          "\u6210\u529f",
+          "\u3055\u305b\u308c\u3070\u2192"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u6210\u529f"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304b\u3052",
+          "shadow; silhouette; figure; shape; reflection; image; ominous sign; light (stars, moon); trace; shadow (of one's former self)"
+        ]
+      ],
+      "example": {
+        "index": 161,
+        "parts": [
+          "\u5404\u96a0\u308c\u91cc\u306e\u9577\u306e\u307f\u304c\n",
+          "\u5f71",
+          "\u306e\u540d\u3092\u8a9e\u308b\u3053\u3068\u3092\u8a31\u3055\u308c\u3066\u3044\u308b\u3002"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u5f71"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304a\u3046",
+          "to chase; to run after; to pursue; to follow (i.e. a set order, a trend); to drive out; to oust; to expel; to drive (i.e. a herd); (in passive voice) to be pressed (for time, etc.)"
+        ]
+      ],
+      "example": {
+        "index": 6,
+        "parts": [
+          "[TEL]\uff08\u30ab\u30ab\u30b7\uff09\u30bf\u30fc\u30b2\u30c3\u30c8\u79fb\u52d5\uff01\u3000",
+          "\u8ffd\u3048",
+          "\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u8ffd\u3046"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3044\u3069\u3046",
+          "movement; transfer; migration; removal; travel; mobile; moving; traveling; travelling; roving"
+        ]
+      ],
+      "example": {
+        "index": 5,
+        "parts": [
+          "[TEL]\uff08\u30ab\u30ab\u30b7\uff09\u30bf\u30fc\u30b2\u30c3\u30c8",
+          "\u79fb\u52d5",
+          "\uff01\u3000\u8ffd\u3048\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u79fb\u52d5"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3044\u305f\u307f",
+          "pain; ache; soreness; grief; distress; damage; injury; wear; bruise; break"
+        ]
+      ],
+      "example": {
+        "index": 261,
+        "parts": [
+          "\u3053\u306e\u5de6\u624b\u306e",
+          "\u75db\u307f",
+          "\u306b\n\u8a93\u3046\u3093\u3060\u3063\u3066\u3070\u3088\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u75db\u307f"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u306a\u3044\u3088\u3046",
+          "subject; contents; matter; substance; detail; import"
+        ]
+      ],
+      "example": {
+        "index": 231,
+        "parts": [
+          "\u805e\u3044\u3066\u3044\u306a\u3044\u3002\n\u4f9d\u983c",
+          "\u5185\u5bb9",
+          "\u306f\u3000\u30ae\u30e3\u30f3\u30b0\u3084\u76d7\u8cca\u306a\u3069\u2192"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u5185\u5bb9"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304a\u3046\u3054\u3093",
+          "gold"
+        ],
+        [
+          "\u304b\u306d",
+          "money; metal"
+        ],
+        [
+          "\u304d\u3093",
+          "gold (Au); golden (color); gold (medal, cup); valuable; of highest value; gold coin; money; Friday; metal (fourth of the five elements); Jin (dynasty of China; 1115-1234 CE); gold general; testicles; karat; carat"
+        ]
+      ],
+      "example": {
+        "index": 73,
+        "parts": [
+          "\u4f9d\u983c\u4e3b\u304b\u3089\u5831\u916c",
+          "\u91d1",
+          "\u304c\u5165\u3063\u3066\u304f\u308b\n\u3068\u3044\u3046\u308f\u3051\u3058\u3083\u3002"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u91d1"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304b\u3052\u3093",
+          "degree; extent; just right amount of; condition; state of health; adjustment; moderation; addition and subtraction"
+        ]
+      ],
+      "example": {
+        "index": 43,
+        "parts": [
+          "\u3052\u3063\uff01\uff1f\n\u3044\u3044",
+          "\u52a0\u6e1b",
+          "\u306b\u3057\u3068\u3051\u3000\u3053\u3089\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u52a0\u6e1b"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3082\u3068",
+          "origin; source; base; basis; foundation; root; cause; ingredient; material; (somebody's) side; (somebody's) location; original cost (or capital, principal, etc.); (plant) root; (tree) trunk; first section of a waka; counter for blades of grass, tree trunks, etc., and for falcons (in falconry); handle (chopsticks, brush, etc.); grip"
+        ],
+        [
+          "\u3052\u3093",
+          "unknown (e.g. in an equation); element (of a set); yuan (monetary unit of China); Yuan dynasty (China)"
+        ],
+        [
+          "\u3082\u3068",
+          "former; ex-"
+        ],
+        [
+          "\u30e6\u30a2\u30f3",
+          "yuan (monetary unit of China)"
+        ]
+      ],
+      "example": {
+        "index": 279,
+        "parts": [
+          "\uff08\u30ac\u30c8\u30fc\uff09\u304a\u524d\u305f\u3061\u304c\n",
+          "\u5143",
+          "\u8155\u5229\u304d\u306e\u5fcd\u8005\u3060\u3068\u3044\u3046\u304b\u3089\u2192"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u5143"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3057\u306f\u3044",
+          "domination; rule; control; direction; guidance"
+        ]
+      ],
+      "example": {
+        "index": 137,
+        "parts": [
+          "\u2026\u307e\u3000\u304b\u3068\u3044\u3063\u3066\u3000\u91cc\u306f\u56fd\u306e\n",
+          "\u652f\u914d",
+          "\u4e0b\u306b\u3042\u308b\u3082\u3093\u3058\u3083\u306a\u304f\u3066\u2192"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u652f\u914d"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304b\u3093\u305b\u3044",
+          "complete; completion; perfection; accomplishment"
+        ]
+      ],
+      "example": {
+        "index": 99,
+        "parts": [
+          "\u30ef\u30b7\u304c\u56fd\u306b\u5e30\u3063\u3066\n\u6a4b\u3092",
+          "\u5b8c\u6210",
+          "\u3055\u305b\u308b\u307e\u3067\u306e\u9593\u2192"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u5b8c\u6210"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304a\u3082\u3066",
+          "face; surface; mask (esp. a noh or kyogen mask)"
+        ],
+        [
+          "\u3064\u3089",
+          "face; mug; surface; surrounding area; cheek; cheeks"
+        ],
+        [
+          "\u3081\u3093",
+          "face; mask; face guard; (in kendo) striking the head; surface (esp. a geometrical surface); page; aspect; facet; side; chamfer; counter for broad, flat objects, levels or stages, e.g. in a video game"
+        ],
+        [
+          "\u3065\u3089",
+          "looking like a ...; acting as if a ...."
+        ]
+      ],
+      "example": {
+        "index": 90,
+        "parts": [
+          "\uff08\u30bf\u30ba\u30ca\uff09\u7279\u306b\n\u3044\u3061\u3070\u3093\u3061\u3063\u3053\u3044\u3000\u8d85\u30a2\u30db",
+          "\u9762",
+          "\u2026\u3002"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u9762"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304d\u3093\u3061\u3087\u3046",
+          "tension; mental strain; nervousness"
+        ]
+      ],
+      "example": {
+        "index": 16,
+        "parts": [
+          "[TEL]\u3082\u3063\u3068",
+          "\u7dca\u5f35",
+          "\u611f\u306e\u3042\u308b\u4efb\u52d9\u306f\n\u306d\u3048\u306e\u304b\u3088\u3049\uff5e\uff01\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u7dca\u5f35"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305f\u3061\u3070",
+          "standpoint; position; situation"
+        ]
+      ],
+      "example": {
+        "index": 139,
+        "parts": [
+          "\u3042\u304f\u307e\u3067\n",
+          "\u7acb\u5834",
+          "\u306f\u3000\u5bfe\u7b49\u306a\u3093\u3060\u3051\u3069\u306a\u2026\u3002"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u7acb\u5834"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305b\u3044\u304b\u304f",
+          "character; personality; disposition; nature"
+        ]
+      ],
+      "example": {
+        "index": 273,
+        "parts": [
+          "\u30ca\u30eb\u30c8\uff01\u3000\u30a2\u30f3\u30bf\u3063\u3066\u81ea\u8650\u7684",
+          "\u6027\u683c",
+          "\u306d\u3002\n\u305d\u308c\u3063\u3066\u3000\u30de\u30be\u3088\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u6027\u683c"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u306c\u304f",
+          "to extract; to omit; to draw out; to unplug; to do something to the end; to surpass; to overtake; to masturbate (of a male); to ejaculate (while masturbating); to take (a photo); to record (video)"
+        ]
+      ],
+      "example": {
+        "index": 266,
+        "parts": [
+          "\u30ca\u30eb\u30c8\u2026\n\u666f\u6c17\u3088\u304f\u6bd2\u8840\u3092",
+          "\u629c\u304f",
+          "\u306e\u306f\u3044\u3044\u304c\u2192"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u629c\u304f"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3058\u3085\u3093",
+          "order; turn; obedient; docile; submissive; meek"
+        ]
+      ],
+      "example": {
+        "index": 59,
+        "parts": [
+          "\u30ef\u30b7\u304b\u3089",
+          "\u9806",
+          "\u306b\u4e0a\u5fcd\u3000\u4e2d\u5fcd\u3000\u4e0b\u5fcd\u3068\u2192"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u9806"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3057\u3085\u3046\u3060\u3093",
+          "group; mass"
+        ]
+      ],
+      "example": {
+        "index": 234,
+        "parts": [
+          "\u305f\u3060\u306e\u6b66\u88c5",
+          "\u96c6\u56e3",
+          "\u304b\u3089\u306e\n\u8b77\u885b\u3060\u3063\u305f\u306f\u305a\u2026\u3002"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u96c6\u56e3"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3088\u3046\u3044",
+          "easy; simple; plain"
+        ]
+      ],
+      "example": {
+        "index": 294,
+        "parts": [
+          "\u8b66\u6212\u3092\u5f37\u3081\u3066\u3044\u308b\u3068\u306a\u308b\u3068\n",
+          "\u5bb9\u6613",
+          "\u306a\u3053\u3068\u3067\u306f\u2026\u3002"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u5bb9\u6613"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3057\u3085\u3063\u3071\u3064",
+          "departure"
+        ]
+      ],
+      "example": {
+        "index": 103,
+        "parts": [
+          "\u304a\uff5e\u3057\uff01\u3000",
+          "\u51fa\u767a",
+          "\uff01\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u51fa\u767a"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3058\u3093\u3076\u3064",
+          "person; character; figure; personage; man; woman; one's character; one's personality; able person; talented person"
+        ]
+      ],
+      "example": {
+        "index": 83,
+        "parts": [
+          "\u3042\u308b",
+          "\u4eba\u7269",
+          "\u306e\u8b77\u885b\u3060\u3002\n\u30db\u30f3\u30c8\uff01\uff1f\u3000\u30a2\u30cf\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u4eba\u7269"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u307e\u3044\u3054",
+          "lost child; lost person; stray child; missing child"
+        ]
+      ],
+      "example": {
+        "index": 12,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\u3088\u3057\u3000",
+          "\u8ff7\u5b50",
+          "\u30da\u30c3\u30c8\u3000\u30c8\u30e9\n\u6355\u7372\u4efb\u52d9\u7d42\u4e86\uff01"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u8ff7\u5b50"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3072\u3087\u3046\u3052\u3093",
+          "expression; presentation; representation; notation"
+        ]
+      ],
+      "example": {
+        "index": 81,
+        "parts": [
+          "\u300a\u30d5\u30d5\u30d5\u2026\u3000\u30a4\u30bf\u30ba\u30e9\u3067\u3057\u304b\n\u81ea\u5206\u3092",
+          "\u8868\u73fe",
+          "\u3067\u304d\u306a\u304b\u3063\u305f\u3000\u30b3\u30a4\u30c4\u304c\u300b"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u8868\u73fe"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3051\u3044\u304d",
+          "condition; state; business (condition)"
+        ]
+      ],
+      "example": {
+        "index": 265,
+        "parts": [
+          "\u30ca\u30eb\u30c8\u2026\n",
+          "\u666f\u6c17",
+          "\u3088\u304f\u6bd2\u8840\u3092\u629c\u304f\u306e\u306f\u3044\u3044\u304c\u2192"
+        ]
+      },
+      "jlpt": 3,
+      "word": "\u666f\u6c17"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305f\u3044\u308a\u304f",
+          "continent; continental Asia (esp. mainland China); continental Europe"
+        ]
+      ],
+      "example": {
+        "index": 129,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09",
+          "\u5927\u9678",
+          "\u306b\u3042\u308b\n\u305f\u304f\u3055\u3093\u306e\u56fd\u3005\u306b\u3068\u3063\u3066\u2192"
+        ]
+      },
+      "jlpt": 3,
       "word": "\u5927\u9678"
     },
     {
       "count": 1,
-      "jlpt": 1,
-      "pronunciation": "?",
-      "word": "\u5831\u916c"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u541b\u81e8"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u540d\u76ee"
-    },
-    {
-      "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
-      "word": "\u5305\u4e01"
-    },
-    {
-      "count": 1,
+      "definitions": [
+        [
+          "\u308f\u3051\u308b",
+          "to divide (into); to split (into); to part; to separate; to divide up; to classify; to sort out; to divide out; to share; to distribute; to deal out; to dish out; to distinguish; to discriminate; to differentiate (between); to break up (a fight); to mediate; to call a draw; to tie; to push one's way through (a crowd); to sell"
+        ]
+      ],
+      "example": {
+        "index": 69,
+        "parts": [
+          "\u4efb\u52d9\u3068\u3057\u3066\u632f\u308a",
+          "\u5206\u3051\u308b",
+          "\u2026\u3002"
+        ]
+      },
       "jlpt": 3,
-      "pronunciation": "?",
       "word": "\u5206\u3051\u308b"
     },
     {
       "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
+      "definitions": [
+        [
+          "\u3057\u3085\u3046\u308a\u3087\u3046",
+          "end; close; termination"
+        ]
+      ],
+      "example": {
+        "index": 15,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\u3088\u3057\u3000\u8ff7\u5b50\u30da\u30c3\u30c8\u3000\u30c8\u30e9\n\u6355\u7372\u4efb\u52d9",
+          "\u7d42\u4e86",
+          "\uff01"
+        ]
+      },
+      "jlpt": 2,
+      "word": "\u7d42\u4e86"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3064\u3081",
+          "nail (e.g. fingernail, toenail); claw; talon; hoof; plectrum; pick; hook; clasp"
+        ]
+      ],
+      "example": {
+        "index": 201,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\u30b3\u30a4\u30c4\u3089\u306e",
+          "\u722a",
+          "\u306b\u306f\n\u6bd2\u304c\u5857\u3063\u3066\u3042\u308b\u3002"
+        ]
+      },
+      "jlpt": 2,
+      "word": "\u722a"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3061\u304b\u3046",
+          "to swear; to vow; to take an oath; to pledge"
+        ]
+      ],
+      "example": {
+        "index": 262,
+        "parts": [
+          "\u3053\u306e\u5de6\u624b\u306e\u75db\u307f\u306b\n",
+          "\u8a93\u3046",
+          "\u3093\u3060\u3063\u3066\u3070\u3088\uff01"
+        ]
+      },
+      "jlpt": 2,
+      "word": "\u8a93\u3046"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3061\u3087\u3046\u3066\u3093",
+          "top; summit"
+        ]
+      ],
+      "example": {
+        "index": 172,
+        "parts": [
+          "",
+          "\u9802\u70b9",
+          "\u306b\u541b\u81e8\u3059\u308b\u5fcd\u8005\u305f\u3061\u3060\u3002"
+        ]
+      },
+      "jlpt": 2,
+      "word": "\u9802\u70b9"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3060\u3044",
+          "ordinal"
+        ]
+      ],
+      "example": {
+        "index": 3,
+        "parts": [
+          "[TEL]\uff08\u30ab\u30ab\u30b7\uff09\u9045\u3044\u305e\u3000\u30ca\u30eb\u30c8\uff01\n\u3088\u3057\u3000",
+          "\u7b2c",
+          "\uff17\u73ed\u2026\u3000\u3093\uff01\uff1f"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u7b2c"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3046\u3054\u304d",
+          "movement; move; motion; trend; development; change; fluctuation"
+        ]
+      ],
+      "example": {
+        "index": 216,
+        "parts": [
+          "\uff08\u51a5\u982d\uff09\n\u306a\u305c\u3000\u6211\u3005\u306e",
+          "\u52d5\u304d",
+          "\u3092\u898b\u304d\u308c\u305f\uff1f"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u52d5\u304d"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3061\u3087\u3046",
+          "super-; ultra-; hyper-; very; really; over (after a number or counter); more than"
+        ]
+      ],
+      "example": {
+        "index": 113,
+        "parts": [
+          "\u3044\u305a\u308c\u3000\u706b\u5f71\u306e\u540d\u3092\u8a9e\u308b\n",
+          "\u8d85",
+          "\u30a8\u30ea\u30fc\u30c8\u5fcd\u8005\uff01"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u8d85"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304a\u307c\u3048",
+          "memory; sense; experience"
+        ]
+      ],
+      "example": {
+        "index": 114,
+        "parts": [
+          "\u540d\u3092\u3000\u3046\u305a\u307e\u304d\u3000\u30ca\u30eb\u30c8\u3068\u3044\u3046\uff01\n",
+          "\u899a\u3048",
+          "\u3068\u3051\uff01\uff01"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u899a\u3048"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304d\u3087\u308a",
+          "distance; range"
+        ]
+      ],
+      "example": {
+        "index": 8,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\u76ee\u6a19\u3068\u306e",
+          "\u8ddd\u96e2",
+          "\u306f\uff1f"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u8ddd\u96e2"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u306f\u3064",
+          "departure; departing (from ...); departing (at time ...); sending; sent (by ...); sent (at ...); engine; green dragon tile; counter for gunshots, bursts of gas, etc.; counter for bullets, bombs, etc.; counter for blows (punches)"
+        ]
+      ],
+      "example": {
+        "index": 122,
+        "parts": [
+          "\u3084\u3060\uff01\u3000\u3084\u3060\uff01\u3000\u305b\u3081\u3066\uff11",
+          "\u767a",
+          "\uff01"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u767a"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304e\u305b\u3044",
+          "victim; sacrifice; scapegoat"
+        ]
+      ],
+      "example": {
+        "index": 210,
+        "parts": [
+          "\u30b3\u30a4\u30c4\u3089\u306f\u3000\u3044\u304b\u306a\u308b",
+          "\u72a0\u7272",
+          "\u3092\u6255\u3063\u3066\u3082\n\u6226\u3044\u7d9a\u3051\u308b\u3053\u3068\u3067\u77e5\u3089\u308c\u308b\u5fcd\u3060\u3002"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u72a0\u7272"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3076",
+          "department (in an organization); division; bureau; club; part; component; element; category; counter for copies of a newspaper or magazine"
+        ],
+        [
+          "\u3079",
+          "hereditary occupational group (Yamato period)"
+        ]
+      ],
+      "example": {
+        "index": 66,
+        "parts": [
+          "\u4f9d\u983c\u306f\u3000\u30ef\u30b7\u305f\u3061\u4e0a\u5c64",
+          "\u90e8",
+          "\u304c\u2192"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u90e8"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305f\u3051",
+          "height; stature; length (esp. of clothing); all (one has); everything; magnificence (of a waka poem, etc.)"
+        ],
+        [
+          "\u3061\u3087\u3046",
+          "head; chief; leader; elder; merit; strong point; superiority; major"
+        ],
+        [
+          "\u3064\u304b\u3055",
+          "office; official; chief; head; (Yaeyama Islands in Okinawa) person (usually a woman) whose duty it is to officiate at religions ceremonies"
+        ],
+        [
+          "\u304a\u3055",
+          "head; chief; leader; elder; the greatest of all; the most excellent"
+        ],
+        [
+          "\u306a\u304c",
+          "long"
+        ]
+      ],
+      "example": {
+        "index": 160,
+        "parts": [
+          "\u5404\u96a0\u308c\u91cc\u306e",
+          "\u9577",
+          "\u306e\u307f\u304c\n\u5f71\u306e\u540d\u3092\u8a9e\u308b\u3053\u3068\u3092\u8a31\u3055\u308c\u3066\u3044\u308b\u3002"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u9577"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3051\u3044\u304b\u3044",
+          "vigilance; precaution; watch; lookout; alertness; to be vigilant; to be cautious; to guard (against)"
+        ]
+      ],
+      "example": {
+        "index": 292,
+        "parts": [
+          "",
+          "\u8b66\u6212",
+          "\u3092\u5f37\u3081\u3066\u3044\u308b\u3068\u306a\u308b\u3068\n\u5bb9\u6613\u306a\u3053\u3068\u3067\u306f\u2026\u3002"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u8b66\u6212"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3061\u308a\u3087\u3046",
+          "medical treatment; cure"
+        ]
+      ],
+      "example": {
+        "index": 251,
+        "parts": [
+          "\u30ca\u30eb\u30c8\u306e",
+          "\u6cbb\u7642",
+          "\u3064\u3044\u3067\u306b\u3000\u91cc\u3078\u623b\u308b\u304b\u3002"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u6cbb\u7642"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305f\u3044\u3068\u3046",
+          "equality (esp. of status, on equal terms); equivalence; equivalent; equal"
+        ]
+      ],
+      "example": {
+        "index": 140,
+        "parts": [
+          "\u3042\u304f\u307e\u3067\n\u7acb\u5834\u306f\u3000",
+          "\u5bfe\u7b49",
+          "\u306a\u3093\u3060\u3051\u3069\u306a\u2026\u3002"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u5bfe\u7b49"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305b\u3063\u3057\u3087\u304f",
+          "touch; contact"
+        ]
+      ],
+      "example": {
+        "index": 179,
+        "parts": [
+          "\u3058\u3083\u3042\u3000\u5916\u56fd\u306e\u5fcd\u8005\u3068\n",
+          "\u63a5\u89e6",
+          "\u3059\u308b\u5fc3\u914d\u306f\u3000\u306a\u3044\u3093\u3060\u3041\uff01"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u63a5\u89e6"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u306b",
+          "load; baggage; cargo; freight; goods; burden; responsibility"
+        ],
+        [
+          "\u304b",
+          "counter for loads (that can be carried on one's shoulders)"
+        ]
+      ],
+      "example": {
+        "index": 249,
+        "parts": [
+          "\u3053\u308a\u3083\u3000",
+          "\u8377",
+          "\u304c\u91cd\u3044\u306a\uff01"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u8377"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3051\u304c\u308c",
+          "disgrace; shame; stain; blot; corruption; depravity; uncleanness; impurity; defilement"
+        ],
+        [
+          "\u3088\u3054\u308c",
+          "dirt; filth"
+        ]
+      ],
+      "example": {
+        "index": 198,
+        "parts": [
+          "\u5e73\u6c17\u306a\u9854\u3057\u3066\n\u670d\u306b",
+          "\u6c5a\u308c",
+          "\u3072\u3068\u3064\u4ed8\u3051\u305a\u306b\u2192"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u6c5a\u308c"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u307b\u304b\u304f",
+          "capture; seizure"
+        ]
+      ],
+      "example": {
+        "index": 13,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\u3088\u3057\u3000\u8ff7\u5b50\u30da\u30c3\u30c8\u3000\u30c8\u30e9\n",
+          "\u6355\u7372",
+          "\u4efb\u52d9\u7d42\u4e86\uff01"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u6355\u7372"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3075\u308a",
+          "swing; shake; wave; swinging; appearance; behaviour; pretence (pretense); show; pretending (to); going to restaurant, hotel etc. without a reservation or introduction; move (dance); postures; lead in (e.g. to a running joke, asking a question); lead up; unsewn part of a hanging sleeve on a traditional Japanese woman's garment; counter for swords, blades, etc."
+        ],
+        [
+          "\u3076\u308a",
+          "style; manner; after (period of time) again (e.g. meeting again after a year); for the first time in (period of time)"
+        ]
+      ],
+      "example": {
+        "index": 68,
+        "parts": [
+          "\u4efb\u52d9\u3068\u3057\u3066",
+          "\u632f\u308a",
+          "\u5206\u3051\u308b\u2026\u3002"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u632f\u308a"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3057\u3085\u3063\u3051\u3064",
+          "bleeding; haemorrhage; hemorrhage; bleeding money; red ink; selling below cost"
+        ]
+      ],
+      "example": {
+        "index": 267,
+        "parts": [
+          "\u305d\u308c\u4ee5\u4e0a\u306f\u3000",
+          "\u51fa\u8840",
+          "\u591a\u91cf\u3067\u6b7b\u306c\u305e\u3002"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u51fa\u8840"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305f\u3082\u3064",
+          "to keep; to preserve; to hold; to retain; to maintain; to support; to sustain; to last; to endure; to keep well (food); to wear well; to be durable"
+        ]
+      ],
+      "example": {
+        "index": 136,
+        "parts": [
+          "\u3064\u307e\u308a\u3000\u305d\u308c\u3067\u3000\u96a3\u63a5\u3059\u308b\u4ed6\u56fd\u3068\u306e\n\u95a2\u4fc2\u3092",
+          "\u4fdd\u3063",
+          "\u3066\u308b\u3063\u3066\u308f\u3051\uff01"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u4fdd\u3064"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u307e\u3059\u3044",
+          "anaesthesia; anesthesia"
+        ]
+      ],
+      "example": {
+        "index": 246,
+        "parts": [
+          "\u30ca\u30eb\u30c8\u306e\u50b7\u53e3\u3092\u958b\u3044\u3066\n\u6bd2\u8840\u3092\u306c\u304f\u306b\u3082\u3000",
+          "\u9ebb\u9154",
+          "\u304c\u3044\u308b\u3057\u2192"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u9ebb\u9154"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3064\u304f\u308b",
+          "to make; to produce; to manufacture; to build; to construct; to prepare (food); to brew (alcohol); to raise; to grow; to cultivate; to train; to till; to draw up (a document); to make out; to prepare; to write; to create (an artistic work, etc.); to compose; to coin (a phrase); to organize; to organise; to establish; to found; to have (a child); to make up (one's face, etc.); to fabricate (an excuse, etc.); to form (a line, etc.); to set (a record); to commit (a sin, etc.)"
+        ]
+      ],
+      "example": {
+        "index": 236,
+        "parts": [
+          "\u4f9d\u983c\u306f\u3000\u6a4b\u3092",
+          "\u9020\u308b",
+          "\u307e\u3067\u306e\u652f\u63f4\u8b77\u885b\n\u3068\u3044\u3046\u540d\u76ee\u3060\u3063\u305f\u306f\u305a\u3067\u3059\u3002"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u9020\u308b"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3050\u3093\u3058",
+          "military affairs"
+        ]
+      ],
+      "example": {
+        "index": 131,
+        "parts": [
+          "\u5fcd\u306e\u91cc\u306e\u5b58\u5728\u3063\u3066\u306e\u306f\n\u56fd\u306e",
+          "\u8ecd\u4e8b",
+          "\u529b\u306b\u3042\u305f\u308b\u3002"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u8ecd\u4e8b"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305b\u3063\u3066\u3044",
+          "establishment; creation; posing (a problem); setting (movie, novel, etc.); scene; options setting; preference settings; configuration; setup"
+        ]
+      ],
+      "example": {
+        "index": 241,
+        "parts": [
+          "\u8ff7\u308f\u305a\u3000\u9ad8\u984d\u306a\uff22\u30e9\u30f3\u30af\u4efb\u52d9\u306b\n",
+          "\u8a2d\u5b9a",
+          "\u3055\u308c\u3066\u3044\u305f\u3002"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u8a2d\u5b9a"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3076\u305d\u3046",
+          "arms; armament"
+        ]
+      ],
+      "example": {
+        "index": 233,
+        "parts": [
+          "\u305f\u3060\u306e",
+          "\u6b66\u88c5",
+          "\u96c6\u56e3\u304b\u3089\u306e\n\u8b77\u885b\u3060\u3063\u305f\u306f\u305a\u2026\u3002"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u6b66\u88c5"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304b\u3093\u3057\u3087\u3046",
+          "interference; intervention; meddling"
+        ]
+      ],
+      "example": {
+        "index": 141,
+        "parts": [
+          "\u6ce2\u306e\u56fd\u306e\u3088\u3046\u306b\n\u4ed6\u56fd\u306e",
+          "\u5e72\u6e09",
+          "\u3092\u53d7\u3051\u306b\u304f\u3044\u2192"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u5e72\u6e09"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305f\u3044\u3051\u3064",
+          "confrontation; showdown"
+        ]
+      ],
+      "example": {
+        "index": 177,
+        "parts": [
+          "\uff23\u30e9\u30f3\u30af\u306e\u4efb\u52d9\u3067\n\u5fcd\u8005",
+          "\u5bfe\u6c7a",
+          "\u306a\u3093\u3066\u3057\u3084\u3057\u306a\u3044\u3088\u3002"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u5bfe\u6c7a"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u307b\u3046\u3057\u3085\u3046",
+          "remuneration; recompense; reward; toll"
+        ]
+      ],
+      "example": {
+        "index": 72,
+        "parts": [
+          "\u4f9d\u983c\u4e3b\u304b\u3089",
+          "\u5831\u916c",
+          "\u91d1\u304c\u5165\u3063\u3066\u304f\u308b\n\u3068\u3044\u3046\u308f\u3051\u3058\u3083\u3002"
+        ]
+      },
+      "jlpt": 1,
+      "word": "\u5831\u916c"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3044\u304d",
+          "living; being alive; freshness; liveliness; vitality; situation in which a group of stones cannot be captured because it contains contains two or more gaps (in go); stet; leave as-is (proofreading); damned"
+        ]
+      ],
+      "example": {
+        "index": 184,
+        "parts": [
+          "\u300a\u30ab\u30ab\u30b7\u5148\u751f\uff01\u3000",
+          "\u751f\u304d",
+          "\u3066\u305f\uff01\u300b"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u751f\u304d"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3046\u3051",
+          "popularity; favour; favor; reception; defense; defence; reputation; agreement; receiver of technique (e.g. in martial arts); submissive partner of a homosexual relationship"
+        ]
+      ],
+      "example": {
+        "index": 142,
+        "parts": [
+          "\u6ce2\u306e\u56fd\u306e\u3088\u3046\u306b\n\u4ed6\u56fd\u306e\u5e72\u6e09\u3092",
+          "\u53d7\u3051",
+          "\u306b\u304f\u3044\u2192"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u53d7\u3051"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304b\u304f\u308c",
+          "hidden; concealed; unknown; crypto-; passing away; dying; death"
+        ]
+      ],
+      "example": {
+        "index": 127,
+        "parts": [
+          "\u6587\u5316\u3084\u98a8\u7fd2\u3053\u305d\u9055\u3046\u304c\n",
+          "\u96a0\u308c",
+          "\u91cc\u304c\u5b58\u5728\u3057\u3000\u5fcd\u8005\u304c\u3044\u308b\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u96a0\u308c"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3060\u3057",
+          "dashi (Japanese soup stock made from fish and kelp); pretext; excuse; pretense (pretence); dupe; front man"
+        ]
+      ],
+      "example": {
+        "index": 281,
+        "parts": [
+          "\u9ad8\u3044\u91d1\u3092",
+          "\u51fa\u3057",
+          "\u3066\u96c7\u3063\u305f\u3093\u3058\u3083\u305e\uff01"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u51fa\u3057"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3075\u305f\u305f\u3073",
+          "again; once more; a second time"
+        ],
+        [
+          "\u306b\u3069",
+          "two times; twice; two degrees"
+        ]
+      ],
+      "example": {
+        "index": 257,
+        "parts": [
+          "\u30aa\u30ec\u3063\u3066\u3070\u3000\u3082\u3046",
+          "\u4e8c\u5ea6",
+          "\u3068\n\u52a9\u3051\u3089\u308c\u308b\u3088\u3046\u306a\u30de\u30cd\u306f\u3057\u306d\u3048\u2026\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u4e8c\u5ea6"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3053\u305e\u3046",
+          "youngster; young Buddhist priest; young shopboy; errand boy; apprentice"
+        ]
+      ],
+      "example": {
+        "index": 79,
+        "parts": [
+          "\u30a4\u30bf\u30ba\u30e9",
+          "\u5c0f\u50e7",
+          "\u3058\u3083\u306d\u3048\u3093\u3060\u305e\uff01\u3000\u2026\u30d5\u30f3\uff01"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u5c0f\u50e7"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304b\u308f\u308a",
+          "change; alteration; unusual state or event; accident; abnormality; difference; distinction"
+        ]
+      ],
+      "example": {
+        "index": 185,
+        "parts": [
+          "\u300a\u30ab\u30ab\u30b7\u5148\u751f\n",
+          "\u5909\u308f\u308a",
+          "\u8eab\u3000\u4f7f\u3063\u3066\u305f\u306e\u304b\u2026\u300b"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u5909\u308f\u308a"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3068\u3069\u3081",
+          "finishing blow; clincher"
+        ],
+        [
+          "\u3068\u3081",
+          "(a) stop (e.g. in a timber joint, or at the end of a kanji stroke); remaining (e.g. poste-restante); forty-five degree angle"
+        ],
+        [
+          "\u3069\u3081",
+          "(something) stopper (e.g. geridome is medicine for diarrhea)"
+        ]
+      ],
+      "example": {
+        "index": 269,
+        "parts": [
+          "\u65e9\u304f",
+          "\u6b62\u3081",
+          "\u306a\u3044\u3068\n\u3084\u3070\u3044\u305e\u3000\u30de\u30b8\u3067\uff01\n\u30d2\u30c3\uff01"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u6b62\u3081"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304a\u304a\u304f",
+          "many; much; largely; abundantly; mostly"
+        ]
+      ],
+      "example": {
+        "index": 49,
+        "parts": [
+          "\u91cc\u306b\u306f\u6bce\u65e5\n",
+          "\u591a\u304f",
+          "\u306e\u4f9d\u983c\u304c\u821e\u3044\u8fbc\u3093\u3067\u304f\u308b\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u591a\u304f"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3072\u3060\u308a\u3066",
+          "left hand"
+        ],
+        [
+          "\u3086\u3093\u3067",
+          "one's left hand; bow hand"
+        ]
+      ],
+      "example": {
+        "index": 260,
+        "parts": [
+          "\u3053\u306e",
+          "\u5de6\u624b",
+          "\u306e\u75db\u307f\u306b\n\u8a93\u3046\u3093\u3060\u3063\u3066\u3070\u3088\uff01"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u5de6\u624b"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u306f\u3058\u3081",
+          "beginning; start; outset; opening; first (in line, etc.); origin; such as ...; not to mention ..."
+        ],
+        [
+          "\u305e\u3081",
+          "first doing of ... (ever, in one's life, in the new year, etc.)"
+        ]
+      ],
+      "example": {
+        "index": 37,
+        "parts": [
+          "\u8ab0\u3067\u3082",
+          "\u521d\u3081",
+          "\u306f\n\u7c21\u5358\u306a\u4efb\u52d9\u304b\u3089\u5834\u6570\u3092\u8e0f\u3093\u3067\u2192"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u521d\u3081"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305b\u3063\u304d\u3087\u3046",
+          "propounding; preaching; sermonizing; remonstration; scolding; lecturing"
+        ]
+      ],
+      "example": {
+        "index": 78,
+        "parts": [
+          "\u3044\u3064\u3082",
+          "\u8aac\u6559",
+          "\u3070\u3063\u304b\u308a\u3060\uff01\n\u3051\u3069\u3000\u30aa\u30ec\u3063\u3066\u3070\u3000\u3082\u3046\u2192"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u8aac\u6559"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3055\u3044\u3042\u304f",
+          "the worst"
+        ]
+      ],
+      "example": {
+        "index": 108,
+        "parts": [
+          "\u300a\u3053\u306e\u3058\u3058\u3044\u3060\u304d\u3083\u3042\u3000\u2026\u3063\u305f\u304f\n",
+          "\u6700\u60aa",
+          "\u306e\u4f9d\u983c\u4eba\u3060\u306a\uff01"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u6700\u60aa"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3057\u306e\u3073",
+          "stealth; travelling incognito (traveling); ninjutsu; ninja; sneak theft; sneak thief; tolerance"
+        ]
+      ],
+      "example": {
+        "index": 155,
+        "parts": [
+          "\u300c",
+          "\u5fcd\u3073",
+          "\u4e94\u5927\u56fd\u300d\u3068\u547c\u3070\u308c\u3066\u3044\u308b\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u5fcd\u3073"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304b\u3093",
+          "feeling; sensation; emotion; admiration; impression"
+        ]
+      ],
+      "example": {
+        "index": 17,
+        "parts": [
+          "[TEL]\u3082\u3063\u3068\u7dca\u5f35",
+          "\u611f",
+          "\u306e\u3042\u308b\u4efb\u52d9\u306f\n\u306d\u3048\u306e\u304b\u3088\u3049\uff5e\uff01\uff01"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u611f"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3057\u3093\u307e\u3044",
+          "new rice; novice; beginner; tyro; newcomer; newbie"
+        ]
+      ],
+      "example": {
+        "index": 35,
+        "parts": [
+          "\uff08\u30a4\u30eb\u30ab\uff09\u30d0\u30ab\u91ce\u90ce\uff01\u3000\u304a\u524d\u306f\u307e\u3060\n\u30da\u30fc\u30da\u30fc\u306e",
+          "\u65b0\u7c73",
+          "\u3060\u308d\u3046\u304c\uff01"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u65b0\u7c73"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304a\u304a\u304d\u304f",
+          "in a big way; on a grand scale"
+        ]
+      ],
+      "example": {
+        "index": 153,
+        "parts": [
+          "\u56fd\u571f\u3082",
+          "\u5927\u304d\u304f",
+          "\u3000\u529b\u3082\u7d76\u5927\u306a\u305f\u3081\u2192"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u5927\u304d\u304f"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304b\u3063\u3053\u304f",
+          "each nation; many nations; many countries"
+        ]
+      ],
+      "example": {
+        "index": 169,
+        "parts": [
+          "\u5168\u4e16\u754c",
+          "\u5404\u56fd",
+          "\u3000\u4f55\u4e07\u306e\u5fcd\u8005\u306e\u2192"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u5404\u56fd"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3061\u3044\u3055",
+          "baby; infant"
+        ]
+      ],
+      "example": {
+        "index": 143,
+        "parts": [
+          "",
+          "\u5c0f\u3055",
+          "\u306a\u5cf6\u56fd\u306a\u3093\u304b\u3067\u306f\u2026\u3000\u5fcd\u306e\u91cc\u304c\n\u5fc5\u8981\u3067\u306a\u3044\u5834\u5408\u3082\u3042\u308b\u3057\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u5c0f\u3055"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3058\u3063\u305b\u3093",
+          "combat; actual fighting"
+        ]
+      ],
+      "example": {
+        "index": 193,
+        "parts": [
+          "\u306a\u306e\u306b\u3000\u30b5\u30b9\u30b1\u306f\u2026\n\u521d\u3081\u3066\u306e",
+          "\u5b9f\u6226",
+          "\u306a\u306e\u306b\u2192"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u5b9f\u6226"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3064\u3051",
+          "bill; bill of sale; payment invoice; tab (for later payment); credit; contact move (in go); direct attack to an enemy stone; sound effect produced by striking with clappers a wooden board in kabuki; letter; reason; motive; pretext; one's fortune; one's luck"
+        ],
+        [
+          "\u3065\u3051",
+          "dated; date; fixed; external"
+        ]
+      ],
+      "example": {
+        "index": 199,
+        "parts": [
+          "\u5e73\u6c17\u306a\u9854\u3057\u3066\n\u670d\u306b\u6c5a\u308c\u3072\u3068\u3064",
+          "\u4ed8\u3051",
+          "\u305a\u306b\u2192"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u4ed8\u3051"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3053\u3046\u304c\u304f",
+          "large sum (money)"
+        ]
+      ],
+      "example": {
+        "index": 240,
+        "parts": [
+          "\u8ff7\u308f\u305a\u3000",
+          "\u9ad8\u984d",
+          "\u306a\uff22\u30e9\u30f3\u30af\u4efb\u52d9\u306b\n\u8a2d\u5b9a\u3055\u308c\u3066\u3044\u305f\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u9ad8\u984d"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305e\u3063\u3053\u3046",
+          "continuation; continuance; going on; resuming"
+        ]
+      ],
+      "example": {
+        "index": 264,
+        "parts": [
+          "\u304f\u3063\u2026\u3000\u30d8\u30d8\u30d8\u2026\u3000\u4efb\u52d9",
+          "\u7d9a\u884c",
+          "\u3060\uff01\uff01"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u7d9a\u884c"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3068\u3063\u304f\u3093",
+          "special training; intensive training; crash course"
+        ]
+      ],
+      "example": {
+        "index": 256,
+        "parts": [
+          "\u3069\u3093\u3069\u3093\u4efb\u52d9\u3053\u306a\u3057\u3066\u3000\uff11\u4eba\u3067\u6bce\u65e5\n\u8853\u306e",
+          "\u7279\u8a13",
+          "\u3082\u3057\u3066\u3093\u306e\u306b\u2026\u300b"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u7279\u8a13"
+    },
+    {
+      "count": 1,
+      "definitions": [],
+      "example": {
+        "index": 29,
+        "parts": [
+          "\u30a4\u30e2\u307b\u308a\u306e",
+          "\u624b\u4f1d",
+          "\u3044\u2026\u3002\n\u30c0\u30e1\uff5e\u30c3\uff01"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u624b\u4f1d"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304a\u306f\u306a\u3057",
+          "story; tale"
+        ]
+      ],
+      "example": {
+        "index": 209,
+        "parts": [
+          "\u3061\u3087\u3063\u3068\u3000",
+          "\u304a\u8a71",
+          "\u304c\u3042\u308a\u307e\u3059\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u304a\u8a71"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305c\u3064\u3060\u3044",
+          "tremendous; immense"
+        ]
+      ],
+      "example": {
+        "index": 154,
+        "parts": [
+          "\u56fd\u571f\u3082\u5927\u304d\u304f\u3000\u529b\u3082",
+          "\u7d76\u5927",
+          "\u306a\u305f\u3081\u2192"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u7d76\u5927"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3057\u3085\u3093\u3055\u3064",
+          "instant killing"
+        ]
+      ],
+      "example": {
+        "index": 225,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\u79c1\u304c\u305d\u306e\u6c17\u306b\u306a\u308c\u3070\n\u30b3\u30a4\u30c4\u3089\u304f\u3089\u3044",
+          "\u77ac\u6bba",
+          "\u3067\u304d\u307e\u3059\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u77ac\u6bba"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3068\u3046\u305e\u304f",
+          "thief; robber"
+        ]
+      ],
+      "example": {
+        "index": 232,
+        "parts": [
+          "\u805e\u3044\u3066\u3044\u306a\u3044\u3002\n\u4f9d\u983c\u5185\u5bb9\u306f\u3000\u30ae\u30e3\u30f3\u30b0\u3084",
+          "\u76d7\u8cca",
+          "\u306a\u3069\u2192"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u76d7\u8cca"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u306a\u304a\u308a",
+          "recovery"
+        ]
+      ],
+      "example": {
+        "index": 274,
+        "parts": [
+          "\u300a\u30ab\u30ab\u30b7\uff1a\u50b7\u53e3\u304c\u3000\u3082\u3046\n",
+          "\u6cbb\u308a",
+          "\u304b\u3051\u3066\u3044\u308b\u300b"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u6cbb\u308a"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3059\u3046\u3058\u3064",
+          "few days"
+        ]
+      ],
+      "example": {
+        "index": 218,
+        "parts": [
+          "",
+          "\u6570\u65e5",
+          "\u3000\u96e8\u3082\u964d\u3063\u3066\u306a\u3044\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u6570\u65e5"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3057\u3048\u3093",
+          "support; backing; aid; assistance"
+        ]
+      ],
+      "example": {
+        "index": 237,
+        "parts": [
+          "\u4f9d\u983c\u306f\u3000\u6a4b\u3092\u9020\u308b\u307e\u3067\u306e",
+          "\u652f\u63f4",
+          "\u8b77\u885b\n\u3068\u3044\u3046\u540d\u76ee\u3060\u3063\u305f\u306f\u305a\u3067\u3059\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u652f\u63f4"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304a\u3082\u3048\u308b",
+          "to seem; to appear likely"
+        ]
+      ],
+      "example": {
+        "index": 118,
+        "parts": [
+          "\u30aa\u30e1\u30a8\u307f\u3066\u3048\u306a\u306e\u304c\n\u306a\u308c\u308b\u3068\u306f",
+          "\u601d\u3048\u3093",
+          "\u304c\u2026\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u601d\u3048\u308b"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3072\u3081\u3055\u307e",
+          "princess; daughter of a nobleman"
+        ]
+      ],
+      "example": {
+        "index": 86,
+        "parts": [
+          "\u8ab0\uff1f\u3000\u8ab0\uff1f\u3000\u5927\u540d\u69d8\uff01\uff1f\n\u305d\u308c\u3068\u3082\u3000\u305d\u308c\u3068\u3082\u3000\u304a",
+          "\u59eb\u69d8",
+          "\uff01\uff1f"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u59eb\u69d8"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u304f\u3093\u308a\u3093",
+          "reigning; controlling; to reign; to dictate; to control"
+        ]
+      ],
+      "example": {
+        "index": 173,
+        "parts": [
+          "\u9802\u70b9\u306b",
+          "\u541b\u81e8",
+          "\u3059\u308b\u5fcd\u8005\u305f\u3061\u3060\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u541b\u81e8"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u3081\u3044\u3082\u304f",
+          "name; title; appellation; (something) nominal; (under the) pretext (of); pretense"
+        ]
+      ],
+      "example": {
+        "index": 238,
+        "parts": [
+          "\u4f9d\u983c\u306f\u3000\u6a4b\u3092\u9020\u308b\u307e\u3067\u306e\u652f\u63f4\u8b77\u885b\n\u3068\u3044\u3046",
+          "\u540d\u76ee",
+          "\u3060\u3063\u305f\u306f\u305a\u3067\u3059\u3002"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u540d\u76ee"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u307b\u3046\u3061\u3087\u3046",
+          "kitchen knife; carving knife; cooking; food"
+        ]
+      ],
+      "example": {
+        "index": 287,
+        "parts": [
+          "\uff08\u518d\u4e0d\u65ac\uff09\u4eca\u5ea6\u306f\u30aa\u30ec\u69d8\u304c\u3000\u3053\u306e\n\u9996\u5207\u308a",
+          "\u5305\u4e01",
+          "\u3067\u30bd\u30a4\u30c4\u3092\u6bba\u3057\u3066\u3084\u308b\u3088\uff01"
+        ]
+      },
+      "jlpt": 0,
+      "word": "\u5305\u4e01"
+    },
+    {
+      "count": 1,
+      "definitions": [
+        [
+          "\u305c\u3093\u305b\u304b\u3044",
+          "the whole world"
+        ]
+      ],
+      "example": {
+        "index": 168,
+        "parts": [
+          "",
+          "\u5168\u4e16\u754c",
+          "\u5404\u56fd\u3000\u4f55\u4e07\u306e\u5fcd\u8005\u306e\u2192"
+        ]
+      },
+      "jlpt": 0,
       "word": "\u5168\u4e16\u754c"
     },
     {
       "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
+      "definitions": [
+        [
+          "\u304a\u3082",
+          "chief; main; principal; important; main secondary or supporting role (in kyogen)"
+        ],
+        [
+          "\u3057\u3085",
+          "(one's) master; Lord (Christian ref. to Jesus or God); the main thing; the majority; the primary concern"
+        ],
+        [
+          "\u306c\u3057",
+          "head (of a household, etc.); leader; master; owner; proprietor; proprietress; subject (of a rumour, etc.); doer (of a deed); guardian spirit (e.g. long-resident beast, usu. with mystical powers); long-time resident (or employee, etc.); husband; you"
+        ],
+        [
+          "\u3057\u3085\u3058\u3093",
+          "head (of a household); proprietor (of a store); proprietress; landlord; landlady; one's husband; (one's) employer; (one's) master; host; hostess"
+        ],
+        [
+          "\u306b\u3057",
+          "you"
+        ],
+        [
+          "\u3059",
+          "honorific (or familiar) suffix used after a name"
+        ],
+        [
+          "\u3042\u308b\u3058",
+          "head (of a household); proprietor (of a store); proprietress; landlord; landlady; master (of a servant); entertaining someone as one's guest"
+        ]
+      ],
+      "example": {
+        "index": 71,
+        "parts": [
+          "\u4f9d\u983c",
+          "\u4e3b",
+          "\u304b\u3089\u5831\u916c\u91d1\u304c\u5165\u3063\u3066\u304f\u308b\n\u3068\u3044\u3046\u308f\u3051\u3058\u3083\u3002"
+        ]
+      },
+      "jlpt": 0,
       "word": "\u4e3b"
     },
     {
       "count": 1,
-      "jlpt": "?",
-      "pronunciation": "?",
+      "definitions": [
+        [
+          "\u3058\u3087\u3046\u305d\u3046",
+          "upper stratum (classes, stories, storeys)"
+        ]
+      ],
+      "example": {
+        "index": 65,
+        "parts": [
+          "\u4f9d\u983c\u306f\u3000\u30ef\u30b7\u305f\u3061",
+          "\u4e0a\u5c64",
+          "\u90e8\u304c\u2192"
+        ]
+      },
+      "jlpt": 0,
       "word": "\u4e0a\u5c64"
     }
   ]

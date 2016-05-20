@@ -28,7 +28,7 @@ angular.module('geekydicApp')
       },
       {
         title: "Words you should already know",
-        key: "already_known",
+        key: "known",
       },
       {
         title: "Other words",
