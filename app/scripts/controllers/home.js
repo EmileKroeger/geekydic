@@ -11,7 +11,7 @@ angular.module('geekydicApp')
   .service('sSeriesIndex', function() {
     this.episodes = {
       naruto: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
-    }
+    };
     this.series = ['naruto'];
   })
   .controller('HomeCtrl', function ($scope, sSeriesIndex) {

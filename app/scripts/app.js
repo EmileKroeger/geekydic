@@ -35,6 +35,10 @@ angular
         templateUrl: 'views/wordlist.html',
         controller: 'WordlistCtrl',
       })
+      .when('/:source/episode/:episode/:list', {
+        templateUrl: 'views/episodewords.html',
+        controller: 'EpisodeWordsCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });

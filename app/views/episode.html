@@ -19,45 +19,15 @@
   </span>
 <div>
 
-<h1>Season 1, Episode {{episode}}..</h1>
+<h1>Season 1, Episode {{episode}}</h1>
 
-<div ng-if="vocabularyLists"
-  ng-repeat = "vocDomain in vocDomains"
+<div>
+<span ng-repeat = "vocDomain in vocDomains"
   >
-  <h2>{{vocDomain.title}} ({{vocabularyLists[vocDomain.key].length}}) </h2>
-  <table>
-    <tr>
-      <th>#</th>
-      <th>Word</th>
-      <th>JLPT Level</th>
-      <th>Definition(s)</th>
-      <th>Example</th>
-    </tr>
-    <tr ng-repeat="entry in vocabularyLists[vocDomain.key]"
-      ng-class="'defrow_' + ($index % 2)"
-      >
-      <td class="count">
-        #{{$index}} ({{entry.count}})
-      </td>
-      <td class="word">
-        {{entry.word}}
-      </td>
-      <td>
-        {{entry.jlpt}}
-      </td>
-      <td>
-        <div ng-if="entry.definitions.length == 1">
-          <span class="reading">{{entry.definitions[0][0]}}</span>:
-          {{entry.definitions[0][1]}}
-        </div>
-        <ul ng-if="entry.definitions.length > 1">
-          <li ng-repeat="def in entry.definitions">
-            <span class="reading">{{def[0]}}</span>: {{def[1]}}
-          </li>
-        </div>
-      </td>
-      <td class="example">{{entry.example.parts[0]}}<span class="example-highlight">{{entry.example.parts[1]}}</span>{{entry.example.parts[2]}}</td>
-    </tr>
-  </table>
+  <a href="#/{{source}}/episode/{{episode}}/{{vocDomain.key}}">
+    {{vocDomain.title}}
+  </a>
+</span>
 </div>
+
 </div>
