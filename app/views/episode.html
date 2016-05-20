@@ -1,6 +1,25 @@
+<div class="navlinks">
+  <a href="#/">home</a>
+</div>
+
 <div class="episode">
 
-<h1>{{source}}, Episode {{episode}}..</h1>
+<div class="episodename">{{source}}, Season 1
+</div>
+<div>
+  <span ng-repeat="other in episodes">
+    <span ng-if="other!=episode">
+      <a href="#/{{source}}/episode/{{other}}">
+      [{{other}}]
+      </a>
+    </span>
+    <span ng-if="other==episode">
+      [{{other}}]
+    </span>
+  </span>
+<div>
+
+<h1>Season 1, Episode {{episode}}..</h1>
 
 <div ng-if="vocabularyLists"
   ng-repeat = "vocDomain in vocDomains"

@@ -165,6 +165,10 @@ body, table, td, th {
   padding: 3px;
 }
 
+.episodename {
+  text-transform: capitalize;
+}
+
 .episode table {
   border: 2px solid blue;
   margin: 10px;
