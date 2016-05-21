@@ -25,4 +25,7 @@ angular.module('geekydicApp')
       sEpisodeData.get($scope.source, $scope.episode, function(vocabularyLists) {
         $scope.vocabularyLists = vocabularyLists;
       });
+      sEpisodeData.getInfo($scope.source, $scope.episode, function(info) {
+        $scope.episodeInfo = info;
+      });
   });

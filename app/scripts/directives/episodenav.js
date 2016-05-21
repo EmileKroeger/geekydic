@@ -12,8 +12,8 @@ angular.module('geekydicApp')
       //template: '<div>IOU a directive</div>',
       templateUrl: 'views/directives/episodenav.html',
       restrict: 'E',
-      link: function postLink(scope, element, attrs) {
+      //link: function postLink(scope, element, attrs) {
         //element.text('this is the episodeNav directive');
-      }
+      //}
     };
   });

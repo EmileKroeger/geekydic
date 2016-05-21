@@ -2,8 +2,8 @@
   <a href="#/">home</a>
 </div>
 
-
-<div class="episodename">{{source}}, Season 1
+<div class="episodename">
+  {{source}}, Season 1
 </div>
 <div>
   <span ng-repeat="other in episodes">
@@ -18,4 +18,9 @@
   </span>
 <div>
 
-<h1>Season 1, Episode {{episode}}</h1>
+<h1>
+  {{episodeInfo.KanjiTitle}}
+</h1>
+<div>
+  {{episodeInfo.EnglishTitle}}
+</div>

@@ -13,6 +13,12 @@ angular.module('geekydicApp')
       var dataFile = 'data/episodes/' + source + '_' + episode + '.json';
       sDataCache.get(dataFile, callback);
     };
+    this.getInfo = function(source, episode, callback) {
+      var dataFile = 'data/episodes/' + source + '_summaries.json';
+      sDataCache.get(dataFile, function(episodesInfo) {
+        callback(episodesInfo[episode]);
+      });
+    };
     this.vocDomains = [
       {
         title: 'Important words',
@@ -38,5 +44,8 @@ angular.module('geekydicApp')
     $scope.vocabularyLists = null;
     sEpisodeData.get($scope.source, $scope.episode, function(vocabularyLists) {
       $scope.vocabularyLists = vocabularyLists;
+    });
+    sEpisodeData.getInfo($scope.source, $scope.episode, function(info) {
+      $scope.episodeInfo = info;
     });
   });
