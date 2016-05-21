@@ -24,3 +24,19 @@
 <div>
   {{episodeInfo.EnglishTitle}}
 </div>
+
+<div>
+<a class = "episodewordsbutton summary"
+  href="#/{{source}}/episode/{{episode}}/"
+  style="color:white"
+  >
+  Summary
+</a>
+<a ng-repeat="vocDomain in vocDomains"
+  class = "episodewordsbutton" ng-class="[vocDomain.key]"
+  href="#/{{source}}/episode/{{episode}}/{{vocDomain.key}}"
+  style="color:white">
+    {{vocDomain.title}}
+</a>
+</div>
+

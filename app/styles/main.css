@@ -209,3 +209,27 @@ body, table, td, th {
   color: blue;
 }
 
+.episodewordsbutton {
+  display: inline-block;
+  height: 40px;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 3px;
+}
+
+.episodewordsbutton.summary {
+  background-color: black;
+}
+
+.episodewordsbutton.important {
+  background-color: lightblue;
+}
+
+.episodewordsbutton.known {
+  background-color: lightgreen;
+}
+
+.episodewordsbutton.other {
+  background-color: orange;
+}
+

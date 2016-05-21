@@ -14,6 +14,7 @@ angular.module('geekydicApp')
       $scope.episode = parseInt($routeParams.episode);
       $scope.episodes = sSeriesIndex.episodes[$scope.source];
       $scope.listname = $routeParams.list;
+      $scope.vocDomains = sEpisodeData.vocDomains;
       sEpisodeData.vocDomains.forEach(function(vocDomain) {
         if (vocDomain.key === $scope.listname) {
           $scope.vocDomain = vocDomain;

@@ -1,17 +1,18 @@
 <div class="episode">
 <episode-nav></episode-nav>
 
-<div>
-<span ng-repeat="vocDomain in vocDomains"
-  >
-  <a href="#/{{source}}/episode/{{episode}}/{{vocDomain.key}}">
-    {{vocDomain.title}}
-  </a>
-</span>
-</div>
 
-<div>
-  {{episodeInfo.ShortSummary}}
-</div>
+<table>
+  <tr>
+    <th>
+      <strong>Episode {{episode}} Summary</strong>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      {{episodeInfo.ShortSummary}}
+    </td>
+  </tr>
+</table>
 
 </div>
