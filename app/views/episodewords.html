@@ -4,7 +4,6 @@
 <div ng-if="vocabularyLists">
   <table ng-class="'{{listname}}'">
     <tr>
-      <th>#</th>
       <th>Word</th>
       <th>Tags</th>
       <th>Definition(s)</th>
@@ -13,9 +12,6 @@
     <tr ng-repeat="entry in vocabularyLists[listname]"
       ng-class="'defrow_' + ($index % 2)"
       >
-      <td class="count">
-        #{{$index}} ({{entry.count}})
-      </td>
       <td class="word">
         {{entry.word}}
       </td>
@@ -26,6 +22,9 @@
         </div>
       </td>
       <td>
+        <!-- WIP
+        <div ng-if="entry.known">Already known!</div>
+          -->
         <div ng-if="entry.definitions.length == 1">
           <span class="reading">{{entry.definitions[0][0]}}</span>:
           {{entry.definitions[0][1]}}

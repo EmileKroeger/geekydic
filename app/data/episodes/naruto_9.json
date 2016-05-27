@@ -1,7 +1,6 @@
 {
   "all": [
     {
-      "count": 2,
       "definitions": [
         [
           "\u3075\u305f\u305f\u3073",
@@ -20,11 +19,12 @@
           "\n\u540c\u3058\u8853\u306f\u3000\u901a\u7528\u3057\u306a\u3044\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
         },
         {
           "desc": "Among the JLPT-like Anime 4 list",
@@ -35,7 +35,6 @@
       "word": "\u4e8c\u5ea6"
     },
     {
-      "count": 4,
       "definitions": [
         [
           "\u3061\u3087\u3046",
@@ -50,11 +49,12 @@
           "\u3000\u7121\u7406\u3058\u3083\u2026\n\u3042\u3093\u306a\u306e\u306b\u3000\u52dd\u3066\u308b\u308f\u3051\u304c\u306a\u3044\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Learnt in Episode 6",
+          "desc": "Learnt in Episode 5",
           "kind": "episode",
-          "tag": "episode-6"
+          "tag": "episode-5"
         },
         {
           "desc": "Appears in JLTP level 1 list",
@@ -70,7 +70,6 @@
       "word": "\u8d85"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3053\u3068",
@@ -93,7 +92,13 @@
           "\u3060\u300b"
         ]
       },
+      "known": true,
       "tags": [
+        {
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
+        },
         {
           "desc": "Appears in JLTP level 3 list",
           "kind": "jlpt-3",
@@ -108,7 +113,6 @@
       "word": "\u4e8b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3055\u3044",
@@ -123,7 +127,13 @@
           "\u4e0d\u65ac\u3092\u72d9\u3046\u3002"
         ]
       },
+      "known": false,
       "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
         {
           "desc": "Appears in JLTP level 1 list",
           "kind": "jlpt-1",
@@ -138,7 +148,6 @@
       "word": "\u518d"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u306d\u3089\u3044",
@@ -153,6 +162,7 @@
           "\u306f\u3000\u518d\u4e0d\u65ac\u3092\n\u5012\u3059\u3053\u3068\u3058\u3083\u306a\u304f\u3066\u2192"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 2 list",
@@ -168,7 +178,6 @@
       "word": "\u72d9\u3044"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u306d\u3089\u3046",
@@ -183,11 +192,12 @@
           "\u3066\u304d\u305f\u8a33\u304b\u2026\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Learnt in Episode 6",
+          "desc": "Learnt in Episode 4",
           "kind": "episode",
-          "tag": "episode-6"
+          "tag": "episode-4"
         },
         {
           "desc": "Appears in JLTP level 2 list",
@@ -203,7 +213,6 @@
       "word": "\u72d9\u3046"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u306b\u3093\u3058\u3083",
@@ -218,6 +227,7 @@
           "\u306e\u3053\u3068\u3088\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 0",
@@ -233,7 +243,6 @@
       "word": "\u5fcd\u8005"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3064\u308c",
@@ -248,11 +257,12 @@
           "\u3066\n\u884c\u304b\u306a\u304d\u3083\u3000\u306a\u3089\u306a\u3044\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
         },
         {
           "desc": "Appears in JLTP level 3 list",
@@ -268,7 +278,6 @@
       "word": "\u9023\u308c"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3080\u308a",
@@ -283,6 +292,7 @@
           "\u3058\u3083\u2026\n\u3042\u3093\u306a\u306e\u306b\u3000\u52dd\u3066\u308b\u308f\u3051\u304c\u306a\u3044\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 7",
@@ -298,7 +308,6 @@
       "word": "\u7121\u7406"
     },
     {
-      "count": 3,
       "definitions": [
         [
           "\u307f",
@@ -317,11 +326,12 @@
           "\u304b\n\u305d\u308c\u3082\u3000\u304b\u306a\u308a\u306e\u6570\u3060\u306a\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Learnt in Episode 3",
+          "desc": "Learnt in Episode 2",
           "kind": "episode",
-          "tag": "episode-3"
+          "tag": "episode-2"
         },
         {
           "desc": "Appears in JLTP level 3 list",
@@ -337,7 +347,6 @@
       "word": "\u8eab"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u307f\u3048\u308b",
@@ -356,11 +365,12 @@
           "\u306e\u304b\uff01\uff1f"
         ]
       },
+      "known": false,
       "tags": [
         {
-          "desc": "Learnt in Episode 6",
-          "kind": "episode",
-          "tag": "episode-6"
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
         },
         {
           "desc": "Appears in JLTP level 4 list",
@@ -371,7 +381,6 @@
       "word": "\u898b\u3048\u308b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304b\u305f",
@@ -402,6 +411,7 @@
           "\u306b\u3000\u6295\u3052\u308b\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -412,7 +422,6 @@
       "word": "\u65b9"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u306f\u3064\u3069\u3046",
@@ -427,7 +436,13 @@
           "\u3057\u305f\u306e\u306f\u540c\u6642\u3060\u3063\u305f\u3002"
         ]
       },
+      "known": false,
       "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
         {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
@@ -437,7 +452,6 @@
       "word": "\u767a\u52d5"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3076\u3093\u3057\u3093",
@@ -452,6 +466,7 @@
           "\u3092\u3000\u4e00\u4f53\u6b8b\u3057\u3066\n\u30aa\u30ec\u306f\u3000\u98a8\u9b54\u624b\u88cf\u5263\u306b\u5909\u5316\u3059\u308b\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 0",
@@ -467,7 +482,6 @@
       "word": "\u5206\u8eab"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u305f\u307e",
@@ -486,11 +500,12 @@
           "\u306e\u8853\uff01"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Vocabulary to learn for this Episode!",
           "kind": "important",
-          "tag": "important"
+          "tag": "to learn"
         },
         {
           "desc": "Appears in JLTP level 3 list",
@@ -501,7 +516,6 @@
       "word": "\u5f3e"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3086\u3060\u3093",
@@ -516,6 +530,7 @@
           "\u3059\u308b\u306a\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 2 list",
@@ -526,7 +541,6 @@
       "word": "\u6cb9\u65ad"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3072\u307f\u3064",
@@ -541,11 +555,12 @@
           "\u304c\u6f0f\u308c\u308b\u306e\u3092\n\u9632\u3050\u305f\u3081\u306b\u306d\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Vocabulary to learn for this Episode!",
           "kind": "important",
-          "tag": "important"
+          "tag": "to learn"
         },
         {
           "desc": "Appears in JLTP level 3 list",
@@ -561,7 +576,6 @@
       "word": "\u79d8\u5bc6"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u304a\u3082\u3046",
@@ -576,6 +590,7 @@
           "\u3066\u306a\u304b\u3063\u305f\u3051\u3069\u2026\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 2",
@@ -591,7 +606,6 @@
       "word": "\u601d\u3046"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3068\u3057\u3057\u305f",
@@ -606,11 +620,11 @@
           "\u3067\n\u30aa\u30ec\u3088\u308a\u3000\u5f37\u3044\u30ac\u30ad\u3082\u3044\u308b\u3002"
         ]
       },
+      "known": false,
       "tags": [],
       "word": "\u5e74\u4e0b"
     },
     {
-      "count": 1,
       "definitions": [],
       "example": {
         "index": 126,
@@ -620,11 +634,11 @@
           "\u304b\u3044\u2192"
         ]
       },
+      "known": false,
       "tags": [],
       "word": "\u5203\u5411"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3058\u3087\u3046\u304d\u3087\u3046",
@@ -639,6 +653,7 @@
           "\u3067\u3000\u3053\u3046\u3082\u898b\u4e8b\u306a\n\u9023\u4fc2\u30d7\u30ec\u30a4\u304c\u3000\u3067\u304d\u308b\u306a\u3093\u3066\u2026\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 7",
@@ -659,7 +674,6 @@
       "word": "\u72b6\u6cc1"
     },
     {
-      "count": 5,
       "definitions": [
         [
           "\u3058\u3093",
@@ -686,6 +700,7 @@
           "\u2026\u3000\u3042\u3093\u306a\u306b\n\u3044\u304c\u307f\u5408\u3063\u3066\u305f\u306e\u306b\u2026\u300b"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -696,7 +711,6 @@
       "word": "\u4eba"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3082\u308c\u308b",
@@ -711,6 +725,7 @@
           "\u306e\u3092\n\u9632\u3050\u305f\u3081\u306b\u306d\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 1 list",
@@ -721,7 +736,6 @@
       "word": "\u6f0f\u308c\u308b"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u304b\u308f\u308b",
@@ -736,11 +750,12 @@
           "\u306a\u3044\n\u3063\u3066\u306e\u306b\u2026\u3000\u8ffd\u3044\u5fcd\u304b\u3041\u300b"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Vocabulary to learn for this Episode!",
           "kind": "important",
-          "tag": "important"
+          "tag": "to learn"
         },
         {
           "desc": "Appears in JLTP level 4 list",
@@ -751,7 +766,6 @@
       "word": "\u5909\u308f\u308b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u306b\u3093\u3058\u3085\u3064",
@@ -766,6 +780,7 @@
           "\u306a\u306e\uff01\uff1f\u300b"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 1",
@@ -781,7 +796,6 @@
       "word": "\u5fcd\u8853"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304b\u3093\u305f\u3093",
@@ -796,6 +810,7 @@
           "\u306b\u3000\u6bba\u3055\u308c\u3061\u307e\u3063\u305f\u3093\u3060\u305e\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 1",
@@ -811,7 +826,6 @@
       "word": "\u7c21\u5358"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304d\u3082\u3061",
@@ -826,6 +840,7 @@
           "\u3082\u308f\u304b\u308b\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 4 list",
@@ -836,7 +851,6 @@
       "word": "\u6c17\u6301"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304a\u304a\u3044",
@@ -851,6 +865,7 @@
           "\n\u30ab\u30e9\u30c0\u306a\u3082\u306e\u3067\u2026\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -861,7 +876,6 @@
       "word": "\u591a\u3044"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304d\u308b",
@@ -876,6 +890,7 @@
           "\u305f\u3044\u306b\u2192"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 2 list",
@@ -891,7 +906,6 @@
       "word": "\u65ac\u308b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3064\u304e",
@@ -910,6 +924,7 @@
           "\u306b\u751f\u304b\u305b\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -920,7 +935,6 @@
       "word": "\u6b21"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3042\u3044\u3066",
@@ -935,6 +949,7 @@
           "\u306e\u8853\u3092\u3000\u8a18\u61b6\u3057\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 1",
@@ -955,7 +970,6 @@
       "word": "\u76f8\u624b"
     },
     {
-      "count": 1,
       "definitions": [],
       "example": {
         "index": 29,
@@ -965,6 +979,7 @@
           "\u306e\u624b\u88cf\u5263\uff01\u300b"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 2 list",
@@ -975,7 +990,6 @@
       "word": "\u679a\u76ee"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3064\u3088\u3044",
@@ -994,6 +1008,7 @@
           "\u30e4\u30c4\u304c\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -1004,7 +1019,6 @@
       "word": "\u5f37\u3044"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3057\u3070\u3057\u3070",
@@ -1027,11 +1041,12 @@
           "\u3060\u306a\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
         },
         {
           "desc": "Appears in JLTP level 3 list",
@@ -1047,7 +1062,6 @@
       "word": "\u6570"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3052\u3093\u304d",
@@ -1062,6 +1076,7 @@
           "\u3088\u304f\u884c\u304f\u305e\u3063\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -1072,7 +1087,6 @@
       "word": "\u5143\u6c17"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3044\u3048",
@@ -1107,6 +1121,7 @@
           "\u307e\u3067\u9023\u308c\u3066\n\u884c\u304b\u306a\u304d\u3083\u3000\u306a\u3089\u306a\u3044\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -1117,7 +1132,6 @@
       "word": "\u5bb6"
     },
     {
-      "count": 3,
       "definitions": [
         [
           "\u305b\u3093\u305b\u3044",
@@ -1136,6 +1150,7 @@
           "\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -1146,7 +1161,6 @@
       "word": "\u5148\u751f"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304b\u3093\u305c\u3093",
@@ -1161,7 +1175,13 @@
           "\u306b\u2026\u300b"
         ]
       },
+      "known": true,
       "tags": [
+        {
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
+        },
         {
           "desc": "Appears in JLTP level 3 list",
           "kind": "jlpt-3",
@@ -1176,7 +1196,6 @@
       "word": "\u5b8c\u5168"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3078\u3093\u304b",
@@ -1195,6 +1214,7 @@
           "\u3059\u308b\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 0",
@@ -1210,7 +1230,6 @@
       "word": "\u5909\u5316"
     },
     {
-      "count": 12,
       "definitions": [
         [
           "\u3058\u3085\u3064",
@@ -1229,6 +1248,7 @@
           "\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 0",
@@ -1244,7 +1264,6 @@
       "word": "\u8853"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u306a\u306b",
@@ -1259,6 +1278,7 @@
           "\u306a\u306e\uff1f\u3000\u3053\u308c\u3063\u3066\u3000\n\u5fcd\u8853\u306a\u306e\uff01\uff1f\u300b"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -1269,7 +1289,6 @@
       "word": "\u4f55"
     },
     {
-      "count": 4,
       "definitions": [
         [
           "\u3057\u306c",
@@ -1284,6 +1303,7 @@
           "\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -1294,7 +1314,6 @@
       "word": "\u6b7b\u306c"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3051\u3093",
@@ -1309,11 +1328,12 @@
           "\u3000\u5f71\u98a8\u8eca\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
         },
         {
           "desc": "Among the JLPT-like Anime 5 list",
@@ -1324,7 +1344,6 @@
       "word": "\u5263"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3064\u3046\u3088\u3046",
@@ -1339,11 +1358,12 @@
           "\u305b\u3093\u305e\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
         },
         {
           "desc": "Appears in JLTP level 2 list",
@@ -1354,7 +1374,6 @@
       "word": "\u901a\u7528"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3057\u308b",
@@ -1369,6 +1388,7 @@
           "\u3066\u3044\u3089\u3063\u3057\u3083\u308b\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -1379,7 +1399,6 @@
       "word": "\u77e5\u308b"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u306b\u3093\u3080",
@@ -1394,11 +1413,12 @@
           "\u3068\u3059\u308b\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Learnt in Episode 3",
+          "desc": "Learnt in Episode 2",
           "kind": "episode",
-          "tag": "episode-3"
+          "tag": "episode-2"
         },
         {
           "desc": "Appears in JLTP level 1 list",
@@ -1414,7 +1434,6 @@
       "word": "\u4efb\u52d9"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3084\u308b",
@@ -1429,6 +1448,7 @@
           "\u3055\u308c\u3061\u307e\u3063\u305f\u3093\u3060\u305e\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 4",
@@ -1444,7 +1464,6 @@
       "word": "\u6bba\u308b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u307b\u3093\u3082\u306e",
@@ -1459,6 +1478,7 @@
           "\u306e\u3000\u624b\u88cf\u5263\u306e\u5f71\u306b\n\u96a0\u308c\u305f\u30aa\u30ec\u306f\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 3",
@@ -1479,7 +1499,6 @@
       "word": "\u672c\u7269"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u304b\u3052",
@@ -1494,11 +1513,12 @@
           "\u306b\u3000\u624b\u88cf\u5263\u304c\u2026\u300b"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
         },
         {
           "desc": "Appears in JLTP level 3 list",
@@ -1509,7 +1529,6 @@
       "word": "\u5f71"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3053\u3048",
@@ -1524,6 +1543,7 @@
           "\u304b\u3089\u3057\u3066\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -1534,7 +1554,6 @@
       "word": "\u58f0"
     },
     {
-      "count": 3,
       "definitions": [
         [
           "\u304a\u3046",
@@ -1549,11 +1568,12 @@
           "\u3064\u3051\u306a\u3044\u2026\u300b"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Vocabulary to learn for this Episode!",
           "kind": "important",
-          "tag": "important"
+          "tag": "to learn"
         },
         {
           "desc": "Appears in JLTP level 3 list",
@@ -1569,7 +1589,6 @@
       "word": "\u8ffd\u3046"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3053\u308d\u3059",
@@ -1584,11 +1603,12 @@
           "\u6a5f\u4f1a\u3092\n\u3046\u304b\u304c\u3063\u3066\u3044\u305f\u8005\u3067\u3059\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Learnt in Episode 3",
+          "desc": "Learnt in Episode 2",
           "kind": "episode",
-          "tag": "episode-3"
+          "tag": "episode-2"
         },
         {
           "desc": "Appears in JLTP level 3 list",
@@ -1599,7 +1619,6 @@
       "word": "\u6bba\u3059"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3057\u3093\u3058\u308b",
@@ -1614,6 +1633,7 @@
           "\u3089\u308c\u306a\u3044\u6c17\u6301\u3082\u308f\u304b\u308b\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -1629,7 +1649,6 @@
       "word": "\u4fe1\u3058\u308b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3061\u304c\u3046",
@@ -1648,6 +1667,7 @@
           "\u306a\u3000\u8853\u306f\u3000\u3068\u3044\u305f\u3093\u3058\u3083\u306a\u304f\n\u3068\u304b\u3055\u308c\u305f\u3093\u3060\u308d\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -1658,7 +1678,6 @@
       "word": "\u9055\u3046"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3057\u308d",
@@ -1681,6 +1700,7 @@
           "\uff09\u30d5\u30d5\u2026\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -1691,7 +1711,6 @@
       "word": "\u767d"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304b\u3093\u307a\u304d",
@@ -1706,6 +1725,7 @@
           "\u306b\u307e\u306d\u3066\u3084\u304c\u308b\uff01\u300b"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 1 list",
@@ -1721,7 +1741,6 @@
       "word": "\u5b8c\u74a7"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u306c\u306e",
@@ -1740,6 +1759,7 @@
           "\u306e\u8853\uff01"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -1750,7 +1770,6 @@
       "word": "\u5e03"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3042\u307e\u3044",
@@ -1769,6 +1788,7 @@
           "\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -1779,7 +1799,6 @@
       "word": "\u7518\u3044"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u304a\u308f\u308a",
@@ -1794,6 +1813,7 @@
           "\u3060\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 6",
@@ -1809,7 +1829,6 @@
       "word": "\u7d42\u308f\u308a"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304a\u308f\u308b",
@@ -1824,6 +1843,7 @@
           "\u305f\u30ef\u30b1\u3058\u3083\u306a\u3044\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 1 list",
@@ -1839,7 +1859,6 @@
       "word": "\u7d42\u308f\u308b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3079\u3093\u304d\u3087\u3046",
@@ -1854,6 +1873,7 @@
           "\u3057\u306a\u3055\u3044\u3088\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -1864,7 +1884,6 @@
       "word": "\u52c9\u5f37"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3084\u308d\u3046",
@@ -1879,6 +1898,7 @@
           "\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 3",
@@ -1894,7 +1914,6 @@
       "word": "\u91ce\u90ce"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u306e\u3046\u308a\u3087\u304f",
@@ -1913,6 +1932,7 @@
           "\u306e\u306f\u305a\u2026\u3000\u3057\u304b\u3057\u300b"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 5",
@@ -1933,7 +1953,6 @@
       "word": "\u80fd\u529b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3055\u304f\u305b\u3093",
@@ -1948,6 +1967,7 @@
           "\u3000\u898b\u4e8b\u3060\u3063\u305f\u305e\u2026\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 7",
@@ -1968,7 +1988,6 @@
       "word": "\u4f5c\u6226"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304b\u304f\u3058\u3064",
@@ -1983,11 +2002,12 @@
           "\u306b\u3000\u518d\u4e0d\u65ac\u3092\u6bba\u3059\u6a5f\u4f1a\u3092\n\u3046\u304b\u304c\u3063\u3066\u3044\u305f\u8005\u3067\u3059\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Vocabulary to learn for this Episode!",
           "kind": "important",
-          "tag": "important"
+          "tag": "to learn"
         },
         {
           "desc": "Appears in JLTP level 3 list",
@@ -1998,7 +2018,6 @@
       "word": "\u78ba\u5b9f"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3046\u3051\u308b",
@@ -2013,11 +2032,12 @@
           "\u305f\u3000\u30b5\u30b9\u30b1\u306f\u3000\u3059\u3050\u306b\n\u30aa\u30ec\u3060\u3063\u3066\u3000\u6c17\u4ed8\u3044\u305f\u306f\u305a\u3060\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Vocabulary to learn for this Episode!",
           "kind": "important",
-          "tag": "important"
+          "tag": "to learn"
         },
         {
           "desc": "Appears in JLTP level 4 list",
@@ -2028,7 +2048,6 @@
       "word": "\u53d7\u3051\u308b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3058\u3076\u3093",
@@ -2043,6 +2062,7 @@
           "\u306e\u624b\u88cf\u5263\u3092\u51fa\u3057\u3066\n\u300c\u5f71\u624b\u88cf\u5263\u306e\u8853\u300d\u3060\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -2053,7 +2073,6 @@
       "word": "\u81ea\u5206"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3058\u3085\u3082\u3093",
@@ -2068,6 +2087,7 @@
           "\uff09"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 3 list",
@@ -2078,7 +2098,6 @@
       "word": "\u546a\u6587"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3081",
@@ -2097,6 +2116,7 @@
           "\u306f\n\u76f8\u624b\u306e\u8853\u3092\u3000\u8a18\u61b6\u3057\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 6",
@@ -2112,7 +2132,6 @@
       "word": "\u773c"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3057\u305f\u3044",
@@ -2127,7 +2146,13 @@
           "\u3092\n\u59cb\u672b\u3057\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002"
         ]
       },
+      "known": false,
       "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
         {
           "desc": "Appears in JLTP level 2 list",
           "kind": "jlpt-2",
@@ -2137,7 +2162,6 @@
       "word": "\u6b7b\u4f53"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3053\u3053\u308d",
@@ -2156,6 +2180,7 @@
           "\u3092\n\u5148\u8aad\u307f\u3057\u3084\u304c\u3063\u305f\u306e\u304b\u300b"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 2",
@@ -2171,7 +2196,6 @@
       "word": "\u5fc3"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3081\u3064\u304d",
@@ -2186,11 +2210,11 @@
           "\n\u3057\u3084\u304c\u3063\u3066\u2026\u3000\u304b\uff1f"
         ]
       },
+      "known": false,
       "tags": [],
       "word": "\u76ee\u3064\u304d"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u305b\u3044\u3061\u3087\u3046",
@@ -2205,7 +2229,13 @@
           "\u3057\u305f\u306a\u2026\u3000\u30aa\u30de\u30a8\u3089\u2026\u3002"
         ]
       },
+      "known": true,
       "tags": [
+        {
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
+        },
         {
           "desc": "Appears in JLTP level 3 list",
           "kind": "jlpt-3",
@@ -2215,7 +2245,6 @@
       "word": "\u6210\u9577"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3058\u3087\u3046\u3067\u304d",
@@ -2230,11 +2259,11 @@
           "\u3060\u300b"
         ]
       },
+      "known": false,
       "tags": [],
       "word": "\u4e0a\u51fa\u6765"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u308a\u3087\u3046",
@@ -2253,7 +2282,13 @@
           "\u306e\u5370\u3092\u6570\u79d2\u3067\u2026\n\u3057\u304b\u3082\u3000\u5b8c\u74a7\u306b\u307e\u306d\u3066\u3084\u304c\u308b\uff01\u300b"
         ]
       },
+      "known": false,
       "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
         {
           "desc": "Appears in JLTP level 3 list",
           "kind": "jlpt-3",
@@ -2263,7 +2298,6 @@
       "word": "\u91cf"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u306a\u3052\u308b",
@@ -2278,11 +2312,12 @@
           "\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Vocabulary to learn for this Episode!",
           "kind": "important",
-          "tag": "important"
+          "tag": "to learn"
         },
         {
           "desc": "Appears in JLTP level 4 list",
@@ -2293,7 +2328,6 @@
       "word": "\u6295\u3052\u308b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u308f\u308b\u3044",
@@ -2316,6 +2350,7 @@
           "\u76ee\u3064\u304d\n\u3057\u3084\u304c\u3063\u3066\u2026\u3000\u304b\uff1f"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -2326,7 +2361,6 @@
       "word": "\u60aa\u3044"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3057\u3087\u3046",
@@ -2341,6 +2375,7 @@
           "\u3066\u308b\u308f\u3051\u304c\u306a\u3044\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 4 list",
@@ -2351,7 +2386,6 @@
       "word": "\u52dd"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304d\u3065\u3051",
@@ -2366,6 +2400,7 @@
           "\u3044\u305f\u306f\u305a\u3060\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 3 list",
@@ -2376,7 +2411,6 @@
       "word": "\u6c17\u4ed8"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3057\u304b\u304f",
@@ -2391,6 +2425,7 @@
           "\u306b\uff12\u679a\u76ee\u306e\u624b\u88cf\u5263\uff01\u300b"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 1 list",
@@ -2401,7 +2436,6 @@
       "word": "\u6b7b\u89d2"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304f\u3061",
@@ -2420,6 +2454,7 @@
           "\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -2430,7 +2465,6 @@
       "word": "\u53e3"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3060\u3057",
@@ -2445,6 +2479,7 @@
           "\u3066\n\u300c\u5f71\u624b\u88cf\u5263\u306e\u8853\u300d\u3060\uff01"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 5 list",
@@ -2455,7 +2490,6 @@
       "word": "\u51fa\u3057"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3069\u3046\u3058",
@@ -2470,6 +2504,7 @@
           "\u3060\u3063\u305f\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -2480,7 +2515,6 @@
       "word": "\u540c\u6642"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u307f\u3054\u3068",
@@ -2495,11 +2529,12 @@
           "\u3060\u3063\u305f\u305e\u2026\u2192"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Vocabulary to learn for this Episode!",
           "kind": "important",
-          "tag": "important"
+          "tag": "to learn"
         },
         {
           "desc": "Appears in JLTP level 3 list",
@@ -2510,7 +2545,6 @@
       "word": "\u898b\u4e8b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u308c\u3093\u3051\u3044",
@@ -2525,11 +2559,11 @@
           "\u30d7\u30ec\u30a4\u304c\u3000\u3067\u304d\u308b\u306a\u3093\u3066\u2026\u3002"
         ]
       },
+      "known": false,
       "tags": [],
       "word": "\u9023\u4fc2"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3057\u3064\u308c\u3044",
@@ -2544,6 +2578,7 @@
           "\u3057\u307e\u3059\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 5 list",
@@ -2554,7 +2589,6 @@
       "word": "\u5931\u793c"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304b\u304f\u308c",
@@ -2569,6 +2603,7 @@
           "\u305f\u30aa\u30ec\u306f\u2192"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 4 list",
@@ -2579,7 +2614,6 @@
       "word": "\u96a0\u308c"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3046\u3054\u304d",
@@ -2594,11 +2628,12 @@
           "\u3058\u3083\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Learnt in Episode 7",
+          "desc": "Learnt in Episode 6",
           "kind": "episode",
-          "tag": "episode-7"
+          "tag": "episode-6"
         },
         {
           "desc": "Appears in JLTP level 1 list",
@@ -2614,7 +2649,6 @@
       "word": "\u52d5\u304d"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3044\u3093",
@@ -2633,7 +2667,13 @@
           "\u3092\u6570\u79d2\u3067\u2026\n\u3057\u304b\u3082\u3000\u5b8c\u74a7\u306b\u307e\u306d\u3066\u3084\u304c\u308b\uff01\u300b"
         ]
       },
+      "known": false,
       "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
         {
           "desc": "Appears in JLTP level 3 list",
           "kind": "jlpt-3",
@@ -2643,7 +2683,6 @@
       "word": "\u5370"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u306a\u3063\u3068\u304f",
@@ -2658,6 +2697,7 @@
           "\u3067\u304d\u308b\u304b\u3041\uff01\uff01"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -2668,7 +2708,6 @@
       "word": "\u7d0d\u5f97"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3053\u3093\u3069",
@@ -2683,6 +2722,7 @@
           "\u306f\n\u672c\u4f53\u3092\u3000\u72d9\u3063\u3066\u304d\u305f\u8a33\u304b\u2026\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 6",
@@ -2698,7 +2738,6 @@
       "word": "\u4eca\u5ea6"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3058\u3058\u3064",
@@ -2713,6 +2752,7 @@
           "\u3060\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -2723,7 +2763,6 @@
       "word": "\u4e8b\u5b9f"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u304a\u306a\u3058",
@@ -2738,6 +2777,7 @@
           "\u52d5\u304d\u3058\u3083\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -2748,7 +2788,6 @@
       "word": "\u540c\u3058"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3082\u306e",
@@ -2767,6 +2806,7 @@
           "\u3067\u3059\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 0",
@@ -2787,7 +2827,6 @@
       "word": "\u8005"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3053\u308f\u3059",
@@ -2802,11 +2841,12 @@
           "\u308c\u3070\u3063\u3066\u3000\u601d\u3063\u3066\u3055\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Vocabulary to learn for this Episode!",
           "kind": "important",
-          "tag": "important"
+          "tag": "to learn"
         },
         {
           "desc": "Appears in JLTP level 4 list",
@@ -2817,7 +2857,6 @@
       "word": "\u58ca\u3059"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3057\u307e\u3064",
@@ -2832,6 +2871,7 @@
           "\u3057\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 1 list",
@@ -2847,7 +2887,6 @@
       "word": "\u59cb\u672b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u305f\u3044",
@@ -2862,6 +2901,7 @@
           "\u306e\u8005\u3067\u3059\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 5 list",
@@ -2872,7 +2912,6 @@
       "word": "\u968a"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u305b\u304b\u3044",
@@ -2887,11 +2926,12 @@
           "\u306b\u3083\u3000\u30aa\u30de\u30a8\u3088\u308a\u5e74\u4e0b\u3067\n\u30aa\u30ec\u3088\u308a\u3000\u5f37\u3044\u30ac\u30ad\u3082\u3044\u308b\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Vocabulary to learn for this Episode!",
           "kind": "important",
-          "tag": "important"
+          "tag": "to learn"
         },
         {
           "desc": "Appears in JLTP level 4 list",
@@ -2902,7 +2942,6 @@
       "word": "\u4e16\u754c"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3070\u3051",
@@ -2917,6 +2956,7 @@
           "\u305f\u30aa\u30ec\u3092\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 2",
@@ -2932,7 +2972,6 @@
       "word": "\u5316\u3051"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3058\u3057\u3093",
@@ -2947,6 +2986,7 @@
           "\u304c\n\u98a8\u9b54\u624b\u88cf\u5263\u306b\u5316\u3051\u308b\u306e\u3092\u2192"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -2957,7 +2997,6 @@
       "word": "\u81ea\u8eab"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3059\u3044\u3076\u3093",
@@ -2972,11 +3011,12 @@
           "\u8eab\u307e\u3067\u5012\u305b\u3066\n\u5927\u6210\u529f\u3060\u3063\u3066\u3070\u3088\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Learnt in Episode 7",
+          "desc": "Learnt in Episode 6",
           "kind": "episode",
-          "tag": "episode-7"
+          "tag": "episode-6"
         },
         {
           "desc": "Appears in JLTP level 2 list",
@@ -2987,7 +3027,6 @@
       "word": "\u6c34\u5206"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u307f\u3089\u3044",
@@ -3002,12 +3041,8 @@
           "\u304c\u898b\u3048\u308b\u306e\u304b\uff01\uff1f"
         ]
       },
+      "known": false,
       "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
         {
           "desc": "Appears in JLTP level 3 list",
           "kind": "jlpt-3",
@@ -3022,7 +3057,6 @@
       "word": "\u672a\u6765"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3042\u3093\u3057\u3093",
@@ -3041,11 +3075,12 @@
           "\u3057\u308d\u3000\u30ca\u30eb\u30c8\n\u6575\u3058\u3083\u306a\u3044\u3088\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
+          "desc": "Learnt in Episode 6",
+          "kind": "episode",
+          "tag": "episode-6"
         },
         {
           "desc": "Appears in JLTP level 4 list",
@@ -3056,7 +3091,6 @@
       "word": "\u5b89\u5fc3"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304d\u304b\u3044",
@@ -3071,11 +3105,12 @@
           "\u3092\n\u3046\u304b\u304c\u3063\u3066\u3044\u305f\u8005\u3067\u3059\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Vocabulary to learn for this Episode!",
           "kind": "important",
-          "tag": "important"
+          "tag": "to learn"
         },
         {
           "desc": "Appears in JLTP level 4 list",
@@ -3086,7 +3121,6 @@
       "word": "\u6a5f\u4f1a"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u308a\u3086\u3046",
@@ -3101,11 +3135,12 @@
           "\u3067\n\u751f\u307e\u308c\u80b2\u3063\u305f\u91cc\u306b\u5203\u5411\u304b\u3044\u2192"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Vocabulary to learn for this Episode!",
           "kind": "important",
-          "tag": "important"
+          "tag": "to learn"
         },
         {
           "desc": "Appears in JLTP level 4 list",
@@ -3116,7 +3151,6 @@
       "word": "\u7406\u7531"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u305b\u3044",
@@ -3135,6 +3169,7 @@
           "\u305f\u3051\u3084\u58f0\u304b\u3089\u3057\u3066\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -3145,7 +3180,6 @@
       "word": "\u80cc"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3044\u304f",
@@ -3160,6 +3194,7 @@
           "\u305e\u3063\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -3170,7 +3205,6 @@
       "word": "\u884c\u304f"
     },
     {
-      "count": 8,
       "definitions": [
         [
           "\u3056\u3093",
@@ -3185,6 +3219,7 @@
           "\uff09\u6b7b\u306d\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 5",
@@ -3200,7 +3235,6 @@
       "word": "\u65ac"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3060\u3044\u305b\u3044\u3053\u3046",
@@ -3215,6 +3249,7 @@
           "\u3060\u3063\u3066\u3070\u3088\uff01"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 2 list",
@@ -3225,7 +3260,6 @@
       "word": "\u5927\u6210\u529f"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304b\u304f\u3059",
@@ -3240,6 +3274,7 @@
           "\u305f\u3081\u3060\u3063\u305f\u3093\u3060\u3063\u3066\u3070\u3088\uff01"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -3250,7 +3285,6 @@
       "word": "\u96a0\u3059"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3042\u3093\u3055\u3064",
@@ -3265,7 +3299,13 @@
           "\u3059\u308b\u5fcd\u8005\u306e\u3053\u3068\u3088\u3002"
         ]
       },
+      "known": true,
       "tags": [
+        {
+          "desc": "Learnt in Episode 5",
+          "kind": "episode",
+          "tag": "episode-5"
+        },
         {
           "desc": "Appears in JLTP level 1 list",
           "kind": "jlpt-1",
@@ -3280,7 +3320,6 @@
       "word": "\u6697\u6bba"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3075\u305b\u3050",
@@ -3295,7 +3334,13 @@
           "\u305f\u3081\u306b\u306d\u3002"
         ]
       },
+      "known": true,
       "tags": [
+        {
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
+        },
         {
           "desc": "Appears in JLTP level 3 list",
           "kind": "jlpt-3",
@@ -3305,7 +3350,6 @@
       "word": "\u9632\u3050"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304a\u3082\u3066",
@@ -3332,7 +3376,13 @@
           "\u2026\u2192"
         ]
       },
+      "known": false,
       "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
         {
           "desc": "Appears in JLTP level 3 list",
           "kind": "jlpt-3",
@@ -3342,7 +3392,6 @@
       "word": "\u9762"
     },
     {
-      "count": 3,
       "definitions": [
         [
           "\u3055\u3068",
@@ -3361,6 +3410,7 @@
           "\u306b\u5203\u5411\u304b\u3044\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 0",
@@ -3376,7 +3426,6 @@
       "word": "\u91cc"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u305f\u305f\u304b\u3044",
@@ -3391,6 +3440,7 @@
           "\u3082\n\u3072\u3068\u307e\u305a\u3053\u3053\u3067\u3000\u7d42\u308f\u308a\u3067\u3057\u3087\u3046\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 1 list",
@@ -3401,7 +3451,6 @@
       "word": "\u95d8\u3044"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u307b\u3093\u305f\u3044",
@@ -3416,6 +3465,7 @@
           "\u3092\u3000\u72d9\u3063\u3066\u304d\u305f\u8a33\u304b\u2026\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 7",
@@ -3436,7 +3486,6 @@
       "word": "\u672c\u4f53"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304d\u304f",
@@ -3451,6 +3500,7 @@
           "\u3066\u3093\u3058\u3083\u306d\u3048\u306e\uff01\n\u30aa\u30ec\u3063\u3066\u3070\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -3461,7 +3511,6 @@
       "word": "\u805e\u304f"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3046\u307e\u308c",
@@ -3476,7 +3525,13 @@
           "\u80b2\u3063\u305f\u91cc\u306b\u5203\u5411\u304b\u3044\u2192"
         ]
       },
+      "known": false,
       "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
         {
           "desc": "Appears in JLTP level 3 list",
           "kind": "jlpt-3",
@@ -3486,7 +3541,6 @@
       "word": "\u751f\u307e\u308c"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u305f\u3057\u304b",
@@ -3501,6 +3555,7 @@
           "\u306b\u6b7b\u3093\u3067\u308b\u306a\u2026\u300b"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 4",
@@ -3516,7 +3571,6 @@
       "word": "\u78ba\u304b"
     },
     {
-      "count": 3,
       "definitions": [
         [
           "\u305f\u304a\u3059",
@@ -3535,6 +3589,7 @@
           "\u306b\u306f\n\u3082\u3046\u3000\u3053\u306e\u624b\u3057\u304b\u306d\u3048\u300b"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 1",
@@ -3555,7 +3610,6 @@
       "word": "\u5012\u3059"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3070\u3051\u308b",
@@ -3574,6 +3628,7 @@
           "\u306e\u3092\u2192"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 1 list",
@@ -3584,7 +3639,6 @@
       "word": "\u5316\u3051\u308b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3058\u3087\u3046\u3057\u304d",
@@ -3599,6 +3653,7 @@
           "\u3067\u3057\u3087\u3002\n\u3082\u3063\u3068\u52c9\u5f37\u3057\u306a\u3055\u3044\u3088\uff01"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -3609,7 +3664,6 @@
       "word": "\u5e38\u8b58"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304d\u304a\u304f",
@@ -3624,6 +3678,7 @@
           "\u3057\u2192"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -3641,673 +3696,26 @@
   ],
   "important": [
     {
-      "count": 2,
       "definitions": [
         [
-          "\u3075\u305f\u305f\u3073",
-          "again; once more; a second time"
-        ],
-        [
-          "\u306b\u3069",
-          "two times; twice; two degrees"
+          "\u3055\u3044",
+          "re-; again; repeated; deutero-; deuto-; deuter-"
         ]
       ],
       "example": {
-        "index": 65,
+        "index": 51,
         "parts": [
-          "\u8a00\u3063\u3066\u304a\u304f\u304c\u3000\u30aa\u30ec\u306b\u3000",
-          "\u4e8c\u5ea6",
-          "\n\u540c\u3058\u8853\u306f\u3000\u901a\u7528\u3057\u306a\u3044\u3002"
+          "\u305d\u306e\u307e\u307e\u3000",
+          "\u518d",
+          "\u4e0d\u65ac\u3092\u72d9\u3046\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Vocabulary to learn for this Episode!",
           "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 4 list",
-          "kind": "anime-4",
-          "tag": "anime-4"
-        }
-      ],
-      "word": "\u4e8c\u5ea6"
-    },
-    {
-      "count": 1,
-      "definitions": [
-        [
-          "\u3064\u308c",
-          "companion; company"
-        ]
-      ],
-      "example": {
-        "index": 167,
-        "parts": [
-          "\u30bf\u30ba\u30ca\u3055\u3093\u3092\u3000\u5bb6\u307e\u3067",
-          "\u9023\u308c",
-          "\u3066\n\u884c\u304b\u306a\u304d\u3083\u3000\u306a\u3089\u306a\u3044\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        }
-      ],
-      "word": "\u9023\u308c"
-    },
-    {
-      "count": 2,
-      "definitions": [
-        [
-          "\u305f\u307e",
-          "ball; sphere; globe; orb; bead (of sweat, dew, etc.); drop; droplet; ball (in sports); pile (of noodles, etc.); bullet; bulb (i.e. a light bulb); lens (of glasses, etc.); bead (of an abacus); ball (i.e. a testicle); gem; jewel (esp. spherical; sometimes used figuratively); pearl; female entertainer (e.g. a geisha); person (when commenting on their nature); character; item, funds or person used as part of a plot; egg; coin; precious; beautiful; excellent"
-        ],
-        [
-          "\u3060\u3093",
-          "counter for parts (of a story, etc.)"
-        ]
-      ],
-      "example": {
-        "index": 74,
-        "parts": [
-          "\uff08\uff12\u4eba\uff09\u6c34\u9041\u6c34\u9f8d",
-          "\u5f3e",
-          "\u306e\u8853\uff01"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        }
-      ],
-      "word": "\u5f3e"
-    },
-    {
-      "count": 2,
-      "definitions": [
-        [
-          "\u3072\u307f\u3064",
-          "secret; secrecy; confidentiality; privacy; secret; mystery; esoteric teachings"
-        ]
-      ],
-      "example": {
-        "index": 131,
-        "parts": [
-          "\u91cc\u306e",
-          "\u79d8\u5bc6",
-          "\u304c\u6f0f\u308c\u308b\u306e\u3092\n\u9632\u3050\u305f\u3081\u306b\u306d\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        }
-      ],
-      "word": "\u79d8\u5bc6"
-    },
-    {
-      "count": 2,
-      "definitions": [
-        [
-          "\u304b\u308f\u308b",
-          "to change; to be transformed; to be altered; to vary; to move to; to be different; to be uncommon; to be unusual"
-        ]
-      ],
-      "example": {
-        "index": 143,
-        "parts": [
-          "\u307e\u3060\u30ca\u30eb\u30c8\u305f\u3061\u3068\u3000\u5927\u3057\u3066",
-          "\u5909\u308f\u3089",
-          "\u306a\u3044\n\u3063\u3066\u306e\u306b\u2026\u3000\u8ffd\u3044\u5fcd\u304b\u3041\u300b"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u5909\u308f\u308b"
-    },
-    {
-      "count": 1,
-      "definitions": [
-        [
-          "\u3057\u3070\u3057\u3070",
-          "often; again and again; frequently; repeatedly"
-        ],
-        [
-          "\u304b\u305a",
-          "number; amount"
-        ],
-        [
-          "\u3059\u3046",
-          "several; a number of; number; numeral; figure; destiny; fate; law"
-        ]
-      ],
-      "example": {
-        "index": 7,
-        "parts": [
-          "\uff08\u518d\u4e0d\u65ac\uff09\u307b\u3045\u3000\u5f71\u5206\u8eab\u304b\n\u305d\u308c\u3082\u3000\u304b\u306a\u308a\u306e",
-          "\u6570",
-          "\u3060\u306a\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        }
-      ],
-      "word": "\u6570"
-    },
-    {
-      "count": 2,
-      "definitions": [
-        [
-          "\u3051\u3093",
-          "sword (originally esp. a doubled-edged sword); sabre; saber; blade; bayonet; swordsmanship; stinger; ovipositor; dart"
-        ]
-      ],
-      "example": {
-        "index": 16,
-        "parts": [
-          "\u98a8\u9b54\u624b\u88cf",
-          "\u5263",
-          "\u3000\u5f71\u98a8\u8eca\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        }
-      ],
-      "word": "\u5263"
-    },
-    {
-      "count": 2,
-      "definitions": [
-        [
-          "\u3064\u3046\u3088\u3046",
-          "popular use; circulation; to pass as"
-        ]
-      ],
-      "example": {
-        "index": 19,
-        "parts": [
-          "\u624b\u88cf\u5263\u306a\u305e\n\u30aa\u30ec\u306b\u306f\u3000",
-          "\u901a\u7528",
-          "\u305b\u3093\u305e\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 2 list",
-          "kind": "jlpt-2",
-          "tag": "jlpt-2"
-        }
-      ],
-      "word": "\u901a\u7528"
-    },
-    {
-      "count": 2,
-      "definitions": [
-        [
-          "\u304b\u3052",
-          "shadow; silhouette; figure; shape; reflection; image; ominous sign; light (stars, moon); trace; shadow (of one's former self)"
-        ]
-      ],
-      "example": {
-        "index": 25,
-        "parts": [
-          "\u300a\u624b\u88cf\u5263\u306e",
-          "\u5f71",
-          "\u306b\u3000\u624b\u88cf\u5263\u304c\u2026\u300b"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        }
-      ],
-      "word": "\u5f71"
-    },
-    {
-      "count": 3,
-      "definitions": [
-        [
-          "\u304a\u3046",
-          "to chase; to run after; to pursue; to follow (i.e. a set order, a trend); to drive out; to oust; to expel; to drive (i.e. a herd); (in passive voice) to be pressed (for time, etc.)"
-        ]
-      ],
-      "example": {
-        "index": 106,
-        "parts": [
-          "\u300a\u30e4\u30c4\u306e\u8853\u306b",
-          "\u8ffd\u3044",
-          "\u3064\u3051\u306a\u3044\u2026\u300b"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        }
-      ],
-      "word": "\u8ffd\u3046"
-    },
-    {
-      "count": 1,
-      "definitions": [
-        [
-          "\u304b\u304f\u3058\u3064",
-          "certainty; reliability; soundness"
-        ]
-      ],
-      "example": {
-        "index": 112,
-        "parts": [
-          "",
-          "\u78ba\u5b9f",
-          "\u306b\u3000\u518d\u4e0d\u65ac\u3092\u6bba\u3059\u6a5f\u4f1a\u3092\n\u3046\u304b\u304c\u3063\u3066\u3044\u305f\u8005\u3067\u3059\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        }
-      ],
-      "word": "\u78ba\u5b9f"
-    },
-    {
-      "count": 1,
-      "definitions": [
-        [
-          "\u3046\u3051\u308b",
-          "to receive; to get; to catch (e.g. a ball); to be struck by (wind, waves, sunlight, etc.); to sustain (damage); to incur (a loss); to suffer (an injury); to feel (influence); to undergo (e.g. surgery); to take (a test); to accept (a challenge); to be given (e.g. life, talent); to follow; to succeed; to be descended from; to face (south, etc.); to be modified by; to obtain (a pawned item, etc.) by paying a fee; to be well-received; to become popular; to go down well"
-        ]
-      ],
-      "example": {
-        "index": 45,
-        "parts": [
-          "",
-          "\u53d7\u3051\u53d6\u3063",
-          "\u305f\u3000\u30b5\u30b9\u30b1\u306f\u3000\u3059\u3050\u306b\n\u30aa\u30ec\u3060\u3063\u3066\u3000\u6c17\u4ed8\u3044\u305f\u306f\u305a\u3060\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u53d7\u3051\u308b"
-    },
-    {
-      "count": 1,
-      "definitions": [
-        [
-          "\u306a\u3052\u308b",
-          "to throw; to cast away; to face defeat; to give up"
-        ]
-      ],
-      "example": {
-        "index": 44,
-        "parts": [
-          "\u30b5\u30b9\u30b1\u306e\u65b9\u306b\u3000",
-          "\u6295\u3052\u308b",
-          "\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u6295\u3052\u308b"
-    },
-    {
-      "count": 2,
-      "definitions": [
-        [
-          "\u307f\u3054\u3068",
-          "splendid; magnificent; beautiful; admirable; praiseworthy act; feat; commendable deed; utter (esp. defeat); total; complete"
-        ]
-      ],
-      "example": {
-        "index": 32,
-        "parts": [
-          "\uff08\u30ab\u30ab\u30b7\uff09\n\u30ca\u30eb\u30c8\u2026\u3000\u4f5c\u6226\u3000",
-          "\u898b\u4e8b",
-          "\u3060\u3063\u305f\u305e\u2026\u2192"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        }
-      ],
-      "word": "\u898b\u4e8b"
-    },
-    {
-      "count": 1,
-      "definitions": [
-        [
-          "\u3053\u308f\u3059",
-          "to break; to destroy; to demolish; to wreck; to ruin; to spoil; to damage; to break (a bill, etc.)"
-        ]
-      ],
-      "example": {
-        "index": 56,
-        "parts": [
-          "\u6c34\u7262\u3055\u3048\n\u3076\u3061",
-          "\u58ca\u305b",
-          "\u308c\u3070\u3063\u3066\u3000\u601d\u3063\u3066\u3055\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u58ca\u3059"
-    },
-    {
-      "count": 1,
-      "definitions": [
-        [
-          "\u305b\u304b\u3044",
-          "the world; society; the universe; sphere; circle; world; renowned; world-famous; well-known outside of Japan; realm governed by one Buddha; space"
-        ]
-      ],
-      "example": {
-        "index": 155,
-        "parts": [
-          "\u3053\u306e",
-          "\u4e16\u754c",
-          "\u306b\u3083\u3000\u30aa\u30de\u30a8\u3088\u308a\u5e74\u4e0b\u3067\n\u30aa\u30ec\u3088\u308a\u3000\u5f37\u3044\u30ac\u30ad\u3082\u3044\u308b\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u4e16\u754c"
-    },
-    {
-      "count": 1,
-      "definitions": [
-        [
-          "\u307f\u3089\u3044",
-          "the future (usually distant); future tense; the world to come"
-        ]
-      ],
-      "example": {
-        "index": 108,
-        "parts": [
-          "\uff08\u518d\u4e0d\u65ac\uff09\u30aa\u30de\u30a8\u306b\u306f\n",
-          "\u672a\u6765",
-          "\u304c\u898b\u3048\u308b\u306e\u304b\uff01\uff1f"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        }
-      ],
-      "word": "\u672a\u6765"
-    },
-    {
-      "count": 1,
-      "definitions": [
-        [
-          "\u3042\u3093\u3057\u3093",
-          "relief; peace of mind"
-        ],
-        [
-          "\u3042\u3093\u3058\u3093",
-          "obtaining peace of mind through faith or ascetic practice"
-        ]
-      ],
-      "example": {
-        "index": 145,
-        "parts": [
-          "\uff08\u30ab\u30ab\u30b7\uff09",
-          "\u5b89\u5fc3",
-          "\u3057\u308d\u3000\u30ca\u30eb\u30c8\n\u6575\u3058\u3083\u306a\u3044\u3088\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u5b89\u5fc3"
-    },
-    {
-      "count": 1,
-      "definitions": [
-        [
-          "\u304d\u304b\u3044",
-          "chance; opportunity"
-        ]
-      ],
-      "example": {
-        "index": 114,
-        "parts": [
-          "\u78ba\u5b9f\u306b\u3000\u518d\u4e0d\u65ac\u3092\u6bba\u3059",
-          "\u6a5f\u4f1a",
-          "\u3092\n\u3046\u304b\u304c\u3063\u3066\u3044\u305f\u8005\u3067\u3059\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u6a5f\u4f1a"
-    },
-    {
-      "count": 1,
-      "definitions": [
-        [
-          "\u308a\u3086\u3046",
-          "reason; pretext; motive"
-        ]
-      ],
-      "example": {
-        "index": 122,
-        "parts": [
-          "\uff08\u30b5\u30af\u30e9\uff09\u306a\u3093\u3089\u304b\u306e",
-          "\u7406\u7531",
-          "\u3067\n\u751f\u307e\u308c\u80b2\u3063\u305f\u91cc\u306b\u5203\u5411\u304b\u3044\u2192"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "important"
-        },
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u7406\u7531"
-    }
-  ],
-  "known": [
-    {
-      "count": 4,
-      "definitions": [
-        [
-          "\u3061\u3087\u3046",
-          "super-; ultra-; hyper-; very; really; over (after a number or counter); more than"
-        ]
-      ],
-      "example": {
-        "index": 8,
-        "parts": [
-          "\uff08\u30bf\u30ba\u30ca\uff09\u3084\u306f\u308a\u3000",
-          "\u8d85",
-          "\u3000\u7121\u7406\u3058\u3083\u2026\n\u3042\u3093\u306a\u306e\u306b\u3000\u52dd\u3066\u308b\u308f\u3051\u304c\u306a\u3044\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Learnt in Episode 6",
-          "kind": "episode",
-          "tag": "episode-6"
+          "tag": "to learn"
         },
         {
           "desc": "Appears in JLTP level 1 list",
@@ -4320,144 +3728,9 @@
           "tag": "anime-3"
         }
       ],
-      "word": "\u8d85"
+      "word": "\u518d"
     },
     {
-      "count": 2,
-      "definitions": [
-        [
-          "\u306d\u3089\u3046",
-          "to aim at"
-        ]
-      ],
-      "example": {
-        "index": 22,
-        "parts": [
-          "\u306a\u308b\u307b\u3069\u3000\u4eca\u5ea6\u306f\n\u672c\u4f53\u3092\u3000",
-          "\u72d9\u3063",
-          "\u3066\u304d\u305f\u8a33\u304b\u2026\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Learnt in Episode 6",
-          "kind": "episode",
-          "tag": "episode-6"
-        },
-        {
-          "desc": "Appears in JLTP level 2 list",
-          "kind": "jlpt-2",
-          "tag": "jlpt-2"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        }
-      ],
-      "word": "\u72d9\u3046"
-    },
-    {
-      "count": 2,
-      "definitions": [
-        [
-          "\u306b\u3093\u3058\u3083",
-          "ninja (persons in feudal Japan who used ninjutsu for the purposes of espionage, assassination, sabotage, etc.)"
-        ]
-      ],
-      "example": {
-        "index": 130,
-        "parts": [
-          "\u6697\u6bba\u3059\u308b",
-          "\u5fcd\u8005",
-          "\u306e\u3053\u3068\u3088\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Learnt in Episode 0",
-          "kind": "episode",
-          "tag": "episode-0"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 4 list",
-          "kind": "anime-4",
-          "tag": "anime-4"
-        }
-      ],
-      "word": "\u5fcd\u8005"
-    },
-    {
-      "count": 1,
-      "definitions": [
-        [
-          "\u3080\u308a",
-          "unreasonable; unnatural; unjustifiable; impossible; forcible; forced; compulsory; excessive (work, etc.); immoderate; to work too hard; to try too hard; irrational"
-        ]
-      ],
-      "example": {
-        "index": 9,
-        "parts": [
-          "\uff08\u30bf\u30ba\u30ca\uff09\u3084\u306f\u308a\u3000\u8d85\u3000",
-          "\u7121\u7406",
-          "\u3058\u3083\u2026\n\u3042\u3093\u306a\u306e\u306b\u3000\u52dd\u3066\u308b\u308f\u3051\u304c\u306a\u3044\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Learnt in Episode 7",
-          "kind": "episode",
-          "tag": "episode-7"
-        },
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u7121\u7406"
-    },
-    {
-      "count": 3,
-      "definitions": [
-        [
-          "\u307f",
-          "body; oneself; one's place; one's position; main part; meat (as opposed to bone, skin, etc.); wood (as opposed to bark); blade (as opposed to its handle); container (as opposed to its lid)"
-        ],
-        [
-          "\u3080\u304f\u308d",
-          "(dead) body; corpse"
-        ]
-      ],
-      "example": {
-        "index": 6,
-        "parts": [
-          "\uff08\u518d\u4e0d\u65ac\uff09\u307b\u3045\u3000\u5f71\u5206",
-          "\u8eab",
-          "\u304b\n\u305d\u308c\u3082\u3000\u304b\u306a\u308a\u306e\u6570\u3060\u306a\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Learnt in Episode 3",
-          "kind": "episode",
-          "tag": "episode-3"
-        },
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        }
-      ],
-      "word": "\u8eab"
-    },
-    {
-      "count": 1,
       "definitions": [
         [
           "\u307f\u3048\u308b",
@@ -4476,11 +3749,12 @@
           "\u306e\u304b\uff01\uff1f"
         ]
       },
+      "known": false,
       "tags": [
         {
-          "desc": "Learnt in Episode 6",
-          "kind": "episode",
-          "tag": "episode-6"
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
         },
         {
           "desc": "Appears in JLTP level 4 list",
@@ -4491,7 +3765,863 @@
       "word": "\u898b\u3048\u308b"
     },
     {
-      "count": 1,
+      "definitions": [
+        [
+          "\u306f\u3064\u3069\u3046",
+          "putting into operation; invocation"
+        ]
+      ],
+      "example": {
+        "index": 87,
+        "parts": [
+          "\u300a\u8853\u304c\u3000",
+          "\u767a\u52d5",
+          "\u3057\u305f\u306e\u306f\u540c\u6642\u3060\u3063\u305f\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        }
+      ],
+      "word": "\u767a\u52d5"
+    },
+    {
+      "definitions": [
+        [
+          "\u305f\u307e",
+          "ball; sphere; globe; orb; bead (of sweat, dew, etc.); drop; droplet; ball (in sports); pile (of noodles, etc.); bullet; bulb (i.e. a light bulb); lens (of glasses, etc.); bead (of an abacus); ball (i.e. a testicle); gem; jewel (esp. spherical; sometimes used figuratively); pearl; female entertainer (e.g. a geisha); person (when commenting on their nature); character; item, funds or person used as part of a plot; egg; coin; precious; beautiful; excellent"
+        ],
+        [
+          "\u3060\u3093",
+          "counter for parts (of a story, etc.)"
+        ]
+      ],
+      "example": {
+        "index": 74,
+        "parts": [
+          "\uff08\uff12\u4eba\uff09\u6c34\u9041\u6c34\u9f8d",
+          "\u5f3e",
+          "\u306e\u8853\uff01"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        }
+      ],
+      "word": "\u5f3e"
+    },
+    {
+      "definitions": [
+        [
+          "\u3072\u307f\u3064",
+          "secret; secrecy; confidentiality; privacy; secret; mystery; esoteric teachings"
+        ]
+      ],
+      "example": {
+        "index": 131,
+        "parts": [
+          "\u91cc\u306e",
+          "\u79d8\u5bc6",
+          "\u304c\u6f0f\u308c\u308b\u306e\u3092\n\u9632\u3050\u305f\u3081\u306b\u306d\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        },
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        }
+      ],
+      "word": "\u79d8\u5bc6"
+    },
+    {
+      "definitions": [
+        [
+          "\u304b\u308f\u308b",
+          "to change; to be transformed; to be altered; to vary; to move to; to be different; to be uncommon; to be unusual"
+        ]
+      ],
+      "example": {
+        "index": 143,
+        "parts": [
+          "\u307e\u3060\u30ca\u30eb\u30c8\u305f\u3061\u3068\u3000\u5927\u3057\u3066",
+          "\u5909\u308f\u3089",
+          "\u306a\u3044\n\u3063\u3066\u306e\u306b\u2026\u3000\u8ffd\u3044\u5fcd\u304b\u3041\u300b"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u5909\u308f\u308b"
+    },
+    {
+      "definitions": [
+        [
+          "\u304a\u3046",
+          "to chase; to run after; to pursue; to follow (i.e. a set order, a trend); to drive out; to oust; to expel; to drive (i.e. a herd); (in passive voice) to be pressed (for time, etc.)"
+        ]
+      ],
+      "example": {
+        "index": 106,
+        "parts": [
+          "\u300a\u30e4\u30c4\u306e\u8853\u306b",
+          "\u8ffd\u3044",
+          "\u3064\u3051\u306a\u3044\u2026\u300b"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        },
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        }
+      ],
+      "word": "\u8ffd\u3046"
+    },
+    {
+      "definitions": [
+        [
+          "\u304b\u304f\u3058\u3064",
+          "certainty; reliability; soundness"
+        ]
+      ],
+      "example": {
+        "index": 112,
+        "parts": [
+          "",
+          "\u78ba\u5b9f",
+          "\u306b\u3000\u518d\u4e0d\u65ac\u3092\u6bba\u3059\u6a5f\u4f1a\u3092\n\u3046\u304b\u304c\u3063\u3066\u3044\u305f\u8005\u3067\u3059\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        }
+      ],
+      "word": "\u78ba\u5b9f"
+    },
+    {
+      "definitions": [
+        [
+          "\u3046\u3051\u308b",
+          "to receive; to get; to catch (e.g. a ball); to be struck by (wind, waves, sunlight, etc.); to sustain (damage); to incur (a loss); to suffer (an injury); to feel (influence); to undergo (e.g. surgery); to take (a test); to accept (a challenge); to be given (e.g. life, talent); to follow; to succeed; to be descended from; to face (south, etc.); to be modified by; to obtain (a pawned item, etc.) by paying a fee; to be well-received; to become popular; to go down well"
+        ]
+      ],
+      "example": {
+        "index": 45,
+        "parts": [
+          "",
+          "\u53d7\u3051\u53d6\u3063",
+          "\u305f\u3000\u30b5\u30b9\u30b1\u306f\u3000\u3059\u3050\u306b\n\u30aa\u30ec\u3060\u3063\u3066\u3000\u6c17\u4ed8\u3044\u305f\u306f\u305a\u3060\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u53d7\u3051\u308b"
+    },
+    {
+      "definitions": [
+        [
+          "\u3057\u305f\u3044",
+          "dead body; corpse; cadaver"
+        ]
+      ],
+      "example": {
+        "index": 158,
+        "parts": [
+          "\uff08\u767d\uff09\u30dc\u30af\u306f\u3053\u306e",
+          "\u6b7b\u4f53",
+          "\u3092\n\u59cb\u672b\u3057\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 2 list",
+          "kind": "jlpt-2",
+          "tag": "jlpt-2"
+        }
+      ],
+      "word": "\u6b7b\u4f53"
+    },
+    {
+      "definitions": [
+        [
+          "\u308a\u3087\u3046",
+          "quantity; amount; volume; portion (of food)"
+        ],
+        [
+          "\u306f\u304b",
+          "progress"
+        ]
+      ],
+      "example": {
+        "index": 75,
+        "parts": [
+          "\u300a\u3042\u306e\u3000",
+          "\u91cf",
+          "\u306e\u5370\u3092\u6570\u79d2\u3067\u2026\n\u3057\u304b\u3082\u3000\u5b8c\u74a7\u306b\u307e\u306d\u3066\u3084\u304c\u308b\uff01\u300b"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        }
+      ],
+      "word": "\u91cf"
+    },
+    {
+      "definitions": [
+        [
+          "\u306a\u3052\u308b",
+          "to throw; to cast away; to face defeat; to give up"
+        ]
+      ],
+      "example": {
+        "index": 44,
+        "parts": [
+          "\u30b5\u30b9\u30b1\u306e\u65b9\u306b\u3000",
+          "\u6295\u3052\u308b",
+          "\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u6295\u3052\u308b"
+    },
+    {
+      "definitions": [
+        [
+          "\u307f\u3054\u3068",
+          "splendid; magnificent; beautiful; admirable; praiseworthy act; feat; commendable deed; utter (esp. defeat); total; complete"
+        ]
+      ],
+      "example": {
+        "index": 32,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\n\u30ca\u30eb\u30c8\u2026\u3000\u4f5c\u6226\u3000",
+          "\u898b\u4e8b",
+          "\u3060\u3063\u305f\u305e\u2026\u2192"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        }
+      ],
+      "word": "\u898b\u4e8b"
+    },
+    {
+      "definitions": [
+        [
+          "\u3044\u3093",
+          "seal; stamp; mark; print; mudra (symbolic hand gesture); India"
+        ],
+        [
+          "\u3057\u308b\u3057",
+          "mark; sign; symbol; emblem; badge; crest; flag; evidence; proof; token (of gratitude, affection, etc.)"
+        ]
+      ],
+      "example": {
+        "index": 76,
+        "parts": [
+          "\u300a\u3042\u306e\u3000\u91cf\u306e",
+          "\u5370",
+          "\u3092\u6570\u79d2\u3067\u2026\n\u3057\u304b\u3082\u3000\u5b8c\u74a7\u306b\u307e\u306d\u3066\u3084\u304c\u308b\uff01\u300b"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        }
+      ],
+      "word": "\u5370"
+    },
+    {
+      "definitions": [
+        [
+          "\u3053\u308f\u3059",
+          "to break; to destroy; to demolish; to wreck; to ruin; to spoil; to damage; to break (a bill, etc.)"
+        ]
+      ],
+      "example": {
+        "index": 56,
+        "parts": [
+          "\u6c34\u7262\u3055\u3048\n\u3076\u3061",
+          "\u58ca\u305b",
+          "\u308c\u3070\u3063\u3066\u3000\u601d\u3063\u3066\u3055\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u58ca\u3059"
+    },
+    {
+      "definitions": [
+        [
+          "\u305b\u304b\u3044",
+          "the world; society; the universe; sphere; circle; world; renowned; world-famous; well-known outside of Japan; realm governed by one Buddha; space"
+        ]
+      ],
+      "example": {
+        "index": 155,
+        "parts": [
+          "\u3053\u306e",
+          "\u4e16\u754c",
+          "\u306b\u3083\u3000\u30aa\u30de\u30a8\u3088\u308a\u5e74\u4e0b\u3067\n\u30aa\u30ec\u3088\u308a\u3000\u5f37\u3044\u30ac\u30ad\u3082\u3044\u308b\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u4e16\u754c"
+    },
+    {
+      "definitions": [
+        [
+          "\u304d\u304b\u3044",
+          "chance; opportunity"
+        ]
+      ],
+      "example": {
+        "index": 114,
+        "parts": [
+          "\u78ba\u5b9f\u306b\u3000\u518d\u4e0d\u65ac\u3092\u6bba\u3059",
+          "\u6a5f\u4f1a",
+          "\u3092\n\u3046\u304b\u304c\u3063\u3066\u3044\u305f\u8005\u3067\u3059\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u6a5f\u4f1a"
+    },
+    {
+      "definitions": [
+        [
+          "\u308a\u3086\u3046",
+          "reason; pretext; motive"
+        ]
+      ],
+      "example": {
+        "index": 122,
+        "parts": [
+          "\uff08\u30b5\u30af\u30e9\uff09\u306a\u3093\u3089\u304b\u306e",
+          "\u7406\u7531",
+          "\u3067\n\u751f\u307e\u308c\u80b2\u3063\u305f\u91cc\u306b\u5203\u5411\u304b\u3044\u2192"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u7406\u7531"
+    },
+    {
+      "definitions": [
+        [
+          "\u304a\u3082\u3066",
+          "face; surface; mask (esp. a noh or kyogen mask)"
+        ],
+        [
+          "\u3064\u3089",
+          "face; mug; surface; surrounding area; cheek; cheeks"
+        ],
+        [
+          "\u3081\u3093",
+          "face; mask; face guard; (in kendo) striking the head; surface (esp. a geometrical surface); page; aspect; facet; side; chamfer; counter for broad, flat objects, levels or stages, e.g. in a video game"
+        ],
+        [
+          "\u3065\u3089",
+          "looking like a ...; acting as if a ...."
+        ]
+      ],
+      "example": {
+        "index": 116,
+        "parts": [
+          "\u78ba\u304b\u3000\u305d\u306e",
+          "\u9762",
+          "\u2026\u2192"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        }
+      ],
+      "word": "\u9762"
+    },
+    {
+      "definitions": [
+        [
+          "\u3046\u307e\u308c",
+          "birth; birthplace; born in (country, month, imperial era, zodiac year, etc.)"
+        ]
+      ],
+      "example": {
+        "index": 123,
+        "parts": [
+          "\uff08\u30b5\u30af\u30e9\uff09\u306a\u3093\u3089\u304b\u306e\u7406\u7531\u3067\n",
+          "\u751f\u307e\u308c",
+          "\u80b2\u3063\u305f\u91cc\u306b\u5203\u5411\u304b\u3044\u2192"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        }
+      ],
+      "word": "\u751f\u307e\u308c"
+    }
+  ],
+  "known": [
+    {
+      "definitions": [
+        [
+          "\u3075\u305f\u305f\u3073",
+          "again; once more; a second time"
+        ],
+        [
+          "\u306b\u3069",
+          "two times; twice; two degrees"
+        ]
+      ],
+      "example": {
+        "index": 65,
+        "parts": [
+          "\u8a00\u3063\u3066\u304a\u304f\u304c\u3000\u30aa\u30ec\u306b\u3000",
+          "\u4e8c\u5ea6",
+          "\n\u540c\u3058\u8853\u306f\u3000\u901a\u7528\u3057\u306a\u3044\u3002"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
+        },
+        {
+          "desc": "Among the JLPT-like Anime 4 list",
+          "kind": "anime-4",
+          "tag": "anime-4"
+        }
+      ],
+      "word": "\u4e8c\u5ea6"
+    },
+    {
+      "definitions": [
+        [
+          "\u3061\u3087\u3046",
+          "super-; ultra-; hyper-; very; really; over (after a number or counter); more than"
+        ]
+      ],
+      "example": {
+        "index": 8,
+        "parts": [
+          "\uff08\u30bf\u30ba\u30ca\uff09\u3084\u306f\u308a\u3000",
+          "\u8d85",
+          "\u3000\u7121\u7406\u3058\u3083\u2026\n\u3042\u3093\u306a\u306e\u306b\u3000\u52dd\u3066\u308b\u308f\u3051\u304c\u306a\u3044\u3002"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 5",
+          "kind": "episode",
+          "tag": "episode-5"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
+        },
+        {
+          "desc": "Among the JLPT-like Anime 3 list",
+          "kind": "anime-3",
+          "tag": "anime-3"
+        }
+      ],
+      "word": "\u8d85"
+    },
+    {
+      "definitions": [
+        [
+          "\u3053\u3068",
+          "thing; matter; incident; occurrence; event; something serious; trouble; crisis; circumstances; situation; state of affairs; work; business; affair; after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to; nominalizing suffix; pretending to ...; playing make-believe ...; alias; aka; nickname; alternative name; also known as"
+        ],
+        [
+          "\u3058",
+          "individual concrete phenomenon (as opposed to a general principle)"
+        ],
+        [
+          "\u3054\u3068",
+          "nominalizing suffix; pretending to ...; playing make-believe ..."
+        ]
+      ],
+      "example": {
+        "index": 81,
+        "parts": [
+          "\u300a\u304a\u304b\u3057\u3044\u2026\u3000\u3069\u3046\u3044\u3046",
+          "\u4e8b",
+          "\u3060\u300b"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        },
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        }
+      ],
+      "word": "\u4e8b"
+    },
+    {
+      "definitions": [
+        [
+          "\u306d\u3089\u3046",
+          "to aim at"
+        ]
+      ],
+      "example": {
+        "index": 22,
+        "parts": [
+          "\u306a\u308b\u307b\u3069\u3000\u4eca\u5ea6\u306f\n\u672c\u4f53\u3092\u3000",
+          "\u72d9\u3063",
+          "\u3066\u304d\u305f\u8a33\u304b\u2026\u3002"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 4",
+          "kind": "episode",
+          "tag": "episode-4"
+        },
+        {
+          "desc": "Appears in JLTP level 2 list",
+          "kind": "jlpt-2",
+          "tag": "jlpt-2"
+        },
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        }
+      ],
+      "word": "\u72d9\u3046"
+    },
+    {
+      "definitions": [
+        [
+          "\u306b\u3093\u3058\u3083",
+          "ninja (persons in feudal Japan who used ninjutsu for the purposes of espionage, assassination, sabotage, etc.)"
+        ]
+      ],
+      "example": {
+        "index": 130,
+        "parts": [
+          "\u6697\u6bba\u3059\u308b",
+          "\u5fcd\u8005",
+          "\u306e\u3053\u3068\u3088\u3002"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 0",
+          "kind": "episode",
+          "tag": "episode-0"
+        },
+        {
+          "desc": "Among the JLPT-like Anime 4 list",
+          "kind": "anime-4",
+          "tag": "anime-4"
+        }
+      ],
+      "word": "\u5fcd\u8005"
+    },
+    {
+      "definitions": [
+        [
+          "\u3064\u308c",
+          "companion; company"
+        ]
+      ],
+      "example": {
+        "index": 167,
+        "parts": [
+          "\u30bf\u30ba\u30ca\u3055\u3093\u3092\u3000\u5bb6\u307e\u3067",
+          "\u9023\u308c",
+          "\u3066\n\u884c\u304b\u306a\u304d\u3083\u3000\u306a\u3089\u306a\u3044\u3002"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        },
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        }
+      ],
+      "word": "\u9023\u308c"
+    },
+    {
+      "definitions": [
+        [
+          "\u3080\u308a",
+          "unreasonable; unnatural; unjustifiable; impossible; forcible; forced; compulsory; excessive (work, etc.); immoderate; to work too hard; to try too hard; irrational"
+        ]
+      ],
+      "example": {
+        "index": 9,
+        "parts": [
+          "\uff08\u30bf\u30ba\u30ca\uff09\u3084\u306f\u308a\u3000\u8d85\u3000",
+          "\u7121\u7406",
+          "\u3058\u3083\u2026\n\u3042\u3093\u306a\u306e\u306b\u3000\u52dd\u3066\u308b\u308f\u3051\u304c\u306a\u3044\u3002"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u7121\u7406"
+    },
+    {
+      "definitions": [
+        [
+          "\u307f",
+          "body; oneself; one's place; one's position; main part; meat (as opposed to bone, skin, etc.); wood (as opposed to bark); blade (as opposed to its handle); container (as opposed to its lid)"
+        ],
+        [
+          "\u3080\u304f\u308d",
+          "(dead) body; corpse"
+        ]
+      ],
+      "example": {
+        "index": 6,
+        "parts": [
+          "\uff08\u518d\u4e0d\u65ac\uff09\u307b\u3045\u3000\u5f71\u5206",
+          "\u8eab",
+          "\u304b\n\u305d\u308c\u3082\u3000\u304b\u306a\u308a\u306e\u6570\u3060\u306a\u3002"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 2",
+          "kind": "episode",
+          "tag": "episode-2"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        },
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        }
+      ],
+      "word": "\u8eab"
+    },
+    {
       "definitions": [
         [
           "\u304b\u305f",
@@ -4522,6 +4652,7 @@
           "\u306b\u3000\u6295\u3052\u308b\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -4532,7 +4663,6 @@
       "word": "\u65b9"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3076\u3093\u3057\u3093",
@@ -4547,6 +4677,7 @@
           "\u3092\u3000\u4e00\u4f53\u6b8b\u3057\u3066\n\u30aa\u30ec\u306f\u3000\u98a8\u9b54\u624b\u88cf\u5263\u306b\u5909\u5316\u3059\u308b\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 0",
@@ -4562,7 +4693,6 @@
       "word": "\u5206\u8eab"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u304a\u3082\u3046",
@@ -4577,6 +4707,7 @@
           "\u3066\u306a\u304b\u3063\u305f\u3051\u3069\u2026\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 2",
@@ -4592,7 +4723,6 @@
       "word": "\u601d\u3046"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3058\u3087\u3046\u304d\u3087\u3046",
@@ -4607,6 +4737,7 @@
           "\u3067\u3000\u3053\u3046\u3082\u898b\u4e8b\u306a\n\u9023\u4fc2\u30d7\u30ec\u30a4\u304c\u3000\u3067\u304d\u308b\u306a\u3093\u3066\u2026\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 7",
@@ -4627,7 +4758,6 @@
       "word": "\u72b6\u6cc1"
     },
     {
-      "count": 5,
       "definitions": [
         [
           "\u3058\u3093",
@@ -4654,6 +4784,7 @@
           "\u2026\u3000\u3042\u3093\u306a\u306b\n\u3044\u304c\u307f\u5408\u3063\u3066\u305f\u306e\u306b\u2026\u300b"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -4664,7 +4795,6 @@
       "word": "\u4eba"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u306b\u3093\u3058\u3085\u3064",
@@ -4679,6 +4809,7 @@
           "\u306a\u306e\uff01\uff1f\u300b"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 1",
@@ -4694,7 +4825,6 @@
       "word": "\u5fcd\u8853"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304b\u3093\u305f\u3093",
@@ -4709,6 +4839,7 @@
           "\u306b\u3000\u6bba\u3055\u308c\u3061\u307e\u3063\u305f\u3093\u3060\u305e\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 1",
@@ -4724,7 +4855,6 @@
       "word": "\u7c21\u5358"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304a\u304a\u3044",
@@ -4739,6 +4869,7 @@
           "\n\u30ab\u30e9\u30c0\u306a\u3082\u306e\u3067\u2026\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -4749,7 +4880,6 @@
       "word": "\u591a\u3044"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3064\u304e",
@@ -4768,6 +4898,7 @@
           "\u306b\u751f\u304b\u305b\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -4778,7 +4909,6 @@
       "word": "\u6b21"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3042\u3044\u3066",
@@ -4793,6 +4923,7 @@
           "\u306e\u8853\u3092\u3000\u8a18\u61b6\u3057\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 1",
@@ -4813,7 +4944,6 @@
       "word": "\u76f8\u624b"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3064\u3088\u3044",
@@ -4832,6 +4962,7 @@
           "\u30e4\u30c4\u304c\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -4842,7 +4973,49 @@
       "word": "\u5f37\u3044"
     },
     {
-      "count": 1,
+      "definitions": [
+        [
+          "\u3057\u3070\u3057\u3070",
+          "often; again and again; frequently; repeatedly"
+        ],
+        [
+          "\u304b\u305a",
+          "number; amount"
+        ],
+        [
+          "\u3059\u3046",
+          "several; a number of; number; numeral; figure; destiny; fate; law"
+        ]
+      ],
+      "example": {
+        "index": 7,
+        "parts": [
+          "\uff08\u518d\u4e0d\u65ac\uff09\u307b\u3045\u3000\u5f71\u5206\u8eab\u304b\n\u305d\u308c\u3082\u3000\u304b\u306a\u308a\u306e",
+          "\u6570",
+          "\u3060\u306a\u3002"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        },
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        }
+      ],
+      "word": "\u6570"
+    },
+    {
       "definitions": [
         [
           "\u3052\u3093\u304d",
@@ -4857,6 +5030,7 @@
           "\u3088\u304f\u884c\u304f\u305e\u3063\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -4867,7 +5041,6 @@
       "word": "\u5143\u6c17"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3044\u3048",
@@ -4902,6 +5075,7 @@
           "\u307e\u3067\u9023\u308c\u3066\n\u884c\u304b\u306a\u304d\u3083\u3000\u306a\u3089\u306a\u3044\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -4912,7 +5086,6 @@
       "word": "\u5bb6"
     },
     {
-      "count": 3,
       "definitions": [
         [
           "\u305b\u3093\u305b\u3044",
@@ -4931,6 +5104,7 @@
           "\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -4941,7 +5115,41 @@
       "word": "\u5148\u751f"
     },
     {
-      "count": 1,
+      "definitions": [
+        [
+          "\u304b\u3093\u305c\u3093",
+          "perfection; completeness"
+        ]
+      ],
+      "example": {
+        "index": 91,
+        "parts": [
+          "",
+          "\u5b8c\u5168",
+          "\u306b\u2026\u300b"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        },
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        }
+      ],
+      "word": "\u5b8c\u5168"
+    },
+    {
       "definitions": [
         [
           "\u3078\u3093\u304b",
@@ -4960,6 +5168,7 @@
           "\u3059\u308b\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 0",
@@ -4975,7 +5184,6 @@
       "word": "\u5909\u5316"
     },
     {
-      "count": 12,
       "definitions": [
         [
           "\u3058\u3085\u3064",
@@ -4994,6 +5202,7 @@
           "\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 0",
@@ -5009,7 +5218,6 @@
       "word": "\u8853"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u306a\u306b",
@@ -5024,6 +5232,7 @@
           "\u306a\u306e\uff1f\u3000\u3053\u308c\u3063\u3066\u3000\n\u5fcd\u8853\u306a\u306e\uff01\uff1f\u300b"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -5034,7 +5243,6 @@
       "word": "\u4f55"
     },
     {
-      "count": 4,
       "definitions": [
         [
           "\u3057\u306c",
@@ -5049,6 +5257,7 @@
           "\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -5059,7 +5268,66 @@
       "word": "\u6b7b\u306c"
     },
     {
-      "count": 1,
+      "definitions": [
+        [
+          "\u3051\u3093",
+          "sword (originally esp. a doubled-edged sword); sabre; saber; blade; bayonet; swordsmanship; stinger; ovipositor; dart"
+        ]
+      ],
+      "example": {
+        "index": 16,
+        "parts": [
+          "\u98a8\u9b54\u624b\u88cf",
+          "\u5263",
+          "\u3000\u5f71\u98a8\u8eca\u3002"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
+        },
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        }
+      ],
+      "word": "\u5263"
+    },
+    {
+      "definitions": [
+        [
+          "\u3064\u3046\u3088\u3046",
+          "popular use; circulation; to pass as"
+        ]
+      ],
+      "example": {
+        "index": 19,
+        "parts": [
+          "\u624b\u88cf\u5263\u306a\u305e\n\u30aa\u30ec\u306b\u306f\u3000",
+          "\u901a\u7528",
+          "\u305b\u3093\u305e\u3002"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
+        },
+        {
+          "desc": "Appears in JLTP level 2 list",
+          "kind": "jlpt-2",
+          "tag": "jlpt-2"
+        }
+      ],
+      "word": "\u901a\u7528"
+    },
+    {
       "definitions": [
         [
           "\u3057\u308b",
@@ -5074,6 +5342,7 @@
           "\u3066\u3044\u3089\u3063\u3057\u3083\u308b\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -5084,7 +5353,6 @@
       "word": "\u77e5\u308b"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u306b\u3093\u3080",
@@ -5099,11 +5367,12 @@
           "\u3068\u3059\u308b\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Learnt in Episode 3",
+          "desc": "Learnt in Episode 2",
           "kind": "episode",
-          "tag": "episode-3"
+          "tag": "episode-2"
         },
         {
           "desc": "Appears in JLTP level 1 list",
@@ -5119,7 +5388,6 @@
       "word": "\u4efb\u52d9"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3084\u308b",
@@ -5134,6 +5402,7 @@
           "\u3055\u308c\u3061\u307e\u3063\u305f\u3093\u3060\u305e\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 4",
@@ -5149,7 +5418,6 @@
       "word": "\u6bba\u308b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u307b\u3093\u3082\u306e",
@@ -5164,6 +5432,7 @@
           "\u306e\u3000\u624b\u88cf\u5263\u306e\u5f71\u306b\n\u96a0\u308c\u305f\u30aa\u30ec\u306f\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 3",
@@ -5184,7 +5453,36 @@
       "word": "\u672c\u7269"
     },
     {
-      "count": 1,
+      "definitions": [
+        [
+          "\u304b\u3052",
+          "shadow; silhouette; figure; shape; reflection; image; ominous sign; light (stars, moon); trace; shadow (of one's former self)"
+        ]
+      ],
+      "example": {
+        "index": 25,
+        "parts": [
+          "\u300a\u624b\u88cf\u5263\u306e",
+          "\u5f71",
+          "\u306b\u3000\u624b\u88cf\u5263\u304c\u2026\u300b"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        }
+      ],
+      "word": "\u5f71"
+    },
+    {
       "definitions": [
         [
           "\u3053\u3048",
@@ -5199,6 +5497,7 @@
           "\u304b\u3089\u3057\u3066\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -5209,7 +5508,6 @@
       "word": "\u58f0"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3053\u308d\u3059",
@@ -5224,11 +5522,12 @@
           "\u6a5f\u4f1a\u3092\n\u3046\u304b\u304c\u3063\u3066\u3044\u305f\u8005\u3067\u3059\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Learnt in Episode 3",
+          "desc": "Learnt in Episode 2",
           "kind": "episode",
-          "tag": "episode-3"
+          "tag": "episode-2"
         },
         {
           "desc": "Appears in JLTP level 3 list",
@@ -5239,7 +5538,6 @@
       "word": "\u6bba\u3059"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3061\u304c\u3046",
@@ -5258,6 +5556,7 @@
           "\u306a\u3000\u8853\u306f\u3000\u3068\u3044\u305f\u3093\u3058\u3083\u306a\u304f\n\u3068\u304b\u3055\u308c\u305f\u3093\u3060\u308d\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -5268,7 +5567,6 @@
       "word": "\u9055\u3046"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3057\u308d",
@@ -5291,6 +5589,7 @@
           "\uff09\u30d5\u30d5\u2026\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -5301,7 +5600,6 @@
       "word": "\u767d"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3042\u307e\u3044",
@@ -5320,6 +5618,7 @@
           "\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -5330,7 +5629,6 @@
       "word": "\u7518\u3044"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u304a\u308f\u308a",
@@ -5345,6 +5643,7 @@
           "\u3060\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 6",
@@ -5360,7 +5659,6 @@
       "word": "\u7d42\u308f\u308a"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3079\u3093\u304d\u3087\u3046",
@@ -5375,6 +5673,7 @@
           "\u3057\u306a\u3055\u3044\u3088\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -5385,7 +5684,6 @@
       "word": "\u52c9\u5f37"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3084\u308d\u3046",
@@ -5400,6 +5698,7 @@
           "\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 3",
@@ -5415,7 +5714,6 @@
       "word": "\u91ce\u90ce"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u306e\u3046\u308a\u3087\u304f",
@@ -5434,6 +5732,7 @@
           "\u306e\u306f\u305a\u2026\u3000\u3057\u304b\u3057\u300b"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 5",
@@ -5454,7 +5753,6 @@
       "word": "\u80fd\u529b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3055\u304f\u305b\u3093",
@@ -5469,6 +5767,7 @@
           "\u3000\u898b\u4e8b\u3060\u3063\u305f\u305e\u2026\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 7",
@@ -5489,7 +5788,6 @@
       "word": "\u4f5c\u6226"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3058\u3076\u3093",
@@ -5504,6 +5802,7 @@
           "\u306e\u624b\u88cf\u5263\u3092\u51fa\u3057\u3066\n\u300c\u5f71\u624b\u88cf\u5263\u306e\u8853\u300d\u3060\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -5514,7 +5813,6 @@
       "word": "\u81ea\u5206"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3081",
@@ -5533,6 +5831,7 @@
           "\u306f\n\u76f8\u624b\u306e\u8853\u3092\u3000\u8a18\u61b6\u3057\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 6",
@@ -5548,7 +5847,6 @@
       "word": "\u773c"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3053\u3053\u308d",
@@ -5567,6 +5865,7 @@
           "\u3092\n\u5148\u8aad\u307f\u3057\u3084\u304c\u3063\u305f\u306e\u304b\u300b"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 2",
@@ -5582,7 +5881,36 @@
       "word": "\u5fc3"
     },
     {
-      "count": 1,
+      "definitions": [
+        [
+          "\u305b\u3044\u3061\u3087\u3046",
+          "growth; grow to adulthood"
+        ]
+      ],
+      "example": {
+        "index": 33,
+        "parts": [
+          "",
+          "\u6210\u9577",
+          "\u3057\u305f\u306a\u2026\u3000\u30aa\u30de\u30a8\u3089\u2026\u3002"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        }
+      ],
+      "word": "\u6210\u9577"
+    },
+    {
       "definitions": [
         [
           "\u308f\u308b\u3044",
@@ -5605,6 +5933,7 @@
           "\u76ee\u3064\u304d\n\u3057\u3084\u304c\u3063\u3066\u2026\u3000\u304b\uff1f"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -5615,7 +5944,6 @@
       "word": "\u60aa\u3044"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304f\u3061",
@@ -5634,6 +5962,7 @@
           "\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -5644,7 +5973,6 @@
       "word": "\u53e3"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3046\u3054\u304d",
@@ -5659,11 +5987,12 @@
           "\u3058\u3083\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Learnt in Episode 7",
+          "desc": "Learnt in Episode 6",
           "kind": "episode",
-          "tag": "episode-7"
+          "tag": "episode-6"
         },
         {
           "desc": "Appears in JLTP level 1 list",
@@ -5679,7 +6008,6 @@
       "word": "\u52d5\u304d"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3053\u3093\u3069",
@@ -5694,6 +6022,7 @@
           "\u306f\n\u672c\u4f53\u3092\u3000\u72d9\u3063\u3066\u304d\u305f\u8a33\u304b\u2026\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 6",
@@ -5709,7 +6038,6 @@
       "word": "\u4eca\u5ea6"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u304a\u306a\u3058",
@@ -5724,6 +6052,7 @@
           "\u52d5\u304d\u3058\u3083\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -5734,7 +6063,6 @@
       "word": "\u540c\u3058"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u3082\u306e",
@@ -5753,6 +6081,7 @@
           "\u3067\u3059\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 0",
@@ -5773,7 +6102,6 @@
       "word": "\u8005"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3070\u3051",
@@ -5788,6 +6116,7 @@
           "\u305f\u30aa\u30ec\u3092\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 2",
@@ -5803,7 +6132,6 @@
       "word": "\u5316\u3051"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3059\u3044\u3076\u3093",
@@ -5818,11 +6146,12 @@
           "\u8eab\u307e\u3067\u5012\u305b\u3066\n\u5927\u6210\u529f\u3060\u3063\u3066\u3070\u3088\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
-          "desc": "Learnt in Episode 7",
+          "desc": "Learnt in Episode 6",
           "kind": "episode",
-          "tag": "episode-7"
+          "tag": "episode-6"
         },
         {
           "desc": "Appears in JLTP level 2 list",
@@ -5833,7 +6162,40 @@
       "word": "\u6c34\u5206"
     },
     {
-      "count": 1,
+      "definitions": [
+        [
+          "\u3042\u3093\u3057\u3093",
+          "relief; peace of mind"
+        ],
+        [
+          "\u3042\u3093\u3058\u3093",
+          "obtaining peace of mind through faith or ascetic practice"
+        ]
+      ],
+      "example": {
+        "index": 145,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09",
+          "\u5b89\u5fc3",
+          "\u3057\u308d\u3000\u30ca\u30eb\u30c8\n\u6575\u3058\u3083\u306a\u3044\u3088\u3002"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 6",
+          "kind": "episode",
+          "tag": "episode-6"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u5b89\u5fc3"
+    },
+    {
       "definitions": [
         [
           "\u305b\u3044",
@@ -5852,6 +6214,7 @@
           "\u305f\u3051\u3084\u58f0\u304b\u3089\u3057\u3066\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -5862,7 +6225,6 @@
       "word": "\u80cc"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3044\u304f",
@@ -5877,6 +6239,7 @@
           "\u305e\u3063\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -5887,7 +6250,6 @@
       "word": "\u884c\u304f"
     },
     {
-      "count": 8,
       "definitions": [
         [
           "\u3056\u3093",
@@ -5902,6 +6264,7 @@
           "\uff09\u6b7b\u306d\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 5",
@@ -5917,7 +6280,71 @@
       "word": "\u65ac"
     },
     {
-      "count": 3,
+      "definitions": [
+        [
+          "\u3042\u3093\u3055\u3064",
+          "assassination"
+        ]
+      ],
+      "example": {
+        "index": 129,
+        "parts": [
+          "",
+          "\u6697\u6bba",
+          "\u3059\u308b\u5fcd\u8005\u306e\u3053\u3068\u3088\u3002"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 5",
+          "kind": "episode",
+          "tag": "episode-5"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
+        },
+        {
+          "desc": "Among the JLPT-like Anime 3 list",
+          "kind": "anime-3",
+          "tag": "anime-3"
+        }
+      ],
+      "word": "\u6697\u6bba"
+    },
+    {
+      "definitions": [
+        [
+          "\u3075\u305b\u3050",
+          "to defend (against); to protect; to prevent"
+        ]
+      ],
+      "example": {
+        "index": 133,
+        "parts": [
+          "\u91cc\u306e\u79d8\u5bc6\u304c\u6f0f\u308c\u308b\u306e\u3092\n",
+          "\u9632\u3050",
+          "\u305f\u3081\u306b\u306d\u3002"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 7",
+          "kind": "episode",
+          "tag": "episode-7"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        }
+      ],
+      "word": "\u9632\u3050"
+    },
+    {
       "definitions": [
         [
           "\u3055\u3068",
@@ -5936,6 +6363,7 @@
           "\u306b\u5203\u5411\u304b\u3044\u2192"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 0",
@@ -5951,7 +6379,6 @@
       "word": "\u91cc"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u307b\u3093\u305f\u3044",
@@ -5966,6 +6393,7 @@
           "\u3092\u3000\u72d9\u3063\u3066\u304d\u305f\u8a33\u304b\u2026\u3002"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 7",
@@ -5986,7 +6414,6 @@
       "word": "\u672c\u4f53"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304d\u304f",
@@ -6001,6 +6428,7 @@
           "\u3066\u3093\u3058\u3083\u306d\u3048\u306e\uff01\n\u30aa\u30ec\u3063\u3066\u3070\uff01"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Appears in JLTP level 5 list",
@@ -6011,7 +6439,6 @@
       "word": "\u805e\u304f"
     },
     {
-      "count": 2,
       "definitions": [
         [
           "\u305f\u3057\u304b",
@@ -6026,6 +6453,7 @@
           "\u306b\u6b7b\u3093\u3067\u308b\u306a\u2026\u300b"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 4",
@@ -6041,7 +6469,6 @@
       "word": "\u78ba\u304b"
     },
     {
-      "count": 3,
       "definitions": [
         [
           "\u305f\u304a\u3059",
@@ -6060,6 +6487,7 @@
           "\u306b\u306f\n\u3082\u3046\u3000\u3053\u306e\u624b\u3057\u304b\u306d\u3048\u300b"
         ]
       },
+      "known": true,
       "tags": [
         {
           "desc": "Learnt in Episode 1",
@@ -6082,75 +6510,6 @@
   ],
   "other": [
     {
-      "count": 1,
-      "definitions": [
-        [
-          "\u3053\u3068",
-          "thing; matter; incident; occurrence; event; something serious; trouble; crisis; circumstances; situation; state of affairs; work; business; affair; after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to; nominalizing suffix; pretending to ...; playing make-believe ...; alias; aka; nickname; alternative name; also known as"
-        ],
-        [
-          "\u3058",
-          "individual concrete phenomenon (as opposed to a general principle)"
-        ],
-        [
-          "\u3054\u3068",
-          "nominalizing suffix; pretending to ...; playing make-believe ..."
-        ]
-      ],
-      "example": {
-        "index": 81,
-        "parts": [
-          "\u300a\u304a\u304b\u3057\u3044\u2026\u3000\u3069\u3046\u3044\u3046",
-          "\u4e8b",
-          "\u3060\u300b"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        }
-      ],
-      "word": "\u4e8b"
-    },
-    {
-      "count": 1,
-      "definitions": [
-        [
-          "\u3055\u3044",
-          "re-; again; repeated; deutero-; deuto-; deuter-"
-        ]
-      ],
-      "example": {
-        "index": 51,
-        "parts": [
-          "\u305d\u306e\u307e\u307e\u3000",
-          "\u518d",
-          "\u4e0d\u65ac\u3092\u72d9\u3046\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 3 list",
-          "kind": "anime-3",
-          "tag": "anime-3"
-        }
-      ],
-      "word": "\u518d"
-    },
-    {
-      "count": 1,
       "definitions": [
         [
           "\u306d\u3089\u3044",
@@ -6165,6 +6524,7 @@
           "\u306f\u3000\u518d\u4e0d\u65ac\u3092\n\u5012\u3059\u3053\u3068\u3058\u3083\u306a\u304f\u3066\u2192"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 2 list",
@@ -6180,32 +6540,6 @@
       "word": "\u72d9\u3044"
     },
     {
-      "count": 1,
-      "definitions": [
-        [
-          "\u306f\u3064\u3069\u3046",
-          "putting into operation; invocation"
-        ]
-      ],
-      "example": {
-        "index": 87,
-        "parts": [
-          "\u300a\u8853\u304c\u3000",
-          "\u767a\u52d5",
-          "\u3057\u305f\u306e\u306f\u540c\u6642\u3060\u3063\u305f\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        }
-      ],
-      "word": "\u767a\u52d5"
-    },
-    {
-      "count": 1,
       "definitions": [
         [
           "\u3086\u3060\u3093",
@@ -6220,6 +6554,7 @@
           "\u3059\u308b\u306a\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 2 list",
@@ -6230,7 +6565,6 @@
       "word": "\u6cb9\u65ad"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3068\u3057\u3057\u305f",
@@ -6245,11 +6579,11 @@
           "\u3067\n\u30aa\u30ec\u3088\u308a\u3000\u5f37\u3044\u30ac\u30ad\u3082\u3044\u308b\u3002"
         ]
       },
+      "known": false,
       "tags": [],
       "word": "\u5e74\u4e0b"
     },
     {
-      "count": 1,
       "definitions": [],
       "example": {
         "index": 126,
@@ -6259,11 +6593,11 @@
           "\u304b\u3044\u2192"
         ]
       },
+      "known": false,
       "tags": [],
       "word": "\u5203\u5411"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3082\u308c\u308b",
@@ -6278,6 +6612,7 @@
           "\u306e\u3092\n\u9632\u3050\u305f\u3081\u306b\u306d\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 1 list",
@@ -6288,7 +6623,6 @@
       "word": "\u6f0f\u308c\u308b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304d\u3082\u3061",
@@ -6303,6 +6637,7 @@
           "\u3082\u308f\u304b\u308b\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 4 list",
@@ -6313,7 +6648,6 @@
       "word": "\u6c17\u6301"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304d\u308b",
@@ -6328,6 +6662,7 @@
           "\u305f\u3044\u306b\u2192"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 2 list",
@@ -6343,7 +6678,6 @@
       "word": "\u65ac\u308b"
     },
     {
-      "count": 1,
       "definitions": [],
       "example": {
         "index": 29,
@@ -6353,6 +6687,7 @@
           "\u306e\u624b\u88cf\u5263\uff01\u300b"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 2 list",
@@ -6363,37 +6698,6 @@
       "word": "\u679a\u76ee"
     },
     {
-      "count": 1,
-      "definitions": [
-        [
-          "\u304b\u3093\u305c\u3093",
-          "perfection; completeness"
-        ]
-      ],
-      "example": {
-        "index": 91,
-        "parts": [
-          "",
-          "\u5b8c\u5168",
-          "\u306b\u2026\u300b"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        }
-      ],
-      "word": "\u5b8c\u5168"
-    },
-    {
-      "count": 1,
       "definitions": [
         [
           "\u3057\u3093\u3058\u308b",
@@ -6408,6 +6712,7 @@
           "\u3089\u308c\u306a\u3044\u6c17\u6301\u3082\u308f\u304b\u308b\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -6423,7 +6728,6 @@
       "word": "\u4fe1\u3058\u308b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304b\u3093\u307a\u304d",
@@ -6438,6 +6742,7 @@
           "\u306b\u307e\u306d\u3066\u3084\u304c\u308b\uff01\u300b"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 1 list",
@@ -6453,7 +6758,6 @@
       "word": "\u5b8c\u74a7"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u306c\u306e",
@@ -6472,6 +6776,7 @@
           "\u306e\u8853\uff01"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -6482,7 +6787,6 @@
       "word": "\u5e03"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304a\u308f\u308b",
@@ -6497,6 +6801,7 @@
           "\u305f\u30ef\u30b1\u3058\u3083\u306a\u3044\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 1 list",
@@ -6512,7 +6817,6 @@
       "word": "\u7d42\u308f\u308b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3058\u3085\u3082\u3093",
@@ -6527,6 +6831,7 @@
           "\uff09"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 3 list",
@@ -6537,32 +6842,6 @@
       "word": "\u546a\u6587"
     },
     {
-      "count": 1,
-      "definitions": [
-        [
-          "\u3057\u305f\u3044",
-          "dead body; corpse; cadaver"
-        ]
-      ],
-      "example": {
-        "index": 158,
-        "parts": [
-          "\uff08\u767d\uff09\u30dc\u30af\u306f\u3053\u306e",
-          "\u6b7b\u4f53",
-          "\u3092\n\u59cb\u672b\u3057\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 2 list",
-          "kind": "jlpt-2",
-          "tag": "jlpt-2"
-        }
-      ],
-      "word": "\u6b7b\u4f53"
-    },
-    {
-      "count": 1,
       "definitions": [
         [
           "\u3081\u3064\u304d",
@@ -6577,36 +6856,11 @@
           "\n\u3057\u3084\u304c\u3063\u3066\u2026\u3000\u304b\uff1f"
         ]
       },
+      "known": false,
       "tags": [],
       "word": "\u76ee\u3064\u304d"
     },
     {
-      "count": 1,
-      "definitions": [
-        [
-          "\u305b\u3044\u3061\u3087\u3046",
-          "growth; grow to adulthood"
-        ]
-      ],
-      "example": {
-        "index": 33,
-        "parts": [
-          "",
-          "\u6210\u9577",
-          "\u3057\u305f\u306a\u2026\u3000\u30aa\u30de\u30a8\u3089\u2026\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        }
-      ],
-      "word": "\u6210\u9577"
-    },
-    {
-      "count": 1,
       "definitions": [
         [
           "\u3058\u3087\u3046\u3067\u304d",
@@ -6621,40 +6875,11 @@
           "\u3060\u300b"
         ]
       },
+      "known": false,
       "tags": [],
       "word": "\u4e0a\u51fa\u6765"
     },
     {
-      "count": 1,
-      "definitions": [
-        [
-          "\u308a\u3087\u3046",
-          "quantity; amount; volume; portion (of food)"
-        ],
-        [
-          "\u306f\u304b",
-          "progress"
-        ]
-      ],
-      "example": {
-        "index": 75,
-        "parts": [
-          "\u300a\u3042\u306e\u3000",
-          "\u91cf",
-          "\u306e\u5370\u3092\u6570\u79d2\u3067\u2026\n\u3057\u304b\u3082\u3000\u5b8c\u74a7\u306b\u307e\u306d\u3066\u3084\u304c\u308b\uff01\u300b"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        }
-      ],
-      "word": "\u91cf"
-    },
-    {
-      "count": 1,
       "definitions": [
         [
           "\u3057\u3087\u3046",
@@ -6669,6 +6894,7 @@
           "\u3066\u308b\u308f\u3051\u304c\u306a\u3044\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 4 list",
@@ -6679,7 +6905,6 @@
       "word": "\u52dd"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304d\u3065\u3051",
@@ -6694,6 +6919,7 @@
           "\u3044\u305f\u306f\u305a\u3060\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 3 list",
@@ -6704,7 +6930,6 @@
       "word": "\u6c17\u4ed8"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3057\u304b\u304f",
@@ -6719,6 +6944,7 @@
           "\u306b\uff12\u679a\u76ee\u306e\u624b\u88cf\u5263\uff01\u300b"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 1 list",
@@ -6729,7 +6955,6 @@
       "word": "\u6b7b\u89d2"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3060\u3057",
@@ -6744,6 +6969,7 @@
           "\u3066\n\u300c\u5f71\u624b\u88cf\u5263\u306e\u8853\u300d\u3060\uff01"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 5 list",
@@ -6754,7 +6980,6 @@
       "word": "\u51fa\u3057"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3069\u3046\u3058",
@@ -6769,6 +6994,7 @@
           "\u3060\u3063\u305f\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -6779,7 +7005,6 @@
       "word": "\u540c\u6642"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u308c\u3093\u3051\u3044",
@@ -6794,11 +7019,11 @@
           "\u30d7\u30ec\u30a4\u304c\u3000\u3067\u304d\u308b\u306a\u3093\u3066\u2026\u3002"
         ]
       },
+      "known": false,
       "tags": [],
       "word": "\u9023\u4fc2"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3057\u3064\u308c\u3044",
@@ -6813,6 +7038,7 @@
           "\u3057\u307e\u3059\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 5 list",
@@ -6823,7 +7049,6 @@
       "word": "\u5931\u793c"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304b\u304f\u308c",
@@ -6838,6 +7063,7 @@
           "\u305f\u30aa\u30ec\u306f\u2192"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 4 list",
@@ -6848,36 +7074,6 @@
       "word": "\u96a0\u308c"
     },
     {
-      "count": 1,
-      "definitions": [
-        [
-          "\u3044\u3093",
-          "seal; stamp; mark; print; mudra (symbolic hand gesture); India"
-        ],
-        [
-          "\u3057\u308b\u3057",
-          "mark; sign; symbol; emblem; badge; crest; flag; evidence; proof; token (of gratitude, affection, etc.)"
-        ]
-      ],
-      "example": {
-        "index": 76,
-        "parts": [
-          "\u300a\u3042\u306e\u3000\u91cf\u306e",
-          "\u5370",
-          "\u3092\u6570\u79d2\u3067\u2026\n\u3057\u304b\u3082\u3000\u5b8c\u74a7\u306b\u307e\u306d\u3066\u3084\u304c\u308b\uff01\u300b"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        }
-      ],
-      "word": "\u5370"
-    },
-    {
-      "count": 1,
       "definitions": [
         [
           "\u306a\u3063\u3068\u304f",
@@ -6892,6 +7088,7 @@
           "\u3067\u304d\u308b\u304b\u3041\uff01\uff01"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -6902,7 +7099,6 @@
       "word": "\u7d0d\u5f97"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3058\u3058\u3064",
@@ -6917,6 +7113,7 @@
           "\u3060\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -6927,7 +7124,6 @@
       "word": "\u4e8b\u5b9f"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3057\u307e\u3064",
@@ -6942,6 +7138,7 @@
           "\u3057\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 1 list",
@@ -6957,7 +7154,6 @@
       "word": "\u59cb\u672b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u305f\u3044",
@@ -6972,6 +7168,7 @@
           "\u306e\u8005\u3067\u3059\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 5 list",
@@ -6982,7 +7179,6 @@
       "word": "\u968a"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3058\u3057\u3093",
@@ -6997,6 +7193,7 @@
           "\u304c\n\u98a8\u9b54\u624b\u88cf\u5263\u306b\u5316\u3051\u308b\u306e\u3092\u2192"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -7007,7 +7204,36 @@
       "word": "\u81ea\u8eab"
     },
     {
-      "count": 1,
+      "definitions": [
+        [
+          "\u307f\u3089\u3044",
+          "the future (usually distant); future tense; the world to come"
+        ]
+      ],
+      "example": {
+        "index": 108,
+        "parts": [
+          "\uff08\u518d\u4e0d\u65ac\uff09\u30aa\u30de\u30a8\u306b\u306f\n",
+          "\u672a\u6765",
+          "\u304c\u898b\u3048\u308b\u306e\u304b\uff01\uff1f"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        },
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        }
+      ],
+      "word": "\u672a\u6765"
+    },
+    {
       "definitions": [
         [
           "\u3060\u3044\u305b\u3044\u3053\u3046",
@@ -7022,6 +7248,7 @@
           "\u3060\u3063\u3066\u3070\u3088\uff01"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 2 list",
@@ -7032,7 +7259,6 @@
       "word": "\u5927\u6210\u529f"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304b\u304f\u3059",
@@ -7047,6 +7273,7 @@
           "\u305f\u3081\u3060\u3063\u305f\u3093\u3060\u3063\u3066\u3070\u3088\uff01"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -7057,99 +7284,6 @@
       "word": "\u96a0\u3059"
     },
     {
-      "count": 1,
-      "definitions": [
-        [
-          "\u3042\u3093\u3055\u3064",
-          "assassination"
-        ]
-      ],
-      "example": {
-        "index": 129,
-        "parts": [
-          "",
-          "\u6697\u6bba",
-          "\u3059\u308b\u5fcd\u8005\u306e\u3053\u3068\u3088\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 3 list",
-          "kind": "anime-3",
-          "tag": "anime-3"
-        }
-      ],
-      "word": "\u6697\u6bba"
-    },
-    {
-      "count": 1,
-      "definitions": [
-        [
-          "\u3075\u305b\u3050",
-          "to defend (against); to protect; to prevent"
-        ]
-      ],
-      "example": {
-        "index": 133,
-        "parts": [
-          "\u91cc\u306e\u79d8\u5bc6\u304c\u6f0f\u308c\u308b\u306e\u3092\n",
-          "\u9632\u3050",
-          "\u305f\u3081\u306b\u306d\u3002"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        }
-      ],
-      "word": "\u9632\u3050"
-    },
-    {
-      "count": 1,
-      "definitions": [
-        [
-          "\u304a\u3082\u3066",
-          "face; surface; mask (esp. a noh or kyogen mask)"
-        ],
-        [
-          "\u3064\u3089",
-          "face; mug; surface; surrounding area; cheek; cheeks"
-        ],
-        [
-          "\u3081\u3093",
-          "face; mask; face guard; (in kendo) striking the head; surface (esp. a geometrical surface); page; aspect; facet; side; chamfer; counter for broad, flat objects, levels or stages, e.g. in a video game"
-        ],
-        [
-          "\u3065\u3089",
-          "looking like a ...; acting as if a ...."
-        ]
-      ],
-      "example": {
-        "index": 116,
-        "parts": [
-          "\u78ba\u304b\u3000\u305d\u306e",
-          "\u9762",
-          "\u2026\u2192"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        }
-      ],
-      "word": "\u9762"
-    },
-    {
-      "count": 1,
       "definitions": [
         [
           "\u305f\u305f\u304b\u3044",
@@ -7164,6 +7298,7 @@
           "\u3082\n\u3072\u3068\u307e\u305a\u3053\u3053\u3067\u3000\u7d42\u308f\u308a\u3067\u3057\u3087\u3046\u3002"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Among the JLPT-like Anime 1 list",
@@ -7174,32 +7309,6 @@
       "word": "\u95d8\u3044"
     },
     {
-      "count": 1,
-      "definitions": [
-        [
-          "\u3046\u307e\u308c",
-          "birth; birthplace; born in (country, month, imperial era, zodiac year, etc.)"
-        ]
-      ],
-      "example": {
-        "index": 123,
-        "parts": [
-          "\uff08\u30b5\u30af\u30e9\uff09\u306a\u3093\u3089\u304b\u306e\u7406\u7531\u3067\n",
-          "\u751f\u307e\u308c",
-          "\u80b2\u3063\u305f\u91cc\u306b\u5203\u5411\u304b\u3044\u2192"
-        ]
-      },
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        }
-      ],
-      "word": "\u751f\u307e\u308c"
-    },
-    {
-      "count": 1,
       "definitions": [
         [
           "\u3070\u3051\u308b",
@@ -7218,6 +7327,7 @@
           "\u306e\u3092\u2192"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 1 list",
@@ -7228,7 +7338,6 @@
       "word": "\u5316\u3051\u308b"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u3058\u3087\u3046\u3057\u304d",
@@ -7243,6 +7352,7 @@
           "\u3067\u3057\u3087\u3002\n\u3082\u3063\u3068\u52c9\u5f37\u3057\u306a\u3055\u3044\u3088\uff01"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",
@@ -7253,7 +7363,6 @@
       "word": "\u5e38\u8b58"
     },
     {
-      "count": 1,
       "definitions": [
         [
           "\u304d\u304a\u304f",
@@ -7268,6 +7377,7 @@
           "\u3057\u2192"
         ]
       },
+      "known": false,
       "tags": [
         {
           "desc": "Appears in JLTP level 3 list",

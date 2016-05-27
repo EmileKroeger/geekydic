@@ -226,6 +226,18 @@ body, table, td, th {
   background-color: #eee;
 }
 
+.episode table.other {
+  border: 2px solid grey;
+}
+
+.episode table.other th {
+  background-color: grey;
+}
+
+.episode table.other .defrow_1 {
+  background-color: #eee;
+}
+
 
 
 .episode ul {
@@ -273,6 +285,10 @@ body, table, td, th {
 }
 
 .episodewordsbutton.all {
+  background-color: grey;
+}
+
+.episodewordsbutton.other {
   background-color: grey;
 }
 
