@@ -6,7 +6,7 @@
     <tr>
       <th>#</th>
       <th>Word</th>
-      <th>JLPT Level</th>
+      <th>Tags</th>
       <th>Definition(s)</th>
       <th>Example</th>
     </tr>
@@ -20,7 +20,10 @@
         {{entry.word}}
       </td>
       <td>
-        {{entry.jlpt}}
+        <div ng-repeat="tag in entry.tags"
+        ng-class="tag.kind" class="wordtag" title="{{tag.desc}}">
+          {{tag.tag}}
+        </div>
       </td>
       <td>
         <div ng-if="entry.definitions.length == 1">

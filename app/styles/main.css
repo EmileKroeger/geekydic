@@ -214,15 +214,15 @@ body, table, td, th {
   background-color: #efe;
 }
 
-.episode table.other {
+.episode table.all {
   border: 2px solid grey;
 }
 
-.episode table.other th {
+.episode table.all th {
   background-color: grey;
 }
 
-.episode table.other .defrow_1 {
+.episode table.all .defrow_1 {
   background-color: #eee;
 }
 
@@ -272,10 +272,74 @@ body, table, td, th {
   background-color: blue;
 }
 
-.episodewordsbutton.other {
+.episodewordsbutton.all {
   background-color: grey;
 }
 
 .episodetitle {
   text-align: center;
 }
+
+/* Word tags
+ */
+
+.wordtag {
+  background-color: grey;
+  color: white;
+  border-radius: 10px;
+  display: inline-block;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.wordtag.important {
+  background-color: #0d0;
+}
+
+.wordtag.episode {
+  background-color: blue;
+}
+
+.wordtag.jlpt-5 {
+  background-color: blue;
+}
+
+.wordtag.jlpt-4 {
+  background-color: #B6B6FF;
+}
+
+.wordtag.jlpt-3 {
+  background-color: #B6B6FF;
+}
+
+.wordtag.jlpt-2 {
+  background-color: #DBDBFF;
+}
+
+.wordtag.jlpt-1 {
+  background-color: #DBDBFF;
+}
+
+
+
+.wordtag.anime-5 {
+  background-color: #ED6DED;
+}
+
+.wordtag.anime-4 {
+  background-color: #F6B6F6;
+}
+
+.wordtag.anime-3 {
+  background-color: #F6B6F6;
+}
+
+.wordtag.anime-2 {
+  background-color: #FBDBFB;
+}
+
+.wordtag.anime-1 {
+  background-color: #FBDBFB;
+}
+
+

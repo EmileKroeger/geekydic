@@ -30,7 +30,7 @@ angular.module('geekydicApp')
       },
       {
         title: 'ALL',
-        key: 'other',
+        key: 'all',
       },
     ];
     
