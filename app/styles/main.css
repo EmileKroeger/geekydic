@@ -239,11 +239,17 @@ body, table, td, th {
 }
 
 
+.word {
+  text-align: center;
+}
+
+.word.known {
+  color: #bbb;
+}
 
 .episode ul {
   padding-left: 15px;
 }
-
 
 .reading {
   color: darkblue;
@@ -257,6 +263,10 @@ body, table, td, th {
 
 .example-highlight {
   color: blue;
+}
+
+.example.known {
+  color: #bbb;
 }
 
 .episodewordsbutton {
@@ -299,6 +309,10 @@ body, table, td, th {
 /* Word tags
  */
 
+.wordtags {
+  text-align: right;
+}
+
 .wordtag {
   background-color: grey;
   color: white;
@@ -306,6 +320,7 @@ body, table, td, th {
   display: inline-block;
   padding-left: 6px;
   padding-right: 6px;
+  margin: 3px;
 }
 
 .wordtag.important {
@@ -365,11 +380,5 @@ body, table, td, th {
   padding-left: 6px;
   padding-right: 6px;
   border: 1px solid #bbb;
-}
-
-.word.known {
-  color: #bbb;
-}
-.example.known {
-  color: #bbb;
+  margin: 3px;
 }

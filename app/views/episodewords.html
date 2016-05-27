@@ -4,27 +4,26 @@
 <div ng-if="vocabularyLists">
   <table ng-class="'{{listname}}'">
     <tr>
-      <th>Word</th>
       <th>Example</th>
-      <th>Tags</th>
+      <th>Word</th>
       <th>Definition(s)</th>
     </tr>
     <tr ng-repeat="entry in vocabularyLists[listname]"
       ng-class="'defrow_' + ($index % 2)"
       >
-      <td class="word" ng-class="{'known': entry.known}">
-        {{entry.word}}
-      </td>
       <td class="example" ng-class="{'known': entry.known}"
       >{{entry.example.parts[0]}}<span class="example-highlight"
       >{{entry.example.parts[1]}}</span>{{entry.example.parts[2]}}</td>
-      <td>
-        <div ng-repeat="tag in entry.tags"
-        ng-class="tag.kind" class="wordtag" title="{{tag.desc}}">
-          {{tag.tag}}
-        </div>
+      <td class="word" ng-class="{'known': entry.known}">
+        {{entry.word}}
       </td>
       <td>
+        <div class="wordtags">
+          <div ng-repeat="tag in entry.tags"
+               ng-class="tag.kind" class="wordtag" title="{{tag.desc}}">
+            {{tag.tag}}
+          </div>
+        </div>
         <div ng-if="entry.known" class="definitiontoggle"
           ng-click="toggleShowDefinition(entry);">
           <div ng-if="!entry.show">
