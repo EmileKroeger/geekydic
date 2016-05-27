@@ -21,15 +21,15 @@ angular.module('geekydicApp')
     };
     this.vocDomains = [
       {
-        title: 'Words to learn',
-        key: 'important',
-      },
-      {
-        title: 'Known words',
+        title: 'Known',
         key: 'known',
       },
       {
-        title: 'All words',
+        title: 'To Learn',
+        key: 'important',
+      },
+      {
+        title: 'ALL',
         key: 'other',
       },
     ];

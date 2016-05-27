@@ -18,11 +18,13 @@
   </span>
 <div>
 
+<div class="episodetitle">
 <h1>
   {{episodeInfo.KanjiTitle}}
 </h1>
 <div>
   {{episodeInfo.EnglishTitle}}
+</div>
 </div>
 
 <div>
@@ -37,6 +39,7 @@
   href="#/{{source}}/episode/{{episode}}/{{vocDomain.key}}"
   style="color:white">
     {{vocDomain.title}}
+    <div class="sublabel">{{vocabularyLists[vocDomain.key].length}} words</div>
 </a>
 </div>
 

@@ -2,8 +2,7 @@
 <episode-nav></episode-nav>
   
 <div ng-if="vocabularyLists">
-  <h2>{{vocDomain.title}} ({{vocabularyLists[listname].length}}) </h2>
-  <table>
+  <table ng-class="'{{listname}}'">
     <tr>
       <th>#</th>
       <th>Word</th>

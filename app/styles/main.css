@@ -170,9 +170,13 @@ body, table, td, th {
 }
 
 .episode table {
-  border: 2px solid blue;
   margin: 10px;
 }
+
+.TOTO {
+  border: 2px solid blue;
+}
+
 
 .episode td {
   margin: 3px;
@@ -180,15 +184,49 @@ body, table, td, th {
 }
 
 .episode th {
-  background-color: blue;
   color: white;
   margin: 3px;
   padding: 3px;
 }
 
-.defrow_1 {
+
+.episode table.known {
+  border: 2px solid blue;
+}
+
+.episode table.known th {
+  background-color: blue;
+}
+
+.episode table.known .defrow_1 {
   background-color: #eef;
 }
+
+.episode table.important {
+  border: 2px solid #0d0;
+}
+
+.episode table.important th {
+  background-color: #0d0;
+}
+
+.episode table.important .defrow_1 {
+  background-color: #efe;
+}
+
+.episode table.other {
+  border: 2px solid grey;
+}
+
+.episode table.other th {
+  background-color: grey;
+}
+
+.episode table.other .defrow_1 {
+  background-color: #eee;
+}
+
+
 
 .episode ul {
   padding-left: 15px;
@@ -211,10 +249,15 @@ body, table, td, th {
 
 .episodewordsbutton {
   display: inline-block;
-  height: 40px;
+  height: auto;
   border-radius: 10px;
   padding: 10px;
   margin: 3px;
+  text-align: center;
+}
+
+.sublabel {
+  font-size: 10px;
 }
 
 .episodewordsbutton.summary {
@@ -222,14 +265,17 @@ body, table, td, th {
 }
 
 .episodewordsbutton.important {
-  background-color: lightblue;
+  background-color: #0d0;
 }
 
 .episodewordsbutton.known {
-  background-color: lightgreen;
+  background-color: blue;
 }
 
 .episodewordsbutton.other {
-  background-color: orange;
+  background-color: grey;
 }
 
+.episodetitle {
+  text-align: center;
+}
