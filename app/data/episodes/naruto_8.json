@@ -82,14 +82,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u8003\u3048"
@@ -117,14 +117,14 @@
           "tag": "episode-5"
         },
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u8d85"
@@ -172,14 +172,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u518d"
@@ -207,14 +207,14 @@
           "tag": "episode-4"
         },
         {
-          "desc": "Appears in JLTP level 2 list",
-          "kind": "jlpt-2",
-          "tag": "jlpt-2"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 2 list",
+          "kind": "jlpt-2",
+          "tag": "jlpt-2"
         }
       ],
       "word": "\u72d9\u3046"
@@ -242,14 +242,14 @@
           "tag": "episode-5"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u5b88\u308b"
@@ -476,14 +476,14 @@
           "tag": "episode-2"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u8eab"
@@ -536,14 +536,14 @@
           "tag": "episode-6"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u8ca0\u3051"
@@ -775,14 +775,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u72b6\u6cc1"
@@ -818,14 +818,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u4e8b"
@@ -1007,14 +1007,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 2 list",
-          "kind": "jlpt-2",
-          "tag": "jlpt-2"
-        },
-        {
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Appears in JLTP level 2 list",
+          "kind": "jlpt-2",
+          "tag": "jlpt-2"
         }
       ],
       "word": "\u8d85\u3048\u308b"
@@ -1547,14 +1547,14 @@
           "tag": "episode-3"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u653b\u6483"
@@ -1635,14 +1635,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u6570"
@@ -1702,14 +1702,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u8cc7\u683c"
@@ -1979,14 +1979,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u540c\u58eb"
@@ -2048,14 +2048,14 @@
           "tag": "episode-1"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u899a\u609f"
@@ -2108,14 +2108,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u5b8c\u5168"
@@ -2143,14 +2143,14 @@
           "tag": "episode-3"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u5168\u54e1"
@@ -2198,14 +2198,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u5c11\u5e74"
@@ -2313,14 +2313,14 @@
           "tag": "episode-2"
         },
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u4efb\u52d9"
@@ -2348,14 +2348,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u9023\u308c"
@@ -2408,14 +2408,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u73fe\u308c"
@@ -2553,14 +2553,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u672c\u4f53"
@@ -2613,14 +2613,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u52d5\u304b\u3059"
@@ -2676,14 +2676,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u9803"
@@ -2824,14 +2824,14 @@
           "tag": "episode-6"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u7d76\u5bfe"
@@ -2879,14 +2879,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u5b58\u5728"
@@ -2964,14 +2964,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u4f5c\u6226"
@@ -3188,14 +3188,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 2 list",
-          "kind": "jlpt-2",
-          "tag": "jlpt-2"
-        },
-        {
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Appears in JLTP level 2 list",
+          "kind": "jlpt-2",
+          "tag": "jlpt-2"
         }
       ],
       "word": "\u66b4\u308c\u308b"
@@ -3372,14 +3372,14 @@
           "tag": "episode-6"
         },
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u52d5\u304d"
@@ -3624,14 +3624,14 @@
           "tag": "episode-0"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u8005"
@@ -3823,14 +3823,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u697d\u3057\u3080"
@@ -3922,14 +3922,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u5c3d\u304d\u308b"
@@ -3952,14 +3952,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u8131\u51fa"
@@ -4012,14 +4012,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u7d50\u5c40"
@@ -4183,14 +4183,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u5197\u8ac7"
@@ -4222,14 +4222,14 @@
           "tag": "episode-4"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u4ef2\u9593"
@@ -4457,14 +4457,14 @@
           "tag": "episode-0"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u672c\u5f53"
@@ -4533,14 +4533,14 @@
           "tag": "episode-0"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u69d8"
@@ -4563,14 +4563,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u56de"
@@ -4617,14 +4617,14 @@
           "tag": "episode-4"
         },
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u52a9\u3051"
@@ -4664,14 +4664,14 @@
           "tag": "episode-5"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u547d"
@@ -4703,14 +4703,14 @@
           "tag": "episode-1"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u5012\u3059"
@@ -4741,14 +4741,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u6b73"
@@ -4851,14 +4851,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u5168\u6ec5"
@@ -4922,14 +4922,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u8003\u3048"
@@ -4987,14 +4987,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u72b6\u6cc1"
@@ -5030,14 +5030,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u4e8b"
@@ -5133,14 +5133,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u6570"
@@ -5198,14 +5198,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u5b8c\u5168"
@@ -5233,14 +5233,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u9023\u308c"
@@ -5298,14 +5298,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u672c\u4f53"
@@ -5333,14 +5333,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u4f5c\u6226"
@@ -5428,14 +5428,14 @@
           "tag": "to learn"
         },
         {
-          "desc": "Appears in JLTP level 2 list",
-          "kind": "jlpt-2",
-          "tag": "jlpt-2"
-        },
-        {
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Appears in JLTP level 2 list",
+          "kind": "jlpt-2",
+          "tag": "jlpt-2"
         }
       ],
       "word": "\u66b4\u308c\u308b"
@@ -5580,14 +5580,14 @@
           "tag": "episode-5"
         },
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u8d85"
@@ -5615,14 +5615,14 @@
           "tag": "episode-4"
         },
         {
-          "desc": "Appears in JLTP level 2 list",
-          "kind": "jlpt-2",
-          "tag": "jlpt-2"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 2 list",
+          "kind": "jlpt-2",
+          "tag": "jlpt-2"
         }
       ],
       "word": "\u72d9\u3046"
@@ -5650,14 +5650,14 @@
           "tag": "episode-5"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u5b88\u308b"
@@ -5779,14 +5779,14 @@
           "tag": "episode-2"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u8eab"
@@ -5814,14 +5814,14 @@
           "tag": "episode-6"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u8ca0\u3051"
@@ -6294,14 +6294,14 @@
           "tag": "episode-3"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u653b\u6483"
@@ -6513,14 +6513,14 @@
           "tag": "episode-1"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u899a\u609f"
@@ -6573,14 +6573,14 @@
           "tag": "episode-3"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u5168\u54e1"
@@ -6663,14 +6663,14 @@
           "tag": "episode-2"
         },
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u4efb\u52d9"
@@ -6847,14 +6847,14 @@
           "tag": "episode-6"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u7d76\u5bfe"
@@ -7017,14 +7017,14 @@
           "tag": "episode-6"
         },
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u52d5\u304d"
@@ -7224,14 +7224,14 @@
           "tag": "episode-0"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u8005"
@@ -7473,14 +7473,14 @@
           "tag": "episode-4"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u4ef2\u9593"
@@ -7604,14 +7604,14 @@
           "tag": "episode-0"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u672c\u5f53"
@@ -7680,14 +7680,14 @@
           "tag": "episode-0"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u69d8"
@@ -7715,14 +7715,14 @@
           "tag": "episode-4"
         },
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u52a9\u3051"
@@ -7762,14 +7762,14 @@
           "tag": "episode-5"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u547d"
@@ -7801,14 +7801,14 @@
           "tag": "episode-1"
         },
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u5012\u3059"
@@ -7858,14 +7858,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u518d"
@@ -8086,14 +8086,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 2 list",
-          "kind": "jlpt-2",
-          "tag": "jlpt-2"
-        },
-        {
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Appears in JLTP level 2 list",
+          "kind": "jlpt-2",
+          "tag": "jlpt-2"
         }
       ],
       "word": "\u8d85\u3048\u308b"
@@ -8401,14 +8401,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u8cc7\u683c"
@@ -8560,14 +8560,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u540c\u58eb"
@@ -8590,14 +8590,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u5c11\u5e74"
@@ -8670,14 +8670,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u73fe\u308c"
@@ -8750,14 +8750,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u52d5\u304b\u3059"
@@ -8813,14 +8813,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u9803"
@@ -8922,14 +8922,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u5b58\u5728"
@@ -9210,14 +9210,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u697d\u3057\u3080"
@@ -9284,14 +9284,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u5c3d\u304d\u308b"
@@ -9314,14 +9314,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u8131\u51fa"
@@ -9344,14 +9344,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u7d50\u5c40"
@@ -9449,14 +9449,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u5197\u8ac7"
@@ -9583,14 +9583,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
         }
       ],
       "word": "\u56de"
@@ -9640,14 +9640,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u6b73"
@@ -9720,14 +9720,14 @@
       "known": false,
       "tags": [
         {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        },
-        {
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
         }
       ],
       "word": "\u5168\u6ec5"

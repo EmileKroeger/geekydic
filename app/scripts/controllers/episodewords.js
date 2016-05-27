@@ -29,4 +29,10 @@ angular.module('geekydicApp')
       sEpisodeData.getInfo($scope.source, $scope.episode, function(info) {
         $scope.episodeInfo = info;
       });
+      $scope.toggleShowDefinition = function(entry) {
+        entry.show = !entry.show;
+      }
+      $scope.shouldShowDefinition = function(entry) {
+        return (!entry.known) || entry.show;
+      }
   });

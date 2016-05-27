@@ -358,4 +358,18 @@ body, table, td, th {
   background-color: #FBDBFB;
 }
 
+.definitiontoggle {
+  color: #bbb;
+  border-radius: 10px;
+  display: inline-block;
+  padding-left: 6px;
+  padding-right: 6px;
+  border: 1px solid #bbb;
+}
 
+.word.known {
+  color: #bbb;
+}
+.example.known {
+  color: #bbb;
+}
