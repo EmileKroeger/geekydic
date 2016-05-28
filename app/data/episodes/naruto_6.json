@@ -518,6 +518,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u611f"
@@ -728,6 +733,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u624b\u4f1d"
@@ -852,6 +862,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u304a\u524d"
@@ -872,7 +887,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
+        }
+      ],
       "word": "\u65b0\u7c73"
     },
     {
@@ -925,6 +946,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u521d\u3081"
@@ -1132,6 +1158,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 1 Kanji",
+          "kind": "jlpt-1",
+          "tag": "~jlpt-1"
         }
       ],
       "word": "\u91cc"
@@ -1182,6 +1213,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u591a\u304f"
@@ -1277,6 +1313,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u5206\u3051"
@@ -1395,7 +1436,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
+        }
+      ],
       "word": "\u4e0a\u5c64"
     },
     {
@@ -1596,6 +1643,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u4e3b"
@@ -1768,6 +1820,11 @@
           "desc": "Among the JLPT-like Anime 2 list",
           "kind": "anime-2",
           "tag": "anime-2"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u8aac\u6559"
@@ -1793,6 +1850,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 1 Kanji",
+          "kind": "jlpt-1",
+          "tag": "~jlpt-1"
         }
       ],
       "word": "\u5c0f\u50e7"
@@ -2069,7 +2131,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
+        }
+      ],
       "word": "\u3076\u3063\u6bba\u3059"
     },
     {
@@ -2093,6 +2161,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u6bba\u3057"
@@ -2424,6 +2497,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u51fa"
@@ -2478,6 +2556,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u6700\u60aa"
@@ -2671,6 +2754,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u601d\u3048\u308b"
@@ -2761,6 +2849,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u8a8d\u3081"
@@ -2904,6 +2997,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u96a0\u308c"
@@ -3076,7 +3174,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
+        }
+      ],
       "word": "\u4ed6\u56fd"
     },
     {
@@ -3301,6 +3405,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u53d7\u3051"
@@ -3326,6 +3435,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u5c0f\u3055"
@@ -3564,6 +3678,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u5927\u304d\u304f"
@@ -3584,7 +3703,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
+        }
+      ],
       "word": "\u7d76\u5927"
     },
     {
@@ -3729,6 +3854,11 @@
           "desc": "Among the JLPT-like Anime 1 list",
           "kind": "anime-1",
           "tag": "anime-1"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u5168\u4e16\u754c"
@@ -3754,6 +3884,11 @@
           "desc": "Among the JLPT-like Anime 1 list",
           "kind": "anime-1",
           "tag": "anime-1"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 2 Kanji",
+          "kind": "jlpt-2",
+          "tag": "~jlpt-2"
         }
       ],
       "word": "\u5404\u56fd"
@@ -3858,6 +3993,11 @@
           "desc": "Among the JLPT-like Anime 2 list",
           "kind": "anime-2",
           "tag": "anime-2"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 2 Kanji",
+          "kind": "jlpt-2",
+          "tag": "~jlpt-2"
         }
       ],
       "word": "\u541b\u81e8"
@@ -3997,6 +4137,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u751f\u304d"
@@ -4022,6 +4167,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u5909\u308f\u308a"
@@ -4176,6 +4326,11 @@
           "desc": "Among the JLPT-like Anime 2 list",
           "kind": "anime-2",
           "tag": "anime-2"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u5b9f\u6226"
@@ -4303,6 +4458,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u4ed8\u3051"
@@ -4425,6 +4585,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u65e9\u304f"
@@ -4455,6 +4620,11 @@
           "desc": "Among the JLPT-like Anime 1 list",
           "kind": "anime-1",
           "tag": "anime-1"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u50b7\u53e3"
@@ -4509,6 +4679,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u304a\u8a71"
@@ -4657,6 +4832,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u6211"
@@ -4712,6 +4892,11 @@
           "desc": "Among the JLPT-like Anime 1 list",
           "kind": "anime-1",
           "tag": "anime-1"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u6570\u65e5"
@@ -4911,7 +5096,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
+        }
+      ],
       "word": "\u77ac\u6bba"
     },
     {
@@ -5253,6 +5444,11 @@
           "desc": "Among the JLPT-like Anime 2 list",
           "kind": "anime-2",
           "tag": "anime-2"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u652f\u63f4"
@@ -5273,7 +5469,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
+        }
+      ],
       "word": "\u540d\u76ee"
     },
     {
@@ -5292,7 +5494,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
+        }
+      ],
       "word": "\u9ad8\u984d"
     },
     {
@@ -5627,6 +5835,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u8853"
@@ -5652,6 +5865,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u7279\u8a13"
@@ -5681,6 +5899,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u4e8c\u5ea6"
@@ -5740,6 +5963,11 @@
           "desc": "Among the JLPT-like Anime 2 list",
           "kind": "anime-2",
           "tag": "anime-2"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u5de6\u624b"
@@ -5850,6 +6078,11 @@
           "desc": "Among the JLPT-like Anime 2 list",
           "kind": "anime-2",
           "tag": "anime-2"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u7d9a\u884c"
@@ -5958,6 +6191,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u6b62\u3081"
@@ -6028,7 +6266,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
+        }
+      ],
       "word": "\u6cbb\u308a"
     },
     {
@@ -6124,6 +6368,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u51fa\u3057"
@@ -6154,6 +6403,11 @@
           "desc": "Among the JLPT-like Anime 2 list",
           "kind": "anime-2",
           "tag": "anime-2"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 2 Kanji",
+          "kind": "jlpt-2",
+          "tag": "~jlpt-2"
         }
       ],
       "word": "\u65ac"
@@ -6204,6 +6458,11 @@
           "desc": "Among the JLPT-like Anime 1 list",
           "kind": "anime-1",
           "tag": "anime-1"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u5305\u4e01"
@@ -6511,6 +6770,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u5206\u3051"
@@ -6884,6 +7148,11 @@
           "desc": "Among the JLPT-like Anime 1 list",
           "kind": "anime-1",
           "tag": "anime-1"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u50b7\u53e3"
@@ -6922,6 +7191,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u6211"
@@ -7017,6 +7291,11 @@
           "desc": "Among the JLPT-like Anime 2 list",
           "kind": "anime-2",
           "tag": "anime-2"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 2 Kanji",
+          "kind": "jlpt-2",
+          "tag": "~jlpt-2"
         }
       ],
       "word": "\u65ac"
@@ -7422,6 +7701,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u304a\u524d"
@@ -7604,6 +7888,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 1 Kanji",
+          "kind": "jlpt-1",
+          "tag": "~jlpt-1"
         }
       ],
       "word": "\u91cc"
@@ -8034,6 +8323,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u51fa"
@@ -8206,6 +8500,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u8a8d\u3081"
@@ -8838,6 +9137,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u65e9\u304f"
@@ -9325,6 +9629,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u8853"
@@ -9691,6 +10000,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u611f"
@@ -9736,6 +10050,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u624b\u4f1d"
@@ -9790,7 +10109,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
+        }
+      ],
       "word": "\u65b0\u7c73"
     },
     {
@@ -9818,6 +10143,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u521d\u3081"
@@ -9893,6 +10223,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u591a\u304f"
@@ -9972,7 +10307,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
+        }
+      ],
       "word": "\u4e0a\u5c64"
     },
     {
@@ -10143,6 +10484,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u4e3b"
@@ -10193,6 +10539,11 @@
           "desc": "Among the JLPT-like Anime 2 list",
           "kind": "anime-2",
           "tag": "anime-2"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u8aac\u6559"
@@ -10218,6 +10569,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 1 Kanji",
+          "kind": "jlpt-1",
+          "tag": "~jlpt-1"
         }
       ],
       "word": "\u5c0f\u50e7"
@@ -10350,7 +10706,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
+        }
+      ],
       "word": "\u3076\u3063\u6bba\u3059"
     },
     {
@@ -10374,6 +10736,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u6bba\u3057"
@@ -10454,6 +10821,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u6700\u60aa"
@@ -10534,6 +10906,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u601d\u3048\u308b"
@@ -10639,6 +11016,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u96a0\u308c"
@@ -10739,7 +11121,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
+        }
+      ],
       "word": "\u4ed6\u56fd"
     },
     {
@@ -10893,6 +11281,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u53d7\u3051"
@@ -10918,6 +11311,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u5c0f\u3055"
@@ -11026,6 +11424,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u5927\u304d\u304f"
@@ -11046,7 +11449,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
+        }
+      ],
       "word": "\u7d76\u5927"
     },
     {
@@ -11166,6 +11575,11 @@
           "desc": "Among the JLPT-like Anime 1 list",
           "kind": "anime-1",
           "tag": "anime-1"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u5168\u4e16\u754c"
@@ -11191,6 +11605,11 @@
           "desc": "Among the JLPT-like Anime 1 list",
           "kind": "anime-1",
           "tag": "anime-1"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 2 Kanji",
+          "kind": "jlpt-2",
+          "tag": "~jlpt-2"
         }
       ],
       "word": "\u5404\u56fd"
@@ -11241,6 +11660,11 @@
           "desc": "Among the JLPT-like Anime 2 list",
           "kind": "anime-2",
           "tag": "anime-2"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 2 Kanji",
+          "kind": "jlpt-2",
+          "tag": "~jlpt-2"
         }
       ],
       "word": "\u541b\u81e8"
@@ -11326,6 +11750,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u751f\u304d"
@@ -11351,6 +11780,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u5909\u308f\u308a"
@@ -11376,6 +11810,11 @@
           "desc": "Among the JLPT-like Anime 2 list",
           "kind": "anime-2",
           "tag": "anime-2"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u5b9f\u6226"
@@ -11439,6 +11878,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u4ed8\u3051"
@@ -11514,6 +11958,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u304a\u8a71"
@@ -11679,6 +12128,11 @@
           "desc": "Among the JLPT-like Anime 1 list",
           "kind": "anime-1",
           "tag": "anime-1"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u6570\u65e5"
@@ -11732,7 +12186,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
+        }
+      ],
       "word": "\u77ac\u6bba"
     },
     {
@@ -11955,6 +12415,11 @@
           "desc": "Among the JLPT-like Anime 2 list",
           "kind": "anime-2",
           "tag": "anime-2"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u652f\u63f4"
@@ -11975,7 +12440,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
+        }
+      ],
       "word": "\u540d\u76ee"
     },
     {
@@ -11994,7 +12465,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
+        }
+      ],
       "word": "\u9ad8\u984d"
     },
     {
@@ -12161,6 +12638,11 @@
           "desc": "Among the JLPT-like Anime 3 list",
           "kind": "anime-3",
           "tag": "anime-3"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
         }
       ],
       "word": "\u7279\u8a13"
@@ -12190,6 +12672,11 @@
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
           "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u4e8c\u5ea6"
@@ -12249,6 +12736,11 @@
           "desc": "Among the JLPT-like Anime 2 list",
           "kind": "anime-2",
           "tag": "anime-2"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u5de6\u624b"
@@ -12324,6 +12816,11 @@
           "desc": "Among the JLPT-like Anime 2 list",
           "kind": "anime-2",
           "tag": "anime-2"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u7d9a\u884c"
@@ -12432,6 +12929,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u6b62\u3081"
@@ -12477,7 +12979,13 @@
         ]
       },
       "known": false,
-      "tags": [],
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
+        }
+      ],
       "word": "\u6cbb\u308a"
     },
     {
@@ -12543,6 +13051,11 @@
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
         }
       ],
       "word": "\u51fa\u3057"
@@ -12593,6 +13106,11 @@
           "desc": "Among the JLPT-like Anime 1 list",
           "kind": "anime-1",
           "tag": "anime-1"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 4 Kanji",
+          "kind": "jlpt-4",
+          "tag": "~jlpt-4"
         }
       ],
       "word": "\u5305\u4e01"
