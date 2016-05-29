@@ -1,52 +1,52 @@
 {
   "0": {
     "known": 59,
-    "new": 20,
-    "other": 185
+    "other": 185,
+    "tolearn": 20
   },
   "1": {
     "known": 62,
-    "new": 20,
-    "other": 172
+    "other": 172,
+    "tolearn": 20
   },
   "2": {
     "known": 57,
-    "new": 20,
-    "other": 128
+    "other": 128,
+    "tolearn": 20
   },
   "3": {
     "known": 86,
-    "new": 20,
-    "other": 168
+    "other": 168,
+    "tolearn": 20
   },
   "4": {
     "known": 82,
-    "new": 20,
-    "other": 131
+    "other": 131,
+    "tolearn": 20
   },
   "5": {
     "known": 82,
-    "new": 20,
-    "other": 195
+    "other": 195,
+    "tolearn": 20
   },
   "6": {
     "known": 85,
-    "new": 20,
-    "other": 173
+    "other": 173,
+    "tolearn": 20
   },
   "7": {
     "known": 78,
-    "new": 20,
-    "other": 134
+    "other": 134,
+    "tolearn": 20
   },
   "8": {
     "known": 69,
-    "new": 20,
-    "other": 82
+    "other": 82,
+    "tolearn": 20
   },
   "9": {
     "known": 125,
-    "new": 20,
-    "other": 217
+    "other": 217,
+    "tolearn": 20
   }
 }

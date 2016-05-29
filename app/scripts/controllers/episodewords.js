@@ -31,8 +31,8 @@ angular.module('geekydicApp')
       });
       $scope.toggleShowDefinition = function(entry) {
         entry.show = !entry.show;
-      }
+      };
       $scope.shouldShowDefinition = function(entry) {
         return (!entry.known) || entry.show;
-      }
+      };
   });

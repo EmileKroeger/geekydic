@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td ng-repeat="(ep, stats) in learningStats">
-      <div ng-repeat="key in ['known', 'new', 'other']"
+      <div ng-repeat="key in ['known', 'tolearn', 'other']"
         ng-class="'stat-' + key" class="learningstat"
         ng-style="{height: stats[key]}">
         {{stats[key]}} words

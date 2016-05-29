@@ -202,15 +202,15 @@ body, table, td, th {
   background-color: #eef;
 }
 
-.episode table.important {
+.episode table.tolearn {
   border: 2px solid #0d0;
 }
 
-.episode table.important th {
+.episode table.tolearn th {
   background-color: #0d0;
 }
 
-.episode table.important .defrow_1 {
+.episode table.tolearn .defrow_1 {
   background-color: #efe;
 }
 
@@ -286,7 +286,7 @@ body, table, td, th {
   background-color: black;
 }
 
-.episodewordsbutton.important {
+.episodewordsbutton.tolearn {
   background-color: #0d0;
 }
 
@@ -323,7 +323,7 @@ body, table, td, th {
   margin: 3px;
 }
 
-.wordtag.important {
+.wordtag.tolearn {
   background-color: #0d0;
 }
 
@@ -392,7 +392,7 @@ body, table, td, th {
   background-color: blue;
 }
 
-.learningstat.stat-new {
+.learningstat.stat-tolearn {
   background-color: #0d0;
 }
 

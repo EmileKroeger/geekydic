@@ -32,7 +32,7 @@ angular.module('geekydicApp')
       },
       {
         title: 'To Learn',
-        key: 'important',
+        key: 'tolearn',
       },
       {
         title: 'ALL',
