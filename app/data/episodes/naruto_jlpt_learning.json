@@ -1,0 +1,285 @@
+{
+  "1": {
+    "0": {
+      "other": 90,
+      "tolearn": 14
+    },
+    "1": {
+      "other": 17,
+      "tolearn": 1
+    },
+    "2": {
+      "other": 7
+    },
+    "3": {
+      "other": 34,
+      "tolearn": 10
+    },
+    "4": {
+      "other": 17,
+      "tolearn": 15
+    },
+    "5": {
+      "known": 59
+    }
+  },
+  "2": {
+    "0": {
+      "known": 14,
+      "other": 88,
+      "tolearn": 12
+    },
+    "1": {
+      "known": 1,
+      "other": 18,
+      "tolearn": 2
+    },
+    "2": {
+      "other": 7,
+      "tolearn": 1
+    },
+    "3": {
+      "known": 8,
+      "other": 30,
+      "tolearn": 8
+    },
+    "4": {
+      "known": 4,
+      "tolearn": 17
+    },
+    "5": {
+      "known": 44
+    }
+  },
+  "3": {
+    "0": {
+      "known": 12,
+      "other": 64,
+      "tolearn": 3
+    },
+    "1": {
+      "known": 1,
+      "other": 9,
+      "tolearn": 4
+    },
+    "2": {
+      "known": 1,
+      "other": 7
+    },
+    "3": {
+      "known": 7,
+      "other": 15,
+      "tolearn": 12
+    },
+    "4": {
+      "known": 11,
+      "tolearn": 21
+    },
+    "5": {
+      "known": 38
+    }
+  },
+  "4": {
+    "0": {
+      "known": 14,
+      "other": 86,
+      "tolearn": 10
+    },
+    "1": {
+      "known": 5,
+      "other": 17,
+      "tolearn": 5
+    },
+    "2": {
+      "known": 1,
+      "other": 9,
+      "tolearn": 1
+    },
+    "3": {
+      "known": 16,
+      "other": 20,
+      "tolearn": 17
+    },
+    "4": {
+      "known": 19,
+      "tolearn": 7
+    },
+    "5": {
+      "known": 47
+    }
+  },
+  "5": {
+    "0": {
+      "known": 17,
+      "other": 60,
+      "tolearn": 4
+    },
+    "1": {
+      "known": 4,
+      "other": 13,
+      "tolearn": 6
+    },
+    "2": {
+      "known": 1,
+      "other": 4,
+      "tolearn": 3
+    },
+    "3": {
+      "known": 14,
+      "other": 18,
+      "tolearn": 13
+    },
+    "4": {
+      "known": 20,
+      "tolearn": 14
+    },
+    "5": {
+      "known": 42
+    }
+  },
+  "6": {
+    "0": {
+      "known": 16,
+      "other": 97,
+      "tolearn": 8
+    },
+    "1": {
+      "known": 5,
+      "other": 32,
+      "tolearn": 4
+    },
+    "2": {
+      "known": 2,
+      "other": 5,
+      "tolearn": 1
+    },
+    "3": {
+      "known": 12,
+      "other": 27,
+      "tolearn": 16
+    },
+    "4": {
+      "known": 16,
+      "tolearn": 11
+    },
+    "5": {
+      "known": 45
+    }
+  },
+  "7": {
+    "0": {
+      "known": 13,
+      "other": 96,
+      "tolearn": 9
+    },
+    "1": {
+      "known": 4,
+      "other": 24,
+      "tolearn": 4
+    },
+    "2": {
+      "known": 1,
+      "other": 4,
+      "tolearn": 3
+    },
+    "3": {
+      "known": 22,
+      "other": 16,
+      "tolearn": 10
+    },
+    "4": {
+      "known": 19,
+      "tolearn": 8
+    },
+    "5": {
+      "known": 45
+    }
+  },
+  "8": {
+    "0": {
+      "known": 17,
+      "other": 75,
+      "tolearn": 7
+    },
+    "1": {
+      "known": 5,
+      "other": 15,
+      "tolearn": 3
+    },
+    "2": {
+      "known": 2,
+      "other": 10,
+      "tolearn": 2
+    },
+    "3": {
+      "known": 21,
+      "other": 9,
+      "tolearn": 15
+    },
+    "4": {
+      "known": 14,
+      "tolearn": 5
+    },
+    "5": {
+      "known": 32
+    }
+  },
+  "9": {
+    "0": {
+      "known": 19,
+      "other": 45,
+      "tolearn": 8
+    },
+    "1": {
+      "known": 7,
+      "other": 5,
+      "tolearn": 1
+    },
+    "2": {
+      "known": 3,
+      "other": 4,
+      "tolearn": 1
+    },
+    "3": {
+      "known": 20,
+      "other": 8,
+      "tolearn": 8
+    },
+    "4": {
+      "known": 10,
+      "tolearn": 7
+    },
+    "5": {
+      "known": 25
+    }
+  },
+  "10": {
+    "0": {
+      "known": 30,
+      "other": 94,
+      "tolearn": 13
+    },
+    "1": {
+      "known": 10,
+      "other": 19,
+      "tolearn": 3
+    },
+    "2": {
+      "known": 3,
+      "other": 17,
+      "tolearn": 1
+    },
+    "3": {
+      "known": 36,
+      "other": 32,
+      "tolearn": 15
+    },
+    "4": {
+      "known": 26,
+      "tolearn": 8
+    },
+    "5": {
+      "known": 55
+    }
+  }
+}

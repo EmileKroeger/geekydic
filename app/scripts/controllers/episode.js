@@ -25,6 +25,12 @@ angular.module('geekydicApp')
         callback(learningStats);
       });
     };
+    this.getJlptLearningStats = function(source, callback) {
+      var dataFile = 'data/episodes/' + source + '_jlpt_learning.json';
+      sDataCache.get(dataFile, function(jlptLearningStats) {
+        callback(jlptLearningStats);
+      });
+    };
     this.vocDomains = [
       {
         title: 'Known',

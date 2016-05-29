@@ -1,0 +1,53 @@
+
+<h1>{{source}}</h1>
+
+<h2>Episodes</h2>
+
+<span ng-repeat="episode in episodes">
+  <a href="#/{{source}}/episode/{{episode}}">[{{episode}}]</a>, 
+</span>
+
+<h2>Learning Stats</h2>
+
+<table class="statstable">
+  <tr>
+    <td ng-repeat="(ep, stats) in learningStats">
+      {{ep}}
+    </td>
+  </tr>
+  <tr>
+    <td ng-repeat="(ep, stats) in learningStats">
+      <div ng-repeat="key in ['known', 'tolearn', 'other']"
+        ng-class="'stat-' + key" class="learningstat"
+        ng-style="{height: stats[key]}">
+        {{stats[key]}} words
+      </div>
+    </td>
+  </tr>
+</table>
+
+<h2>JLPT Learning Stats</h2>
+
+<table class="statstable">
+  <tr>
+    <td ng-repeat="(ep, stats) in jlptLearningStats">
+      {{ep}}
+    </td>
+  </tr>
+  <tr>
+    <td ng-repeat="(ep, stats) in jlptLearningStats">
+      <div ng-repeat="jlpt in [5, 4, 3, 2, 1, 0]">
+        {{jlpt}}
+        <span ng-repeat="key in ['known', 'tolearn', 'other']"
+          ng-class="'stat-' + key" class="learningstat"
+          style="display: inline-block;"
+          ng-style="{width: stats[jlpt][key], height: '20px'}">
+          
+          <!--
+          {{stats[jlpt][key]}}
+            -->
+        </span>
+      </div>
+    </td>
+  </tr>
+</table>
