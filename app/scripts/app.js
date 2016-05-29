@@ -31,6 +31,10 @@ angular
         templateUrl: 'views/episode.html',
         controller: 'EpisodeCtrl'
       })
+      .when('/:source/stats', {
+        templateUrl: 'views/serie.html',
+        controller: 'SerieCtrl'
+      })
       .when('/:source/:page', {
         templateUrl: 'views/wordlist.html',
         controller: 'WordlistCtrl',

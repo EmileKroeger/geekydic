@@ -58,9 +58,4 @@ angular.module('geekydicApp')
     sEpisodeData.getInfo($scope.source, $scope.episode, function(info) {
       $scope.episodeInfo = info;
     });
-    // Todo: move this to a macro summary
-    sEpisodeData.getLearningStats($scope.source, function(learningStats) {
-      console.debug(learningStats);
-      $scope.learningStats = learningStats;
-    });
   });

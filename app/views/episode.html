@@ -14,24 +14,3 @@
     </td>
   </tr>
 </table>
-
-<h2>Learning Stats</h2>
-
-<table class="statstable">
-  <tr>
-    <td ng-repeat="(ep, stats) in learningStats">
-      {{ep}}
-    </td>
-  </tr>
-  <tr>
-    <td ng-repeat="(ep, stats) in learningStats">
-      <div ng-repeat="key in ['known', 'tolearn', 'other']"
-        ng-class="'stat-' + key" class="learningstat"
-        ng-style="{height: stats[key]}">
-        {{stats[key]}} words
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
