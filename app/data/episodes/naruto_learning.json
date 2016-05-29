@@ -1,52 +1,52 @@
 {
   "0": {
-    "known": 52,
+    "known": 59,
+    "new": 20,
+    "other": 185
+  },
+  "1": {
+    "known": 62,
+    "new": 20,
+    "other": 172
+  },
+  "2": {
+    "known": 57,
     "new": 20,
     "other": 128
   },
-  "1": {
-    "known": 57,
-    "new": 20,
-    "other": 119
-  },
-  "2": {
-    "known": 52,
-    "new": 20,
-    "other": 81
-  },
   "3": {
-    "known": 83,
+    "known": 86,
     "new": 20,
-    "other": 107
+    "other": 168
   },
   "4": {
-    "known": 80,
+    "known": 82,
     "new": 20,
-    "other": 85
+    "other": 131
   },
   "5": {
-    "known": 81,
+    "known": 82,
     "new": 20,
-    "other": 117
+    "other": 195
   },
   "6": {
-    "known": 84,
+    "known": 85,
     "new": 20,
-    "other": 95
+    "other": 173
   },
   "7": {
-    "known": 72,
+    "known": 78,
     "new": 20,
-    "other": 72
+    "other": 134
   },
   "8": {
-    "known": 66,
+    "known": 69,
     "new": 20,
-    "other": 37
+    "other": 82
   },
   "9": {
-    "known": 118,
+    "known": 125,
     "new": 20,
-    "other": 133
+    "other": 217
   }
 }
