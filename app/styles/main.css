@@ -382,3 +382,25 @@ body, table, td, th {
   border: 1px solid #bbb;
   margin: 3px;
 }
+
+
+.learningstat {
+  color: white;
+}
+
+.learningstat.stat-known {
+  background-color: blue;
+}
+
+.learningstat.stat-new {
+  background-color: #0d0;
+}
+
+.learningstat.stat-other {
+  background-color: grey;
+}
+
+
+.statstable td {
+  vertical-align: top;
+} 

@@ -19,6 +19,12 @@ angular.module('geekydicApp')
         callback(episodesInfo[episode]);
       });
     };
+    this.getLearningStats = function(source, callback) {
+      var dataFile = 'data/episodes/' + source + '_learning.json';
+      sDataCache.get(dataFile, function(learningStats) {
+        callback(learningStats);
+      });
+    };
     this.vocDomains = [
       {
         title: 'Known',
@@ -51,5 +57,10 @@ angular.module('geekydicApp')
     });
     sEpisodeData.getInfo($scope.source, $scope.episode, function(info) {
       $scope.episodeInfo = info;
+    });
+    // Todo: move this to a macro summary
+    sEpisodeData.getLearningStats($scope.source, function(learningStats) {
+      console.debug(learningStats);
+      $scope.learningStats = learningStats;
     });
   });

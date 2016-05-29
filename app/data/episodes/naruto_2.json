@@ -304,6 +304,11 @@
       "known": false,
       "tags": [
         {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
           "desc": "Appears in JLTP level 4 list",
           "kind": "jlpt-4",
           "tag": "jlpt-4"
@@ -2668,6 +2673,11 @@
       "known": false,
       "tags": [
         {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
           "desc": "Appears in JLTP level 3 list",
           "kind": "jlpt-3",
           "tag": "jlpt-3"
@@ -3374,11 +3384,6 @@
       "known": false,
       "tags": [
         {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
@@ -3775,11 +3780,6 @@
       },
       "known": false,
       "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
         {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
@@ -5901,6 +5901,44 @@
     {
       "definitions": [
         [
+          "\u3072",
+          "day; days; sun; sunshine; sunlight; case (esp. unfortunate); event"
+        ],
+        [
+          "\u306b\u3061",
+          "Sunday; day (of the month); counter for days; Japan"
+        ],
+        [
+          "\u304b",
+          "day of month; counter for days"
+        ]
+      ],
+      "example": {
+        "index": 15,
+        "parts": [
+          "\u8aac\u660e\u4f1a\u306e",
+          "\u65e5",
+          "\u307e\u3067\u3000\u3064\u3051\u306d\u3048\u306e\n\u50b7\u3064\u304f\u304b\u3089\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u65e5"
+    },
+    {
+      "definitions": [
+        [
           "\u3057\u3087\u3046\u3076",
           "victory or defeat; match; contest; game; bout"
         ]
@@ -6235,6 +6273,36 @@
     {
       "definitions": [
         [
+          "\u3069\u308a\u3087\u304f",
+          "great effort; exertion; endeavour; endeavor; effort"
+        ]
+      ],
+      "example": {
+        "index": 112,
+        "parts": [
+          "",
+          "\u52aa\u529b",
+          "\u3068\u6839\u6027\u3060\uff01\n\u52aa\u529b\u3068\u6839\u6027\u304b\u3000\u30b3\u30ec\uff01"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        }
+      ],
+      "word": "\u52aa\u529b"
+    },
+    {
+      "definitions": [
+        [
           "\u304b\u304f\u3054",
           "resolution; resignation; readiness; preparedness"
         ]
@@ -6296,80 +6364,6 @@
         }
       ],
       "word": "\u57fa\u672c"
-    },
-    {
-      "definitions": [
-        [
-          "\u3067",
-          "coming out; going out; outflow; efflux; rising (of the sun or moon); attending (work); appearing (on stage); one's turn to go on; start; beginning; origins; background; person (or item) originating from ...; graduate of ...; native of ...; member of ... (lineage); architectural member that projects outward; highest point of the stern of a ship; amount (comprising something); amount of time or effort required to do something"
-        ],
-        [
-          "\u3057\u3085\u3064",
-          "coming out; emerging; being born into (a certain family); being a native of (a particular place)"
-        ]
-      ],
-      "example": {
-        "index": 141,
-        "parts": [
-          "\u3053\u3093\u306a\u3093",
-          "\u51fa",
-          "\u307e\u3057\u305f\u3051\u3069\uff1f"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        },
-        {
-          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
-          "kind": "jlpt-5",
-          "tag": "~jlpt-5"
-        }
-      ],
-      "word": "\u51fa"
-    },
-    {
-      "definitions": [
-        [
-          "\u307f\u308b",
-          "to see; to look; to watch; to view; to observe; to look over; to look on; to assess; to examine; to judge; to look after; to keep an eye on; to take care of; to view (e.g. flowers, movie); to try; to try out; to test; to see that...; to find that..."
-        ]
-      ],
-      "example": {
-        "index": 158,
-        "parts": [
-          "\u307f\u3093\u306a\u3000\u30aa\u30ec\u3092",
-          "\u898b\u308b",
-          "\u3068\u304d\u3084\n\u30aa\u30ec\u3092\u547c\u3076\u3068\u304d\u2192"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        },
-        {
-          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
-          "kind": "jlpt-5",
-          "tag": "~jlpt-5"
-        }
-      ],
-      "word": "\u898b\u308b"
     },
     {
       "definitions": [
@@ -8315,39 +8309,6 @@
     {
       "definitions": [
         [
-          "\u3072",
-          "day; days; sun; sunshine; sunlight; case (esp. unfortunate); event"
-        ],
-        [
-          "\u306b\u3061",
-          "Sunday; day (of the month); counter for days; Japan"
-        ],
-        [
-          "\u304b",
-          "day of month; counter for days"
-        ]
-      ],
-      "example": {
-        "index": 15,
-        "parts": [
-          "\u8aac\u660e\u4f1a\u306e",
-          "\u65e5",
-          "\u307e\u3067\u3000\u3064\u3051\u306d\u3048\u306e\n\u50b7\u3064\u304f\u304b\u3089\u3002"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u65e5"
-    },
-    {
-      "definitions": [
-        [
           "\u304d\u305a\u3064\u304f",
           "to be wounded; to get injured; to get hurt feelings; to chip; to scratch; to damage"
         ]
@@ -9454,31 +9415,6 @@
     {
       "definitions": [
         [
-          "\u3069\u308a\u3087\u304f",
-          "great effort; exertion; endeavour; endeavor; effort"
-        ]
-      ],
-      "example": {
-        "index": 112,
-        "parts": [
-          "",
-          "\u52aa\u529b",
-          "\u3068\u6839\u6027\u3060\uff01\n\u52aa\u529b\u3068\u6839\u6027\u304b\u3000\u30b3\u30ec\uff01"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        }
-      ],
-      "word": "\u52aa\u529b"
-    },
-    {
-      "definitions": [
-        [
           "\u3053\u3093\u3058\u3087\u3046",
           "will-power; guts; temper; nature; spirit"
         ]
@@ -9995,6 +9931,40 @@
     {
       "definitions": [
         [
+          "\u3067",
+          "coming out; going out; outflow; efflux; rising (of the sun or moon); attending (work); appearing (on stage); one's turn to go on; start; beginning; origins; background; person (or item) originating from ...; graduate of ...; native of ...; member of ... (lineage); architectural member that projects outward; highest point of the stern of a ship; amount (comprising something); amount of time or effort required to do something"
+        ],
+        [
+          "\u3057\u3085\u3064",
+          "coming out; emerging; being born into (a certain family); being a native of (a particular place)"
+        ]
+      ],
+      "example": {
+        "index": 141,
+        "parts": [
+          "\u3053\u3093\u306a\u3093",
+          "\u51fa",
+          "\u307e\u3057\u305f\u3051\u3069\uff1f"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
+        }
+      ],
+      "word": "\u51fa"
+    },
+    {
+      "definitions": [
+        [
           "\u3053\u305e\u3046",
           "youngster; young Buddhist priest; young shopboy; errand boy; apprentice"
         ]
@@ -10279,6 +10249,36 @@
         }
       ],
       "word": "\u6163\u308c"
+    },
+    {
+      "definitions": [
+        [
+          "\u307f\u308b",
+          "to see; to look; to watch; to view; to observe; to look over; to look on; to assess; to examine; to judge; to look after; to keep an eye on; to take care of; to view (e.g. flowers, movie); to try; to try out; to test; to see that...; to find that..."
+        ]
+      ],
+      "example": {
+        "index": 158,
+        "parts": [
+          "\u307f\u3093\u306a\u3000\u30aa\u30ec\u3092",
+          "\u898b\u308b",
+          "\u3068\u304d\u3084\n\u30aa\u30ec\u3092\u547c\u3076\u3068\u304d\u2192"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
+        }
+      ],
+      "word": "\u898b\u308b"
     },
     {
       "definitions": [

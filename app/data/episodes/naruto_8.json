@@ -1074,6 +1074,11 @@
       "known": false,
       "tags": [
         {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
           "desc": "Appears in JLTP level 4 list",
           "kind": "jlpt-4",
           "tag": "jlpt-4"
@@ -2202,6 +2207,11 @@
       "known": false,
       "tags": [
         {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
           "desc": "Appears in JLTP level 4 list",
           "kind": "jlpt-4",
           "tag": "jlpt-4"
@@ -2672,11 +2682,6 @@
       },
       "known": false,
       "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
         {
           "desc": "Among the JLPT-like Anime 4 list",
           "kind": "anime-4",
@@ -4890,11 +4895,6 @@
       "known": false,
       "tags": [
         {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
-        {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
           "tag": "anime-5"
@@ -4955,9 +4955,9 @@
       "known": true,
       "tags": [
         {
-          "desc": "Learnt in Episode 6",
+          "desc": "Learnt in Episode 4",
           "kind": "episode",
-          "tag": "episode-6"
+          "tag": "episode-4"
         },
         {
           "desc": "Appears in JLTP level 4 list",
@@ -5089,6 +5089,36 @@
     }
   ],
   "important": [
+    {
+      "definitions": [
+        [
+          "\u3061\u3085\u3046\u3044",
+          "caution; being careful; attention (heed); warning; advice"
+        ]
+      ],
+      "example": {
+        "index": 36,
+        "parts": [
+          "\u3057\u3083\u3079\u3089\u305b\u308b\u3053\u3068\u3067\n\u30aa\u30ec\u306e\u3000",
+          "\u6ce8\u610f",
+          "\u3092\u5b8c\u5168\u306b\u2192"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u6ce8\u610f"
+    },
     {
       "definitions": [
         [
@@ -5357,6 +5387,36 @@
     {
       "definitions": [
         [
+          "\u304a\u304f\u308c\u308b",
+          "to be late; to be delayed; to fall behind schedule; to be overdue"
+        ]
+      ],
+      "example": {
+        "index": 91,
+        "parts": [
+          "",
+          "\u9045\u304b\u308c",
+          "\u3000\u65e9\u304b\u308c\u3000\u518d\u4e0d\u65ac\u306b\n\u3084\u3089\u308c\u3066\u3000\u5168\u6ec5\u3060\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u9045\u308c\u308b"
+    },
+    {
+      "definitions": [
+        [
           "\u3075\u305b\u3050",
           "to defend (against); to protect; to prevent"
         ]
@@ -5383,45 +5443,6 @@
         }
       ],
       "word": "\u9632\u3050"
-    },
-    {
-      "definitions": [
-        [
-          "\u3075\u305f\u305f\u3073",
-          "again; once more; a second time"
-        ],
-        [
-          "\u306b\u3069",
-          "two times; twice; two degrees"
-        ]
-      ],
-      "example": {
-        "index": 111,
-        "parts": [
-          "\u30aa\u30ec\u3063\u3066\u3070\u3000\u3082\u3046",
-          "\u4e8c\u5ea6",
-          "\u3068\n\u52a9\u3051\u3089\u308c\u308b\u3088\u3046\u306a\u3000\u30de\u30cd\u306f\u3057\u306d\u3048\u3002"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 4 list",
-          "kind": "anime-4",
-          "tag": "anime-4"
-        },
-        {
-          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
-          "kind": "jlpt-5",
-          "tag": "~jlpt-5"
-        }
-      ],
-      "word": "\u4e8c\u5ea6"
     },
     {
       "definitions": [
@@ -5673,41 +5694,6 @@
         }
       ],
       "word": "\u7121\u7406"
-    },
-    {
-      "definitions": [
-        [
-          "\u3051\u3093",
-          "sword (originally esp. a doubled-edged sword); sabre; saber; blade; bayonet; swordsmanship; stinger; ovipositor; dart"
-        ]
-      ],
-      "example": {
-        "index": 220,
-        "parts": [
-          "\u98a8\u9b54\u624b\u88cf",
-          "\u5263",
-          "\u3000\u5f71\u98a8\u8eca\u3002"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        },
-        {
-          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
-          "kind": "jlpt-3",
-          "tag": "~jlpt-3"
-        }
-      ],
-      "word": "\u5263"
     },
     {
       "definitions": [
@@ -8050,9 +8036,9 @@
       "known": true,
       "tags": [
         {
-          "desc": "Learnt in Episode 6",
+          "desc": "Learnt in Episode 4",
           "kind": "episode",
-          "tag": "episode-6"
+          "tag": "episode-4"
         },
         {
           "desc": "Appears in JLTP level 4 list",
@@ -8258,31 +8244,6 @@
         }
       ],
       "word": "\u5408\u3044"
-    },
-    {
-      "definitions": [
-        [
-          "\u3061\u3085\u3046\u3044",
-          "caution; being careful; attention (heed); warning; advice"
-        ]
-      ],
-      "example": {
-        "index": 36,
-        "parts": [
-          "\u3057\u3083\u3079\u3089\u305b\u308b\u3053\u3068\u3067\n\u30aa\u30ec\u306e\u3000",
-          "\u6ce8\u610f",
-          "\u3092\u5b8c\u5168\u306b\u2192"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u6ce8\u610f"
     },
     {
       "definitions": [
@@ -8764,31 +8725,6 @@
     {
       "definitions": [
         [
-          "\u304a\u304f\u308c\u308b",
-          "to be late; to be delayed; to fall behind schedule; to be overdue"
-        ]
-      ],
-      "example": {
-        "index": 91,
-        "parts": [
-          "",
-          "\u9045\u304b\u308c",
-          "\u3000\u65e9\u304b\u308c\u3000\u518d\u4e0d\u65ac\u306b\n\u3084\u3089\u308c\u3066\u3000\u5168\u6ec5\u3060\u3002"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u9045\u308c\u308b"
-    },
-    {
-      "definitions": [
-        [
           "\u3055\u3044",
           "re-; again; repeated; deutero-; deuto-; deuter-"
         ]
@@ -9069,6 +9005,40 @@
         }
       ],
       "word": "\u8a93\u3046"
+    },
+    {
+      "definitions": [
+        [
+          "\u3075\u305f\u305f\u3073",
+          "again; once more; a second time"
+        ],
+        [
+          "\u306b\u3069",
+          "two times; twice; two degrees"
+        ]
+      ],
+      "example": {
+        "index": 111,
+        "parts": [
+          "\u30aa\u30ec\u3063\u3066\u3070\u3000\u3082\u3046",
+          "\u4e8c\u5ea6",
+          "\u3068\n\u52a9\u3051\u3089\u308c\u308b\u3088\u3046\u306a\u3000\u30de\u30cd\u306f\u3057\u306d\u3048\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Among the JLPT-like Anime 4 list",
+          "kind": "anime-4",
+          "tag": "anime-4"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
+        }
+      ],
+      "word": "\u4e8c\u5ea6"
     },
     {
       "definitions": [
@@ -10124,6 +10094,36 @@
         }
       ],
       "word": "\u4e0a\u51fa\u6765"
+    },
+    {
+      "definitions": [
+        [
+          "\u3051\u3093",
+          "sword (originally esp. a doubled-edged sword); sabre; saber; blade; bayonet; swordsmanship; stinger; ovipositor; dart"
+        ]
+      ],
+      "example": {
+        "index": 220,
+        "parts": [
+          "\u98a8\u9b54\u624b\u88cf",
+          "\u5263",
+          "\u3000\u5f71\u98a8\u8eca\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 3 Kanji",
+          "kind": "jlpt-3",
+          "tag": "~jlpt-3"
+        }
+      ],
+      "word": "\u5263"
     },
     {
       "definitions": [

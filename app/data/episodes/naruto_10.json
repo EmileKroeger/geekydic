@@ -120,6 +120,11 @@
       "known": false,
       "tags": [
         {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
           "desc": "Appears in JLTP level 4 list",
           "kind": "jlpt-4",
           "tag": "jlpt-4"
@@ -1619,6 +1624,11 @@
       "known": false,
       "tags": [
         {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
           "desc": "Appears in JLTP level 4 list",
           "kind": "jlpt-4",
           "tag": "jlpt-4"
@@ -2170,6 +2180,11 @@
       },
       "known": false,
       "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
         {
           "desc": "Appears in JLTP level 4 list",
           "kind": "jlpt-4",
@@ -3104,11 +3119,6 @@
       },
       "known": false,
       "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
         {
           "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
           "kind": "jlpt-5",
@@ -5091,11 +5101,6 @@
       "known": false,
       "tags": [
         {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
-        {
           "desc": "Appears in JLTP level 3 list",
           "kind": "jlpt-3",
           "tag": "jlpt-3"
@@ -5720,11 +5725,6 @@
       },
       "known": false,
       "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
         {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
@@ -7592,9 +7592,9 @@
       "known": true,
       "tags": [
         {
-          "desc": "Learnt in Episode 8",
+          "desc": "Learnt in Episode 6",
           "kind": "episode",
-          "tag": "episode-8"
+          "tag": "episode-6"
         },
         {
           "desc": "Appears in JLTP level 4 list",
@@ -8213,6 +8213,48 @@
     {
       "definitions": [
         [
+          "\u3064\u307e",
+          "wife; my dear; dear; honey; garnish (esp. one served with sashimi); embellishment"
+        ],
+        [
+          "\u304a\u3063\u3068",
+          "husband"
+        ],
+        [
+          "\u304a",
+          "male; man; husband"
+        ],
+        [
+          "\u305d",
+          "that; he; she; that person"
+        ]
+      ],
+      "example": {
+        "index": 4,
+        "parts": [
+          "\uff08\u30c4\u30ca\u30df\uff09\u5927\u4e08",
+          "\u592b",
+          "\u304b\u3044\u3000\u5148\u751f\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u592b"
+    },
+    {
+      "definitions": [
+        [
           "\u3046\u3054\u304b\u3059",
           "to move; to shift; to stir; to budge; to change position; to inspire; to rouse; to move (e.g. feeling); to influence; to change; to alter; to deny; to operate; to set in motion; to get going; to mobilize (e.g. troops); to mobilise; to deploy; to manage (e.g. funds)"
         ]
@@ -8279,6 +8321,36 @@
         }
       ],
       "word": "\u751f\u304d"
+    },
+    {
+      "definitions": [
+        [
+          "\u3061",
+          "blood; consanguinity"
+        ]
+      ],
+      "example": {
+        "index": 66,
+        "parts": [
+          "\uff08\u767d\uff09\u307e\u305a\u306f\u53e3\u5e03\u3092\u5207\u3063\u3066\n",
+          "\u8840",
+          "\u3092\u5410\u304b\u305b\u3066\u304b\u3089\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u8840"
     },
     {
       "definitions": [
@@ -8441,6 +8513,36 @@
     {
       "definitions": [
         [
+          "\u3057\u304b\u305f",
+          "way; method; means; resource; course"
+        ]
+      ],
+      "example": {
+        "index": 92,
+        "parts": [
+          "",
+          "\u4ed5\u65b9",
+          "\u3042\u308a\u307e\u305b\u3093\u3088\u3002\n\u518d\u4e0d\u65ac\u3055\u3093\u306e\u3000\u7dba\u9e97\u306a\u4f53\u306b\u306f\u2192"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u4ed5\u65b9"
+    },
+    {
+      "definitions": [
+        [
           "\u3053\u308d\u3057",
           "murder; killing; murderer"
         ]
@@ -8537,31 +8639,6 @@
         }
       ],
       "word": "\u6b66\u5668"
-    },
-    {
-      "definitions": [],
-      "example": {
-        "index": 134,
-        "parts": [
-          "\uff08\u30b5\u30b9\u30b1\uff09\u305f\u3060\u306e",
-          "\u5343\u672c",
-          "\u2026\u3000\u307e\u3055\u304b\uff01"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
-        {
-          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
-          "kind": "jlpt-5",
-          "tag": "~jlpt-5"
-        }
-      ],
-      "word": "\u5343\u672c"
     },
     {
       "definitions": [
@@ -8671,36 +8748,6 @@
     {
       "definitions": [
         [
-          "\u304b\u3089\u3060",
-          "body; torso; trunk; build; physique; constitution; health; corpse; dead body"
-        ]
-      ],
-      "example": {
-        "index": 219,
-        "parts": [
-          "\u304b\u304d\u96c6\u3081\u3066\u751f\u307f\u51fa\u3059\u3000",
-          "\u8eab\u4f53",
-          "\u30a8\u30cd\u30eb\u30ae\u30fc\u3068\u3002"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        }
-      ],
-      "word": "\u8eab\u4f53"
-    },
-    {
-      "definitions": [
-        [
           "\u305b\u3044\u3057\u3093",
           "mind; soul; heart; spirit; intention"
         ]
@@ -8727,45 +8774,6 @@
         }
       ],
       "word": "\u7cbe\u795e"
-    },
-    {
-      "definitions": [
-        [
-          "\u3066\u304d",
-          "-like; typical"
-        ],
-        [
-          "\u307e\u3068",
-          "mark; target"
-        ]
-      ],
-      "example": {
-        "index": 246,
-        "parts": [
-          "\uff08\u30ab\u30ab\u30b7\uff09\u4eca\u306e\u30aa\u30de\u30a8\u3089\u306f\u3000\u30c1\u30e3\u30af\u30e9\u3092\n\u52b9\u679c",
-          "\u7684",
-          "\u306b\u4f7f\u3048\u3066\u3044\u306a\u3044\uff01"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        },
-        {
-          "desc": "Appears in JLTP level 1 list",
-          "kind": "jlpt-1",
-          "tag": "jlpt-1"
-        }
-      ],
-      "word": "\u7684"
     },
     {
       "definitions": [
@@ -12536,9 +12544,9 @@
       "known": true,
       "tags": [
         {
-          "desc": "Learnt in Episode 8",
+          "desc": "Learnt in Episode 6",
           "kind": "episode",
-          "tag": "episode-8"
+          "tag": "episode-6"
         },
         {
           "desc": "Appears in JLTP level 4 list",
@@ -12743,43 +12751,6 @@
         }
       ],
       "word": "\u5927\u4e08"
-    },
-    {
-      "definitions": [
-        [
-          "\u3064\u307e",
-          "wife; my dear; dear; honey; garnish (esp. one served with sashimi); embellishment"
-        ],
-        [
-          "\u304a\u3063\u3068",
-          "husband"
-        ],
-        [
-          "\u304a",
-          "male; man; husband"
-        ],
-        [
-          "\u305d",
-          "that; he; she; that person"
-        ]
-      ],
-      "example": {
-        "index": 4,
-        "parts": [
-          "\uff08\u30c4\u30ca\u30df\uff09\u5927\u4e08",
-          "\u592b",
-          "\u304b\u3044\u3000\u5148\u751f\u3002"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u592b"
     },
     {
       "definitions": [
@@ -13336,31 +13307,6 @@
     {
       "definitions": [
         [
-          "\u3061",
-          "blood; consanguinity"
-        ]
-      ],
-      "example": {
-        "index": 66,
-        "parts": [
-          "\uff08\u767d\uff09\u307e\u305a\u306f\u53e3\u5e03\u3092\u5207\u3063\u3066\n",
-          "\u8840",
-          "\u3092\u5410\u304b\u305b\u3066\u304b\u3089\u3002"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u8840"
-    },
-    {
-      "definitions": [
-        [
           "\u3066\u3042\u3089",
           "violent; rough"
         ]
@@ -13471,31 +13417,6 @@
         }
       ],
       "word": "\u5c45"
-    },
-    {
-      "definitions": [
-        [
-          "\u3057\u304b\u305f",
-          "way; method; means; resource; course"
-        ]
-      ],
-      "example": {
-        "index": 92,
-        "parts": [
-          "",
-          "\u4ed5\u65b9",
-          "\u3042\u308a\u307e\u305b\u3093\u3088\u3002\n\u518d\u4e0d\u65ac\u3055\u3093\u306e\u3000\u7dba\u9e97\u306a\u4f53\u306b\u306f\u2192"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u4ed5\u65b9"
     },
     {
       "definitions": [
@@ -13804,6 +13725,26 @@
         }
       ],
       "word": "\u8a3c\u62e0"
+    },
+    {
+      "definitions": [],
+      "example": {
+        "index": 134,
+        "parts": [
+          "\uff08\u30b5\u30b9\u30b1\uff09\u305f\u3060\u306e",
+          "\u5343\u672c",
+          "\u2026\u3000\u307e\u3055\u304b\uff01"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
+        }
+      ],
+      "word": "\u5343\u672c"
     },
     {
       "definitions": [
@@ -14752,6 +14693,31 @@
     {
       "definitions": [
         [
+          "\u304b\u3089\u3060",
+          "body; torso; trunk; build; physique; constitution; health; corpse; dead body"
+        ]
+      ],
+      "example": {
+        "index": 219,
+        "parts": [
+          "\u304b\u304d\u96c6\u3081\u3066\u751f\u307f\u51fa\u3059\u3000",
+          "\u8eab\u4f53",
+          "\u30a8\u30cd\u30eb\u30ae\u30fc\u3068\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        }
+      ],
+      "word": "\u8eab\u4f53"
+    },
+    {
+      "definitions": [
+        [
           "\u304a\u304a\u304f",
           "many; much; largely; abundantly; mostly"
         ]
@@ -15052,6 +15018,40 @@
         }
       ],
       "word": "\u52b9\u679c"
+    },
+    {
+      "definitions": [
+        [
+          "\u3066\u304d",
+          "-like; typical"
+        ],
+        [
+          "\u307e\u3068",
+          "mark; target"
+        ]
+      ],
+      "example": {
+        "index": 246,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\u4eca\u306e\u30aa\u30de\u30a8\u3089\u306f\u3000\u30c1\u30e3\u30af\u30e9\u3092\n\u52b9\u679c",
+          "\u7684",
+          "\u306b\u4f7f\u3048\u3066\u3044\u306a\u3044\uff01"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        },
+        {
+          "desc": "Appears in JLTP level 1 list",
+          "kind": "jlpt-1",
+          "tag": "jlpt-1"
+        }
+      ],
+      "word": "\u7684"
     },
     {
       "definitions": [

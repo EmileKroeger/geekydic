@@ -1155,13 +1155,8 @@
           "\u3000\u79c1\u2026\u300b"
         ]
       },
-      "known": true,
+      "known": false,
       "tags": [
-        {
-          "desc": "Learnt in Episode 1",
-          "kind": "episode",
-          "tag": "episode-1"
-        },
         {
           "desc": "Among the JLPT-like Anime 5 list",
           "kind": "anime-5",
@@ -1774,6 +1769,11 @@
       "known": false,
       "tags": [
         {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
           "desc": "Appears in JLTP level 4 list",
           "kind": "jlpt-4",
           "tag": "jlpt-4"
@@ -2336,8 +2336,13 @@
           "\u2026\u3000\u6bba\u3059\u3053\u3068\u3060\uff01\uff01))"
         ]
       },
-      "known": false,
+      "known": true,
       "tags": [
+        {
+          "desc": "Learnt in Episode 3",
+          "kind": "episode",
+          "tag": "episode-3"
+        },
         {
           "desc": "Appears in JLTP level 4 list",
           "kind": "jlpt-4",
@@ -2956,6 +2961,11 @@
       },
       "known": false,
       "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
         {
           "desc": "Appears in JLTP level 4 list",
           "kind": "jlpt-4",
@@ -3717,11 +3727,6 @@
       "known": false,
       "tags": [
         {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
-        {
           "desc": "Appears in JLTP level 3 list",
           "kind": "jlpt-3",
           "tag": "jlpt-3"
@@ -4482,8 +4487,13 @@
           "\u306b\n\u3082\u3046\u4e00\u5ea6\u3060\u3051\u3000\u30c1\u30e3\u30f3\u30b9\u3092\u3084\u308b\u3002"
         ]
       },
-      "known": false,
+      "known": true,
       "tags": [
+        {
+          "desc": "Learnt in Episode 3",
+          "kind": "episode",
+          "tag": "episode-3"
+        },
         {
           "desc": "Appears in JLTP level 4 list",
           "kind": "jlpt-4",
@@ -4599,11 +4609,6 @@
       },
       "known": false,
       "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
         {
           "desc": "Appears in JLTP level 3 list",
           "kind": "jlpt-3",
@@ -5597,6 +5602,36 @@
     {
       "definitions": [
         [
+          "\u3053\u3093\u3069",
+          "now; this time; next time; another time"
+        ]
+      ],
+      "example": {
+        "index": 80,
+        "parts": [
+          "\u30ae\u30e3\uff5e\u30c3\uff01\u3000",
+          "\u4eca\u5ea6",
+          "\u306f\u3000\u751f\u9996\uff01\uff01"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u4eca\u5ea6"
+    },
+    {
+      "definitions": [
+        [
           "\u306d\u3089\u3046",
           "to aim at"
         ]
@@ -5856,6 +5891,36 @@
     {
       "definitions": [
         [
+          "\u3075\u3080",
+          "to step on; to tread on; to experience; to undergo; to estimate; to value; to appraise; to rhyme; to inherit (the throne, etc.); to follow (rules, morals, principles, etc.)"
+        ]
+      ],
+      "example": {
+        "index": 125,
+        "parts": [
+          "\u30b5\u30b9\u30b1\u541b\u3092",
+          "\u8e0f\u3080",
+          "\u306a\u3093\u3066\u3000\u30c0\u30e1\uff5e\u30c3\uff01\uff01"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u8e0f\u3080"
+    },
+    {
+      "definitions": [
+        [
           "\u3053\u305f\u3048",
           "answer; reply; response; solution"
         ]
@@ -5960,36 +6025,6 @@
     {
       "definitions": [
         [
-          "\u3053\u3058\u3093",
-          "individual; private person; personal; private"
-        ]
-      ],
-      "example": {
-        "index": 160,
-        "parts": [
-          "\u304a\u524d\u306f\u3000\uff12\u4eba\u3092\n\u8db3\u624b\u307e\u3068\u3044\u3060\u3068\u6c7a\u3081\u3064\u3051\u3000",
-          "\u500b\u4eba",
-          "\u30d7\u30ec\u30a4\u3002"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        }
-      ],
-      "word": "\u500b\u4eba"
-    },
-    {
-      "definitions": [
-        [
           "\u304d\u3056\u3080",
           "to mince; to cut fine; to chop up; to hash; to shred; to carve; to engrave; to chisel; to notch; to tick away (time); to record the passing moments; to etch (into one's mind); to remember distinctly; to have tattooed; to torment"
         ]
@@ -6051,36 +6086,6 @@
         }
       ],
       "word": "\u82f1\u96c4"
-    },
-    {
-      "definitions": [
-        [
-          "\u3084\u3076\u308b",
-          "to tear; to break; to destroy; to break through (opponent's defense etc.); to breach; to defeat; to beat; to shatter (dream, peace, etc.); to disturb; to violate (a rule etc.); to break (a promise etc.); to break (a record)"
-        ]
-      ],
-      "example": {
-        "index": 199,
-        "parts": [
-          "\uff08\u30ab\u30ab\u30b7\uff09\u30eb\u30fc\u30eb\u3092",
-          "\u7834\u3063",
-          "\u3066\n\u3072\u3068\u308a\u663c\u30e1\u30b7\u3092\u98df\u304a\u3046\u3068\u3057\u305f\u3000\u30d0\u30c4\u3060\u3002"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
-        {
-          "desc": "Appears in JLTP level 3 list",
-          "kind": "jlpt-3",
-          "tag": "jlpt-3"
-        }
-      ],
-      "word": "\u7834\u308b"
     },
     {
       "definitions": [
@@ -6790,41 +6795,6 @@
     {
       "definitions": [
         [
-          "\u307f\u308b",
-          "to see; to look; to watch; to view; to observe; to look over; to look on; to assess; to examine; to judge; to look after; to keep an eye on; to take care of; to view (e.g. flowers, movie); to try; to try out; to test; to see that...; to find that..."
-        ]
-      ],
-      "example": {
-        "index": 45,
-        "parts": [
-          "\u305d\u308c\u3092",
-          "\u898b\u3066",
-          "\u3000\u79c1\u2026\u300b"
-        ]
-      },
-      "known": true,
-      "tags": [
-        {
-          "desc": "Learnt in Episode 1",
-          "kind": "episode",
-          "tag": "episode-1"
-        },
-        {
-          "desc": "Among the JLPT-like Anime 5 list",
-          "kind": "anime-5",
-          "tag": "anime-5"
-        },
-        {
-          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
-          "kind": "jlpt-5",
-          "tag": "~jlpt-5"
-        }
-      ],
-      "word": "\u898b\u308b"
-    },
-    {
-      "definitions": [
-        [
           "\u3046\u3048",
           "above; up; over; elder (e.g. daughter); top; summit; surface; on; before; previous; superiority; one's superior (i.e. one's elder); on top of that; besides; what's more; upon (further inspection, etc.); based on (and occurring after); matters concerning...; as concerns ...; since (i.e. \"for that reason\"); suffix indicating higher social standing; place of one's superior (i.e. the throne); emperor; sovereign; shogun; daimyo; noblewoman (esp. the wife of a nobleman)"
         ],
@@ -7346,6 +7316,36 @@
         }
       ],
       "word": "\u8005"
+    },
+    {
+      "definitions": [
+        [
+          "\u304b\u306a\u3089\u305a",
+          "always; without exception; necessarily; certainly; without fail; positively; invariably"
+        ]
+      ],
+      "example": {
+        "index": 102,
+        "parts": [
+          "((\u3042\u308b\u7537\u3092",
+          "\u5fc5\u305a",
+          "\u2026\u3000\u6bba\u3059\u3053\u3068\u3060\uff01\uff01))"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 3",
+          "kind": "episode",
+          "tag": "episode-3"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u5fc5\u305a"
     },
     {
       "definitions": [
@@ -8119,6 +8119,36 @@
         }
       ],
       "word": "\u540d"
+    },
+    {
+      "definitions": [
+        [
+          "\u3055\u3044\u3054",
+          "last; end; conclusion; latest; most recent; no sooner than; right after (often having negative consequences); one's final moments"
+        ]
+      ],
+      "example": {
+        "index": 193,
+        "parts": [
+          "\u304a\u524d\u3089\uff01\u3000",
+          "\u6700\u5f8c",
+          "\u306b\n\u3082\u3046\u4e00\u5ea6\u3060\u3051\u3000\u30c1\u30e3\u30f3\u30b9\u3092\u3084\u308b\u3002"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 3",
+          "kind": "episode",
+          "tag": "episode-3"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u6700\u5f8c"
     },
     {
       "definitions": [
@@ -8934,6 +8964,36 @@
     {
       "definitions": [
         [
+          "\u307f\u308b",
+          "to see; to look; to watch; to view; to observe; to look over; to look on; to assess; to examine; to judge; to look after; to keep an eye on; to take care of; to view (e.g. flowers, movie); to try; to try out; to test; to see that...; to find that..."
+        ]
+      ],
+      "example": {
+        "index": 45,
+        "parts": [
+          "\u305d\u308c\u3092",
+          "\u898b\u3066",
+          "\u3000\u79c1\u2026\u300b"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Among the JLPT-like Anime 5 list",
+          "kind": "anime-5",
+          "tag": "anime-5"
+        },
+        {
+          "desc": "Not JLTP lists, but has JLPT level 5 Kanji",
+          "kind": "jlpt-5",
+          "tag": "~jlpt-5"
+        }
+      ],
+      "word": "\u898b\u308b"
+    },
+    {
+      "definitions": [
+        [
           "\u3046\u307e",
           "horse; promoted bishop"
         ]
@@ -9161,31 +9221,6 @@
     {
       "definitions": [
         [
-          "\u3053\u3093\u3069",
-          "now; this time; next time; another time"
-        ]
-      ],
-      "example": {
-        "index": 80,
-        "parts": [
-          "\u30ae\u30e3\uff5e\u30c3\uff01\u3000",
-          "\u4eca\u5ea6",
-          "\u306f\u3000\u751f\u9996\uff01\uff01"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u4eca\u5ea6"
-    },
-    {
-      "definitions": [
-        [
           "\u3076\u3058",
           "safety; peace; quietness"
         ]
@@ -9352,31 +9387,6 @@
         }
       ],
       "word": "\u5fa9\u8b90"
-    },
-    {
-      "definitions": [
-        [
-          "\u304b\u306a\u3089\u305a",
-          "always; without exception; necessarily; certainly; without fail; positively; invariably"
-        ]
-      ],
-      "example": {
-        "index": 102,
-        "parts": [
-          "((\u3042\u308b\u7537\u3092",
-          "\u5fc5\u305a",
-          "\u2026\u3000\u6bba\u3059\u3053\u3068\u3060\uff01\uff01))"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u5fc5\u305a"
     },
     {
       "definitions": [
@@ -9606,31 +9616,6 @@
         }
       ],
       "word": "\u8cc7\u683c"
-    },
-    {
-      "definitions": [
-        [
-          "\u3075\u3080",
-          "to step on; to tread on; to experience; to undergo; to estimate; to value; to appraise; to rhyme; to inherit (the throne, etc.); to follow (rules, morals, principles, etc.)"
-        ]
-      ],
-      "example": {
-        "index": 125,
-        "parts": [
-          "\u30b5\u30b9\u30b1\u541b\u3092",
-          "\u8e0f\u3080",
-          "\u306a\u3093\u3066\u3000\u30c0\u30e1\uff5e\u30c3\uff01\uff01"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u8e0f\u3080"
     },
     {
       "definitions": [
@@ -10040,6 +10025,31 @@
     {
       "definitions": [
         [
+          "\u3053\u3058\u3093",
+          "individual; private person; personal; private"
+        ]
+      ],
+      "example": {
+        "index": 160,
+        "parts": [
+          "\u304a\u524d\u306f\u3000\uff12\u4eba\u3092\n\u8db3\u624b\u307e\u3068\u3044\u3060\u3068\u6c7a\u3081\u3064\u3051\u3000",
+          "\u500b\u4eba",
+          "\u30d7\u30ec\u30a4\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        }
+      ],
+      "word": "\u500b\u4eba"
+    },
+    {
+      "definitions": [
+        [
           "\u304a\u3053\u306a\u3046",
           "to perform; to do; to conduct oneself; to carry out"
         ]
@@ -10406,31 +10416,6 @@
     {
       "definitions": [
         [
-          "\u3055\u3044\u3054",
-          "last; end; conclusion; latest; most recent; no sooner than; right after (often having negative consequences); one's final moments"
-        ]
-      ],
-      "example": {
-        "index": 193,
-        "parts": [
-          "\u304a\u524d\u3089\uff01\u3000",
-          "\u6700\u5f8c",
-          "\u306b\n\u3082\u3046\u4e00\u5ea6\u3060\u3051\u3000\u30c1\u30e3\u30f3\u30b9\u3092\u3084\u308b\u3002"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u6700\u5f8c"
-    },
-    {
-      "definitions": [
-        [
           "\u304b\u3053\u304f",
           "rigour; rigor; severity; cruelty; harsh"
         ]
@@ -10517,6 +10502,31 @@
         }
       ],
       "word": "\u6311\u6226"
+    },
+    {
+      "definitions": [
+        [
+          "\u3084\u3076\u308b",
+          "to tear; to break; to destroy; to break through (opponent's defense etc.); to breach; to defeat; to beat; to shatter (dream, peace, etc.); to disturb; to violate (a rule etc.); to break (a promise etc.); to break (a record)"
+        ]
+      ],
+      "example": {
+        "index": 199,
+        "parts": [
+          "\uff08\u30ab\u30ab\u30b7\uff09\u30eb\u30fc\u30eb\u3092",
+          "\u7834\u3063",
+          "\u3066\n\u3072\u3068\u308a\u663c\u30e1\u30b7\u3092\u98df\u304a\u3046\u3068\u3057\u305f\u3000\u30d0\u30c4\u3060\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Appears in JLTP level 3 list",
+          "kind": "jlpt-3",
+          "tag": "jlpt-3"
+        }
+      ],
+      "word": "\u7834\u308b"
     },
     {
       "definitions": [

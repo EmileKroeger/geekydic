@@ -178,6 +178,11 @@
       "known": false,
       "tags": [
         {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
           "desc": "Appears in JLTP level 4 list",
           "kind": "jlpt-4",
           "tag": "jlpt-4"
@@ -3502,8 +3507,13 @@
           "\u306e\u3042\u305f\u3089\u306a\u3044\n\u5ba4\u5185\u3067\u80b2\u3066\u3089\u308c\u305f\u2192"
         ]
       },
-      "known": false,
+      "known": true,
       "tags": [
+        {
+          "desc": "Learnt in Episode 1",
+          "kind": "episode",
+          "tag": "episode-1"
+        },
         {
           "desc": "Appears in JLTP level 4 list",
           "kind": "jlpt-4",
@@ -3841,12 +3851,12 @@
           "\u306f\u3053\u306e\u3000\u30aa\u30ec\u304c\u3084\u3063\u3066\u3084\u308b\u3002\n\u30b5\u30b9\u30b1\u306b\u3083\u3000\u8ca0\u3051\u306d\u3048\u305e\uff01\u226b"
         ]
       },
-      "known": false,
+      "known": true,
       "tags": [
         {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
+          "desc": "Learnt in Episode 4",
+          "kind": "episode",
+          "tag": "episode-4"
         },
         {
           "desc": "Appears in JLTP level 4 list",
@@ -6005,6 +6015,40 @@
     {
       "definitions": [
         [
+          "\u307f\u3048\u308b",
+          "to be seen; to be in sight; to look; to seem; to appear; to come"
+        ],
+        [
+          "\u307e\u307f\u3048\u308b",
+          "to have an audience; to meet; to see; to face (an enemy); to confront; to serve (esp. as one's wife)"
+        ]
+      ],
+      "example": {
+        "index": 6,
+        "parts": [
+          "\uff08\u8239\u982d\uff09\u305d\u308d\u305d\u308d\u6a4b\u304c",
+          "\u898b\u3048\u308b",
+          "\u3002"
+        ]
+      },
+      "known": false,
+      "tags": [
+        {
+          "desc": "Vocabulary to learn for this Episode!",
+          "kind": "important",
+          "tag": "to learn"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u898b\u3048\u308b"
+    },
+    {
+      "definitions": [
+        [
           "\u304d\u308a",
           "fog; mist; spray"
         ]
@@ -6299,36 +6343,6 @@
         }
       ],
       "word": "\u6765"
-    },
-    {
-      "definitions": [
-        [
-          "\u3053\u3093\u3069",
-          "now; this time; next time; another time"
-        ]
-      ],
-      "example": {
-        "index": 166,
-        "parts": [
-          "",
-          "\u4eca\u5ea6",
-          "\u306f\u3053\u306e\u3000\u30aa\u30ec\u304c\u3084\u3063\u3066\u3084\u308b\u3002\n\u30b5\u30b9\u30b1\u306b\u3083\u3000\u8ca0\u3051\u306d\u3048\u305e\uff01\u226b"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Vocabulary to learn for this Episode!",
-          "kind": "important",
-          "tag": "to learn"
-        },
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u4eca\u5ea6"
     },
     {
       "definitions": [
@@ -8402,6 +8416,44 @@
     {
       "definitions": [
         [
+          "\u3072",
+          "day; days; sun; sunshine; sunlight; case (esp. unfortunate); event"
+        ],
+        [
+          "\u306b\u3061",
+          "Sunday; day (of the month); counter for days; Japan"
+        ],
+        [
+          "\u304b",
+          "day of month; counter for days"
+        ]
+      ],
+      "example": {
+        "index": 149,
+        "parts": [
+          "\u3042\u308c\u306f\u3000",
+          "\u65e5",
+          "\u306e\u3042\u305f\u3089\u306a\u3044\n\u5ba4\u5185\u3067\u80b2\u3066\u3089\u308c\u305f\u2192"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 1",
+          "kind": "episode",
+          "tag": "episode-1"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u65e5"
+    },
+    {
+      "definitions": [
+        [
           "\u3056\u3093",
           "beheading; decapitation"
         ]
@@ -8523,6 +8575,36 @@
         }
       ],
       "word": "\u78ba\u304b"
+    },
+    {
+      "definitions": [
+        [
+          "\u3053\u3093\u3069",
+          "now; this time; next time; another time"
+        ]
+      ],
+      "example": {
+        "index": 166,
+        "parts": [
+          "",
+          "\u4eca\u5ea6",
+          "\u306f\u3053\u306e\u3000\u30aa\u30ec\u304c\u3084\u3063\u3066\u3084\u308b\u3002\n\u30b5\u30b9\u30b1\u306b\u3083\u3000\u8ca0\u3051\u306d\u3048\u305e\uff01\u226b"
+        ]
+      },
+      "known": true,
+      "tags": [
+        {
+          "desc": "Learnt in Episode 4",
+          "kind": "episode",
+          "tag": "episode-4"
+        },
+        {
+          "desc": "Appears in JLTP level 4 list",
+          "kind": "jlpt-4",
+          "tag": "jlpt-4"
+        }
+      ],
+      "word": "\u4eca\u5ea6"
     },
     {
       "definitions": [
@@ -9292,35 +9374,6 @@
         }
       ],
       "word": "\u898b\u3048"
-    },
-    {
-      "definitions": [
-        [
-          "\u307f\u3048\u308b",
-          "to be seen; to be in sight; to look; to seem; to appear; to come"
-        ],
-        [
-          "\u307e\u307f\u3048\u308b",
-          "to have an audience; to meet; to see; to face (an enemy); to confront; to serve (esp. as one's wife)"
-        ]
-      ],
-      "example": {
-        "index": 6,
-        "parts": [
-          "\uff08\u8239\u982d\uff09\u305d\u308d\u305d\u308d\u6a4b\u304c",
-          "\u898b\u3048\u308b",
-          "\u3002"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u898b\u3048\u308b"
     },
     {
       "definitions": [
@@ -10769,39 +10822,6 @@
         }
       ],
       "word": "\u8ab0\u304b"
-    },
-    {
-      "definitions": [
-        [
-          "\u3072",
-          "day; days; sun; sunshine; sunlight; case (esp. unfortunate); event"
-        ],
-        [
-          "\u306b\u3061",
-          "Sunday; day (of the month); counter for days; Japan"
-        ],
-        [
-          "\u304b",
-          "day of month; counter for days"
-        ]
-      ],
-      "example": {
-        "index": 149,
-        "parts": [
-          "\u3042\u308c\u306f\u3000",
-          "\u65e5",
-          "\u306e\u3042\u305f\u3089\u306a\u3044\n\u5ba4\u5185\u3067\u80b2\u3066\u3089\u308c\u305f\u2192"
-        ]
-      },
-      "known": false,
-      "tags": [
-        {
-          "desc": "Appears in JLTP level 4 list",
-          "kind": "jlpt-4",
-          "tag": "jlpt-4"
-        }
-      ],
-      "word": "\u65e5"
     },
     {
       "definitions": [
