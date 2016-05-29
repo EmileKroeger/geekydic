@@ -1,52 +1,52 @@
 {
   "0": {
     "known": 59,
-    "other": 185,
-    "tolearn": 20
+    "other": 125,
+    "tolearn": 80
   },
   "1": {
-    "known": 62,
-    "other": 172,
-    "tolearn": 20
+    "known": 71,
+    "other": 145,
+    "tolearn": 38
   },
   "2": {
-    "known": 57,
-    "other": 128,
-    "tolearn": 20
+    "known": 72,
+    "other": 101,
+    "tolearn": 32
   },
   "3": {
-    "known": 86,
-    "other": 168,
-    "tolearn": 20
+    "known": 95,
+    "other": 152,
+    "tolearn": 27
   },
   "4": {
-    "known": 82,
-    "other": 131,
-    "tolearn": 20
+    "known": 91,
+    "other": 116,
+    "tolearn": 26
   },
   "5": {
-    "known": 82,
-    "other": 195,
-    "tolearn": 20
+    "known": 96,
+    "other": 175,
+    "tolearn": 26
   },
   "6": {
-    "known": 85,
-    "other": 173,
+    "known": 95,
+    "other": 163,
     "tolearn": 20
   },
   "7": {
-    "known": 78,
-    "other": 134,
+    "known": 86,
+    "other": 126,
     "tolearn": 20
   },
   "8": {
-    "known": 69,
-    "other": 82,
+    "known": 75,
+    "other": 76,
     "tolearn": 20
   },
   "9": {
-    "known": 125,
-    "other": 217,
-    "tolearn": 20
+    "known": 147,
+    "other": 190,
+    "tolearn": 25
   }
 }
