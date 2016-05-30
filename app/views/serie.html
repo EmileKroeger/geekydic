@@ -11,16 +11,16 @@
 
 <table class="statstable">
   <tr>
-    <td ng-repeat="(ep, stats) in learningStats">
+    <td ng-repeat="ep in statEpisodes">
       {{ep}}
     </td>
   </tr>
   <tr>
-    <td ng-repeat="(ep, stats) in learningStats">
+    <td ng-repeat="ep in statEpisodes">
       <div ng-repeat="key in ['known', 'tolearn', 'other']"
         ng-class="'stat-' + key" class="learningstat"
-        ng-style="{height: stats[key]}">
-        {{stats[key]}} words
+        ng-style="{height: learningStats[ep][key]}">
+        {{learningStats[ep][key]}} words
       </div>
     </td>
   </tr>
@@ -30,19 +30,20 @@
 
 <table class="statstable">
   <tr>
-    <td ng-repeat="(ep, stats) in jlptLearningStats">
+    <th ng-repeat="ep in statEpisodes">
       {{ep}}
-    </td>
+    </th>
   </tr>
   <tr>
-    <td ng-repeat="(ep, stats) in jlptLearningStats">
+    <td ng-repeat="ep in statEpisodes">
       <div ng-repeat="jlpt in [5, 4, 3, 2, 1, 0]">
+          <!--
         {{jlpt}}
+            -->
         <span ng-repeat="key in ['known', 'tolearn', 'other']"
           ng-class="'stat-' + key" class="learningstat"
-          style="display: inline-block;"
-          ng-style="{width: stats[jlpt][key], height: '20px'}">
-          
+          style="display: inline-block; height: 20px;"
+          ng-style="{width: jlptLearningStats[ep][jlpt][key]}">
           <!--
           {{stats[jlpt][key]}}
             -->
