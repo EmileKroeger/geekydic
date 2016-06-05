@@ -3,12 +3,12 @@
 </div>
 
 <div class="episodename">
-  <a href="#/{{source}}/stats">{{source}}</a>, Season 1
+  <a href="#/guide/{{source}}">{{source}}</a>, Season 1
 </div>
 <div>
   <span ng-repeat="other in episodes">
     <span ng-if="other!=episode">
-      <a href="#/{{source}}/episode/{{other}}">
+      <a href="#/guide/{{source}}/episode/{{other}}">
       [{{other}}]
       </a>
     </span>
@@ -29,14 +29,14 @@
 
 <div>
 <a class = "episodewordsbutton summary"
-  href="#/{{source}}/episode/{{episode}}/"
+  href="#/guide/{{source}}/episode/{{episode}}/"
   style="color:white"
   >
   Summary
 </a>
 <a ng-repeat="vocDomain in vocDomains"
   class = "episodewordsbutton" ng-class="[vocDomain.key]"
-  href="#/{{source}}/episode/{{episode}}/{{vocDomain.key}}"
+  href="#/guide/{{source}}/episode/{{episode}}/{{vocDomain.key}}"
   style="color:white">
     {{vocDomain.title}}
     <div class="sublabel">{{vocabularyLists[vocDomain.key].length}} words</div>

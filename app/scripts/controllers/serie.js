@@ -16,7 +16,6 @@ angular.module('geekydicApp')
           return a - b;
       }
       $scope.source = $routeParams.source;
-      $scope.episode = parseInt($routeParams.episode);
       $scope.episodes = sSeriesIndex.episodes[$scope.source];
       sEpisodeData.getJlptLearningStats($scope.source, function(jlptLearningStats) {
         $scope.jlptLearningStats = jlptLearningStats;

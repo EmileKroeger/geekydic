@@ -12,9 +12,9 @@
 <div>Cheat sheets per episode:</div>
 <ul>
   <li ng-repeat="serie in series">
-    <a href="#/{{serie}}/stats">{{serie}}</a>:
+    <a href="#/guide/{{serie}}">{{serie}}</a>:
     <span ng-repeat="episode in episodes[serie]">
-     <a href="#/{{serie}}/episode/{{episode}}">[{{episode}}]</a>, 
+     <a href="#/guide/{{serie}}/episode/{{episode}}">[{{episode}}]</a>, 
    </span>
   </li>
 </ul>

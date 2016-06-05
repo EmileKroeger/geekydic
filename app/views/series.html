@@ -1,0 +1,25 @@
+<div><a href="/">Home</a></div>
+
+<h1>{{source}}, Season 1</h1>
+
+<table class="statstable">
+  <tr>
+    <th>#</th>
+    <th>
+      Title
+    </th>
+    <th>
+      New words
+    </th>
+  </tr>
+  <tr ng-repeat="ep in episodes" href="#/guide/{{source}}/episode/{{ep}}"
+    ng-click="goToEpisode(ep)">
+    <th>
+      #{{ep}}
+    </th>
+    <th>
+      <h1>{{episodeInfo[ep].KanjiTitle}}</h1>
+      <div>{{episodeInfo[ep].EnglishTitle}}</div>
+    </th>
+  </tr>
+</table>
