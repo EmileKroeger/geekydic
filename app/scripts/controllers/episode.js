@@ -19,7 +19,14 @@ angular.module('geekydicApp')
         callback(episodesInfo[episode]);
       });
     };
+    this.getAllInfo = function(source, callback) {
+      var dataFile = 'data/episodes/' + source + '_summaries.json';
+      sDataCache.get(dataFile, function(episodesInfo) {
+        callback(episodesInfo);
+      });
+    };
     this.getLearningStats = function(source, callback) {
+      // Not used any more
       var dataFile = 'data/episodes/' + source + '_learning.json';
       sDataCache.get(dataFile, function(learningStats) {
         callback(learningStats);

@@ -383,6 +383,10 @@ body, table, td, th {
   margin: 3px;
 }
 
+.statstable th{
+  min-width: 80px;
+}
+
 
 .learningstat {
   color: white;

@@ -18,11 +18,7 @@ angular.module('geekydicApp')
       $scope.source = $routeParams.source;
       $scope.episode = parseInt($routeParams.episode);
       $scope.episodes = sSeriesIndex.episodes[$scope.source];
-      sEpisodeData.getLearningStats($scope.source, function(learningStats) {
-        $scope.learningStats = learningStats;
-      });
       sEpisodeData.getJlptLearningStats($scope.source, function(jlptLearningStats) {
-        console.debug(jlptLearningStats);
         $scope.jlptLearningStats = jlptLearningStats;
         // Get keys sorted as int
         $scope.statEpisodes = [];
@@ -30,5 +26,8 @@ angular.module('geekydicApp')
           $scope.statEpisodes.push(parseInt(key));
         });
         $scope.statEpisodes.sort(compareNumbers);
+      });
+      sEpisodeData.getAllInfo($scope.source, function(episodeInfo) {
+        $scope.episodeInfo = episodeInfo;
       });
     });

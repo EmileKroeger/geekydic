@@ -73,5 +73,105 @@
     "known": 133,
     "other": 98,
     "tolearn": 31
+  },
+  "16": {
+    "known": 107,
+    "other": 53,
+    "tolearn": 23
+  },
+  "17": {
+    "known": 149,
+    "other": 93,
+    "tolearn": 37
+  },
+  "18": {
+    "known": 141,
+    "other": 42,
+    "tolearn": 23
+  },
+  "19": {
+    "known": 125,
+    "other": 63,
+    "tolearn": 26
+  },
+  "20": {
+    "known": 101,
+    "other": 58,
+    "tolearn": 25
+  },
+  "21": {
+    "known": 171,
+    "other": 106,
+    "tolearn": 40
+  },
+  "22": {
+    "known": 123,
+    "other": 71,
+    "tolearn": 24
+  },
+  "23": {
+    "known": 143,
+    "other": 101,
+    "tolearn": 34
+  },
+  "24": {
+    "known": 151,
+    "other": 107,
+    "tolearn": 40
+  },
+  "25": {
+    "known": 167,
+    "other": 133,
+    "tolearn": 35
+  },
+  "26": {
+    "known": 196,
+    "other": 93,
+    "tolearn": 23
+  },
+  "27": {
+    "known": 158,
+    "other": 113,
+    "tolearn": 38
+  },
+  "28": {
+    "known": 139,
+    "other": 40,
+    "tolearn": 23
+  },
+  "29": {
+    "known": 154,
+    "other": 36,
+    "tolearn": 21
+  },
+  "30": {
+    "known": 135,
+    "other": 71,
+    "tolearn": 24
+  },
+  "31": {
+    "known": 178,
+    "other": 82,
+    "tolearn": 20
+  },
+  "32": {
+    "known": 116,
+    "other": 48,
+    "tolearn": 21
+  },
+  "33": {
+    "known": 130,
+    "other": 65,
+    "tolearn": 21
+  },
+  "34": {
+    "known": 175,
+    "other": 95,
+    "tolearn": 23
+  },
+  "35": {
+    "known": 163,
+    "other": 103,
+    "tolearn": 21
   }
 }
