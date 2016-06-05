@@ -404,7 +404,30 @@ body, table, td, th {
   background-color: grey;
 }
 
-
 .statstable td {
   vertical-align: top;
 } 
+
+/*
+ * Series table in series index
+ */
+
+.seriestable {
+  cursor: pointer;
+  text-align: center;
+}
+
+.seriestable tr:nth-child(odd) {
+  background-color: #eef;
+}
+
+.seriestable tr:hover {
+  background-color: #ccf;
+}
+
+.seriestable .tolearn {
+  background-color: #0d0;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 3px;
+}

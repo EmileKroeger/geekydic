@@ -18,4 +18,7 @@ function ($scope, $routeParams, $location, sEpisodeData, sSeriesIndex) {
   $scope.goToEpisode = function(ep) {
     $location.path('/guide/' + $scope.source + '/episode/' + ep);
   };
+  sEpisodeData.getLearningStats($scope.source, function(learningStats) {
+    $scope.learningStats = learningStats;
+  });
 });
