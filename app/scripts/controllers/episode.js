@@ -71,4 +71,18 @@ angular.module('geekydicApp')
     sEpisodeData.getInfo($scope.source, $scope.episode, function(info) {
       $scope.episodeInfo = info;
     });
+    $scope.totals = {};
+    sEpisodeData.getJlptLearningStats($scope.source, function(jlptLearningStats) {
+      $scope.jlptLearningStats = jlptLearningStats[$scope.episode];
+      for (var jlpt=0; jlpt < 5; jlpt++) {
+        var counts = $scope.jlptLearningStats[jlpt];
+        $scope.totals[jlpt] = 0;
+        ['known', 'tolearn', 'other'].forEach(function(cat) {
+          if (counts[cat]) {
+            $scope.totals[jlpt] += counts[cat];
+          }
+        })
+      }
+    });
+    
   });

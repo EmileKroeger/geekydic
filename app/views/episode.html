@@ -14,3 +14,15 @@
     </td>
   </tr>
 </table>
+
+<h2>Stats</h2>
+Note that words occuring twice count as two instances.
+
+<div ng-repeat="jlpt in [5, 4, 3, 2, 1, 0]">
+
+  <h3>JLPT N{{jlpt}}: {{totals[jlpt]}} word instances</h3>
+  <span ng-repeat="key in ['known', 'tolearn', 'other']"
+    ng-class="'stat-' + key" class="learningstat"
+    style="display: inline-block; height: 20px;"
+    ng-style="{width: jlptLearningStats[jlpt][key]}">
+  </span>
