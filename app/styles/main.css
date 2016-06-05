@@ -412,20 +412,26 @@ body, table, td, th {
  * Series table in series index
  */
 
-.seriestable {
+.seriestitle {
+  color: darkblue;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.seriesline {
   cursor: pointer;
   text-align: center;
 }
 
-.seriestable tr:nth-child(odd) {
+tr.seriesline:nth-child(even) {
   background-color: #eef;
 }
 
-.seriestable tr:hover {
+tr.seriesline:hover {
   background-color: #ccf;
 }
 
-.seriestable .tolearn {
+.seriesline .tolearn {
   background-color: #0d0;
   border-radius: 10px;
   padding: 10px;
